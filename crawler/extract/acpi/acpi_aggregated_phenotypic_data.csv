@@ -1,0 +1,159 @@
+ID,DATASET,SESSION,AGE_AT_SCAN_1,SEX,HANDEDNESS,RESTING_STATE_INSTRUCTION,VISUAL_STIMULATION_CONDITION,BMI,TIME_OF_DAY,SEASON,LMP
+28031,MTA_1,1,26.5,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28032,MTA_1,1,26.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28033,MTA_1,1,26.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28034,MTA_1,1,25.25,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28035,MTA_1,1,26.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28036,MTA_1,1,25.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28037,MTA_1,1,25.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28038,MTA_1,1,25.17,1,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28039,MTA_1,1,25.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28040,MTA_1,1,24.5,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28041,MTA_1,1,25.67,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28042,MTA_1,1,24.92,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28043,MTA_1,1,23.58,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28044,MTA_1,1,24,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28045,MTA_1,1,22.92,1,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28046,MTA_1,1,24.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28047,MTA_1,1,24.25,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28048,MTA_1,1,23.5,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28049,MTA_1,1,24.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28050,MTA_1,1,24,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28051,MTA_1,1,23.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28052,MTA_1,1,22.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28053,MTA_1,1,22.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28054,MTA_1,1,21.92,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28055,MTA_1,1,27.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28056,MTA_1,1,27.67,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28057,MTA_1,1,26.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28058,MTA_1,1,26.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28059,MTA_1,1,26.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28060,MTA_1,1,25.42,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28061,MTA_1,1,26.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28062,MTA_1,1,24.92,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28063,MTA_1,1,26.17,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28064,MTA_1,1,24.83,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28065,MTA_1,1,24.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28066,MTA_1,1,25.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28067,MTA_1,1,24.67,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28068,MTA_1,1,24.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28069,MTA_1,1,24.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28070,MTA_1,1,24,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28071,MTA_1,1,23.75,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28072,MTA_1,1,24.58,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28073,MTA_1,1,23.5,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28074,MTA_1,1,25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28075,MTA_1,1,23.58,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28076,MTA_1,1,22.75,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28077,MTA_1,1,23.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28078,MTA_1,1,21.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28079,MTA_1,1,25.67,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28080,MTA_1,1,26.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28081,MTA_1,1,25.92,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28082,MTA_1,1,25.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28083,MTA_1,1,25.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28084,MTA_1,1,25.25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28085,MTA_1,1,24.58,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28086,MTA_1,1,24.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28087,MTA_1,1,24.33,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28088,MTA_1,1,24.42,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28089,MTA_1,1,24.5,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28090,MTA_1,1,23.92,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28091,MTA_1,1,24.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28092,MTA_1,1,24.67,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28093,MTA_1,1,23.25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28094,MTA_1,1,24.17,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28095,MTA_1,1,23.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28096,MTA_1,1,23.58,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28097,MTA_1,1,23.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28098,MTA_1,1,23,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28099,MTA_1,1,22.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28100,MTA_1,1,22.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28101,MTA_1,1,26.5,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28102,MTA_1,1,26.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28103,MTA_1,1,26.67,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28104,MTA_1,1,25.92,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28105,MTA_1,1,24.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28106,MTA_1,1,25.42,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28107,MTA_1,1,25.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28108,MTA_1,1,24.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28109,MTA_1,1,24.58,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28110,MTA_1,1,25.33,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28111,MTA_1,1,25.17,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28112,MTA_1,1,25.08,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28113,MTA_1,1,24.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28114,MTA_1,1,24.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28115,MTA_1,1,23.42,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28116,MTA_1,1,23.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28117,MTA_1,1,23.83,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28118,MTA_1,1,21.75,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28119,MTA_1,1,27.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28120,MTA_1,1,27.5,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28121,MTA_1,1,26.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28122,MTA_1,1,26.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28123,MTA_1,1,26.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28124,MTA_1,1,25.67,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28125,MTA_1,1,25.33,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28126,MTA_1,1,25.33,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28127,MTA_1,1,25.33,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28128,MTA_1,1,25.17,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28129,MTA_1,1,25.17,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28130,MTA_1,1,24.75,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28131,MTA_1,1,24.17,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28132,MTA_1,1,24.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28133,MTA_1,1,23.42,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28134,MTA_1,1,24.33,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28135,MTA_1,1,24.42,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28136,MTA_1,1,24.67,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28137,MTA_1,1,23.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28138,MTA_1,1,24.25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28139,MTA_1,1,23.75,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28140,MTA_1,1,23.5,1,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28141,MTA_1,1,23.17,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28142,MTA_1,1,21.42,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28143,MTA_1,1,21.25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28144,MTA_1,1,26.25,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28145,MTA_1,1,25.92,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28146,MTA_1,1,25.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28147,MTA_1,1,24.58,2,3,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28148,MTA_1,1,24.67,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28149,MTA_1,1,24.58,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28150,MTA_1,1,24.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28151,MTA_1,1,24.25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28152,MTA_1,1,24.25,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28153,MTA_1,1,22.83,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28154,MTA_1,1,23.33,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28155,MTA_1,1,24.08,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28156,MTA_1,1,23.25,2,2,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28157,MTA_1,1,23,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28158,MTA_1,1,23.25,1,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28159,MTA_1,1,21.75,2,1,"For the next six minutes we ask you to relax and remain still while keeping your eyes open, even though you don't have to do anything specific during this part. ",1,#,#,#,#
+28160,NYU_1,1,37.77,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,0,#
+28161,NYU_1,1,41.63,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,0,#
+28162,NYU_1,1,42.82,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,1,#
+28163,NYU_1,1,45.86,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,2,0,#
+28164,NYU_1,1,26.46,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,2,0,#
+28165,NYU_1,1,20.3,1,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,1,#
+28166,NYU_1,1,33.63,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,1,#
+28167,NYU_1,1,24.65,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,1,#
+28168,NYU_1,1,27.86,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,1,#
+28169,NYU_1,1,42.78,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,1,#
+28170,NYU_1,1,44.5,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,1,#
+28171,NYU_1,1,47.61,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,1,#
+28172,NYU_1,1,47.26,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,1,#
+28173,NYU_1,1,41.35,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,1,#
+28174,NYU_1,1,46.36,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,2,#
+28175,NYU_1,1,50.73,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,2,#
+28176,NYU_1,1,42.46,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,2,#
+28177,NYU_1,1,43.98,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28178,NYU_1,1,29.37,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28179,NYU_1,1,24.5,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28180,NYU_1,1,49.57,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28181,NYU_1,1,25.83,1,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28182,NYU_1,1,25.53,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28183,NYU_1,1,26.69,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,2,#
+28184,NYU_1,1,34.87,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,2,2,#
+28185,NYU_1,1,24.89,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,4,2,#
+28186,NYU_1,1,36.29,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,2,#
+28187,NYU_1,1,48.39,2,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,2,2,#
+28188,NYU_1,1,43.44,1,2,"YOU'RE DOING A GREAT JOB! FOR THE NEXT FEW MINUTES WE WOULD LIKE YOU TO KEEP YOUR EYES OPEN, RELAX AND REMAIN STILL.",5,#,3,2,#
