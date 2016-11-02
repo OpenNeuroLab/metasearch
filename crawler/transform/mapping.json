@@ -1,12 +1,49 @@
 {
-  "filename":
+  "Phenotypic_V1_0b_preprocessed1.csv":
   {
-    "field1":
+    "SUB_ID":
     {
-      "mapping": "common_value",
-      "annotation": "url_to_concept",
-      "value1": "mapped_value1",
-      "value_n": "mapped_value_n"
+      "element": "participant_id",
+    },
+    "SITE_ID":
+    {
+      "element": "site_id",
+    },
+    "DX_GROUP":
+    {
+      "element": "diagnosis",
+      "1": "autism",
+      "2": "control"
+    },
+    "DSM_IV_TR":
+    {
+      "element": "dsm_iv_tr",
+      "0": "control",
+      "1": "autism",
+      "2": "aspergers",
+      "3": "pervasive developmental disorder not otherwise specified",
+      "4": "aspergers or pervasive developmental disorder not otherwise specified",
+      "-9999": null
+    },
+    "AGE_AT_SCAN":
+    {
+      "element": "age_in_years"
+    },
+    "SEX":
+    {
+      "element": "sex",
+      "1": "Male",
+      "2": "Female"
+    },
+    "HANDEDNESS_CATEGORY":
+    {
+      "element": "handedness",
+      "R": "right handed",
+      "L": "left handed",
+      "Ambi": "ambidextrous",
+      "Mixed": "ambidextrous",
+      "L->R": "ambidextrous",
+      "-9999": null
     }
   }
 }
