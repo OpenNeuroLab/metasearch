@@ -1,0 +1,12 @@
+{
+  "filename":
+  {
+    "field1":
+    {
+      "mapping": "common_value",
+      "annotation": "url_to_concept",
+      "value1": "mapped_value1",
+      "value_n": "mapped_value_n"
+    }
+  }
+}
