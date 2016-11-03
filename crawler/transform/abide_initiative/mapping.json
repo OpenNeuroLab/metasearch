@@ -25,8 +25,8 @@
       "0": "control",
       "1": "autism",
       "2": "aspergers",
-      "3": "pervasive developmental disorder not otherwise specified",
-      "4": "aspergers or pervasive developmental disorder not otherwise specified",
+      "3": "pdd-nos",
+      "4": "aspergers pdd-nos",
       "-9999": null
     },
     "AGE_AT_SCAN":
@@ -50,6 +50,24 @@
       "Ambi": "ambidextrous",
       "Mixed": "ambidextrous",
       "L->R": "ambidextrous",
+      "-9999": null
+    },
+    "FIQ":
+    {
+      "element": "fiq",
+      "type": "number",
+      "-9999": null
+    },
+    "VIQ":
+    {
+      "element": "viq",
+      "type": "number",
+      "-9999": null
+    },
+    "PIQ":
+    {
+      "element": "piq",
+      "type": "number",
       "-9999": null
     }
   }
