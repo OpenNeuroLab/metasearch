@@ -1,0 +1,1113 @@
+age_in_years,participant_id,site_id,dsm_iv_tr,sex,handedness,diagnosis
+16.77,50002,PITT,autism,Male,ambidextrous,autism
+24.45,50003,PITT,autism,Male,right handed,autism
+19.09,50004,PITT,autism,Male,right handed,autism
+13.73,50005,PITT,autism,Female,right handed,autism
+13.37,50006,PITT,autism,Male,left handed,autism
+17.78,50007,PITT,autism,Male,right handed,autism
+32.45,50008,PITT,autism,Male,right handed,autism
+33.86,50009,PITT,autism,Male,right handed,autism
+35.2,50010,PITT,autism,Male,left handed,autism
+16.93,50011,PITT,autism,Male,left handed,autism
+21.48,50012,PITT,autism,Male,right handed,autism
+9.33,50013,PITT,autism,Male,right handed,autism
+14.2,50014,PITT,autism,Male,right handed,autism
+14.2,50015,PITT,autism,Male,right handed,autism
+21.82,50016,PITT,autism,Male,right handed,autism
+22.7,50017,PITT,autism,Male,right handed,autism
+27.81,50019,PITT,autism,Male,right handed,autism
+20.83,50020,PITT,autism,Male,right handed,autism
+16.99,50022,PITT,autism,Male,right handed,autism
+12.64,50023,PITT,autism,Female,right handed,autism
+22.64,50024,PITT,autism,Male,right handed,autism
+31.72,50025,PITT,autism,Male,right handed,autism
+16.28,50026,PITT,autism,Male,right handed,autism
+12.24,50027,PITT,autism,Male,right handed,autism
+12.74,50028,PITT,autism,Male,right handed,autism
+11.4,50029,PITT,autism,Female,right handed,autism
+25.12,50030,PITT,control,Male,,control
+12.92,50031,PITT,control,Male,right handed,control
+19.8,50032,PITT,control,Male,right handed,control
+12.15,50033,PITT,control,Male,right handed,control
+14.77,50034,PITT,control,Male,right handed,control
+17.36,50035,PITT,control,Male,right handed,control
+13.28,50036,PITT,control,Female,right handed,control
+19.16,50037,PITT,control,Male,right handed,control
+13.95,50038,PITT,control,Female,right handed,control
+30.66,50039,PITT,control,Male,right handed,control
+24.6,50040,PITT,control,Male,right handed,control
+27.92,50041,PITT,control,Male,right handed,control
+33.17,50042,PITT,control,Male,right handed,control
+13.78,50043,PITT,control,Male,right handed,control
+17.13,50044,PITT,control,Male,right handed,control
+15.7,50045,PITT,control,Male,right handed,control
+20.65,50046,PITT,control,Male,right handed,control
+15.35,50047,PITT,control,Male,right handed,control
+11.81,50048,PITT,control,Male,right handed,control
+15.82,50049,PITT,control,Female,right handed,control
+14.37,50050,PITT,control,Male,left handed,control
+12.83,50051,PITT,control,Male,right handed,control
+33.24,50052,PITT,control,Male,right handed,control
+12.03,50053,PITT,autism,Male,right handed,autism
+9.44,50054,PITT,control,Male,right handed,control
+16.99,50055,PITT,autism,Male,right handed,autism
+13.59,50056,PITT,autism,Male,right handed,autism
+12.62,50057,PITT,autism,Female,right handed,autism
+23.1,50058,PITT,control,Male,right handed,control
+21.22,50059,PITT,control,Female,right handed,control
+20.34,50060,PITT,control,Male,right handed,control
+14.0,50102,OLIN,control,Male,right handed,control
+14.0,50103,OLIN,control,Male,right handed,control
+16.0,50104,OLIN,control,Male,right handed,control
+17.0,50105,OLIN,control,Male,right handed,control
+10.0,50106,OLIN,control,Male,right handed,control
+21.0,50107,OLIN,control,Male,right handed,control
+21.0,50108,OLIN,control,Male,right handed,control
+20.0,50109,OLIN,control,Male,right handed,control
+13.0,50110,OLIN,control,Male,right handed,control
+14.0,50111,OLIN,control,Male,right handed,control
+17.0,50112,OLIN,control,Male,right handed,control
+15.0,50113,OLIN,control,Female,right handed,control
+20.0,50114,OLIN,control,Female,right handed,control
+23.0,50115,OLIN,control,Male,left handed,control
+15.0,50116,OLIN,control,Male,right handed,control
+21.0,50117,OLIN,control,Male,left handed,control
+15.0,50118,OLIN,control,Male,right handed,autism
+19.0,50119,OLIN,control,Female,right handed,autism
+15.0,50120,OLIN,control,Male,right handed,autism
+20.0,50121,OLIN,control,Male,right handed,autism
+12.0,50122,OLIN,control,Male,left handed,autism
+17.0,50123,OLIN,control,Male,right handed,autism
+18.0,50124,OLIN,control,Male,right handed,autism
+24.0,50125,OLIN,control,Female,right handed,autism
+17.0,50126,OLIN,control,Male,right handed,autism
+14.0,50127,OLIN,control,Female,right handed,autism
+16.0,50128,OLIN,control,Male,right handed,autism
+12.0,50129,OLIN,control,Male,right handed,autism
+18.0,50130,OLIN,control,Male,right handed,autism
+21.0,50131,OLIN,control,Male,left handed,autism
+16.0,50132,OLIN,control,Male,right handed,autism
+11.0,50133,OLIN,control,Male,right handed,autism
+18.0,50134,OLIN,control,Male,left handed,autism
+12.0,50135,OLIN,control,Male,left handed,autism
+19.0,50136,OLIN,control,Male,right handed,autism
+20.0,50137,OLIN,control,Male,right handed,autism
+13.99,50142,OHSU,,Male,left handed,autism
+13.79,50143,OHSU,,Male,right handed,autism
+10.22,50144,OHSU,,Male,right handed,autism
+10.75,50145,OHSU,,Male,right handed,autism
+8.0,50146,OHSU,,Male,right handed,autism
+11.35,50147,OHSU,,Male,right handed,autism
+12.65,50148,OHSU,,Male,right handed,autism
+12.32,50149,OHSU,,Male,right handed,autism
+9.42,50150,OHSU,,Male,right handed,autism
+9.73,50152,OHSU,,Male,right handed,autism
+9.72,50153,OHSU,,Male,right handed,autism
+14.42,50155,OHSU,,Male,right handed,autism
+15.23,50156,OHSU,,Male,right handed,autism
+10.5,50157,OHSU,,Male,right handed,control
+11.55,50158,OHSU,,Male,right handed,control
+10.29,50159,OHSU,,Male,right handed,control
+11.45,50160,OHSU,,Male,right handed,control
+9.15,50161,OHSU,,Male,right handed,control
+8.94,50162,OHSU,,Male,right handed,control
+9.4,50163,OHSU,,Male,right handed,control
+8.86,50164,OHSU,,Male,right handed,control
+9.69,50165,OHSU,,Male,right handed,control
+8.2,50166,OHSU,,Male,right handed,control
+10.08,50167,OHSU,,Male,right handed,control
+9.69,50168,OHSU,,Male,right handed,control
+11.99,50169,OHSU,,Male,right handed,control
+10.53,50170,OHSU,,Male,right handed,control
+10.64,50171,OHSU,,Male,right handed,control
+16.61,50182,SDSU,aspergers,Male,right handed,autism
+14.14,50183,SDSU,autism,Male,right handed,autism
+17.15,50184,SDSU,aspergers,Male,right handed,autism
+12.44,50185,SDSU,autism,Female,right handed,autism
+12.13,50186,SDSU,aspergers,Male,right handed,autism
+16.48,50187,SDSU,aspergers,Male,right handed,autism
+15.4,50188,SDSU,,Male,right handed,autism
+16.64,50189,SDSU,aspergers,Male,right handed,autism
+13.99,50190,SDSU,aspergers,Male,right handed,autism
+12.63,50191,SDSU,,Male,right handed,autism
+12.99,50192,SDSU,autism,Male,right handed,autism
+14.75,50193,SDSU,control,Male,right handed,control
+13.35,50194,SDSU,control,Male,left handed,control
+12.58,50195,SDSU,control,Male,right handed,control
+12.91,50196,SDSU,control,Male,right handed,control
+14.98,50197,SDSU,control,Male,right handed,control
+15.28,50198,SDSU,control,Male,right handed,control
+15.53,50199,SDSU,control,Male,right handed,control
+13.88,50200,SDSU,control,Male,right handed,control
+13.77,50201,SDSU,control,Female,right handed,control
+12.08,50202,SDSU,control,Male,right handed,control
+16.05,50203,SDSU,control,Male,left handed,control
+14.86,50204,SDSU,control,Male,right handed,control
+14.1,50205,SDSU,control,Female,right handed,control
+8.67,50206,SDSU,control,Female,right handed,control
+16.06,50207,SDSU,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+13.78,50208,SDSU,control,Female,right handed,control
+16.57,50209,SDSU,control,Male,left handed,control
+16.6,50210,SDSU,control,Male,right handed,control
+16.13,50211,SDSU,control,Male,right handed,control
+13.81,50212,SDSU,aspergers,Male,left handed,autism
+12.38,50213,SDSU,control,Female,right handed,control
+14.76,50214,SDSU,control,Male,right handed,control
+16.88,50215,SDSU,control,Female,right handed,control
+15.6,50216,SDSU,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+12.9,50217,SDSU,control,Male,right handed,control
+23.08,50232,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+20.75,50233,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+15.66,50234,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+15.33,50235,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+19.16,50236,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+21.42,50237,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+18.92,50238,TRINITY,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+17.03,50239,TRINITY,autism,Male,right handed,autism
+15.05,50240,TRINITY,aspergers,Male,right handed,autism
+17.17,50241,TRINITY,autism,Male,right handed,autism
+12.75,50242,TRINITY,autism,Male,right handed,autism
+13.75,50243,TRINITY,autism,Male,right handed,autism
+25.91,50244,TRINITY,aspergers,Male,right handed,autism
+21.58,50245,TRINITY,autism,Male,right handed,autism
+19.5,50246,TRINITY,autism,Male,right handed,autism
+12.0,50247,TRINITY,aspergers,Male,right handed,autism
+13.58,50248,TRINITY,autism,Male,right handed,autism
+13.83,50249,TRINITY,autism,Male,right handed,autism
+13.91,50250,TRINITY,autism,Male,right handed,autism
+17.25,50251,TRINITY,autism,Male,right handed,autism
+15.25,50252,TRINITY,aspergers,Male,right handed,autism
+18.01,50253,TRINITY,aspergers,Male,right handed,autism
+19.41,50254,TRINITY,aspergers,Male,right handed,autism
+14.41,50255,TRINITY,aspergers,Male,right handed,autism
+14.91,50257,TRINITY,control,Male,right handed,control
+19.83,50259,TRINITY,control,Male,right handed,control
+20.33,50260,TRINITY,control,Male,right handed,control
+20.08,50261,TRINITY,control,Male,right handed,control
+21.33,50262,TRINITY,control,Male,right handed,control
+19.08,50263,TRINITY,control,Male,right handed,control
+25.66,50264,TRINITY,control,Male,right handed,control
+12.25,50265,TRINITY,control,Male,right handed,control
+15.91,50266,TRINITY,control,Male,right handed,control
+17.5,50267,TRINITY,control,Male,right handed,control
+14.41,50268,TRINITY,control,Male,right handed,control
+14.66,50269,TRINITY,control,Male,right handed,control
+19.33,50270,TRINITY,control,Male,right handed,control
+19.66,50271,TRINITY,control,Male,right handed,control
+14.2,50272,UM_1,autism,Male,right handed,autism
+16.8,50273,UM_1,autism,Male,right handed,autism
+14.2,50274,UM_1,autism,Male,right handed,autism
+11.5,50275,UM_1,autism,Male,left handed,autism
+16.8,50276,UM_1,autism,Female,,autism
+15.4,50277,UM_1,autism,Male,left handed,autism
+11.3,50278,UM_1,autism,Female,right handed,autism
+12.2,50279,UM_1,autism,Male,right handed,autism
+15.6,50280,UM_1,autism,Male,,autism
+10.7,50281,UM_1,aspergers,Male,right handed,autism
+15.2,50282,UM_1,autism,Male,,autism
+11.2,50283,UM_1,autism,Male,right handed,autism
+11.2,50284,UM_1,aspergers,Female,right handed,autism
+12.8,50285,UM_1,autism,Female,right handed,autism
+11.2,50286,UM_1,aspergers,Male,right handed,autism
+14.4,50287,UM_1,autism,Male,left handed,autism
+11.1,50288,UM_1,autism,Male,right handed,autism
+12.9,50289,UM_1,aspergers,Male,left handed,autism
+14.0,50290,UM_1,autism,Male,right handed,autism
+13.9,50291,UM_1,autism,Male,right handed,autism
+12.6,50292,UM_1,autism,Male,right handed,autism
+12.4,50293,UM_1,autism,Male,right handed,autism
+12.6,50294,UM_1,aspergers,Male,right handed,autism
+11.5,50295,UM_1,autism,Male,right handed,autism
+15.1,50296,UM_1,autism,Male,right handed,autism
+15.9,50297,UM_1,,Male,right handed,autism
+12.8,50298,UM_1,autism,Male,right handed,autism
+12.2,50299,UM_1,autism,Male,right handed,autism
+9.7,50300,UM_1,pervasive developmental disorder not otherwise specified,Female,right handed,autism
+16.1,50301,UM_1,autism,Male,left handed,autism
+10.4,50302,UM_1,,Female,right handed,autism
+11.6,50303,UM_1,autism,Male,right handed,autism
+11.0,50304,UM_1,autism,Male,,autism
+10.9,50305,UM_1,autism,Male,right handed,autism
+8.5,50306,UM_1,autism,Male,right handed,autism
+9.7,50307,UM_1,autism,Male,ambidextrous,autism
+8.9,50308,UM_1,autism,Male,,autism
+9.5,50309,UM_1,autism,Female,,autism
+9.7,50310,UM_1,autism,Male,right handed,autism
+9.8,50311,UM_1,autism,Male,,autism
+11.2,50312,UM_1,autism,Male,right handed,autism
+13.4,50313,UM_1,autism,Male,right handed,autism
+16.1,50314,UM_1,aspergers,Male,right handed,autism
+13.4,50315,UM_1,autism,Male,right handed,autism
+11.8,50316,UM_1,autism,Male,right handed,autism
+9.8,50317,UM_1,autism,Male,right handed,autism
+9.2,50318,UM_1,autism,Male,left handed,autism
+15.0,50319,UM_1,autism,Female,right handed,autism
+18.6,50320,UM_1,autism,Male,right handed,autism
+18.0,50321,UM_1,autism,Female,right handed,autism
+12.4,50322,UM_1,autism,Male,right handed,autism
+14.2,50323,UM_1,autism,Male,right handed,autism
+13.8,50324,UM_1,autism,Male,right handed,autism
+13.1,50325,UM_1,aspergers,Male,right handed,autism
+12.0,50326,UM_1,autism,Male,right handed,autism
+15.3,50327,UM_1,control,Male,left handed,control
+17.4,50328,UM_1,control,Male,right handed,control
+17.1,50329,UM_1,control,Male,right handed,control
+16.1,50330,UM_1,control,Male,right handed,control
+17.2,50331,UM_1,control,Male,left handed,control
+10.4,50332,UM_1,control,Male,right handed,control
+10.2,50333,UM_1,control,Male,right handed,control
+11.0,50334,UM_1,control,Male,right handed,control
+17.8,50335,UM_1,control,Male,right handed,control
+14.3,50336,UM_1,control,Female,right handed,control
+11.8,50337,UM_1,control,Male,right handed,control
+13.5,50338,UM_1,control,Female,right handed,control
+18.0,50339,UM_1,control,Male,right handed,control
+16.1,50340,UM_1,control,Female,right handed,control
+18.2,50341,UM_1,control,Female,right handed,control
+12.6,50342,UM_1,control,Male,right handed,control
+13.8,50343,UM_1,control,Female,right handed,control
+18.2,50344,UM_1,control,Male,right handed,control
+17.3,50345,UM_1,control,Male,right handed,control
+18.9,50346,UM_1,control,Male,right handed,control
+15.6,50347,UM_1,control,Male,right handed,control
+19.2,50348,UM_1,control,Female,right handed,control
+18.9,50349,UM_1,control,Male,right handed,control
+12.4,50350,UM_1,control,Male,right handed,control
+16.8,50351,UM_1,control,Male,right handed,control
+15.5,50352,UM_1,control,Male,left handed,control
+13.1,50353,UM_1,control,Female,right handed,control
+14.0,50354,UM_1,control,Female,right handed,control
+10.9,50355,UM_1,control,Male,right handed,control
+17.2,50356,UM_1,control,Female,left handed,control
+9.5,50357,UM_1,control,Female,right handed,control
+9.8,50358,UM_1,control,Male,right handed,control
+10.4,50359,UM_1,control,Male,right handed,control
+13.9,50360,UM_1,control,Male,right handed,control
+18.3,50361,UM_1,control,Female,,control
+11.2,50362,UM_1,control,Male,left handed,control
+9.8,50363,UM_1,control,Male,right handed,control
+10.8,50364,UM_1,control,Male,right handed,control
+15.6,50365,UM_1,control,Male,left handed,control
+8.2,50366,UM_1,control,Male,,control
+10.8,50367,UM_1,control,Male,,control
+17.9,50368,UM_1,control,Male,right handed,control
+14.8,50369,UM_1,control,Female,right handed,control
+12.8,50370,UM_1,control,Male,right handed,control
+12.2,50371,UM_1,control,Male,right handed,control
+10.2,50372,UM_1,control,Male,right handed,control
+17.2,50373,UM_1,control,Female,right handed,control
+9.7,50374,UM_1,control,Female,right handed,control
+11.6,50375,UM_1,control,Female,right handed,control
+9.2,50376,UM_1,control,Male,right handed,control
+11.5,50377,UM_1,control,Male,right handed,control
+11.6,50378,UM_1,control,Male,left handed,control
+14.3,50379,UM_1,control,Female,right handed,control
+17.4,50380,UM_1,control,Female,left handed,control
+16.5,50381,UM_1,control,Male,right handed,control
+28.8,50382,UM_2,control,Male,right handed,control
+14.4,50383,UM_2,control,Male,right handed,control
+17.8,50385,UM_2,control,Male,right handed,control
+17.8,50386,UM_2,control,Male,right handed,control
+14.0,50387,UM_2,control,Male,right handed,control
+26.8,50388,UM_2,control,Male,right handed,control
+14.5,50390,UM_2,control,Male,right handed,control
+17.2,50391,UM_2,control,Male,left handed,control
+14.7,50397,UM_2,autism,Male,,autism
+17.4,50399,UM_2,aspergers,Male,right handed,autism
+13.1,50402,UM_2,autism,Male,right handed,autism
+12.8,50403,UM_2,aspergers,Male,right handed,autism
+15.8,50404,UM_2,autism,Male,right handed,autism
+16.6,50405,UM_2,autism,Male,right handed,autism
+15.2,50406,UM_2,autism,Male,right handed,autism
+16.6,50407,UM_2,autism,Female,right handed,autism
+14.8,50408,UM_2,autism,Male,right handed,autism
+16.1,50410,UM_2,autism,Male,right handed,autism
+14.0,50411,UM_2,aspergers,Male,right handed,autism
+13.2,50412,UM_2,autism,Male,right handed,autism
+13.1,50413,UM_2,autism,Male,left handed,autism
+13.8,50414,UM_2,control,Female,right handed,control
+17.6,50415,UM_2,control,Male,right handed,control
+14.8,50416,UM_2,control,Male,right handed,control
+13.3,50417,UM_2,control,Male,left handed,control
+14.9,50418,UM_2,control,Male,right handed,control
+15.8,50419,UM_2,control,Male,right handed,control
+15.4,50421,UM_2,control,Male,right handed,control
+14.8,50422,UM_2,control,Male,right handed,control
+14.1,50423,UM_2,control,Male,right handed,control
+17.9,50424,UM_2,control,Male,right handed,control
+16.6,50425,UM_2,control,Male,right handed,control
+13.6,50426,UM_2,control,Male,right handed,control
+15.8,50427,UM_2,control,Male,right handed,control
+15.5,50428,UM_2,control,Male,right handed,control
+18.2806,50432,USM,control,Male,,control
+18.7379,50433,USM,control,Male,,control
+18.2615,50434,USM,control,Male,,control
+16.104,50435,USM,control,Male,,control
+13.8097,50436,USM,control,Male,,control
+14.9432,50437,USM,control,Male,,control
+15.0253,50438,USM,control,Male,,control
+22.601,50439,USM,control,Male,,control
+23.948,50440,USM,control,Male,,control
+27.5975,50441,USM,control,Male,,control
+26.8528,50442,USM,control,Male,,control
+17.0705,50443,USM,control,Male,,control
+24.9884,50444,USM,control,Male,,control
+18.1383,50445,USM,control,Male,,control
+27.3238,50446,USM,control,Male,,control
+12.9391,50447,USM,control,Male,,control
+10.4668,50448,USM,control,Male,,control
+18.2177,50449,USM,control,Male,,control
+21.0979,50450,USM,control,Male,,control
+12.5257,50451,USM,control,Male,,control
+29.9685,50452,USM,control,Male,,control
+8.7721,50453,USM,control,Male,,control
+18.8008,50454,USM,control,Male,,control
+31.2827,50455,USM,control,Male,,control
+16.0986,50456,USM,control,Male,,control
+34.0534,50457,USM,control,Male,,control
+26.1465,50458,USM,control,Male,,control
+18.1547,50459,USM,control,Male,,control
+14.412,50460,USM,control,Male,,control
+16.3943,50461,USM,control,Male,,control
+24.6543,50462,USM,control,Male,,control
+28.3669,50463,USM,control,Male,,control
+9.9548,50464,USM,control,Male,,control
+34.0068,50465,USM,control,Male,,control
+39.2526,50466,USM,control,Male,,control
+19.7591,50467,USM,control,Male,,control
+39.3949,50468,USM,control,Male,,control
+28.5613,50469,USM,control,Male,,control
+9.9165,50470,USM,control,Male,,control
+25.0157,50471,USM,control,Male,,control
+22.1081,50472,USM,control,Male,,control
+22.4367,50473,USM,control,Male,,control
+22.0479,50474,USM,control,Male,,control
+21.6482,50475,USM,autism,Male,,autism
+20.1697,50476,USM,autism,Male,,autism
+20.1807,50477,USM,autism,Male,,autism
+20.178,50478,USM,autism,Male,,autism
+22.8802,50479,USM,autism,Male,,autism
+29.0897,50480,USM,autism,Male,,autism
+17.1663,50481,USM,autism,Male,,autism
+27.4114,50482,USM,autism,Male,,autism
+21.4346,50483,USM,autism,Male,,autism
+19.7043,50484,USM,autism,Male,,autism
+23.5948,50485,USM,autism,Male,,autism
+17.7878,50486,USM,autism,Male,,autism
+25.7972,50487,USM,autism,Male,,autism
+25.4511,50488,USM,autism,Male,,autism
+16.7584,50489,USM,autism,Male,,autism
+19.6277,50490,USM,autism,Male,,autism
+26.9487,50491,USM,autism,Male,,autism
+32.5503,50492,USM,autism,Male,,autism
+35.7098,50493,USM,autism,Male,,autism
+37.7769,50494,USM,autism,Male,,autism
+22.5599,50495,USM,autism,Male,,autism
+24.3231,50496,USM,autism,Male,,autism
+34.4613,50497,USM,autism,Male,,autism
+21.1307,50498,USM,autism,Male,,autism
+25.4346,50499,USM,autism,Male,,autism
+17.2375,50500,USM,autism,Male,,autism
+17.7057,50501,USM,autism,Male,,autism
+32.9582,50502,USM,autism,Male,,autism
+28.6708,50503,USM,autism,Male,,autism
+17.6454,50504,USM,autism,Male,,autism
+33.1828,50505,USM,autism,Male,,autism
+15.9343,50506,USM,autism,Male,,autism
+28.1095,50507,USM,autism,Male,,autism
+26.3792,50508,USM,autism,Male,,autism
+16.7337,50509,USM,autism,Male,,autism
+14.1437,50510,USM,autism,Male,,autism
+16.3833,50511,USM,autism,Male,,autism
+15.4908,50512,USM,autism,Male,,autism
+18.4668,50513,USM,autism,Male,,autism
+21.4018,50514,USM,autism,Male,,autism
+15.8522,50515,USM,autism,Male,,autism
+17.1143,50516,USM,autism,Male,,autism
+16.501,50517,USM,autism,Male,,autism
+18.6585,50518,USM,autism,Male,,autism
+16.3778,50519,USM,autism,Male,,autism
+17.6728,50520,USM,autism,Male,,autism
+18.4175,50521,USM,autism,Male,,autism
+14.7515,50522,USM,autism,Male,,autism
+17.3251,50523,USM,autism,Male,,autism
+12.334,50524,USM,autism,Male,,autism
+32.8487,50525,USM,autism,Male,,autism
+50.2231,50526,USM,autism,Male,,autism
+18.4148,50527,USM,pervasive developmental disorder not otherwise specified,Male,,autism
+11.3539,50528,USM,autism,Male,,autism
+42.3354,50529,USM,autism,Male,,autism
+18.245,50530,USM,autism,Male,,autism
+28.0903,50531,USM,autism,Male,,autism
+16.9199,50532,USM,autism,Male,,autism
+15.92,50551,YALE,control,Male,right handed,control
+12.75,50552,YALE,control,Male,right handed,control
+9.75,50553,YALE,control,Male,right handed,control
+8.67,50554,YALE,control,Male,right handed,control
+14.42,50555,YALE,control,Female,right handed,control
+10.67,50556,YALE,control,Male,right handed,control
+14.25,50557,YALE,control,Female,right handed,control
+13.75,50558,YALE,control,Female,right handed,control
+12.25,50559,YALE,control,Male,right handed,control
+9.25,50560,YALE,control,Male,right handed,control
+13.33,50561,YALE,control,Male,right handed,control
+10.83,50562,YALE,control,Male,left handed,control
+13.92,50563,YALE,control,Female,right handed,control
+7.66,50564,YALE,control,Male,right handed,control
+11.0,50565,YALE,control,Female,right handed,control
+9.66,50566,YALE,control,Male,right handed,control
+17.83,50567,YALE,control,Male,left handed,control
+13.92,50568,YALE,control,Male,right handed,control
+16.66,50569,YALE,control,Female,right handed,control
+16.66,50570,YALE,control,Male,left handed,control
+11.0,50571,YALE,control,Male,right handed,control
+15.75,50572,YALE,control,Female,right handed,control
+14.17,50573,YALE,control,Male,right handed,control
+10.92,50574,YALE,control,Male,right handed,control
+14.0,50575,YALE,control,Male,right handed,control
+8.42,50576,YALE,control,Female,right handed,control
+15.25,50577,YALE,control,Male,right handed,control
+12.33,50578,YALE,control,Male,left handed,control
+14.33,50601,YALE,pervasive developmental disorder not otherwise specified,Male,left handed,autism
+10.0,50602,YALE,aspergers,Male,right handed,autism
+13.25,50603,YALE,autism,Male,left handed,autism
+14.42,50604,YALE,autism,Female,right handed,autism
+16.0,50605,YALE,autism,Male,right handed,autism
+16.42,50606,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+17.17,50607,YALE,aspergers,Male,right handed,autism
+16.58,50608,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+8.92,50609,YALE,aspergers,Male,right handed,autism
+13.0,50610,YALE,aspergers,Male,right handed,autism
+11.92,50611,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+11.83,50612,YALE,aspergers,Male,right handed,autism
+12.5,50613,YALE,aspergers,Male,left handed,autism
+17.75,50614,YALE,autism,Male,right handed,autism
+8.58,50615,YALE,aspergers,Female,right handed,autism
+11.83,50616,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+7.25,50617,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+12.75,50618,YALE,autism,Male,left handed,autism
+16.5,50619,YALE,autism,Female,right handed,autism
+12.75,50620,YALE,pervasive developmental disorder not otherwise specified,Female,right handed,autism
+16.58,50621,YALE,aspergers,Female,right handed,autism
+9.92,50622,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+13.66,50623,YALE,pervasive developmental disorder not otherwise specified,Female,right handed,autism
+11.08,50624,YALE,pervasive developmental disorder not otherwise specified,Female,right handed,autism
+7.0,50625,YALE,pervasive developmental disorder not otherwise specified,Male,left handed,autism
+11.08,50626,YALE,pervasive developmental disorder not otherwise specified,Male,left handed,autism
+9.5,50627,YALE,pervasive developmental disorder not otherwise specified,Female,right handed,autism
+14.42,50628,YALE,pervasive developmental disorder not otherwise specified,Male,right handed,autism
+33.0,50642,CMU,autism,Male,right handed,autism
+21.0,50643,CMU,autism,Male,right handed,autism
+19.0,50644,CMU,autism,Female,right handed,autism
+20.0,50645,CMU,autism,Male,right handed,autism
+21.0,50646,CMU,autism,Male,right handed,autism
+27.0,50647,CMU,autism,Male,right handed,autism
+31.0,50648,CMU,autism,Female,right handed,autism
+22.0,50649,CMU,autism,Male,right handed,autism
+31.0,50650,CMU,autism,Female,right handed,autism
+39.0,50651,CMU,autism,Male,ambidextrous,autism
+24.0,50652,CMU,autism,Male,right handed,autism
+30.0,50653,CMU,autism,Male,right handed,autism
+24.0,50654,CMU,autism,Male,left handed,autism
+27.0,50655,CMU,autism,Male,right handed,autism
+28.0,50656,CMU,control,Female,right handed,control
+21.0,50657,CMU,control,Male,right handed,control
+27.0,50658,CMU,control,Male,right handed,control
+27.0,50659,CMU,control,Male,right handed,control
+25.0,50660,CMU,control,Male,ambidextrous,control
+20.0,50661,CMU,control,Female,right handed,control
+21.0,50663,CMU,control,Male,right handed,control
+21.0,50664,CMU,control,Male,right handed,control
+33.0,50665,CMU,control,Male,right handed,control
+31.0,50666,CMU,control,Male,right handed,control
+40.0,50667,CMU,control,Male,right handed,control
+25.0,50668,CMU,control,Male,right handed,control
+30.0,50669,CMU,control,Female,right handed,control
+23.0,50682,LEUVEN_1,control,Male,right handed,control
+24.0,50683,LEUVEN_1,control,Male,right handed,control
+23.0,50685,LEUVEN_1,control,Male,right handed,control
+19.0,50686,LEUVEN_1,autism,Male,right handed,autism
+22.0,50687,LEUVEN_1,control,Male,right handed,control
+21.0,50688,LEUVEN_1,control,Male,right handed,control
+21.0,50689,LEUVEN_1,autism,Male,right handed,autism
+22.0,50690,LEUVEN_1,autism,Male,right handed,autism
+22.0,50691,LEUVEN_1,control,Male,right handed,control
+22.0,50692,LEUVEN_1,control,Male,right handed,control
+22.0,50693,LEUVEN_1,autism,Male,right handed,autism
+19.0,50694,LEUVEN_1,autism,Male,right handed,autism
+19.0,50695,LEUVEN_1,autism,Male,right handed,autism
+20.0,50696,LEUVEN_1,autism,Male,right handed,autism
+19.0,50697,LEUVEN_1,autism,Male,right handed,autism
+28.0,50698,LEUVEN_1,control,Male,right handed,control
+21.0,50699,LEUVEN_1,control,Male,right handed,control
+23.0,50700,LEUVEN_1,autism,Male,left handed,autism
+18.0,50701,LEUVEN_1,control,Male,right handed,control
+18.0,50702,LEUVEN_1,autism,Male,right handed,autism
+29.0,50703,LEUVEN_1,control,Male,right handed,control
+29.0,50704,LEUVEN_1,autism,Male,right handed,autism
+24.0,50705,LEUVEN_1,autism,Male,right handed,autism
+22.0,50706,LEUVEN_1,control,Male,left handed,control
+22.0,50707,LEUVEN_1,control,Male,right handed,control
+32.0,50708,LEUVEN_1,autism,Male,right handed,autism
+25.0,50709,LEUVEN_1,control,Male,right handed,control
+27.0,50710,LEUVEN_1,control,Male,right handed,control
+19.0,50711,LEUVEN_1,autism,Male,right handed,autism
+13.8,50722,LEUVEN_2,control,Female,left handed,control
+13.8,50723,LEUVEN_2,control,Female,left handed,control
+15.1,50724,LEUVEN_2,control,Male,right handed,control
+14.2,50725,LEUVEN_2,control,Male,left handed,control
+16.6,50726,LEUVEN_2,control,Male,right handed,control
+13.9,50727,LEUVEN_2,control,Male,ambidextrous,control
+15.6,50728,LEUVEN_2,control,Male,right handed,control
+12.3,50730,LEUVEN_2,control,Female,right handed,control
+16.2,50731,LEUVEN_2,control,Male,right handed,control
+12.4,50732,LEUVEN_2,control,Male,right handed,control
+14.7,50733,LEUVEN_2,control,Male,right handed,control
+16.6,50734,LEUVEN_2,control,Male,right handed,control
+14.3,50735,LEUVEN_2,control,Female,right handed,control
+13.6,50736,LEUVEN_2,control,Female,right handed,control
+12.2,50737,LEUVEN_2,control,Male,right handed,control
+12.8,50738,LEUVEN_2,control,Male,right handed,control
+15.2,50739,LEUVEN_2,control,Male,right handed,control
+12.4,50740,LEUVEN_2,control,Male,right handed,control
+14.2,50741,LEUVEN_2,control,Male,right handed,control
+16.9,50742,LEUVEN_2,control,Male,right handed,control
+14.2,50743,LEUVEN_2,autism,Female,right handed,autism
+12.5,50744,LEUVEN_2,autism,Female,right handed,autism
+13.0,50745,LEUVEN_2,autism,Male,right handed,autism
+13.8,50746,LEUVEN_2,autism,Male,right handed,autism
+14.2,50747,LEUVEN_2,autism,Male,right handed,autism
+14.2,50748,LEUVEN_2,autism,Male,right handed,autism
+15.3,50749,LEUVEN_2,autism,Female,left handed,autism
+16.8,50750,LEUVEN_2,autism,Male,right handed,autism
+12.1,50751,LEUVEN_2,autism,Male,right handed,autism
+14.7,50752,LEUVEN_2,autism,Male,left handed,autism
+14.3,50753,LEUVEN_2,autism,Male,right handed,autism
+12.3,50754,LEUVEN_2,autism,Male,right handed,autism
+12.2,50755,LEUVEN_2,autism,Male,right handed,autism
+14.9,50756,LEUVEN_2,autism,Male,right handed,autism
+14.3,50757,LEUVEN_2,autism,Male,right handed,autism
+12.77,50772,KKI,control,Male,right handed,control
+10.84,50773,KKI,control,Male,right handed,control
+10.64,50774,KKI,control,Male,right handed,control
+11.0,50775,KKI,control,Male,right handed,control
+9.3,50776,KKI,control,Male,right handed,control
+8.39,50777,KKI,control,Male,right handed,control
+9.73,50778,KKI,control,Female,right handed,control
+9.41,50779,KKI,control,Male,right handed,control
+9.82,50780,KKI,control,Female,right handed,control
+9.3,50781,KKI,control,Male,right handed,control
+10.18,50782,KKI,control,Male,right handed,control
+10.4,50783,KKI,control,Female,right handed,control
+8.07,50784,KKI,control,Female,right handed,control
+10.37,50785,KKI,control,Male,ambidextrous,control
+8.75,50786,KKI,control,Male,right handed,control
+10.82,50787,KKI,control,Male,right handed,control
+10.25,50788,KKI,control,Female,right handed,control
+9.31,50789,KKI,control,Male,right handed,control
+8.83,50790,KKI,control,Female,right handed,control
+10.18,50791,KKI,autism,Male,right handed,autism
+8.2,50792,KKI,aspergers,Female,ambidextrous,autism
+8.4,50793,KKI,autism,Male,right handed,autism
+9.66,50794,KKI,autism,Male,right handed,autism
+8.09,50795,KKI,aspergers,Female,right handed,autism
+11.99,50796,KKI,aspergers,Female,right handed,autism
+12.54,50797,KKI,aspergers,Male,right handed,autism
+10.17,50798,KKI,autism,Female,ambidextrous,autism
+11.14,50799,KKI,autism,Male,right handed,autism
+11.76,50800,KKI,aspergers,Male,right handed,autism
+11.27,50801,KKI,autism,Male,right handed,autism
+8.2,50802,KKI,autism,Male,right handed,autism
+8.45,50803,KKI,aspergers,Male,right handed,autism
+8.33,50804,KKI,autism,Male,right handed,autism
+11.33,50805,KKI,aspergers,Male,right handed,autism
+8.48,50806,KKI,aspergers,Male,right handed,autism
+10.65,50807,KKI,autism,Male,ambidextrous,autism
+11.09,50808,KKI,control,Male,right handed,control
+8.43,50809,KKI,control,Male,left handed,control
+11.85,50810,KKI,control,Female,right handed,control
+12.76,50811,KKI,control,Male,right handed,control
+9.97,50812,KKI,control,Female,right handed,control
+10.79,50813,KKI,control,Male,right handed,control
+8.46,50814,KKI,control,Male,left handed,control
+10.62,50815,KKI,autism,Male,left handed,autism
+9.73,50816,KKI,control,Male,ambidextrous,control
+9.97,50817,KKI,control,Male,ambidextrous,control
+11.79,50818,KKI,control,Male,right handed,control
+9.71,50819,KKI,control,Male,right handed,control
+8.87,50820,KKI,control,Female,right handed,control
+11.17,50821,KKI,control,Male,right handed,control
+12.43,50822,KKI,control,Male,right handed,control
+11.37,50823,KKI,aspergers,Male,right handed,autism
+10.29,50824,KKI,aspergers,Male,right handed,autism
+8.5,50825,KKI,autism,Male,right handed,autism
+10.57,50826,KKI,aspergers,Male,right handed,autism
+8.74,50952,NYU,autism,Female,,autism
+11.764,50953,NYU,autism,Female,,autism
+14.75,50954,NYU,autism,Female,,autism
+12.64,50955,NYU,autism,Female,,autism
+14.06,50956,NYU,autism,Female,,autism
+14.75,50957,NYU,autism,Female,,autism
+10.23,50958,NYU,autism,Female,,autism
+22.81,50959,NYU,aspergers,Female,,autism
+38.76,50960,NYU,aspergers,Female,,autism
+25.02,50961,NYU,aspergers,Female,,autism
+24.41,50962,NYU,aspergers,Female,,autism
+12.75,50964,NYU,autism,Male,,autism
+9.25,50965,NYU,pervasive developmental disorder not otherwise specified,Male,,autism
+15.14,50966,NYU,pervasive developmental disorder not otherwise specified,Male,,autism
+9.74,50967,NYU,pervasive developmental disorder not otherwise specified,Male,,autism
+9.95,50968,NYU,pervasive developmental disorder not otherwise specified,Male,,autism
+7.61,50969,NYU,aspergers,Male,,autism
+8.9,50970,NYU,aspergers,Male,,autism
+10.24,50971,NYU,aspergers,Male,,autism
+13.95,50972,NYU,aspergers,Male,,autism
+17.88,50973,NYU,aspergers,Male,,autism
+11.56,50974,NYU,aspergers,Male,,autism
+10.96,50975,NYU,aspergers,Male,,autism
+14.65,50976,NYU,aspergers,Male,,autism
+7.13,50977,NYU,aspergers,Male,,autism
+9.58,50978,NYU,aspergers,Male,,autism
+9.37,50979,NYU,aspergers,Male,,autism
+8.52,50980,NYU,aspergers,Male,,autism
+12.96,50981,NYU,autism,Male,,autism
+9.46,50982,NYU,autism,Male,,autism
+10.48,50983,NYU,autism,Male,,autism
+13.2,50984,NYU,autism,Male,,autism
+13.09,50985,NYU,autism,Male,,autism
+8.53,50986,NYU,autism,Male,,autism
+8.56,50987,NYU,autism,Male,,autism
+14.21,50988,NYU,autism,Male,,autism
+9.78,50989,NYU,autism,Male,,autism
+13.71,50990,NYU,autism,Male,,autism
+10.9,50991,NYU,autism,Male,,autism
+10.66,50992,NYU,autism,Male,,autism
+10.87,50993,NYU,autism,Male,,autism
+15.66,50994,NYU,autism,Male,,autism
+16.74,50995,NYU,autism,Male,,autism
+15.81,50996,NYU,autism,Male,,autism
+16.27,50997,NYU,autism,Male,,autism
+13.04,50998,NYU,autism,Male,,autism
+14.53,50999,NYU,autism,Male,,autism
+13.33,51000,NYU,autism,Male,,autism
+10.71,51001,NYU,autism,Male,,autism
+7.228,51002,NYU,autism,Male,,autism
+8.51,51003,NYU,autism,Male,,autism
+11.11,51006,NYU,autism,Male,,autism
+11.92,51007,NYU,autism,Male,,autism
+12.37,51008,NYU,autism,Male,,autism
+11.03,51009,NYU,autism,Male,,autism
+8.53,51010,NYU,autism,Male,,autism
+8.79,51011,NYU,autism,Male,,autism
+9.79,51012,NYU,autism,Male,,autism
+7.15,51013,NYU,autism,Male,,autism
+11.005,51014,NYU,autism,Male,,autism
+29.98,51015,NYU,aspergers,Male,,autism
+22.99,51016,NYU,aspergers,Male,,autism
+22.04,51017,NYU,aspergers,Male,,autism
+20.25,51018,NYU,aspergers,Male,,autism
+22.29,51019,NYU,aspergers,Male,,autism
+28.58,51020,NYU,autism,Male,,autism
+23.66,51021,NYU,autism,Male,,autism
+20.62,51023,NYU,autism,Male,,autism
+39.1,51024,NYU,autism,Male,,autism
+19.64,51025,NYU,autism,Male,,autism
+18.58,51026,NYU,autism,Male,,autism
+22.98,51027,NYU,autism,Male,,autism
+29.18,51028,NYU,autism,Male,,autism
+26.516,51029,NYU,autism,Male,,autism
+7.29,51030,NYU,pervasive developmental disorder not otherwise specified,Male,,autism
+7.15,51032,NYU,autism,Male,,autism
+9.98,51033,NYU,autism,Male,,autism
+10.65,51034,NYU,autism,Male,,autism
+10.27,51035,NYU,autism,Male,,autism
+8.04,51036,NYU,control,Female,,control
+8.26,51038,NYU,control,Female,,control
+8.5,51039,NYU,control,Female,,control
+8.52,51040,NYU,control,Female,,control
+8.9,51041,NYU,control,Female,,control
+8.91,51042,NYU,control,Female,,control
+10.86,51044,NYU,control,Female,,control
+11.56,51045,NYU,control,Female,,control
+11.56,51046,NYU,control,Female,,control
+12.1,51047,NYU,control,Female,,control
+12.44,51048,NYU,control,Female,,control
+13.22,51049,NYU,control,Female,,control
+13.25,51050,NYU,control,Female,,control
+14.06,51051,NYU,control,Female,,control
+14.18,51052,NYU,control,Female,,control
+14.38,51053,NYU,control,Female,,control
+14.42,51054,NYU,control,Female,,control
+15.95,51055,NYU,control,Female,,control
+17.31,51056,NYU,control,Female,,control
+21.58,51057,NYU,control,Female,,control
+22.11,51058,NYU,control,Female,,control
+22.76,51059,NYU,control,Female,,control
+22.74,51060,NYU,control,Female,,control
+27.03,51061,NYU,control,Female,,control
+27.76,51062,NYU,control,Female,,control
+29.13,51063,NYU,control,Female,,control
+7.26,51064,NYU,control,Male,,control
+10.52,51065,NYU,control,Male,,control
+18.59,51066,NYU,control,Male,,control
+23.65,51067,NYU,control,Male,,control
+31.78,51068,NYU,control,Male,,control
+8.15,51069,NYU,control,Male,,control
+7.29,51070,NYU,control,Male,,control
+10.69,51071,NYU,control,Male,,control
+11.91,51072,NYU,control,Male,,control
+12.49,51073,NYU,control,Male,,control
+12.81,51074,NYU,control,Male,,control
+14.2,51075,NYU,control,Male,,control
+16.93,51076,NYU,control,Male,,control
+17.3,51077,NYU,control,Male,,control
+6.47,51078,NYU,control,Male,,control
+7.19,51079,NYU,control,Male,,control
+8.01,51080,NYU,control,Male,,control
+8.82,51081,NYU,control,Male,,control
+8.88,51082,NYU,control,Male,,control
+8.93,51083,NYU,control,Male,,control
+9.23,51084,NYU,control,Male,,control
+9.81,51085,NYU,control,Male,,control
+10.46,51086,NYU,control,Male,,control
+10.52,51087,NYU,control,Male,,control
+10.73,51088,NYU,control,Male,,control
+10.76,51089,NYU,control,Male,,control
+11.03,51090,NYU,control,Male,,control
+11.32,51091,NYU,control,Male,,control
+11.69,51093,NYU,control,Male,,control
+12.1,51094,NYU,control,Male,,control
+12.23,51095,NYU,control,Male,,control
+13.18,51096,NYU,control,Male,,control
+13.583,51097,NYU,control,Male,,control
+13.628,51098,NYU,control,Male,,control
+13.72,51099,NYU,control,Male,,control
+14.36,51100,NYU,control,Male,,control
+14.425,51101,NYU,control,Male,,control
+14.653,51102,NYU,control,Male,,control
+14.66,51103,NYU,control,Male,,control
+15.27,51104,NYU,control,Male,,control
+15.284,51105,NYU,control,Male,,control
+15.42,51106,NYU,control,Male,,control
+15.53,51107,NYU,control,Male,,control
+15.71,51108,NYU,control,Male,,control
+16.13,51109,NYU,control,Male,,control
+16.28,51110,NYU,control,Male,,control
+16.55,51111,NYU,control,Male,,control
+19.228,51112,NYU,control,Male,,control
+22.38,51113,NYU,control,Male,,control
+22.48,51114,NYU,control,Male,,control
+22.76,51115,NYU,control,Male,,control
+25.34,51116,NYU,control,Male,,control
+28.203,51117,NYU,control,Male,,control
+29.02,51118,NYU,control,Male,,control
+30.724,51119,NYU,control,Male,,control
+10.19,51120,NYU,control,Male,,control
+10.74,51121,NYU,control,Male,,control
+11.92,51122,NYU,control,Male,,control
+12.07,51123,NYU,control,Male,,control
+12.67,51124,NYU,control,Male,,control
+14.79,51125,NYU,control,Male,,control
+16.31,51126,NYU,control,Male,,control
+16.55,51127,NYU,control,Male,,control
+16.88,51128,NYU,control,Male,,control
+17.7,51129,NYU,control,Male,,control
+19.13,51130,NYU,control,Male,,control
+19.73,51131,NYU,control,Male,,control
+24.83,51132,TRINITY,control,Male,right handed,control
+12.04,51133,TRINITY,control,Male,right handed,control
+16.83,51134,TRINITY,control,Male,right handed,control
+13.75,51135,TRINITY,control,Male,right handed,control
+12.66,51136,TRINITY,control,Male,right handed,control
+13.25,51137,TRINITY,control,Male,right handed,control
+12.66,51138,TRINITY,control,Male,right handed,control
+19.5,51139,TRINITY,control,Male,right handed,control
+15.75,51140,TRINITY,control,Male,right handed,control
+15.91,51141,TRINITY,control,Male,right handed,control
+14.91,51142,TRINITY,control,Male,right handed,control
+20.02,51146,NYU,control,Male,,control
+20.04,51147,NYU,control,Male,,control
+20.3,51148,NYU,control,Male,,control
+20.56,51149,NYU,control,Male,,control
+22.77,51150,NYU,control,Male,,control
+23.08,51151,NYU,control,Male,,control
+23.35,51152,NYU,control,Male,,control
+26.17,51153,NYU,control,Male,,control
+30.08,51154,NYU,control,Male,,control
+30.78,51155,NYU,control,Male,,control
+21.15,51156,NYU,control,Male,,control
+12.81,51159,NYU,control,Male,,control
+7.9336,51160,STANFORD,,Male,right handed,autism
+9.0301,51161,STANFORD,,Male,right handed,autism
+8.9199,51162,STANFORD,,Female,left handed,autism
+9.0821,51163,STANFORD,,Male,right handed,autism
+8.4216,51164,STANFORD,,Female,ambidextrous,autism
+11.8433,51165,STANFORD,,Male,right handed,autism
+8.3833,51166,STANFORD,,Male,right handed,autism
+11.8789,51167,STANFORD,,Female,right handed,autism
+11.2628,51168,STANFORD,,Male,left handed,autism
+9.7775,51169,STANFORD,,Male,left handed,autism
+10.8652,51170,STANFORD,,Female,right handed,autism
+12.9363,51171,STANFORD,,Male,right handed,autism
+8.7912,51172,STANFORD,,Male,right handed,autism
+7.5284,51173,STANFORD,,Male,right handed,autism
+9.9473,51174,STANFORD,,Male,right handed,autism
+8.5804,51175,STANFORD,,Male,right handed,autism
+9.271,51176,STANFORD,,Male,left handed,autism
+11.6982,51177,STANFORD,,Male,right handed,autism
+11.4326,51178,STANFORD,,Male,right handed,autism
+11.6543,51179,STANFORD,,Male,right handed,autism
+7.7502,51180,STANFORD,,Female,right handed,control
+9.3149,51181,STANFORD,,Male,right handed,control
+10.6927,51182,STANFORD,,Male,right handed,control
+8.2656,51183,STANFORD,,Male,right handed,control
+9.1068,51184,STANFORD,,Female,right handed,control
+8.2464,51185,STANFORD,,Male,right handed,control
+8.3203,51186,STANFORD,,Male,right handed,control
+8.3313,51187,STANFORD,,Male,right handed,control
+8.9747,51188,STANFORD,,Female,right handed,control
+9.2081,51189,STANFORD,,Male,right handed,control
+8.9363,51190,STANFORD,,Male,ambidextrous,control
+9.7201,51191,STANFORD,,Male,right handed,control
+10.2218,51192,STANFORD,,Female,right handed,control
+9.5202,51193,STANFORD,,Male,right handed,control
+12.3477,51194,STANFORD,,Male,right handed,control
+11.178,51195,STANFORD,,Male,right handed,control
+11.8816,51196,STANFORD,,Male,right handed,control
+12.4298,51197,STANFORD,,Male,right handed,control
+12.2546,51198,STANFORD,,Male,ambidextrous,control
+12.3833,51199,STANFORD,,Male,right handed,control
+13.52,51201,UCLA_1,autism,Male,right handed,autism
+11.56,51202,UCLA_1,autism,Male,right handed,autism
+13.37,51203,UCLA_1,autism,Male,right handed,autism
+14.57,51204,UCLA_1,autism,Male,right handed,autism
+17.94,51205,UCLA_1,autism,Male,right handed,autism
+15.78,51206,UCLA_1,autism,Male,right handed,autism
+14.11,51207,UCLA_1,autism,Female,right handed,autism
+16.98,51208,UCLA_1,autism,Male,left handed,autism
+9.99,51209,UCLA_1,autism,Male,right handed,autism
+16.56,51210,UCLA_1,autism,Male,right handed,autism
+11.27,51211,UCLA_1,autism,Male,right handed,autism
+15.66,51212,UCLA_1,autism,Male,left handed,autism
+9.11,51213,UCLA_1,autism,Male,right handed,autism
+10.41,51214,UCLA_1,autism,Male,right handed,autism
+11.56,51215,UCLA_1,autism,Female,right handed,autism
+10.54,51216,UCLA_1,autism,Male,left handed,autism
+15.22,51217,UCLA_1,autism,Male,right handed,autism
+16.87,51218,UCLA_1,autism,Male,right handed,autism
+13.93,51219,UCLA_1,autism,Female,right handed,autism
+14.74,51220,UCLA_1,autism,Male,right handed,autism
+14.58,51221,UCLA_1,autism,Male,right handed,autism
+11.81,51222,UCLA_1,autism,Male,right handed,autism
+13.31,51223,UCLA_1,autism,Male,right handed,autism
+12.99,51224,UCLA_1,autism,Male,right handed,autism
+12.33,51225,UCLA_1,autism,Male,right handed,autism
+9.26,51226,UCLA_1,autism,Female,right handed,autism
+14.53,51227,UCLA_1,autism,Male,right handed,autism
+8.36,51228,UCLA_1,autism,Female,right handed,autism
+14.59,51229,UCLA_1,autism,Male,right handed,autism
+17.53,51230,UCLA_1,autism,Female,right handed,autism
+10.28,51231,UCLA_1,autism,Male,right handed,autism
+15.79,51232,UCLA_1,autism,Male,right handed,autism
+12.75,51233,UCLA_1,autism,Male,right handed,autism
+10.91,51234,UCLA_1,autism,Male,right handed,autism
+10.67,51235,UCLA_1,autism,Male,right handed,autism
+12.42,51236,UCLA_1,autism,Male,right handed,autism
+17.4,51237,UCLA_1,autism,Male,right handed,autism
+10.85,51238,UCLA_1,autism,Male,right handed,autism
+13.67,51239,UCLA_1,autism,Male,right handed,autism
+14.96,51240,UCLA_1,autism,Male,right handed,autism
+10.9,51241,UCLA_1,autism,Male,right handed,autism
+14.14,51242,UCLA_1,autism,Female,right handed,autism
+11.69,51243,UCLA_1,autism,Male,right handed,autism
+13.09,51244,UCLA_1,autism,Male,right handed,autism
+14.98,51245,UCLA_1,autism,Male,right handed,autism
+13.1,51246,UCLA_1,autism,Male,right handed,autism
+11.97,51247,UCLA_1,autism,Male,right handed,autism
+13.5,51248,UCLA_1,autism,Male,right handed,autism
+8.49,51249,UCLA_1,autism,Male,right handed,autism
+14.88,51250,UCLA_1,control,Male,right handed,control
+12.36,51251,UCLA_1,control,Male,right handed,control
+10.99,51252,UCLA_1,control,Male,right handed,control
+11.8,51253,UCLA_1,control,Male,left handed,control
+14.44,51254,UCLA_1,control,Male,left handed,control
+14.8,51255,UCLA_1,control,Male,right handed,control
+15.04,51256,UCLA_1,control,Male,right handed,control
+13.38,51257,UCLA_1,control,Male,right handed,control
+11.55,51258,UCLA_1,control,Male,right handed,control
+11.07,51259,UCLA_1,control,Male,right handed,control
+13.66,51260,UCLA_1,control,Male,right handed,control
+17.79,51261,UCLA_1,control,Male,right handed,control
+11.56,51262,UCLA_1,control,Male,right handed,control
+16.03,51263,UCLA_1,control,Male,right handed,control
+13.46,51264,UCLA_1,control,Female,right handed,control
+15.92,51265,UCLA_1,control,Male,right handed,control
+14.03,51266,UCLA_1,control,Male,right handed,control
+11.25,51267,UCLA_1,control,Female,right handed,control
+17.78,51268,UCLA_1,control,Male,right handed,control
+14.29,51269,UCLA_1,control,Male,right handed,control
+11.08,51270,UCLA_1,control,Male,right handed,control
+12.09,51271,UCLA_1,control,Male,right handed,control
+13.41,51272,UCLA_1,control,Male,right handed,control
+12.68,51273,UCLA_1,control,Male,right handed,control
+10.96,51274,UCLA_1,control,Male,right handed,control
+15.74,51275,UCLA_1,control,Male,right handed,control
+13.85,51276,UCLA_1,control,Male,right handed,control
+12.01,51277,UCLA_1,control,Male,right handed,control
+9.21,51278,UCLA_1,control,Male,left handed,control
+13.82,51279,UCLA_1,control,Female,right handed,control
+9.5,51280,UCLA_1,control,Male,right handed,control
+11.83,51281,UCLA_1,control,Male,right handed,control
+12.73,51282,UCLA_1,control,Female,right handed,control
+16.47,51291,UCLA_2,autism,Male,right handed,autism
+12.24,51292,UCLA_2,autism,Male,right handed,autism
+13.08,51293,UCLA_2,autism,Male,right handed,autism
+11.7,51294,UCLA_2,autism,Male,right handed,autism
+10.04,51295,UCLA_2,autism,Male,left handed,autism
+11.16,51296,UCLA_2,autism,Male,right handed,autism
+14.27,51297,UCLA_2,autism,Male,left handed,autism
+10.57,51298,UCLA_2,autism,Male,right handed,autism
+14.77,51299,UCLA_2,autism,Male,right handed,autism
+14.08,51300,UCLA_2,autism,Male,left handed,autism
+13.28,51301,UCLA_2,autism,Male,right handed,autism
+10.85,51302,UCLA_2,autism,Male,right handed,autism
+13.0,51303,UCLA_2,control,Female,right handed,control
+10.53,51304,UCLA_2,control,Male,right handed,control
+12.64,51305,UCLA_2,control,Female,right handed,control
+11.66,51306,UCLA_2,control,Male,right handed,control
+12.15,51307,UCLA_2,control,Male,right handed,control
+9.79,51308,UCLA_2,control,Male,right handed,control
+11.9,51309,UCLA_2,control,Male,right handed,control
+11.7,51310,UCLA_2,control,Male,right handed,control
+11.95,51311,UCLA_2,control,Male,right handed,control
+12.9,51312,UCLA_2,control,Male,right handed,control
+13.36,51313,UCLA_2,control,Male,right handed,control
+13.12,51314,UCLA_2,control,Male,right handed,control
+13.63,51315,UCLA_2,control,Male,right handed,control
+12.66,51316,UCLA_2,control,Male,left handed,control
+12.82,51317,UCLA_2,autism,Male,right handed,autism
+19.0,51318,MAX_MUN,aspergers,Male,right handed,autism
+33.0,51319,MAX_MUN,aspergers,Male,right handed,autism
+31.0,51320,MAX_MUN,aspergers,Male,right handed,autism
+45.0,51321,MAX_MUN,aspergers,Female,right handed,autism
+29.0,51322,MAX_MUN,aspergers,Male,left handed,autism
+30.0,51323,MAX_MUN,aspergers,Male,right handed,autism
+52.0,51324,MAX_MUN,aspergers,Male,right handed,autism
+32.0,51325,MAX_MUN,aspergers,Female,left handed,autism
+42.0,51326,MAX_MUN,aspergers,Male,right handed,autism
+58.0,51327,MAX_MUN,aspergers,Male,right handed,autism
+22.0,51328,MAX_MUN,aspergers,Male,right handed,autism
+18.0,51329,MAX_MUN,aspergers,Male,right handed,autism
+45.0,51330,MAX_MUN,aspergers,Male,right handed,autism
+35.0,51331,MAX_MUN,aspergers,Male,right handed,autism
+23.0,51332,MAX_MUN,control,Male,right handed,control
+24.0,51333,MAX_MUN,control,Male,right handed,control
+27.0,51334,MAX_MUN,control,Male,right handed,control
+23.0,51335,MAX_MUN,control,Male,right handed,control
+26.0,51336,MAX_MUN,control,Male,right handed,control
+30.0,51338,MAX_MUN,control,Male,right handed,control
+29.0,51339,MAX_MUN,control,Male,right handed,control
+29.0,51340,MAX_MUN,control,Male,right handed,control
+29.0,51341,MAX_MUN,control,Male,right handed,control
+23.0,51342,MAX_MUN,control,Male,right handed,control
+30.0,51343,MAX_MUN,control,Male,right handed,control
+22.0,51344,MAX_MUN,control,Male,right handed,control
+35.0,51345,MAX_MUN,control,Male,right handed,control
+25.0,51346,MAX_MUN,control,Male,right handed,control
+24.0,51347,MAX_MUN,control,Male,right handed,control
+8.0,51348,MAX_MUN,aspergers,Male,right handed,autism
+11.0,51349,MAX_MUN,aspergers,Male,right handed,autism
+11.0,51350,MAX_MUN,autism,Male,right handed,autism
+11.0,51351,MAX_MUN,autism,Male,right handed,autism
+9.0,51352,MAX_MUN,aspergers,Male,right handed,autism
+7.0,51353,MAX_MUN,aspergers,Male,right handed,autism
+12.0,51354,MAX_MUN,aspergers,Male,right handed,autism
+11.0,51355,MAX_MUN,aspergers,Male,right handed,autism
+10.0,51356,MAX_MUN,control,Male,right handed,control
+11.0,51357,MAX_MUN,control,Male,right handed,control
+10.0,51358,MAX_MUN,control,Male,right handed,control
+13.0,51359,MAX_MUN,control,Male,right handed,control
+7.0,51360,MAX_MUN,control,Male,right handed,control
+16.0,51361,MAX_MUN,control,Male,right handed,control
+33.0,51362,MAX_MUN,control,Male,right handed,control
+32.0,51363,MAX_MUN,control,Male,right handed,control
+26.0,51364,MAX_MUN,control,Male,right handed,control
+23.0,51365,MAX_MUN,control,Male,right handed,control
+32.0,51366,MAX_MUN,control,Female,right handed,control
+21.0,51367,MAX_MUN,control,Male,right handed,control
+28.0,51368,MAX_MUN,control,Female,right handed,control
+32.0,51369,MAX_MUN,control,Male,right handed,control
+32.0,51370,MAX_MUN,control,Female,right handed,control
+48.0,51371,MAX_MUN,control,Male,right handed,control
+46.0,51372,MAX_MUN,control,Female,right handed,control
+46.0,51373,MAX_MUN,control,Male,right handed,control
+55.4,51456,CALTECH,aspergers or pervasive developmental disorder not otherwise specified,Male,right handed,autism
+22.9,51457,CALTECH,aspergers or pervasive developmental disorder not otherwise specified,Male,ambidextrous,autism
+39.2,51458,CALTECH,autism,Male,right handed,autism
+22.8,51459,CALTECH,autism,Male,right handed,autism
+34.6,51460,CALTECH,autism,Female,ambidextrous,autism
+37.7,51461,CALTECH,aspergers or pervasive developmental disorder not otherwise specified,Male,right handed,autism
+20.2,51462,CALTECH,autism,Female,right handed,autism
+20.2,51463,CALTECH,autism,Female,right handed,autism
+20.9,51464,CALTECH,autism,Male,ambidextrous,autism
+20.2,51465,CALTECH,autism,Male,right handed,autism
+27.6,51466,CALTECH,autism,Male,ambidextrous,autism
+23.4,51467,CALTECH,autism,Male,right handed,autism
+20.1,51468,CALTECH,autism,Male,right handed,autism
+45.1,51469,CALTECH,aspergers or pervasive developmental disorder not otherwise specified,Male,right handed,autism
+29.1,51470,CALTECH,aspergers or pervasive developmental disorder not otherwise specified,Male,right handed,autism
+22.4,51471,CALTECH,aspergers or pervasive developmental disorder not otherwise specified,Female,right handed,autism
+17.5,51472,CALTECH,autism,Male,ambidextrous,autism
+21.2,51473,CALTECH,autism,Male,right handed,autism
+20.9,51474,CALTECH,autism,Male,right handed,autism
+44.2,51475,CALTECH,control,Male,right handed,control
+39.3,51476,CALTECH,control,Male,right handed,control
+42.5,51477,CALTECH,control,Male,right handed,control
+19.7,51478,CALTECH,control,Male,right handed,control
+20.0,51479,CALTECH,control,Female,right handed,control
+20.8,51480,CALTECH,control,Female,right handed,control
+27.9,51481,CALTECH,control,Male,right handed,control
+21.1,51482,CALTECH,control,Female,right handed,control
+20.9,51483,CALTECH,control,Male,ambidextrous,control
+23.6,51484,CALTECH,control,Male,right handed,control
+23.9,51485,CALTECH,control,Male,right handed,control
+22.0,51486,CALTECH,control,Male,ambidextrous,control
+17.0,51487,CALTECH,control,Male,right handed,control
+23.3,51488,CALTECH,control,Male,left handed,control
+34.1,51489,CALTECH,control,Male,right handed,control
+44.1,51490,CALTECH,control,Male,right handed,control
+56.2,51491,CALTECH,control,Male,right handed,control
+18.7,51492,CALTECH,control,Male,ambidextrous,control
+29.2,51493,CALTECH,control,Female,right handed,control
+20.0,51556,SBL,control,Male,,control
+26.0,51557,SBL,control,Male,,control
+27.0,51558,SBL,control,Male,,control
+27.0,51559,SBL,control,Male,,control
+27.0,51560,SBL,control,Male,,control
+36.0,51561,SBL,control,Male,,control
+37.0,51562,SBL,control,Male,,control
+38.0,51563,SBL,control,Male,,control
+39.0,51564,SBL,control,Male,,control
+39.0,51565,SBL,control,Male,,control
+41.0,51566,SBL,control,Male,,control
+34.0,51567,SBL,control,Male,,control
+37.0,51568,SBL,control,Male,,control
+36.0,51569,SBL,control,Male,,control
+42.0,51570,SBL,control,Male,,control
+22.0,51571,SBL,autism,Male,,autism
+28.0,51572,SBL,aspergers,Male,,autism
+30.0,51573,SBL,pervasive developmental disorder not otherwise specified,Male,left handed,autism
+30.0,51574,SBL,aspergers,Male,,autism
+31.0,51575,SBL,aspergers,Male,,autism
+31.0,51576,SBL,pervasive developmental disorder not otherwise specified,Male,,autism
+31.0,51577,SBL,pervasive developmental disorder not otherwise specified,Male,,autism
+33.0,51578,SBL,aspergers,Male,,autism
+41.0,51579,SBL,pervasive developmental disorder not otherwise specified,Male,,autism
+42.0,51580,SBL,pervasive developmental disorder not otherwise specified,Male,,autism
+64.0,51581,SBL,pervasive developmental disorder not otherwise specified,Male,,autism
+31.0,51582,SBL,aspergers,Male,,autism
+35.0,51583,SBL,aspergers,Male,,autism
+49.0,51584,SBL,aspergers,Male,,autism
+27.0,51585,SBL,autism,Male,,autism
+29.0,51606,MAX_MUN,aspergers,Female,right handed,autism
+26.0,51607,MAX_MUN,aspergers,Male,right handed,autism

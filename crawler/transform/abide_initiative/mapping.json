@@ -4,20 +4,24 @@
     "SUB_ID":
     {
       "element": "participant_id",
+      "type": "identifier"
     },
     "SITE_ID":
     {
       "element": "site_id",
+      "type": "identifier"
     },
     "DX_GROUP":
     {
       "element": "diagnosis",
+      "type": "category",
       "1": "autism",
       "2": "control"
     },
     "DSM_IV_TR":
     {
       "element": "dsm_iv_tr",
+      "type": "category",
       "0": "control",
       "1": "autism",
       "2": "aspergers",
@@ -27,17 +31,20 @@
     },
     "AGE_AT_SCAN":
     {
-      "element": "age_in_years"
+      "element": "age_in_years",
+      "type": "number"
     },
     "SEX":
     {
       "element": "sex",
+      "type": "category",
       "1": "Male",
       "2": "Female"
     },
     "HANDEDNESS_CATEGORY":
     {
       "element": "handedness",
+      "type": "category",
       "R": "right handed",
       "L": "left handed",
       "Ambi": "ambidextrous",
