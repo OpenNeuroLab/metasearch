@@ -1,33 +1,33 @@
 {
-  "SUB_ID":
+  "ScanDir ID":
   {
     "element": "participant_id",
     "type": "identifier"
   },
-  "SITE_ID":
+  "Site":
   {
     "element": "site_id",
-    "type": "identifier"
+    "type": "category",
+    "1": "peking university",
+    "2": "brown university",
+    "3": "kennedy krieger institute",
+    "4": "neuroimage sample":
+    "5": "nyu child study center",
+    "6": "ohsu",
+    "7": "university of pittsburg",
+    "8": "washu in st louis"
   },
-  "DX_GROUP":
+  "DX":
   {
     "element": "diagnosis",
     "type": "category",
-    "1": "autism",
-    "2": "control"
-  },
-  "DSM_IV_TR":
-  {
-    "element": "dsm_iv_tr",
-    "type": "category",
     "0": "control",
-    "1": "autism",
-    "2": "aspergers",
-    "3": "pdd-nos",
-    "4": "aspergers pdd-nos",
-    "-9999": null
+    "1": "adhd-combined",
+    "2": "adhd-hyperactive",
+    "3": "adhd-inattentive",
+    "pending": null
   },
-  "AGE_AT_SCAN":
+  "AGE":
   {
     "element": "age",
     "type": "number"
@@ -37,32 +37,30 @@
     "element": "sex",
     "type": "category",
     "1": "Male",
-    "2": "Female"
+    "0": "Female"
   },
   "HANDEDNESS_CATEGORY":
   {
     "element": "handedness",
     "type": "category",
-    "R": "right handed",
-    "L": "left handed",
-    "Ambi": "ambidextrous",
-    "Mixed": "ambidextrous",
-    "L->R": "ambidextrous",
+    "1": "right handed",
+    "0": "left handed",
+    "2": "ambidextrous",
     "-9999": null
   },
-  "FIQ":
+  "Full4 IQ":
   {
     "element": "full iq",
     "type": "number",
     "-9999": null
   },
-  "VIQ":
+  "Verbal IQ":
   {
     "element": "verbal iq",
     "type": "number",
     "-9999": null
   },
-  "PIQ":
+  "Performance IQ":
   {
     "element": "performance iq",
     "type": "number",
