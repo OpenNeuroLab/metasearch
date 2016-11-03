@@ -1,4 +1,4 @@
-fiq,age_in_years,participant_id,site_id,dsm_iv_tr,sex,viq,handedness,diagnosis,piq
+full iq,age,participant_id,site_id,dsm_iv_tr,sex,verbal iq,handedness,diagnosis,performance iq
 103.0,16.77,50002,PITT,autism,Male,116.0,ambidextrous,autism,89.0
 124.0,24.45,50003,PITT,autism,Male,128.0,right handed,autism,115.0
 113.0,19.09,50004,PITT,autism,Male,108.0,right handed,autism,117.0

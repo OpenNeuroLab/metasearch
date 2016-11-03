@@ -11,7 +11,7 @@
     "1": "peking university",
     "2": "brown university",
     "3": "kennedy krieger institute",
-    "4": "neuroimage sample":
+    "4": "neuroimage sample",
     "5": "nyu child study center",
     "6": "ohsu",
     "7": "university of pittsburg",
@@ -27,19 +27,19 @@
     "3": "adhd-inattentive",
     "pending": null
   },
-  "AGE":
+  "Age":
   {
     "element": "age",
     "type": "number"
   },
-  "SEX":
+  "Gender":
   {
     "element": "sex",
     "type": "category",
     "1": "Male",
     "0": "Female"
   },
-  "HANDEDNESS_CATEGORY":
+  "Handedness":
   {
     "element": "handedness",
     "type": "category",
