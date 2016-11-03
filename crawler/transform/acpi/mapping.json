@@ -1,0 +1,35 @@
+{
+  "acpi_aggregated_phenotypic_data.csv":
+  {
+    "ID":
+    {
+      "element": "participant_id",
+      "type": "identifier"
+    },
+    "DATASET":
+    {
+      "element": "site_id",
+      "type": "identifier"
+    },
+    "AGE_AT_SCAN_1":
+    {
+      "element": "age_in_years",
+      "type": "number"
+    },
+    "SEX":
+    {
+      "element": "sex",
+      "type": "category",
+      "2": "Male",
+      "1": "Female"
+    },
+    "HANDEDNESS":
+    {
+      "element": "handedness",
+      "type": "category",
+      "1": "right handed",
+      "2": "left handed",
+      "3": "ambidextrous"
+    }
+  }
+}
