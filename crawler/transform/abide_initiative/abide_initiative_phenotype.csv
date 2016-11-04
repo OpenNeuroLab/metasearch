@@ -1,1113 +1,1113 @@
-full iq,age,participant_id,site_id,dsm_iv_tr,sex,verbal iq,handedness,diagnosis,performance iq
-103.0,16.77,50002,PITT,autism,Male,116.0,ambidextrous,autism,89.0
-124.0,24.45,50003,PITT,autism,Male,128.0,right handed,autism,115.0
-113.0,19.09,50004,PITT,autism,Male,108.0,right handed,autism,117.0
-119.0,13.73,50005,PITT,autism,Female,117.0,right handed,autism,118.0
-109.0,13.37,50006,PITT,autism,Male,99.0,left handed,autism,119.0
-110.0,17.78,50007,PITT,autism,Male,106.0,right handed,autism,112.0
-123.0,32.45,50008,PITT,autism,Male,123.0,right handed,autism,114.0
-126.0,33.86,50009,PITT,autism,Male,118.0,right handed,autism,128.0
-81.0,35.2,50010,PITT,autism,Male,81.0,left handed,autism,93.0
-111.0,16.93,50011,PITT,autism,Male,101.0,left handed,autism,120.0
-128.0,21.48,50012,PITT,autism,Male,119.0,right handed,autism,128.0
-86.0,9.33,50013,PITT,autism,Male,89.0,right handed,autism,87.0
-96.0,14.2,50014,PITT,autism,Male,97.0,right handed,autism,96.0
-99.0,14.2,50015,PITT,autism,Male,98.0,right handed,autism,99.0
-123.0,21.82,50016,PITT,autism,Male,120.0,right handed,autism,119.0
-87.0,22.7,50017,PITT,autism,Male,91.0,right handed,autism,86.0
-100.0,27.81,50019,PITT,autism,Male,89.0,right handed,autism,111.0
-100.0,20.83,50020,PITT,autism,Male,120.0,right handed,autism,83.0
-119.0,16.99,50022,PITT,autism,Male,110.0,right handed,autism,110.0
-97.0,12.64,50023,PITT,autism,Female,83.0,right handed,autism,111.0
-127.0,22.64,50024,PITT,autism,Male,121.0,right handed,autism,126.0
-131.0,31.72,50025,PITT,autism,Male,132.0,right handed,autism,123.0
-87.0,16.28,50026,PITT,autism,Male,90.0,right handed,autism,88.0
-98.0,12.24,50027,PITT,autism,Male,98.0,right handed,autism,98.0
-126.0,12.74,50028,PITT,autism,Male,112.0,right handed,autism,128.0
-106.0,11.4,50029,PITT,autism,Female,109.0,right handed,autism,100.0
-105.0,25.12,50030,PITT,control,Male,100.0,,control,108.0
-106.0,12.92,50031,PITT,control,Male,102.0,right handed,control,107.0
-119.0,19.8,50032,PITT,control,Male,116.0,right handed,control,119.0
-98.0,12.15,50033,PITT,control,Male,98.0,right handed,control,96.0
-97.0,14.77,50034,PITT,control,Male,98.0,right handed,control,96.0
-107.0,17.36,50035,PITT,control,Male,109.0,right handed,control,102.0
-103.0,13.28,50036,PITT,control,Female,94.0,right handed,control,112.0
-115.0,19.16,50037,PITT,control,Male,112.0,right handed,control,115.0
-130.0,13.95,50038,PITT,control,Female,132.0,right handed,control,121.0
-118.0,30.66,50039,PITT,control,Male,110.0,right handed,control,123.0
-110.0,24.6,50040,PITT,control,Male,109.0,right handed,control,108.0
-103.0,27.92,50041,PITT,control,Male,108.0,right handed,control,96.0
-109.0,33.17,50042,PITT,control,Male,111.0,right handed,control,104.0
-113.0,13.78,50043,PITT,control,Male,115.0,right handed,control,107.0
-110.0,17.13,50044,PITT,control,Male,117.0,right handed,control,102.0
-114.0,15.7,50045,PITT,control,Male,115.0,right handed,control,109.0
-100.0,20.65,50046,PITT,control,Male,88.0,right handed,control,111.0
-103.0,15.35,50047,PITT,control,Male,95.0,right handed,control,109.0
-107.0,11.81,50048,PITT,control,Male,98.0,right handed,control,117.0
-100.0,15.82,50049,PITT,control,Female,96.0,right handed,control,103.0
-113.0,14.37,50050,PITT,control,Male,104.0,left handed,control,121.0
-107.0,12.83,50051,PITT,control,Male,101.0,right handed,control,110.0
-122.0,33.24,50052,PITT,control,Male,123.0,right handed,control,115.0
-122.0,12.03,50053,PITT,autism,Male,119.0,right handed,autism,119.0
-95.0,9.44,50054,PITT,control,Male,99.0,right handed,control,90.0
-111.0,16.99,50055,PITT,autism,Male,108.0,right handed,autism,112.0
-113.0,13.59,50056,PITT,autism,Male,101.0,right handed,autism,125.0
-124.0,12.62,50057,PITT,autism,Female,115.0,right handed,autism,128.0
-127.0,23.1,50058,PITT,control,Male,128.0,right handed,control,119.0
-117.0,21.22,50059,PITT,control,Female,109.0,right handed,control,121.0
-126.0,20.34,50060,PITT,control,Male,122.0,right handed,control,119.0
-103.0,14.0,50102,OLIN,control,Male,,right handed,control,
-106.0,14.0,50103,OLIN,control,Male,,right handed,control,
-125.0,16.0,50104,OLIN,control,Male,,right handed,control,
-100.0,17.0,50105,OLIN,control,Male,,right handed,control,
-129.0,10.0,50106,OLIN,control,Male,,right handed,control,
-132.0,21.0,50107,OLIN,control,Male,,right handed,control,
-131.0,21.0,50108,OLIN,control,Male,,right handed,control,
-102.0,20.0,50109,OLIN,control,Male,,right handed,control,
-79.0,13.0,50110,OLIN,control,Male,,right handed,control,
-118.0,14.0,50111,OLIN,control,Male,,right handed,control,
-102.0,17.0,50112,OLIN,control,Male,,right handed,control,
-100.0,15.0,50113,OLIN,control,Female,,right handed,control,
-127.0,20.0,50114,OLIN,control,Female,,right handed,control,
-135.0,23.0,50115,OLIN,control,Male,,left handed,control,
-115.0,15.0,50116,OLIN,control,Male,,right handed,control,
-135.0,21.0,50117,OLIN,control,Male,,left handed,control,
-80.0,15.0,50118,OLIN,control,Male,,right handed,autism,
-132.0,19.0,50119,OLIN,control,Female,,right handed,autism,
-103.0,15.0,50120,OLIN,control,Male,,right handed,autism,
-118.0,20.0,50121,OLIN,control,Male,,right handed,autism,
-112.0,12.0,50122,OLIN,control,Male,,left handed,autism,
-135.0,17.0,50123,OLIN,control,Male,,right handed,autism,
-100.0,18.0,50124,OLIN,control,Male,,right handed,autism,
--9999.0,24.0,50125,OLIN,control,Female,,right handed,autism,
-133.0,17.0,50126,OLIN,control,Male,,right handed,autism,
-115.0,14.0,50127,OLIN,control,Female,,right handed,autism,
-114.0,16.0,50128,OLIN,control,Male,,right handed,autism,
-108.0,12.0,50129,OLIN,control,Male,,right handed,autism,
-129.0,18.0,50130,OLIN,control,Male,,right handed,autism,
-71.0,21.0,50131,OLIN,control,Male,,left handed,autism,
--9999.0,16.0,50132,OLIN,control,Male,,right handed,autism,
-112.0,11.0,50133,OLIN,control,Male,,right handed,autism,
-124.0,18.0,50134,OLIN,control,Male,,left handed,autism,
-97.0,12.0,50135,OLIN,control,Male,,left handed,autism,
-131.0,19.0,50136,OLIN,control,Male,,right handed,autism,
-120.0,20.0,50137,OLIN,control,Male,,right handed,autism,
-124.0,13.99,50142,OHSU,,Male,,left handed,autism,
-130.0,13.79,50143,OHSU,,Male,,right handed,autism,
-110.0,10.22,50144,OHSU,,Male,,right handed,autism,
-82.0,10.75,50145,OHSU,,Male,,right handed,autism,
-132.0,8.0,50146,OHSU,,Male,,right handed,autism,
-128.0,11.35,50147,OHSU,,Male,,right handed,autism,
-69.6,12.65,50148,OHSU,,Male,,right handed,autism,
-107.6,12.32,50149,OHSU,,Male,,right handed,autism,
-77.2,9.42,50150,OHSU,,Male,,right handed,autism,
-105.7,9.73,50152,OHSU,,Male,,right handed,autism,
-100.0,9.72,50153,OHSU,,Male,,right handed,autism,
--9999.0,14.42,50155,OHSU,,Male,,right handed,autism,
--9999.0,15.23,50156,OHSU,,Male,,right handed,autism,
-104.0,10.5,50157,OHSU,,Male,,right handed,control,
-106.0,11.55,50158,OHSU,,Male,,right handed,control,
-132.0,10.29,50159,OHSU,,Male,,right handed,control,
-112.0,11.45,50160,OHSU,,Male,,right handed,control,
-104.0,9.15,50161,OHSU,,Male,,right handed,control,
-120.0,8.94,50162,OHSU,,Male,,right handed,control,
-118.7,9.4,50163,OHSU,,Male,,right handed,control,
-122.0,8.86,50164,OHSU,,Male,,right handed,control,
-126.0,9.69,50165,OHSU,,Male,,right handed,control,
-126.0,8.2,50166,OHSU,,Male,,right handed,control,
-115.2,10.08,50167,OHSU,,Male,,right handed,control,
-105.7,9.69,50168,OHSU,,Male,,right handed,control,
-130.0,11.99,50169,OHSU,,Male,,right handed,control,
-94.0,10.53,50170,OHSU,,Male,,right handed,control,
-120.0,10.64,50171,OHSU,,Male,,right handed,control,
-115.0,16.61,50182,SDSU,aspergers,Male,113.0,right handed,autism,114.0
-139.0,14.14,50183,SDSU,autism,Male,128.0,right handed,autism,140.0
-141.0,17.15,50184,SDSU,aspergers,Male,147.0,right handed,autism,126.0
-94.0,12.44,50185,SDSU,autism,Female,88.0,right handed,autism,101.0
-112.0,12.13,50186,SDSU,aspergers,Male,109.0,right handed,autism,110.0
-113.0,16.48,50187,SDSU,aspergers,Male,119.0,right handed,autism,104.0
-126.0,15.4,50188,SDSU,,Male,116.0,right handed,autism,129.0
-115.0,16.64,50189,SDSU,aspergers,Male,109.0,right handed,autism,117.0
-124.0,13.99,50190,SDSU,aspergers,Male,125.0,right handed,autism,118.0
-114.0,12.63,50191,SDSU,,Male,125.0,right handed,autism,101.0
-85.0,12.99,50192,SDSU,autism,Male,93.0,right handed,autism,81.0
-112.0,14.75,50193,SDSU,control,Male,108.0,right handed,control,114.0
-110.0,13.35,50194,SDSU,control,Male,104.0,left handed,control,116.0
-123.0,12.58,50195,SDSU,control,Male,111.0,right handed,control,129.0
-110.0,12.91,50196,SDSU,control,Male,116.0,right handed,control,103.0
-109.0,14.98,50197,SDSU,control,Male,109.0,right handed,control,106.0
-121.0,15.28,50198,SDSU,control,Male,117.0,right handed,control,120.0
-100.0,15.53,50199,SDSU,control,Male,107.0,right handed,control,92.0
-108.0,13.88,50200,SDSU,control,Male,107.0,right handed,control,106.0
-98.0,13.77,50201,SDSU,control,Female,106.0,right handed,control,90.0
-100.0,12.08,50202,SDSU,control,Male,87.0,right handed,control,114.0
-117.0,16.05,50203,SDSU,control,Male,117.0,left handed,control,114.0
-100.0,14.86,50204,SDSU,control,Male,89.0,right handed,control,110.0
-109.0,14.1,50205,SDSU,control,Female,105.0,right handed,control,112.0
-112.0,8.67,50206,SDSU,control,Female,119.0,right handed,control,103.0
-81.0,16.06,50207,SDSU,pdd-nos,Male,83.0,right handed,autism,84.0
-93.0,13.78,50208,SDSU,control,Female,103.0,right handed,control,86.0
-126.0,16.57,50209,SDSU,control,Male,126.0,left handed,control,120.0
-123.0,16.6,50210,SDSU,control,Male,114.0,right handed,control,126.0
-105.0,16.13,50211,SDSU,control,Male,112.0,right handed,control,96.0
-100.0,13.81,50212,SDSU,aspergers,Male,88.0,left handed,autism,112.0
-88.0,12.38,50213,SDSU,control,Female,93.0,right handed,control,88.0
-93.0,14.76,50214,SDSU,control,Male,87.0,right handed,control,101.0
-117.0,16.88,50215,SDSU,control,Female,110.0,right handed,control,120.0
-100.0,15.6,50216,SDSU,pdd-nos,Male,99.0,right handed,autism,99.0
-104.0,12.9,50217,SDSU,control,Male,100.0,right handed,control,106.0
-115.0,23.08,50232,TRINITY,pdd-nos,Male,123.0,right handed,autism,103.0
-135.0,20.75,50233,TRINITY,pdd-nos,Male,131.0,right handed,autism,131.0
-111.0,15.66,50234,TRINITY,pdd-nos,Male,104.0,right handed,autism,117.0
-119.0,15.33,50235,TRINITY,pdd-nos,Male,122.0,right handed,autism,111.0
-118.0,19.16,50236,TRINITY,pdd-nos,Male,109.0,right handed,autism,123.0
-118.0,21.42,50237,TRINITY,pdd-nos,Male,109.0,right handed,autism,116.0
-120.0,18.92,50238,TRINITY,pdd-nos,Male,129.0,right handed,autism,108.0
-97.0,17.03,50239,TRINITY,autism,Male,92.0,right handed,autism,102.0
-132.0,15.05,50240,TRINITY,aspergers,Male,135.0,right handed,autism,121.0
-89.0,17.17,50241,TRINITY,autism,Male,95.0,right handed,autism,87.0
-117.0,12.75,50242,TRINITY,autism,Male,116.0,right handed,autism,117.0
-90.0,13.75,50243,TRINITY,autism,Male,98.0,right handed,autism,88.0
-106.0,25.91,50244,TRINITY,aspergers,Male,103.0,right handed,autism,106.0
-72.0,21.58,50245,TRINITY,autism,Male,85.0,right handed,autism,63.0
-105.0,19.5,50246,TRINITY,autism,Male,108.0,right handed,autism,99.0
-103.0,12.0,50247,TRINITY,aspergers,Male,99.0,right handed,autism,
-117.0,13.58,50248,TRINITY,autism,Male,112.0,right handed,autism,117.0
-98.0,13.83,50249,TRINITY,autism,Male,98.0,right handed,autism,99.0
-99.0,13.91,50250,TRINITY,autism,Male,99.0,right handed,autism,98.0
-122.0,17.25,50251,TRINITY,autism,Male,119.0,right handed,autism,119.0
-94.0,15.25,50252,TRINITY,aspergers,Male,87.0,right handed,autism,102.0
-99.0,18.01,50253,TRINITY,aspergers,Male,90.0,right handed,autism,106.0
-121.0,19.41,50254,TRINITY,aspergers,Male,123.0,right handed,autism,114.0
-125.0,14.41,50255,TRINITY,aspergers,Male,119.0,right handed,autism,126.0
-113.0,14.91,50257,TRINITY,control,Male,105.0,right handed,control,120.0
-114.0,19.83,50259,TRINITY,control,Male,118.0,right handed,control,107.0
-116.0,20.33,50260,TRINITY,control,Male,119.0,right handed,control,116.0
-116.0,20.08,50261,TRINITY,control,Male,113.0,right handed,control,116.0
-133.0,21.33,50262,TRINITY,control,Male,127.0,right handed,control,132.0
-117.0,19.08,50263,TRINITY,control,Male,119.0,right handed,control,110.0
-120.0,25.66,50264,TRINITY,control,Male,115.0,right handed,control,120.0
-101.0,12.25,50265,TRINITY,control,Male,97.0,right handed,control,105.0
-116.0,15.91,50266,TRINITY,control,Male,118.0,right handed,control,109.0
-116.0,17.5,50267,TRINITY,control,Male,114.0,right handed,control,115.0
-96.0,14.41,50268,TRINITY,control,Male,107.0,right handed,control,86.0
-113.0,14.66,50269,TRINITY,control,Male,110.0,right handed,control,112.0
-99.0,19.33,50270,TRINITY,control,Male,98.0,right handed,control,99.0
-105.0,19.66,50271,TRINITY,control,Male,96.0,right handed,control,114.0
-98.5,14.2,50272,UM_1,autism,Male,100.0,right handed,autism,97.0
-112.5,16.8,50273,UM_1,autism,Male,109.0,right handed,autism,116.0
-111.5,14.2,50274,UM_1,autism,Male,106.0,right handed,autism,117.0
-85.0,11.5,50275,UM_1,autism,Male,106.0,left handed,autism,64.0
-146.5,16.8,50276,UM_1,autism,Female,145.0,,autism,148.0
-107.5,15.4,50277,UM_1,autism,Male,96.0,left handed,autism,119.0
-107.5,11.3,50278,UM_1,autism,Female,93.0,right handed,autism,122.0
-87.5,12.2,50279,UM_1,autism,Male,75.0,right handed,autism,100.0
-85.0,15.6,50280,UM_1,autism,Male,81.0,,autism,89.0
-132.0,10.7,50281,UM_1,aspergers,Male,131.0,right handed,autism,133.0
-121.0,15.2,50282,UM_1,autism,Male,118.0,,autism,124.0
-97.5,11.2,50283,UM_1,autism,Male,91.0,right handed,autism,104.0
-111.0,11.2,50284,UM_1,aspergers,Female,113.0,right handed,autism,109.0
-99.5,12.8,50285,UM_1,autism,Female,94.0,right handed,autism,105.0
-130.5,11.2,50286,UM_1,aspergers,Male,139.0,right handed,autism,122.0
-96.5,14.4,50287,UM_1,autism,Male,90.0,left handed,autism,103.0
-105.0,11.1,50288,UM_1,autism,Male,104.0,right handed,autism,106.0
-105.0,12.9,50289,UM_1,aspergers,Male,100.0,left handed,autism,110.0
-108.5,14.0,50290,UM_1,autism,Male,103.0,right handed,autism,114.0
-96.0,13.9,50291,UM_1,autism,Male,98.0,right handed,autism,94.0
-89.5,12.6,50292,UM_1,autism,Male,91.0,right handed,autism,88.0
--9999.0,12.4,50293,UM_1,autism,Male,126.0,right handed,autism,-9999.0
-103.0,12.6,50294,UM_1,aspergers,Male,110.0,right handed,autism,96.0
-135.0,11.5,50295,UM_1,autism,Male,133.0,right handed,autism,137.0
-89.0,15.1,50296,UM_1,autism,Male,78.0,right handed,autism,100.0
-125.5,15.9,50297,UM_1,,Male,141.0,right handed,autism,110.0
-101.0,12.8,50298,UM_1,autism,Male,121.0,right handed,autism,81.0
-87.5,12.2,50299,UM_1,autism,Male,96.0,right handed,autism,79.0
-90.0,9.7,50300,UM_1,pdd-nos,Female,99.0,right handed,autism,81.0
-97.0,16.1,50301,UM_1,autism,Male,101.0,left handed,autism,93.0
-97.0,10.4,50302,UM_1,,Female,109.0,right handed,autism,85.0
-84.0,11.6,50303,UM_1,autism,Male,75.0,right handed,autism,93.0
-96.5,11.0,50304,UM_1,autism,Male,99.0,,autism,94.0
-85.0,10.9,50305,UM_1,autism,Male,103.0,right handed,autism,67.0
-76.0,8.5,50306,UM_1,autism,Male,86.0,right handed,autism,66.0
-81.5,9.7,50307,UM_1,autism,Male,87.0,ambidextrous,autism,76.0
-113.0,8.9,50308,UM_1,autism,Male,113.0,,autism,113.0
-81.5,9.5,50309,UM_1,autism,Female,81.0,,autism,82.0
-78.5,9.7,50310,UM_1,autism,Male,82.0,right handed,autism,75.0
-89.0,9.8,50311,UM_1,autism,Male,96.0,,autism,82.0
-91.0,11.2,50312,UM_1,autism,Male,97.0,right handed,autism,85.0
-101.0,13.4,50313,UM_1,autism,Male,109.0,right handed,autism,93.0
-126.0,16.1,50314,UM_1,aspergers,Male,127.0,right handed,autism,125.0
-118.5,13.4,50315,UM_1,autism,Male,126.0,right handed,autism,111.0
-109.0,11.8,50316,UM_1,autism,Male,125.0,right handed,autism,93.0
-115.0,9.8,50317,UM_1,autism,Male,117.0,right handed,autism,113.0
-147.5,9.2,50318,UM_1,autism,Male,180.0,left handed,autism,115.0
-126.0,15.0,50319,UM_1,autism,Female,125.0,right handed,autism,127.0
-108.0,18.6,50320,UM_1,autism,Male,89.0,right handed,autism,127.0
-98.5,18.0,50321,UM_1,autism,Female,116.0,right handed,autism,81.0
-92.5,12.4,50322,UM_1,autism,Male,103.0,right handed,autism,82.0
-125.0,14.2,50323,UM_1,autism,Male,135.0,right handed,autism,115.0
-124.5,13.8,50324,UM_1,autism,Male,136.0,right handed,autism,113.0
-77.0,13.1,50325,UM_1,aspergers,Male,95.0,right handed,autism,59.0
-79.0,12.0,50326,UM_1,autism,Male,88.0,right handed,autism,70.0
-111.0,15.3,50327,UM_1,control,Male,107.0,left handed,control,115.0
-91.5,17.4,50328,UM_1,control,Male,87.0,right handed,control,96.0
-100.0,17.1,50329,UM_1,control,Male,107.0,right handed,control,93.0
-120.0,16.1,50330,UM_1,control,Male,147.0,right handed,control,93.0
--9999.0,17.2,50331,UM_1,control,Male,138.0,left handed,control,-9999.0
-103.5,10.4,50332,UM_1,control,Male,121.0,right handed,control,86.0
-100.5,10.2,50333,UM_1,control,Male,101.0,right handed,control,100.0
-108.0,11.0,50334,UM_1,control,Male,108.0,right handed,control,108.0
-108.0,17.8,50335,UM_1,control,Male,120.0,right handed,control,96.0
-108.0,14.3,50336,UM_1,control,Female,113.0,right handed,control,103.0
-112.0,11.8,50337,UM_1,control,Male,126.0,right handed,control,98.0
-106.5,13.5,50338,UM_1,control,Female,111.0,right handed,control,102.0
--9999.0,18.0,50339,UM_1,control,Male,119.0,right handed,control,-9999.0
-110.0,16.1,50340,UM_1,control,Female,110.0,right handed,control,110.0
--9999.0,18.2,50341,UM_1,control,Female,123.0,right handed,control,-9999.0
-103.5,12.6,50342,UM_1,control,Male,107.0,right handed,control,100.0
-124.5,13.8,50343,UM_1,control,Female,136.0,right handed,control,113.0
-121.5,18.2,50344,UM_1,control,Male,126.0,right handed,control,117.0
-118.5,17.3,50345,UM_1,control,Male,122.0,right handed,control,115.0
-115.5,18.9,50346,UM_1,control,Male,120.0,right handed,control,111.0
-122.0,15.6,50347,UM_1,control,Male,129.0,right handed,control,115.0
-112.5,19.2,50348,UM_1,control,Female,114.0,right handed,control,111.0
-111.0,18.9,50349,UM_1,control,Male,116.0,right handed,control,106.0
-109.5,12.4,50350,UM_1,control,Male,109.0,right handed,control,110.0
-116.0,16.8,50351,UM_1,control,Male,107.0,right handed,control,125.0
-113.5,15.5,50352,UM_1,control,Male,121.0,left handed,control,106.0
-89.0,13.1,50353,UM_1,control,Female,96.0,right handed,control,82.0
-103.0,14.0,50354,UM_1,control,Female,110.0,right handed,control,96.0
-127.5,10.9,50355,UM_1,control,Male,138.0,right handed,control,117.0
-92.5,17.2,50356,UM_1,control,Female,86.0,left handed,control,99.0
-92.5,9.5,50357,UM_1,control,Female,103.0,right handed,control,82.0
-99.5,9.8,50358,UM_1,control,Male,106.0,right handed,control,93.0
-85.0,10.4,50359,UM_1,control,Male,95.0,right handed,control,75.0
-113.5,13.9,50360,UM_1,control,Male,119.0,right handed,control,108.0
-106.5,18.3,50361,UM_1,control,Female,100.0,,control,113.0
-108.0,11.2,50362,UM_1,control,Male,106.0,left handed,control,110.0
-104.5,9.8,50363,UM_1,control,Male,103.0,right handed,control,106.0
-97.0,10.8,50364,UM_1,control,Male,102.0,right handed,control,92.0
-106.5,15.6,50365,UM_1,control,Male,98.0,left handed,control,115.0
-102.0,8.2,50366,UM_1,control,Male,114.0,,control,90.0
-105.0,10.8,50367,UM_1,control,Male,112.0,,control,98.0
-118.5,17.9,50368,UM_1,control,Male,124.0,right handed,control,113.0
-96.5,14.8,50369,UM_1,control,Female,97.0,right handed,control,96.0
-93.5,12.8,50370,UM_1,control,Male,98.0,right handed,control,89.0
-97.5,12.2,50371,UM_1,control,Male,123.0,right handed,control,72.0
-107.5,10.2,50372,UM_1,control,Male,109.0,right handed,control,106.0
-94.0,17.2,50373,UM_1,control,Female,94.0,right handed,control,94.0
-106.0,9.7,50374,UM_1,control,Female,120.0,right handed,control,92.0
-123.5,11.6,50375,UM_1,control,Female,137.0,right handed,control,110.0
-98.5,9.2,50376,UM_1,control,Male,118.0,right handed,control,79.0
-113.5,11.5,50377,UM_1,control,Male,129.0,right handed,control,98.0
-114.0,11.6,50378,UM_1,control,Male,135.0,left handed,control,93.0
-104.0,14.3,50379,UM_1,control,Female,116.0,right handed,control,92.0
-95.5,17.4,50380,UM_1,control,Female,88.0,left handed,control,103.0
-114.5,16.5,50381,UM_1,control,Male,121.0,right handed,control,108.0
-114.0,28.8,50382,UM_2,control,Male,115.0,right handed,control,109.0
-116.0,14.4,50383,UM_2,control,Male,111.0,right handed,control,117.0
-109.0,17.8,50385,UM_2,control,Male,99.0,right handed,control,119.0
-129.0,17.8,50386,UM_2,control,Male,126.0,right handed,control,119.0
-93.5,14.0,50387,UM_2,control,Male,98.0,right handed,control,89.0
-115.0,26.8,50388,UM_2,control,Male,108.0,right handed,control,119.0
-103.5,14.5,50390,UM_2,control,Male,107.0,right handed,control,100.0
-113.5,17.2,50391,UM_2,control,Male,121.0,left handed,control,106.0
-116.0,14.7,50397,UM_2,autism,Male,132.0,,autism,100.0
-104.5,17.4,50399,UM_2,aspergers,Male,129.0,right handed,autism,80.0
-121.0,13.1,50402,UM_2,autism,Male,117.0,right handed,autism,125.0
-120.5,12.8,50403,UM_2,aspergers,Male,126.0,right handed,autism,115.0
-129.5,15.8,50404,UM_2,autism,Male,132.0,right handed,autism,127.0
-94.0,16.6,50405,UM_2,autism,Male,90.0,right handed,autism,98.0
-90.5,15.2,50406,UM_2,autism,Male,78.0,right handed,autism,103.0
-105.0,16.6,50407,UM_2,autism,Female,107.0,right handed,autism,103.0
-118.5,14.8,50408,UM_2,autism,Male,123.0,right handed,autism,114.0
-110.5,16.1,50410,UM_2,autism,Male,113.0,right handed,autism,108.0
-125.5,14.0,50411,UM_2,aspergers,Male,126.0,right handed,autism,125.0
-133.5,13.2,50412,UM_2,autism,Male,137.0,right handed,autism,130.0
-114.5,13.1,50413,UM_2,autism,Male,96.0,left handed,autism,133.0
-109.0,13.8,50414,UM_2,control,Female,132.0,right handed,control,86.0
-111.5,17.6,50415,UM_2,control,Male,117.0,right handed,control,106.0
-108.5,14.8,50416,UM_2,control,Male,114.0,right handed,control,103.0
-121.5,13.3,50417,UM_2,control,Male,128.0,left handed,control,115.0
-112.0,14.9,50418,UM_2,control,Male,109.0,right handed,control,115.0
-111.0,15.8,50419,UM_2,control,Male,95.0,right handed,control,127.0
-116.0,15.4,50421,UM_2,control,Male,126.0,right handed,control,106.0
-114.5,14.8,50422,UM_2,control,Male,119.0,right handed,control,110.0
-111.5,14.1,50423,UM_2,control,Male,117.0,right handed,control,106.0
-125.5,17.9,50424,UM_2,control,Male,136.0,right handed,control,115.0
-112.0,16.6,50425,UM_2,control,Male,109.0,right handed,control,115.0
-113.0,13.6,50426,UM_2,control,Male,115.0,right handed,control,111.0
-96.0,15.8,50427,UM_2,control,Male,100.0,right handed,control,92.0
-89.5,15.5,50428,UM_2,control,Male,98.0,right handed,control,81.0
-131.0,18.2806,50432,USM,control,Male,127.0,,control,122.0
-100.0,18.7379,50433,USM,control,Male,98.0,,control,103.0
-93.0,18.2615,50434,USM,control,Male,88.0,,control,99.0
-100.0,16.104,50435,USM,control,Male,98.0,,control,102.0
-126.0,13.8097,50436,USM,control,Male,120.0,,control,125.0
-138.0,14.9432,50437,USM,control,Male,139.0,,control,127.0
-97.0,15.0253,50438,USM,control,Male,87.0,,control,108.0
-128.0,22.601,50439,USM,control,Male,130.0,,control,121.0
-98.0,23.948,50440,USM,control,Male,104.0,,control,90.0
-123.0,27.5975,50441,USM,control,Male,118.0,,control,121.0
-127.0,26.8528,50442,USM,control,Male,128.0,,control,119.0
-120.0,17.0705,50443,USM,control,Male,99.0,,control,122.0
-100.0,24.9884,50444,USM,control,Male,106.0,,control,92.0
-128.0,18.1383,50445,USM,control,Male,126.0,,control,125.0
-116.0,27.3238,50446,USM,control,Male,118.0,,control,111.0
-130.0,12.9391,50447,USM,control,Male,132.0,,control,121.0
-144.0,10.4668,50448,USM,control,Male,140.0,,control,138.0
-108.0,18.2177,50449,USM,control,Male,104.0,,control,111.0
-95.0,21.0979,50450,USM,control,Male,98.0,,control,100.0
-109.0,12.5257,50451,USM,control,Male,106.0,,control,111.0
-112.0,29.9685,50452,USM,control,Male,108.0,,control,114.0
-121.0,8.7721,50453,USM,control,Male,104.0,,control,137.0
-111.0,18.8008,50454,USM,control,Male,108.0,,control,112.0
-112.0,31.2827,50455,USM,control,Male,111.0,,control,109.0
-109.0,16.0986,50456,USM,control,Male,104.0,,control,115.0
-123.0,34.0534,50457,USM,control,Male,123.0,,control,119.0
-148.0,26.1465,50458,USM,control,Male,137.0,,control,155.0
-111.0,18.1547,50459,USM,control,Male,106.0,,control,115.0
-109.0,14.412,50460,USM,control,Male,115.0,,control,101.0
-113.0,16.3943,50461,USM,control,Male,105.0,,control,120.0
-120.0,24.6543,50462,USM,control,Male,121.0,,control,114.0
-121.0,28.3669,50463,USM,control,Male,124.0,,control,113.0
-119.0,9.9548,50464,USM,control,Male,106.0,,control,131.0
-129.0,34.0068,50465,USM,control,Male,123.0,,control,129.0
-103.0,39.2526,50466,USM,control,Male,101.0,,control,106.0
-89.0,19.7591,50467,USM,control,Male,89.0,,control,90.0
-122.0,39.3949,50468,USM,control,Male,127.0,,control,111.0
-134.0,28.5613,50469,USM,control,Male,130.0,,control,130.0
-106.0,9.9165,50470,USM,control,Male,119.0,,control,90.0
-108.0,25.0157,50471,USM,control,Male,106.0,,control,107.0
-104.0,22.1081,50472,USM,control,Male,98.0,,control,111.0
-106.0,22.4367,50473,USM,control,Male,110.0,,control,100.0
-110.0,22.0479,50474,USM,control,Male,112.0,,control,107.0
-117.0,21.6482,50475,USM,autism,Male,118.0,,autism,111.0
-108.0,20.1697,50476,USM,autism,Male,109.0,,autism,103.0
-92.0,20.1807,50477,USM,autism,Male,95.0,,autism,91.0
-91.0,20.178,50478,USM,autism,Male,103.0,,autism,83.0
-113.0,22.8802,50479,USM,autism,Male,108.0,,autism,116.0
-127.0,29.0897,50480,USM,autism,Male,117.0,,autism,132.0
-88.0,17.1663,50481,USM,autism,Male,85.0,,autism,95.0
-94.0,27.4114,50482,USM,autism,Male,94.0,,autism,92.0
-96.0,21.4346,50483,USM,autism,Male,76.0,,autism,120.0
-102.0,19.7043,50484,USM,autism,Male,95.0,,autism,109.0
-132.0,23.5948,50485,USM,autism,Male,122.0,,autism,133.0
-97.0,17.7878,50486,USM,autism,Male,77.0,,autism,120.0
-86.0,25.7972,50487,USM,autism,Male,77.0,,autism,99.0
-100.0,25.4511,50488,USM,autism,Male,83.0,,autism,120.0
-94.0,16.7584,50489,USM,autism,Male,72.0,,autism,124.0
-110.0,19.6277,50490,USM,autism,Male,100.0,,autism,119.0
-125.0,26.9487,50491,USM,autism,Male,122.0,,autism,120.0
-126.0,32.5503,50492,USM,autism,Male,130.0,,autism,117.0
-102.0,35.7098,50493,USM,autism,Male,98.0,,autism,106.0
-65.0,37.7769,50494,USM,autism,Male,55.0,,autism,76.0
-88.0,22.5599,50495,USM,autism,Male,86.0,,autism,96.0
-129.0,24.3231,50496,USM,autism,Male,120.0,,autism,132.0
-80.0,34.4613,50497,USM,autism,Male,76.0,,autism,89.0
-99.0,21.1307,50498,USM,autism,Male,118.0,,autism,87.0
-113.0,25.4346,50499,USM,autism,Male,121.0,,autism,104.0
-118.0,17.2375,50500,USM,autism,Male,113.0,,autism,119.0
-78.0,17.7057,50501,USM,autism,Male,79.0,,autism,80.0
-90.0,32.9582,50502,USM,autism,Male,101.0,,autism,83.0
-80.0,28.6708,50503,USM,autism,Male,91.0,,autism,72.0
-87.0,17.6454,50504,USM,autism,Male,86.0,,autism,92.0
-95.0,33.1828,50505,USM,autism,Male,86.0,,autism,106.0
-73.0,15.9343,50506,USM,autism,Male,77.0,,autism,74.0
-97.0,28.1095,50507,USM,autism,Male,108.0,,autism,87.0
-107.0,26.3792,50508,USM,autism,Male,96.0,,autism,118.0
-95.0,16.7337,50509,USM,autism,Male,85.0,,autism,107.0
-102.0,14.1437,50510,USM,autism,Male,104.0,,autism,99.0
-114.0,16.3833,50511,USM,autism,Male,109.0,,autism,116.0
-121.0,15.4908,50512,USM,autism,Male,108.0,,autism,131.0
-102.0,18.4668,50513,USM,autism,Male,97.0,,autism,107.0
-109.0,21.4018,50514,USM,autism,Male,99.0,,autism,119.0
-94.0,15.8522,50515,USM,autism,Male,71.0,,autism,106.0
-107.0,17.1143,50516,USM,autism,Male,108.0,,autism,104.0
-109.0,16.501,50517,USM,autism,Male,108.0,,autism,107.0
-77.0,18.6585,50518,USM,autism,Male,83.0,,autism,75.0
-83.0,16.3778,50519,USM,autism,Male,78.0,,autism,90.0
-76.0,17.6728,50520,USM,autism,Male,55.0,,autism,101.0
-80.0,18.4175,50521,USM,autism,Male,69.0,,autism,99.0
-100.0,14.7515,50522,USM,autism,Male,93.0,,autism,108.0
-115.0,17.3251,50523,USM,autism,Male,118.0,,autism,109.0
-83.0,12.334,50524,USM,autism,Male,76.0,,autism,93.0
-106.0,32.8487,50525,USM,autism,Male,87.0,,autism,128.0
-123.0,50.2231,50526,USM,autism,Male,118.0,,autism,121.0
-93.0,18.4148,50527,USM,pdd-nos,Male,84.0,,autism,105.0
-100.0,11.3539,50528,USM,autism,Male,90.0,,autism,109.0
-128.0,42.3354,50529,USM,autism,Male,122.0,,autism,127.0
-106.0,18.245,50530,USM,autism,Male,120.0,,autism,91.0
-112.0,28.0903,50531,USM,autism,Male,104.0,,autism,119.0
-84.0,16.9199,50532,USM,autism,Male,87.0,,autism,81.0
-94.0,15.92,50551,YALE,control,Male,107.0,right handed,control,83.0
-106.0,12.75,50552,YALE,control,Male,106.0,right handed,control,95.0
-127.0,9.75,50553,YALE,control,Male,119.0,right handed,control,125.0
-99.0,8.67,50554,YALE,control,Male,87.0,right handed,control,95.0
-131.0,14.42,50555,YALE,control,Female,122.0,right handed,control,107.0
-78.0,10.67,50556,YALE,control,Male,89.0,right handed,control,76.0
-92.0,14.25,50557,YALE,control,Female,92.0,right handed,control,93.0
-113.0,13.75,50558,YALE,control,Female,101.0,right handed,control,115.0
-123.0,12.25,50559,YALE,control,Male,116.0,right handed,control,115.0
-111.0,9.25,50560,YALE,control,Male,106.0,right handed,control,108.0
-110.0,13.33,50561,YALE,control,Male,124.0,right handed,control,99.0
-114.0,10.83,50562,YALE,control,Male,120.0,left handed,control,107.0
-137.0,13.92,50563,YALE,control,Female,140.0,right handed,control,139.0
-140.0,7.66,50564,YALE,control,Male,126.0,right handed,control,134.0
-101.0,11.0,50565,YALE,control,Female,113.0,right handed,control,104.0
-107.0,9.66,50566,YALE,control,Male,113.0,right handed,control,106.0
-80.0,17.83,50567,YALE,control,Male,86.0,left handed,control,79.0
-92.0,13.92,50568,YALE,control,Male,107.0,right handed,control,91.0
-89.0,16.66,50569,YALE,control,Female,83.0,right handed,control,93.0
-88.0,16.66,50570,YALE,control,Male,103.0,left handed,control,84.0
-92.0,11.0,50571,YALE,control,Male,91.0,right handed,control,97.0
-105.0,15.75,50572,YALE,control,Female,126.0,right handed,control,82.0
-103.0,14.17,50573,YALE,control,Male,92.0,right handed,control,103.0
-91.0,10.92,50574,YALE,control,Male,103.0,right handed,control,88.0
-120.0,14.0,50575,YALE,control,Male,127.0,right handed,control,114.0
-119.0,8.42,50576,YALE,control,Female,112.0,right handed,control,120.0
-73.0,15.25,50577,YALE,control,Male,73.0,right handed,control,77.0
-104.0,12.33,50578,YALE,control,Male,106.0,left handed,control,106.0
-102.0,14.33,50601,YALE,pdd-nos,Male,115.0,left handed,autism,104.0
-108.0,10.0,50602,YALE,aspergers,Male,106.0,right handed,autism,109.0
-76.0,13.25,50603,YALE,autism,Male,69.0,left handed,autism,88.0
-85.0,14.42,50604,YALE,autism,Female,79.0,right handed,autism,84.0
-121.0,16.0,50605,YALE,autism,Male,102.0,right handed,autism,111.0
-41.0,16.42,50606,YALE,pdd-nos,Male,42.0,right handed,autism,37.0
-141.0,17.17,50607,YALE,aspergers,Male,143.0,right handed,autism,120.0
-100.0,16.58,50608,YALE,pdd-nos,Male,102.0,right handed,autism,99.0
-114.0,8.92,50609,YALE,aspergers,Male,117.0,right handed,autism,107.0
-95.0,13.0,50610,YALE,aspergers,Male,107.0,right handed,autism,84.0
-86.0,11.92,50611,YALE,pdd-nos,Male,100.0,right handed,autism,87.0
-121.0,11.83,50612,YALE,aspergers,Male,126.0,right handed,autism,107.0
-131.0,12.5,50613,YALE,aspergers,Male,141.0,left handed,autism,112.0
-72.0,17.75,50614,YALE,autism,Male,57.0,right handed,autism,67.0
-119.0,8.58,50615,YALE,aspergers,Female,101.0,right handed,autism,126.0
-93.0,11.83,50616,YALE,pdd-nos,Male,106.0,right handed,autism,95.0
-84.0,7.25,50617,YALE,pdd-nos,Male,82.0,right handed,autism,76.0
-76.0,12.75,50618,YALE,autism,Male,79.0,left handed,autism,93.0
-88.0,16.5,50619,YALE,autism,Female,86.0,right handed,autism,94.0
-114.0,12.75,50620,YALE,pdd-nos,Female,110.0,right handed,autism,115.0
-83.0,16.58,50621,YALE,aspergers,Female,111.0,right handed,autism,77.0
-89.0,9.92,50622,YALE,pdd-nos,Male,97.0,right handed,autism,100.0
-94.0,13.66,50623,YALE,pdd-nos,Female,101.0,right handed,autism,86.0
-90.0,11.08,50624,YALE,pdd-nos,Female,91.0,right handed,autism,89.0
-99.0,7.0,50625,YALE,pdd-nos,Male,90.0,left handed,autism,98.0
-61.0,11.08,50626,YALE,pdd-nos,Male,66.0,left handed,autism,60.0
-88.0,9.5,50627,YALE,pdd-nos,Female,103.0,right handed,autism,84.0
-77.0,14.42,50628,YALE,pdd-nos,Male,72.0,right handed,autism,75.0
-103.0,33.0,50642,CMU,autism,Male,98.0,right handed,autism,107.0
-123.0,21.0,50643,CMU,autism,Male,112.0,right handed,autism,128.0
-107.0,19.0,50644,CMU,autism,Female,110.0,right handed,autism,102.0
-124.0,20.0,50645,CMU,autism,Male,128.0,right handed,autism,115.0
-108.0,21.0,50646,CMU,autism,Male,100.0,right handed,autism,115.0
-104.0,27.0,50647,CMU,autism,Male,97.0,right handed,autism,109.0
-121.0,31.0,50648,CMU,autism,Female,132.0,right handed,autism,106.0
-127.0,22.0,50649,CMU,autism,Male,121.0,right handed,autism,126.0
-123.0,31.0,50650,CMU,autism,Female,119.0,right handed,autism,121.0
-116.0,39.0,50651,CMU,autism,Male,108.0,ambidextrous,autism,121.0
-118.0,24.0,50652,CMU,autism,Male,113.0,right handed,autism,119.0
-134.0,30.0,50653,CMU,autism,Male,131.0,right handed,autism,129.0
-95.0,24.0,50654,CMU,autism,Male,99.0,left handed,autism,92.0
-100.0,27.0,50655,CMU,autism,Male,89.0,right handed,autism,111.0
-129.0,28.0,50656,CMU,control,Female,125.0,right handed,control,127.0
-120.0,21.0,50657,CMU,control,Male,112.0,right handed,control,124.0
-103.0,27.0,50658,CMU,control,Male,108.0,right handed,control,96.0
-109.0,27.0,50659,CMU,control,Male,111.0,right handed,control,106.0
-115.0,25.0,50660,CMU,control,Male,116.0,ambidextrous,control,109.0
-124.0,20.0,50661,CMU,control,Female,128.0,right handed,control,114.0
-101.0,21.0,50663,CMU,control,Male,94.0,right handed,control,108.0
-109.0,21.0,50664,CMU,control,Male,107.0,right handed,control,110.0
-109.0,33.0,50665,CMU,control,Male,111.0,right handed,control,104.0
-107.0,31.0,50666,CMU,control,Male,101.0,right handed,control,109.0
-128.0,40.0,50667,CMU,control,Male,122.0,right handed,control,128.0
-110.0,25.0,50668,CMU,control,Male,109.0,right handed,control,108.0
-126.0,30.0,50669,CMU,control,Female,123.0,right handed,control,123.0
-128.0,23.0,50682,LEUVEN_1,control,Male,118.0,right handed,control,132.0
-106.0,24.0,50683,LEUVEN_1,control,Male,113.0,right handed,control,96.0
-112.0,23.0,50685,LEUVEN_1,control,Male,114.0,right handed,control,108.0
-92.0,19.0,50686,LEUVEN_1,autism,Male,88.0,right handed,autism,101.0
-124.0,22.0,50687,LEUVEN_1,control,Male,121.0,right handed,control,117.0
-98.0,21.0,50688,LEUVEN_1,control,Male,103.0,right handed,control,93.0
-106.0,21.0,50689,LEUVEN_1,autism,Male,115.0,right handed,autism,93.0
-101.0,22.0,50690,LEUVEN_1,autism,Male,95.0,right handed,autism,111.0
-146.0,22.0,50691,LEUVEN_1,control,Male,133.0,right handed,control,155.0
-109.0,22.0,50692,LEUVEN_1,control,Male,112.0,right handed,control,106.0
-128.0,22.0,50693,LEUVEN_1,autism,Male,128.0,right handed,autism,120.0
-109.0,19.0,50694,LEUVEN_1,autism,Male,103.0,right handed,autism,117.0
-101.0,19.0,50695,LEUVEN_1,autism,Male,126.0,right handed,autism,74.0
-121.0,20.0,50696,LEUVEN_1,autism,Male,118.0,right handed,autism,119.0
-101.0,19.0,50697,LEUVEN_1,autism,Male,99.0,right handed,autism,106.0
-109.0,28.0,50698,LEUVEN_1,control,Male,107.0,right handed,control,113.0
-104.0,21.0,50699,LEUVEN_1,control,Male,114.0,right handed,control,92.0
-128.0,23.0,50700,LEUVEN_1,autism,Male,110.0,left handed,autism,149.0
-109.0,18.0,50701,LEUVEN_1,control,Male,131.0,right handed,control,84.0
-100.0,18.0,50702,LEUVEN_1,autism,Male,110.0,right handed,autism,88.0
-108.0,29.0,50703,LEUVEN_1,control,Male,112.0,right handed,control,103.0
-119.0,29.0,50704,LEUVEN_1,autism,Male,121.0,right handed,autism,113.0
-111.0,24.0,50705,LEUVEN_1,autism,Male,113.0,right handed,autism,107.0
-134.0,22.0,50706,LEUVEN_1,control,Male,136.0,left handed,control,123.0
-113.0,22.0,50707,LEUVEN_1,control,Male,121.0,right handed,control,101.0
-89.0,32.0,50708,LEUVEN_1,autism,Male,97.0,right handed,autism,84.0
-116.0,25.0,50709,LEUVEN_1,control,Male,121.0,right handed,control,107.0
-106.0,27.0,50710,LEUVEN_1,control,Male,106.0,right handed,control,107.0
-126.0,19.0,50711,LEUVEN_1,autism,Male,123.0,right handed,autism,121.0
-,13.8,50722,LEUVEN_2,control,Female,86.0,left handed,control,89.0
-,13.8,50723,LEUVEN_2,control,Female,97.0,left handed,control,100.0
-,15.1,50724,LEUVEN_2,control,Male,103.0,right handed,control,106.0
-,14.2,50725,LEUVEN_2,control,Male,105.0,left handed,control,126.0
-,16.6,50726,LEUVEN_2,control,Male,130.0,right handed,control,106.0
-,13.9,50727,LEUVEN_2,control,Male,122.0,ambidextrous,control,111.0
-,15.6,50728,LEUVEN_2,control,Male,116.0,right handed,control,109.0
-,12.3,50730,LEUVEN_2,control,Female,111.0,right handed,control,109.0
-,16.2,50731,LEUVEN_2,control,Male,124.0,right handed,control,111.0
-,12.4,50732,LEUVEN_2,control,Male,127.0,right handed,control,120.0
-,14.7,50733,LEUVEN_2,control,Male,124.0,right handed,control,111.0
-,16.6,50734,LEUVEN_2,control,Male,97.0,right handed,control,97.0
-,14.3,50735,LEUVEN_2,control,Female,103.0,right handed,control,103.0
-,13.6,50736,LEUVEN_2,control,Female,119.0,right handed,control,111.0
-,12.2,50737,LEUVEN_2,control,Male,119.0,right handed,control,103.0
-,12.8,50738,LEUVEN_2,control,Male,124.0,right handed,control,103.0
-,15.2,50739,LEUVEN_2,control,Male,119.0,right handed,control,103.0
-,12.4,50740,LEUVEN_2,control,Male,127.0,right handed,control,97.0
-,14.2,50741,LEUVEN_2,control,Male,119.0,right handed,control,114.0
-,16.9,50742,LEUVEN_2,control,Male,122.0,right handed,control,103.0
-,14.2,50743,LEUVEN_2,autism,Female,62.0,right handed,autism,103.0
-,12.5,50744,LEUVEN_2,autism,Female,100.0,right handed,autism,94.0
-,13.0,50745,LEUVEN_2,autism,Male,103.0,right handed,autism,86.0
-,13.8,50746,LEUVEN_2,autism,Male,84.0,right handed,autism,109.0
-,14.2,50747,LEUVEN_2,autism,Male,84.0,right handed,autism,106.0
-,14.2,50748,LEUVEN_2,autism,Male,105.0,right handed,autism,106.0
-,15.3,50749,LEUVEN_2,autism,Female,70.0,left handed,autism,102.0
-,16.8,50750,LEUVEN_2,autism,Male,50.0,right handed,autism,85.0
-,12.1,50751,LEUVEN_2,autism,Male,124.0,right handed,autism,132.0
-,14.7,50752,LEUVEN_2,autism,Male,92.0,left handed,autism,117.0
-,14.3,50753,LEUVEN_2,autism,Male,78.0,right handed,autism,86.0
-,12.3,50754,LEUVEN_2,autism,Male,97.0,right handed,autism,97.0
-,12.2,50755,LEUVEN_2,autism,Male,116.0,right handed,autism,83.0
-,14.9,50756,LEUVEN_2,autism,Male,92.0,right handed,autism,114.0
-,14.3,50757,LEUVEN_2,autism,Male,70.0,right handed,autism,83.0
-98.0,12.77,50772,KKI,control,Male,,right handed,control,
-124.0,10.84,50773,KKI,control,Male,,right handed,control,
-124.0,10.64,50774,KKI,control,Male,,right handed,control,
-101.0,11.0,50775,KKI,control,Male,,right handed,control,
-102.0,9.3,50776,KKI,control,Male,,right handed,control,
-125.0,8.39,50777,KKI,control,Male,,right handed,control,
-122.0,9.73,50778,KKI,control,Female,,right handed,control,
-105.0,9.41,50779,KKI,control,Male,,right handed,control,
-117.0,9.82,50780,KKI,control,Female,,right handed,control,
-120.0,9.3,50781,KKI,control,Male,,right handed,control,
-108.0,10.18,50782,KKI,control,Male,,right handed,control,
-121.0,10.4,50783,KKI,control,Female,,right handed,control,
-115.0,8.07,50784,KKI,control,Female,,right handed,control,
-102.0,10.37,50785,KKI,control,Male,,ambidextrous,control,
-112.0,8.75,50786,KKI,control,Male,,right handed,control,
-117.0,10.82,50787,KKI,control,Male,,right handed,control,
-125.0,10.25,50788,KKI,control,Female,,right handed,control,
-114.0,9.31,50789,KKI,control,Male,,right handed,control,
-100.0,8.83,50790,KKI,control,Female,,right handed,control,
-69.0,10.18,50791,KKI,autism,Male,,right handed,autism,
-130.0,8.2,50792,KKI,aspergers,Female,,ambidextrous,autism,
-114.0,8.4,50793,KKI,autism,Male,,right handed,autism,
-90.0,9.66,50794,KKI,autism,Male,,right handed,autism,
-92.0,8.09,50795,KKI,aspergers,Female,,right handed,autism,
-88.0,11.99,50796,KKI,aspergers,Female,,right handed,autism,
-90.0,12.54,50797,KKI,aspergers,Male,,right handed,autism,
-102.0,10.17,50798,KKI,autism,Female,,ambidextrous,autism,
-84.0,11.14,50799,KKI,autism,Male,,right handed,autism,
-77.0,11.76,50800,KKI,aspergers,Male,,right handed,autism,
-131.0,11.27,50801,KKI,autism,Male,,right handed,autism,
-104.0,8.2,50802,KKI,autism,Male,,right handed,autism,
-88.0,8.45,50803,KKI,aspergers,Male,,right handed,autism,
-78.0,8.33,50804,KKI,autism,Male,,right handed,autism,
-95.0,11.33,50805,KKI,aspergers,Male,,right handed,autism,
-77.0,8.48,50806,KKI,aspergers,Male,,right handed,autism,
-84.0,10.65,50807,KKI,autism,Male,,ambidextrous,autism,
-125.0,11.09,50808,KKI,control,Male,,right handed,control,
-118.0,8.43,50809,KKI,control,Male,,left handed,control,
-117.0,11.85,50810,KKI,control,Female,,right handed,control,
-118.0,12.76,50811,KKI,control,Male,,right handed,control,
-121.0,9.97,50812,KKI,control,Female,,right handed,control,
-125.0,10.79,50813,KKI,control,Male,,right handed,control,
-108.0,8.46,50814,KKI,control,Male,,left handed,control,
-105.0,10.62,50815,KKI,autism,Male,,left handed,autism,
-119.0,9.73,50816,KKI,control,Male,,ambidextrous,control,
-119.0,9.97,50817,KKI,control,Male,,ambidextrous,control,
-98.0,11.79,50818,KKI,control,Male,,right handed,control,
-101.0,9.71,50819,KKI,control,Male,,right handed,control,
-108.0,8.87,50820,KKI,control,Female,,right handed,control,
-114.0,11.17,50821,KKI,control,Male,,right handed,control,
-98.0,12.43,50822,KKI,control,Male,,right handed,control,
-120.0,11.37,50823,KKI,aspergers,Male,,right handed,autism,
-109.0,10.29,50824,KKI,aspergers,Male,,right handed,autism,
-89.0,8.5,50825,KKI,autism,Male,,right handed,autism,
-114.0,10.57,50826,KKI,aspergers,Male,,right handed,autism,
-134.0,8.74,50952,NYU,autism,Female,139.0,,autism,120.0
-132.0,11.764,50953,NYU,autism,Female,139.0,,autism,117.0
-78.0,14.75,50954,NYU,autism,Female,79.0,,autism,80.0
-93.0,12.64,50955,NYU,autism,Female,96.0,,autism,91.0
-115.0,14.06,50956,NYU,autism,Female,115.0,,autism,110.0
-79.0,14.75,50957,NYU,autism,Female,84.0,,autism,79.0
-101.0,10.23,50958,NYU,autism,Female,109.0,,autism,92.0
-118.0,22.81,50959,NYU,aspergers,Female,129.0,,autism,104.0
-114.0,38.76,50960,NYU,aspergers,Female,108.0,,autism,119.0
-92.0,25.02,50961,NYU,aspergers,Female,89.0,,autism,96.0
-98.0,24.41,50962,NYU,aspergers,Female,108.0,,autism,88.0
-106.0,12.75,50964,NYU,autism,Male,108.0,,autism,101.0
-132.0,9.25,50965,NYU,pdd-nos,Male,119.0,,autism,136.0
-108.0,15.14,50966,NYU,pdd-nos,Male,100.0,,autism,115.0
-76.0,9.74,50967,NYU,pdd-nos,Male,84.0,,autism,72.0
-108.0,9.95,50968,NYU,pdd-nos,Male,106.0,,autism,109.0
-129.0,7.61,50969,NYU,aspergers,Male,108.0,,autism,146.0
-99.0,8.9,50970,NYU,aspergers,Male,99.0,,autism,99.0
-122.0,10.24,50971,NYU,aspergers,Male,111.0,,autism,128.0
-100.0,13.95,50972,NYU,aspergers,Male,100.0,,autism,100.0
-112.0,17.88,50973,NYU,aspergers,Male,113.0,,autism,108.0
-90.0,11.56,50974,NYU,aspergers,Male,99.0,,autism,85.0
-100.0,10.96,50975,NYU,aspergers,Male,112.0,,autism,89.0
-127.0,14.65,50976,NYU,aspergers,Male,117.0,,autism,132.0
-142.0,7.13,50977,NYU,aspergers,Male,129.0,,autism,145.0
-142.0,9.58,50978,NYU,aspergers,Male,126.0,,autism,149.0
-114.0,9.37,50979,NYU,aspergers,Male,99.0,,autism,129.0
-136.0,8.52,50980,NYU,aspergers,Male,127.0,,autism,137.0
-100.0,12.96,50981,NYU,autism,Male,100.0,,autism,99.0
-119.0,9.46,50982,NYU,autism,Male,121.0,,autism,106.0
-117.0,10.48,50983,NYU,autism,Male,132.0,,autism,101.0
-98.0,13.2,50984,NYU,autism,Male,114.0,,autism,83.0
-90.0,13.09,50985,NYU,autism,Male,84.0,,autism,100.0
-102.0,8.53,50986,NYU,autism,Male,108.0,,autism,115.0
-105.0,8.56,50987,NYU,autism,Male,93.0,,autism,118.0
-112.0,14.21,50988,NYU,autism,Male,113.0,,autism,115.0
-84.0,9.78,50989,NYU,autism,Male,77.0,,autism,94.0
-131.0,13.71,50990,NYU,autism,Male,126.0,,autism,129.0
-100.0,10.9,50991,NYU,autism,Male,97.0,,autism,104.0
-118.0,10.66,50992,NYU,autism,Male,106.0,,autism,129.0
-101.0,10.87,50993,NYU,autism,Male,98.0,,autism,105.0
-102.0,15.66,50994,NYU,autism,Male,95.0,,autism,108.0
-109.0,16.74,50995,NYU,autism,Male,98.0,,autism,119.0
-100.0,15.81,50996,NYU,autism,Male,89.0,,autism,112.0
-123.0,16.27,50997,NYU,autism,Male,131.0,,autism,109.0
-91.0,13.04,50998,NYU,autism,Male,92.0,,autism,92.0
-95.0,14.53,50999,NYU,autism,Male,102.0,,autism,88.0
-78.0,13.33,51000,NYU,autism,Male,74.0,,autism,88.0
-87.0,10.71,51001,NYU,autism,Male,85.0,,autism,94.0
-90.0,7.228,51002,NYU,autism,Male,99.0,,autism,84.0
-120.0,8.51,51003,NYU,autism,Male,106.0,,autism,133.0
-103.0,11.11,51006,NYU,autism,Male,101.0,,autism,104.0
-108.0,11.92,51007,NYU,autism,Male,111.0,,autism,103.0
-128.0,12.37,51008,NYU,autism,Male,125.0,,autism,126.0
-86.0,11.03,51009,NYU,autism,Male,88.0,,autism,86.0
-148.0,8.53,51010,NYU,autism,Male,137.0,,autism,147.0
-104.0,8.79,51011,NYU,autism,Male,89.0,,autism,119.0
-96.0,9.79,51012,NYU,autism,Male,88.0,,autism,103.0
-100.0,7.15,51013,NYU,autism,Male,94.0,,autism,107.0
-106.0,11.005,51014,NYU,autism,Male,89.0,,autism,125.0
-105.0,29.98,51015,NYU,aspergers,Male,105.0,,autism,103.0
-134.0,22.99,51016,NYU,aspergers,Male,136.0,,autism,124.0
-137.0,22.04,51017,NYU,aspergers,Male,136.0,,autism,129.0
-116.0,20.25,51018,NYU,aspergers,Male,115.0,,autism,114.0
-108.0,22.29,51019,NYU,aspergers,Male,107.0,,autism,109.0
-107.0,28.58,51020,NYU,autism,Male,108.0,,autism,103.0
-112.0,23.66,51021,NYU,autism,Male,120.0,,autism,101.0
-115.0,20.62,51023,NYU,autism,Male,108.0,,autism,119.0
-98.0,39.1,51024,NYU,autism,Male,91.0,,autism,103.0
-94.0,19.64,51025,NYU,autism,Male,81.0,,autism,109.0
-108.0,18.58,51026,NYU,autism,Male,110.0,,autism,103.0
-102.0,22.98,51027,NYU,autism,Male,106.0,,autism,99.0
-80.0,29.18,51028,NYU,autism,Male,73.0,,autism,92.0
-107.0,26.516,51029,NYU,autism,Male,107.0,,autism,110.0
-139.0,7.29,51030,NYU,pdd-nos,Male,129.0,,autism,140.0
-93.0,7.15,51032,NYU,autism,Male,104.0,,autism,85.0
-113.0,9.98,51033,NYU,autism,Male,102.0,,autism,123.0
-109.0,10.65,51034,NYU,autism,Male,112.0,,autism,103.0
-100.0,10.27,51035,NYU,autism,Male,95.0,,autism,106.0
-101.0,8.04,51036,NYU,control,Female,102.0,,control,99.0
-134.0,8.26,51038,NYU,control,Female,143.0,,control,117.0
-136.0,8.5,51039,NYU,control,Female,131.0,,control,133.0
-129.0,8.52,51040,NYU,control,Female,132.0,,control,120.0
-100.0,8.9,51041,NYU,control,Female,100.0,,control,99.0
-125.0,8.91,51042,NYU,control,Female,117.0,,control,128.0
-106.0,10.86,51044,NYU,control,Female,99.0,,control,111.0
-80.0,11.56,51045,NYU,control,Female,85.0,,control,79.0
-103.0,11.56,51046,NYU,control,Female,115.0,,control,91.0
-123.0,12.1,51047,NYU,control,Female,119.0,,control,119.0
-124.0,12.44,51048,NYU,control,Female,117.0,,control,126.0
-104.0,13.22,51049,NYU,control,Female,108.0,,control,99.0
-100.0,13.25,51050,NYU,control,Female,99.0,,control,101.0
-115.0,14.06,51051,NYU,control,Female,109.0,,control,119.0
-117.0,14.18,51052,NYU,control,Female,108.0,,control,124.0
-123.0,14.38,51053,NYU,control,Female,119.0,,control,120.0
-132.0,14.42,51054,NYU,control,Female,132.0,,control,124.0
-113.0,15.95,51055,NYU,control,Female,118.0,,control,106.0
-98.0,17.31,51056,NYU,control,Female,103.0,,control,92.0
-113.0,21.58,51057,NYU,control,Female,109.0,,control,114.0
-112.0,22.11,51058,NYU,control,Female,113.0,,control,107.0
-113.0,22.76,51059,NYU,control,Female,113.0,,control,109.0
-118.0,22.74,51060,NYU,control,Female,118.0,,control,114.0
-109.0,27.03,51061,NYU,control,Female,115.0,,control,102.0
-91.0,27.76,51062,NYU,control,Female,98.0,,control,87.0
-120.0,29.13,51063,NYU,control,Female,118.0,,control,118.0
-119.0,7.26,51064,NYU,control,Male,127.0,,control,108.0
-105.0,10.52,51065,NYU,control,Male,111.0,,control,97.0
-112.0,18.59,51066,NYU,control,Male,117.0,,control,105.0
-116.0,23.65,51067,NYU,control,Male,109.0,,control,119.0
-104.0,31.78,51068,NYU,control,Male,104.0,,control,103.0
-118.0,8.15,51069,NYU,control,Male,115.0,,control,117.0
-109.0,7.29,51070,NYU,control,Male,112.0,,control,103.0
-80.0,10.69,51071,NYU,control,Male,92.0,,control,72.0
-121.0,11.91,51072,NYU,control,Male,120.0,,control,117.0
-126.0,12.49,51073,NYU,control,Male,109.0,,control,137.0
-123.0,12.81,51074,NYU,control,Male,117.0,,control,124.0
-109.0,14.2,51075,NYU,control,Male,121.0,,control,96.0
-124.0,16.93,51076,NYU,control,Male,120.0,,control,120.0
-109.0,17.3,51077,NYU,control,Male,113.0,,control,104.0
-114.0,6.47,51078,NYU,control,Male,113.0,,control,111.0
-129.0,7.19,51079,NYU,control,Male,120.0,,control,131.0
-110.0,8.01,51080,NYU,control,Male,117.0,,control,102.0
-98.0,8.82,51081,NYU,control,Male,88.0,,control,108.0
-119.0,8.88,51082,NYU,control,Male,127.0,,control,108.0
-100.0,8.93,51083,NYU,control,Male,91.0,,control,109.0
-118.0,9.23,51084,NYU,control,Male,127.0,,control,106.0
-101.0,9.81,51085,NYU,control,Male,109.0,,control,93.0
-119.0,10.46,51086,NYU,control,Male,118.0,,control,116.0
-111.0,10.52,51087,NYU,control,Male,102.0,,control,119.0
-121.0,10.73,51088,NYU,control,Male,120.0,,control,117.0
-138.0,10.76,51089,NYU,control,Male,131.0,,control,135.0
-107.0,11.03,51090,NYU,control,Male,105.0,,control,107.0
-142.0,11.32,51091,NYU,control,Male,141.0,,control,133.0
-116.0,11.69,51093,NYU,control,Male,113.0,,control,116.0
-107.0,12.1,51094,NYU,control,Male,112.0,,control,99.0
-123.0,12.23,51095,NYU,control,Male,134.0,,control,106.0
-101.0,13.18,51096,NYU,control,Male,95.0,,control,106.0
-126.0,13.583,51097,NYU,control,Male,126.0,,control,119.0
-134.0,13.628,51098,NYU,control,Male,131.0,,control,129.0
-87.0,13.72,51099,NYU,control,Male,93.0,,control,86.0
-91.0,14.36,51100,NYU,control,Male,102.0,,control,83.0
-104.0,14.425,51101,NYU,control,Male,116.0,,control,92.0
-110.0,14.653,51102,NYU,control,Male,119.0,,control,100.0
-126.0,14.66,51103,NYU,control,Male,115.0,,control,132.0
-104.0,15.27,51104,NYU,control,Male,96.0,,control,110.0
-83.0,15.284,51105,NYU,control,Male,80.0,,control,89.0
-85.0,15.42,51106,NYU,control,Male,108.0,,control,67.0
-107.0,15.53,51107,NYU,control,Male,112.0,,control,99.0
-108.0,15.71,51108,NYU,control,Male,103.0,,control,110.0
-109.0,16.13,51109,NYU,control,Male,109.0,,control,106.0
-125.0,16.28,51110,NYU,control,Male,122.0,,control,120.0
-113.0,16.55,51111,NYU,control,Male,114.0,,control,109.0
-129.0,19.228,51112,NYU,control,Male,127.0,,control,125.0
-109.0,22.38,51113,NYU,control,Male,113.0,,control,103.0
-123.0,22.48,51114,NYU,control,Male,122.0,,control,118.0
-119.0,22.76,51115,NYU,control,Male,129.0,,control,106.0
-115.0,25.34,51116,NYU,control,Male,109.0,,control,118.0
-103.0,28.203,51117,NYU,control,Male,104.0,,control,102.0
-122.0,29.02,51118,NYU,control,Male,115.0,,control,124.0
-123.0,30.724,51119,NYU,control,Male,128.0,,control,111.0
-115.0,10.19,51120,NYU,control,Male,119.0,,control,106.0
-113.0,10.74,51121,NYU,control,Male,103.0,,control,121.0
-111.0,11.92,51122,NYU,control,Male,102.0,,control,119.0
-130.0,12.07,51123,NYU,control,Male,126.0,,control,128.0
-124.0,12.67,51124,NYU,control,Male,121.0,,control,120.0
-112.0,14.79,51125,NYU,control,Male,116.0,,control,106.0
-81.0,16.31,51126,NYU,control,Male,83.0,,control,83.0
-91.0,16.55,51127,NYU,control,Male,88.0,,control,96.0
-125.0,16.88,51128,NYU,control,Male,121.0,,control,123.0
-102.0,17.7,51129,NYU,control,Male,111.0,,control,92.0
-107.0,19.13,51130,NYU,control,Male,97.0,,control,117.0
-119.0,19.73,51131,NYU,control,Male,112.0,,control,123.0
-119.0,24.83,51132,TRINITY,control,Male,113.0,right handed,control,121.0
-91.0,12.04,51133,TRINITY,control,Male,100.0,right handed,control,84.0
-89.0,16.83,51134,TRINITY,control,Male,81.0,right handed,control,101.0
-101.0,13.75,51135,TRINITY,control,Male,95.0,right handed,control,108.0
-126.0,12.66,51136,TRINITY,control,Male,125.0,right handed,control,120.0
-131.0,13.25,51137,TRINITY,control,Male,137.0,right handed,control,120.0
-99.0,12.66,51138,TRINITY,control,Male,94.0,right handed,control,103.0
-112.0,19.5,51139,TRINITY,control,Male,115.0,right handed,control,112.0
-128.0,15.75,51140,TRINITY,control,Male,132.0,right handed,control,121.0
-97.0,15.91,51141,TRINITY,control,Male,91.0,right handed,control,102.0
-104.0,14.91,51142,TRINITY,control,Male,101.0,right handed,control,105.0
-106.0,20.02,51146,NYU,control,Male,96.0,,control,116.0
-129.0,20.04,51147,NYU,control,Male,129.0,,control,111.0
-107.0,20.3,51148,NYU,control,Male,108.0,,control,104.0
-113.0,20.56,51149,NYU,control,Male,107.0,,control,118.0
-132.0,22.77,51150,NYU,control,Male,130.0,,control,127.0
-122.0,23.08,51151,NYU,control,Male,121.0,,control,117.0
-139.0,23.35,51152,NYU,control,Male,140.0,,control,129.0
-114.0,26.17,51153,NYU,control,Male,117.0,,control,108.0
-104.0,30.08,51154,NYU,control,Male,103.0,,control,104.0
-104.0,30.78,51155,NYU,control,Male,106.0,,control,100.0
-120.0,21.15,51156,NYU,control,Male,118.0,,control,119.0
-118.0,12.81,51159,NYU,control,Male,122.0,,control,109.0
-98.0,7.9336,51160,STANFORD,,Male,97.0,right handed,autism,99.0
-94.0,9.0301,51161,STANFORD,,Male,95.0,right handed,autism,95.0
-111.0,8.9199,51162,STANFORD,,Female,106.0,left handed,autism,116.0
-137.0,9.0821,51163,STANFORD,,Male,137.0,right handed,autism,128.0
-105.0,8.4216,51164,STANFORD,,Female,88.0,ambidextrous,autism,124.0
-78.0,11.8433,51165,STANFORD,,Male,72.0,right handed,autism,89.0
-100.0,8.3833,51166,STANFORD,,Male,93.0,right handed,autism,106.0
-98.0,11.8789,51167,STANFORD,,Female,96.0,right handed,autism,99.0
-112.0,11.2628,51168,STANFORD,,Male,108.0,left handed,autism,114.0
-127.0,9.7775,51169,STANFORD,,Male,131.0,left handed,autism,117.0
-97.0,10.8652,51170,STANFORD,,Female,86.0,right handed,autism,109.0
-141.0,12.9363,51171,STANFORD,,Male,143.0,right handed,autism,129.0
-127.0,8.7912,51172,STANFORD,,Male,149.0,right handed,autism,101.0
-124.0,7.5284,51173,STANFORD,,Male,113.0,right handed,autism,129.0
-114.0,9.9473,51174,STANFORD,,Male,106.0,right handed,autism,119.0
-107.0,8.5804,51175,STANFORD,,Male,99.0,right handed,autism,111.0
-148.0,9.271,51176,STANFORD,,Male,127.0,left handed,autism,157.0
-113.0,11.6982,51177,STANFORD,,Male,117.0,right handed,autism,106.0
-123.0,11.4326,51178,STANFORD,,Male,121.0,right handed,autism,118.0
-97.0,11.6543,51179,STANFORD,,Male,101.0,right handed,autism,93.0
-136.0,7.7502,51180,STANFORD,,Female,144.0,right handed,control,119.0
-121.0,9.3149,51181,STANFORD,,Male,122.0,right handed,control,115.0
-93.0,10.6927,51182,STANFORD,,Male,88.0,right handed,control,99.0
-98.0,8.2656,51183,STANFORD,,Male,103.0,right handed,control,93.0
-124.0,9.1068,51184,STANFORD,,Female,98.0,right handed,control,145.0
-119.0,8.2464,51185,STANFORD,,Male,107.0,right handed,control,129.0
-98.0,8.3203,51186,STANFORD,,Male,88.0,right handed,control,107.0
-105.0,8.3313,51187,STANFORD,,Male,115.0,right handed,control,93.0
-80.0,8.9747,51188,STANFORD,,Female,83.0,right handed,control,81.0
-123.0,9.2081,51189,STANFORD,,Male,136.0,right handed,control,105.0
-123.0,8.9363,51190,STANFORD,,Male,107.0,ambidextrous,control,135.0
-79.0,9.7201,51191,STANFORD,,Male,67.0,right handed,control,99.0
-124.0,10.2218,51192,STANFORD,,Female,130.0,right handed,control,112.0
-122.0,9.5202,51193,STANFORD,,Male,132.0,right handed,control,107.0
-118.0,12.3477,51194,STANFORD,,Male,106.0,right handed,control,129.0
-110.0,11.178,51195,STANFORD,,Male,115.0,right handed,control,103.0
-117.0,11.8816,51196,STANFORD,,Male,131.0,right handed,control,101.0
-113.0,12.4298,51197,STANFORD,,Male,118.0,right handed,control,106.0
-114.0,12.2546,51198,STANFORD,,Male,109.0,ambidextrous,control,115.0
-125.0,12.3833,51199,STANFORD,,Male,125.0,right handed,control,119.0
-104.0,13.52,51201,UCLA_1,autism,Male,98.0,right handed,autism,109.0
-98.0,11.56,51202,UCLA_1,autism,Male,110.0,right handed,autism,86.0
-103.0,13.37,51203,UCLA_1,autism,Male,91.0,right handed,autism,116.0
-98.0,14.57,51204,UCLA_1,autism,Male,110.0,right handed,autism,90.0
-102.0,17.94,51205,UCLA_1,autism,Male,105.0,right handed,autism,99.0
-102.0,15.78,51206,UCLA_1,autism,Male,98.0,right handed,autism,104.0
-112.0,14.11,51207,UCLA_1,autism,Female,100.0,right handed,autism,123.0
-113.0,16.98,51208,UCLA_1,autism,Male,116.0,left handed,autism,104.0
-128.0,9.99,51209,UCLA_1,autism,Male,119.0,right handed,autism,131.0
-92.0,16.56,51210,UCLA_1,autism,Male,99.0,right handed,autism,91.0
-94.0,11.27,51211,UCLA_1,autism,Male,102.0,right handed,autism,94.0
-100.0,15.66,51212,UCLA_1,autism,Male,100.0,left handed,autism,97.0
-98.0,9.11,51213,UCLA_1,autism,Male,104.0,right handed,autism,95.0
-109.0,10.41,51214,UCLA_1,autism,Male,102.0,right handed,autism,108.0
-113.0,11.56,51215,UCLA_1,autism,Female,119.0,right handed,autism,104.0
-107.0,10.54,51216,UCLA_1,autism,Male,89.0,left handed,autism,112.0
-104.0,15.22,51217,UCLA_1,autism,Male,132.0,right handed,autism,89.0
-111.0,16.87,51218,UCLA_1,autism,Male,118.0,right handed,autism,103.0
-79.0,13.93,51219,UCLA_1,autism,Female,85.0,right handed,autism,81.0
-99.0,14.74,51220,UCLA_1,autism,Male,121.0,right handed,autism,90.0
-75.0,14.58,51221,UCLA_1,autism,Male,98.0,right handed,autism,73.0
-113.0,11.81,51222,UCLA_1,autism,Male,114.0,right handed,autism,106.0
-119.0,13.31,51223,UCLA_1,autism,Male,96.0,right handed,autism,121.0
-112.0,12.99,51224,UCLA_1,autism,Male,105.0,right handed,autism,119.0
-111.0,12.33,51225,UCLA_1,autism,Male,119.0,right handed,autism,102.0
-102.0,9.26,51226,UCLA_1,autism,Female,99.0,right handed,autism,104.0
-95.0,14.53,51227,UCLA_1,autism,Male,87.0,right handed,autism,101.0
-95.0,8.36,51228,UCLA_1,autism,Female,91.0,right handed,autism,98.0
-95.0,14.59,51229,UCLA_1,autism,Male,115.0,right handed,autism,77.0
-127.0,17.53,51230,UCLA_1,autism,Female,132.0,right handed,autism,116.0
-103.0,10.28,51231,UCLA_1,autism,Male,104.0,right handed,autism,98.0
-89.0,15.79,51232,UCLA_1,autism,Male,94.0,right handed,autism,88.0
-79.0,12.75,51233,UCLA_1,autism,Male,90.0,right handed,autism,72.0
-87.0,10.91,51234,UCLA_1,autism,Male,93.0,right handed,autism,89.0
-132.0,10.67,51235,UCLA_1,autism,Male,130.0,right handed,autism,122.0
-89.0,12.42,51236,UCLA_1,autism,Male,85.0,right handed,autism,94.0
-100.0,17.4,51237,UCLA_1,autism,Male,112.0,right handed,autism,94.0
-73.0,10.85,51238,UCLA_1,autism,Male,67.0,right handed,autism,82.0
-86.0,13.67,51239,UCLA_1,autism,Male,98.0,right handed,autism,83.0
-121.0,14.96,51240,UCLA_1,autism,Male,106.0,right handed,autism,120.0
-95.0,10.9,51241,UCLA_1,autism,Male,87.0,right handed,autism,105.0
-81.0,14.14,51242,UCLA_1,autism,Female,79.0,right handed,autism,86.0
-101.0,11.69,51243,UCLA_1,autism,Male,96.0,right handed,autism,100.0
--9999.0,13.09,51244,UCLA_1,autism,Male,83.0,right handed,autism,90.0
-64.0,14.98,51245,UCLA_1,autism,Male,59.0,right handed,autism,73.0
-84.0,13.1,51246,UCLA_1,autism,Male,85.0,right handed,autism,87.0
-118.0,11.97,51247,UCLA_1,autism,Male,108.0,right handed,autism,114.0
-110.0,13.5,51248,UCLA_1,autism,Male,99.0,right handed,autism,110.0
-107.0,8.49,51249,UCLA_1,autism,Male,112.0,right handed,autism,103.0
-110.0,14.88,51250,UCLA_1,control,Male,108.0,right handed,control,110.0
-96.0,12.36,51251,UCLA_1,control,Male,86.0,right handed,control,107.0
-116.0,10.99,51252,UCLA_1,control,Male,118.0,right handed,control,110.0
-109.0,11.8,51253,UCLA_1,control,Male,108.0,left handed,control,110.0
-113.0,14.44,51254,UCLA_1,control,Male,107.0,left handed,control,117.0
-88.0,14.8,51255,UCLA_1,control,Male,88.0,right handed,control,93.0
-108.0,15.04,51256,UCLA_1,control,Male,109.0,right handed,control,106.0
-106.0,13.38,51257,UCLA_1,control,Male,105.0,right handed,control,105.0
-90.0,11.55,51258,UCLA_1,control,Male,92.0,right handed,control,91.0
-117.0,11.07,51259,UCLA_1,control,Male,125.0,right handed,control,106.0
-95.0,13.66,51260,UCLA_1,control,Male,117.0,right handed,control,76.0
-95.0,17.79,51261,UCLA_1,control,Male,100.0,right handed,control,90.0
-97.0,11.56,51262,UCLA_1,control,Male,97.0,right handed,control,96.0
-87.0,16.03,51263,UCLA_1,control,Male,89.0,right handed,control,89.0
-107.0,13.46,51264,UCLA_1,control,Female,109.0,right handed,control,102.0
-108.0,15.92,51265,UCLA_1,control,Male,108.0,right handed,control,106.0
-108.0,14.03,51266,UCLA_1,control,Male,107.0,right handed,control,108.0
-118.0,11.25,51267,UCLA_1,control,Female,119.0,right handed,control,112.0
-105.0,17.78,51268,UCLA_1,control,Male,99.0,right handed,control,109.0
-94.0,14.29,51269,UCLA_1,control,Male,95.0,right handed,control,95.0
-117.0,11.08,51270,UCLA_1,control,Male,113.0,right handed,control,117.0
-113.0,12.09,51271,UCLA_1,control,Male,121.0,right handed,control,102.0
-84.0,13.41,51272,UCLA_1,control,Male,94.0,right handed,control,77.0
-104.0,12.68,51273,UCLA_1,control,Male,109.0,right handed,control,98.0
-125.0,10.96,51274,UCLA_1,control,Male,115.0,right handed,control,129.0
-106.0,15.74,51275,UCLA_1,control,Male,109.0,right handed,control,99.0
-105.0,13.85,51276,UCLA_1,control,Male,98.0,right handed,control,109.0
-126.0,12.01,51277,UCLA_1,control,Male,119.0,right handed,control,128.0
-109.0,9.21,51278,UCLA_1,control,Male,121.0,left handed,control,97.0
-106.0,13.82,51279,UCLA_1,control,Female,99.0,right handed,control,109.0
-109.0,9.5,51280,UCLA_1,control,Male,123.0,right handed,control,96.0
-108.0,11.83,51281,UCLA_1,control,Male,115.0,right handed,control,100.0
-91.0,12.73,51282,UCLA_1,control,Female,88.0,right handed,control,96.0
-86.0,16.47,51291,UCLA_2,autism,Male,83.0,right handed,autism,91.0
-75.0,12.24,51292,UCLA_2,autism,Male,83.0,right handed,autism,79.0
-92.0,13.08,51293,UCLA_2,autism,Male,102.0,right handed,autism,90.0
-87.0,11.7,51294,UCLA_2,autism,Male,89.0,right handed,autism,90.0
-108.0,10.04,51295,UCLA_2,autism,Male,95.0,left handed,autism,120.0
-77.0,11.16,51296,UCLA_2,autism,Male,71.0,right handed,autism,85.0
-88.0,14.27,51297,UCLA_2,autism,Male,98.0,left handed,autism,87.0
-118.0,10.57,51298,UCLA_2,autism,Male,104.0,right handed,autism,132.0
-104.0,14.77,51299,UCLA_2,autism,Male,106.0,right handed,autism,99.0
-92.0,14.08,51300,UCLA_2,autism,Male,104.0,left handed,autism,89.0
-91.0,13.28,51301,UCLA_2,autism,Male,108.0,right handed,autism,86.0
-87.0,10.85,51302,UCLA_2,autism,Male,75.0,right handed,autism,97.0
-99.0,13.0,51303,UCLA_2,control,Female,95.0,right handed,control,103.0
-120.0,10.53,51304,UCLA_2,control,Male,120.0,right handed,control,116.0
-102.0,12.64,51305,UCLA_2,control,Female,105.0,right handed,control,99.0
-119.0,11.66,51306,UCLA_2,control,Male,115.0,right handed,control,119.0
-128.0,12.15,51307,UCLA_2,control,Male,127.0,right handed,control,124.0
-124.0,9.79,51308,UCLA_2,control,Male,125.0,right handed,control,118.0
-107.0,11.9,51309,UCLA_2,control,Male,116.0,right handed,control,97.0
-87.0,11.7,51310,UCLA_2,control,Male,90.0,right handed,control,88.0
-103.0,11.95,51311,UCLA_2,control,Male,96.0,right handed,control,109.0
-123.0,12.9,51312,UCLA_2,control,Male,123.0,right handed,control,116.0
-112.0,13.36,51313,UCLA_2,control,Male,112.0,right handed,control,109.0
-97.0,13.12,51314,UCLA_2,control,Male,106.0,right handed,control,89.0
-118.0,13.63,51315,UCLA_2,control,Male,115.0,right handed,control,117.0
-94.0,12.66,51316,UCLA_2,control,Male,87.0,left handed,control,103.0
-102.0,12.82,51317,UCLA_2,autism,Male,99.0,right handed,autism,103.0
-93.0,19.0,51318,MAX_MUN,aspergers,Male,,right handed,autism,
-118.0,33.0,51319,MAX_MUN,aspergers,Male,,right handed,autism,
-110.0,31.0,51320,MAX_MUN,aspergers,Male,,right handed,autism,
-129.0,45.0,51321,MAX_MUN,aspergers,Female,,right handed,autism,
-122.0,29.0,51322,MAX_MUN,aspergers,Male,,left handed,autism,
-118.0,30.0,51323,MAX_MUN,aspergers,Male,,right handed,autism,
-133.0,52.0,51324,MAX_MUN,aspergers,Male,,right handed,autism,
-110.0,32.0,51325,MAX_MUN,aspergers,Female,,left handed,autism,
-114.0,42.0,51326,MAX_MUN,aspergers,Male,,right handed,autism,
-129.0,58.0,51327,MAX_MUN,aspergers,Male,,right handed,autism,
-114.0,22.0,51328,MAX_MUN,aspergers,Male,,right handed,autism,122.0
-95.0,18.0,51329,MAX_MUN,aspergers,Male,,right handed,autism,106.0
--9999.0,45.0,51330,MAX_MUN,aspergers,Male,,right handed,autism,99.0
--9999.0,35.0,51331,MAX_MUN,aspergers,Male,,right handed,autism,119.0
-125.0,23.0,51332,MAX_MUN,control,Male,,right handed,control,126.0
-99.0,24.0,51333,MAX_MUN,control,Male,,right handed,control,89.0
-104.0,27.0,51334,MAX_MUN,control,Male,,right handed,control,111.0
-122.0,23.0,51335,MAX_MUN,control,Male,,right handed,control,126.0
-114.0,26.0,51336,MAX_MUN,control,Male,,right handed,control,114.0
-110.0,30.0,51338,MAX_MUN,control,Male,,right handed,control,122.0
-110.0,29.0,51339,MAX_MUN,control,Male,,right handed,control,109.0
-110.0,29.0,51340,MAX_MUN,control,Male,,right handed,control,83.0
-110.0,29.0,51341,MAX_MUN,control,Male,,right handed,control,111.0
-107.0,23.0,51342,MAX_MUN,control,Male,,right handed,control,102.0
-118.0,30.0,51343,MAX_MUN,control,Male,,right handed,control,122.0
-118.0,22.0,51344,MAX_MUN,control,Male,,right handed,control,96.0
-107.0,35.0,51345,MAX_MUN,control,Male,,right handed,control,122.0
-118.0,25.0,51346,MAX_MUN,control,Male,,right handed,control,104.0
-129.0,24.0,51347,MAX_MUN,control,Male,,right handed,control,126.0
-102.0,8.0,51348,MAX_MUN,aspergers,Male,,right handed,autism,
-105.0,11.0,51349,MAX_MUN,aspergers,Male,,right handed,autism,
-79.0,11.0,51350,MAX_MUN,autism,Male,,right handed,autism,
-79.0,11.0,51351,MAX_MUN,autism,Male,,right handed,autism,
-104.0,9.0,51352,MAX_MUN,aspergers,Male,,right handed,autism,
-113.0,7.0,51353,MAX_MUN,aspergers,Male,,right handed,autism,
-101.0,12.0,51354,MAX_MUN,aspergers,Male,,right handed,autism,
-122.0,11.0,51355,MAX_MUN,aspergers,Male,,right handed,autism,
-129.0,10.0,51356,MAX_MUN,control,Male,,right handed,control,
-110.0,11.0,51357,MAX_MUN,control,Male,,right handed,control,
-113.0,10.0,51358,MAX_MUN,control,Male,,right handed,control,
-101.0,13.0,51359,MAX_MUN,control,Male,,right handed,control,
-98.0,7.0,51360,MAX_MUN,control,Male,,right handed,control,
-114.0,16.0,51361,MAX_MUN,control,Male,,right handed,control,
-114.0,33.0,51362,MAX_MUN,control,Male,,right handed,control,
-112.0,32.0,51363,MAX_MUN,control,Male,,right handed,control,
-122.0,26.0,51364,MAX_MUN,control,Male,,right handed,control,
-105.0,23.0,51365,MAX_MUN,control,Male,,right handed,control,
-112.0,32.0,51366,MAX_MUN,control,Female,,right handed,control,
-112.0,21.0,51367,MAX_MUN,control,Male,,right handed,control,
-114.0,28.0,51368,MAX_MUN,control,Female,,right handed,control,
-96.0,32.0,51369,MAX_MUN,control,Male,,right handed,control,
-95.0,32.0,51370,MAX_MUN,control,Female,,right handed,control,
-99.0,48.0,51371,MAX_MUN,control,Male,,right handed,control,
-112.0,46.0,51372,MAX_MUN,control,Female,,right handed,control,
-119.0,46.0,51373,MAX_MUN,control,Male,,right handed,control,
-126.0,55.4,51456,CALTECH,aspergers pdd-nos,Male,118.0,right handed,autism,128.0
-107.0,22.9,51457,CALTECH,aspergers pdd-nos,Male,119.0,ambidextrous,autism,93.0
-93.0,39.2,51458,CALTECH,autism,Male,80.0,right handed,autism,108.0
-106.0,22.8,51459,CALTECH,autism,Male,94.0,right handed,autism,118.0
-133.0,34.6,51460,CALTECH,autism,Female,135.0,ambidextrous,autism,122.0
-99.0,37.7,51461,CALTECH,aspergers pdd-nos,Male,111.0,right handed,autism,84.0
-107.0,20.2,51462,CALTECH,autism,Female,102.0,right handed,autism,110.0
-102.0,20.2,51463,CALTECH,autism,Female,101.0,right handed,autism,103.0
-101.0,20.9,51464,CALTECH,autism,Male,118.0,ambidextrous,autism,109.0
-96.0,20.2,51465,CALTECH,autism,Male,99.0,right handed,autism,93.0
-106.0,27.6,51466,CALTECH,autism,Male,111.0,ambidextrous,autism,99.0
-93.0,23.4,51467,CALTECH,autism,Male,89.0,right handed,autism,99.0
-100.0,20.1,51468,CALTECH,autism,Male,89.0,right handed,autism,109.0
-104.0,45.1,51469,CALTECH,aspergers pdd-nos,Male,109.0,right handed,autism,96.0
-124.0,29.1,51470,CALTECH,aspergers pdd-nos,Male,127.0,right handed,autism,115.0
-125.0,22.4,51471,CALTECH,aspergers pdd-nos,Female,123.0,right handed,autism,119.0
-125.0,17.5,51472,CALTECH,autism,Male,123.0,ambidextrous,autism,119.0
--9999.0,21.2,51473,CALTECH,autism,Male,-9999.0,right handed,autism,-9999.0
-100.0,20.9,51474,CALTECH,autism,Male,90.0,right handed,autism,109.0
-104.0,44.2,51475,CALTECH,control,Male,113.0,right handed,control,94.0
-123.0,39.3,51476,CALTECH,control,Male,127.0,right handed,control,112.0
-97.0,42.5,51477,CALTECH,control,Male,85.0,right handed,control,109.0
-116.0,19.7,51478,CALTECH,control,Male,117.0,right handed,control,116.0
-111.0,20.0,51479,CALTECH,control,Female,110.0,right handed,control,109.0
-112.0,20.8,51480,CALTECH,control,Female,109.0,right handed,control,110.0
-117.0,27.9,51481,CALTECH,control,Male,133.0,right handed,control,99.0
-103.0,21.1,51482,CALTECH,control,Female,108.0,right handed,control,96.0
-124.0,20.9,51483,CALTECH,control,Male,127.0,ambidextrous,control,115.0
-128.0,23.6,51484,CALTECH,control,Male,135.0,right handed,control,115.0
-123.0,23.9,51485,CALTECH,control,Male,113.0,right handed,control,127.0
-134.0,22.0,51486,CALTECH,control,Male,131.0,ambidextrous,control,129.0
-113.0,17.0,51487,CALTECH,control,Male,106.0,right handed,control,119.0
-107.0,23.3,51488,CALTECH,control,Male,106.0,left handed,control,106.0
-111.0,34.1,51489,CALTECH,control,Male,118.0,right handed,control,102.0
-108.0,44.1,51490,CALTECH,control,Male,107.0,right handed,control,108.0
-120.0,56.2,51491,CALTECH,control,Male,109.0,right handed,control,128.0
-117.0,18.7,51492,CALTECH,control,Male,119.0,ambidextrous,control,110.0
-102.0,29.2,51493,CALTECH,control,Female,101.0,right handed,control,103.0
--9999.0,20.0,51556,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,26.0,51557,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,27.0,51558,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,27.0,51559,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,27.0,51560,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,36.0,51561,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,37.0,51562,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,38.0,51563,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,39.0,51564,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,39.0,51565,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,41.0,51566,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,34.0,51567,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,37.0,51568,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,36.0,51569,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,42.0,51570,SBL,control,Male,-9999.0,,control,-9999.0
--9999.0,22.0,51571,SBL,autism,Male,101.0,,autism,110.0
--9999.0,28.0,51572,SBL,aspergers,Male,93.0,,autism,110.0
--9999.0,30.0,51573,SBL,pdd-nos,Male,108.0,left handed,autism,120.0
--9999.0,30.0,51574,SBL,aspergers,Male,105.0,,autism,121.0
--9999.0,31.0,51575,SBL,aspergers,Male,100.0,,autism,113.0
--9999.0,31.0,51576,SBL,pdd-nos,Male,-9999.0,,autism,-9999.0
--9999.0,31.0,51577,SBL,pdd-nos,Male,-9999.0,,autism,-9999.0
-125.0,33.0,51578,SBL,aspergers,Male,129.0,,autism,113.0
-110.0,41.0,51579,SBL,pdd-nos,Male,,,autism,
--9999.0,42.0,51580,SBL,pdd-nos,Male,117.0,,autism,121.0
-120.0,64.0,51581,SBL,pdd-nos,Male,119.0,,autism,116.0
--9999.0,31.0,51582,SBL,aspergers,Male,116.0,,autism,121.0
-95.0,35.0,51583,SBL,aspergers,Male,105.0,,autism,84.0
--9999.0,49.0,51584,SBL,aspergers,Male,133.0,,autism,135.0
-96.0,27.0,51585,SBL,autism,Male,99.0,,autism,106.0
-118.0,29.0,51606,MAX_MUN,aspergers,Female,,right handed,autism,
-110.0,26.0,51607,MAX_MUN,aspergers,Male,,right handed,autism,
+full iq,age,participant_id,site_id,dsm_iv_tr,sex,verbal iq,handedness,diagnosis,performance iq,project
+103.0,16.77,50002,university of pittsburg,autism,Male,116.0,ambidextrous,autism,89.0,abide_initiative
+124.0,24.45,50003,university of pittsburg,autism,Male,128.0,right handed,autism,115.0,abide_initiative
+113.0,19.09,50004,university of pittsburg,autism,Male,108.0,right handed,autism,117.0,abide_initiative
+119.0,13.73,50005,university of pittsburg,autism,Female,117.0,right handed,autism,118.0,abide_initiative
+109.0,13.37,50006,university of pittsburg,autism,Male,99.0,left handed,autism,119.0,abide_initiative
+110.0,17.78,50007,university of pittsburg,autism,Male,106.0,right handed,autism,112.0,abide_initiative
+123.0,32.45,50008,university of pittsburg,autism,Male,123.0,right handed,autism,114.0,abide_initiative
+126.0,33.86,50009,university of pittsburg,autism,Male,118.0,right handed,autism,128.0,abide_initiative
+81.0,35.2,50010,university of pittsburg,autism,Male,81.0,left handed,autism,93.0,abide_initiative
+111.0,16.93,50011,university of pittsburg,autism,Male,101.0,left handed,autism,120.0,abide_initiative
+128.0,21.48,50012,university of pittsburg,autism,Male,119.0,right handed,autism,128.0,abide_initiative
+86.0,9.33,50013,university of pittsburg,autism,Male,89.0,right handed,autism,87.0,abide_initiative
+96.0,14.2,50014,university of pittsburg,autism,Male,97.0,right handed,autism,96.0,abide_initiative
+99.0,14.2,50015,university of pittsburg,autism,Male,98.0,right handed,autism,99.0,abide_initiative
+123.0,21.82,50016,university of pittsburg,autism,Male,120.0,right handed,autism,119.0,abide_initiative
+87.0,22.7,50017,university of pittsburg,autism,Male,91.0,right handed,autism,86.0,abide_initiative
+100.0,27.81,50019,university of pittsburg,autism,Male,89.0,right handed,autism,111.0,abide_initiative
+100.0,20.83,50020,university of pittsburg,autism,Male,120.0,right handed,autism,83.0,abide_initiative
+119.0,16.99,50022,university of pittsburg,autism,Male,110.0,right handed,autism,110.0,abide_initiative
+97.0,12.64,50023,university of pittsburg,autism,Female,83.0,right handed,autism,111.0,abide_initiative
+127.0,22.64,50024,university of pittsburg,autism,Male,121.0,right handed,autism,126.0,abide_initiative
+131.0,31.72,50025,university of pittsburg,autism,Male,132.0,right handed,autism,123.0,abide_initiative
+87.0,16.28,50026,university of pittsburg,autism,Male,90.0,right handed,autism,88.0,abide_initiative
+98.0,12.24,50027,university of pittsburg,autism,Male,98.0,right handed,autism,98.0,abide_initiative
+126.0,12.74,50028,university of pittsburg,autism,Male,112.0,right handed,autism,128.0,abide_initiative
+106.0,11.4,50029,university of pittsburg,autism,Female,109.0,right handed,autism,100.0,abide_initiative
+105.0,25.12,50030,university of pittsburg,control,Male,100.0,,control,108.0,abide_initiative
+106.0,12.92,50031,university of pittsburg,control,Male,102.0,right handed,control,107.0,abide_initiative
+119.0,19.8,50032,university of pittsburg,control,Male,116.0,right handed,control,119.0,abide_initiative
+98.0,12.15,50033,university of pittsburg,control,Male,98.0,right handed,control,96.0,abide_initiative
+97.0,14.77,50034,university of pittsburg,control,Male,98.0,right handed,control,96.0,abide_initiative
+107.0,17.36,50035,university of pittsburg,control,Male,109.0,right handed,control,102.0,abide_initiative
+103.0,13.28,50036,university of pittsburg,control,Female,94.0,right handed,control,112.0,abide_initiative
+115.0,19.16,50037,university of pittsburg,control,Male,112.0,right handed,control,115.0,abide_initiative
+130.0,13.95,50038,university of pittsburg,control,Female,132.0,right handed,control,121.0,abide_initiative
+118.0,30.66,50039,university of pittsburg,control,Male,110.0,right handed,control,123.0,abide_initiative
+110.0,24.6,50040,university of pittsburg,control,Male,109.0,right handed,control,108.0,abide_initiative
+103.0,27.92,50041,university of pittsburg,control,Male,108.0,right handed,control,96.0,abide_initiative
+109.0,33.17,50042,university of pittsburg,control,Male,111.0,right handed,control,104.0,abide_initiative
+113.0,13.78,50043,university of pittsburg,control,Male,115.0,right handed,control,107.0,abide_initiative
+110.0,17.13,50044,university of pittsburg,control,Male,117.0,right handed,control,102.0,abide_initiative
+114.0,15.7,50045,university of pittsburg,control,Male,115.0,right handed,control,109.0,abide_initiative
+100.0,20.65,50046,university of pittsburg,control,Male,88.0,right handed,control,111.0,abide_initiative
+103.0,15.35,50047,university of pittsburg,control,Male,95.0,right handed,control,109.0,abide_initiative
+107.0,11.81,50048,university of pittsburg,control,Male,98.0,right handed,control,117.0,abide_initiative
+100.0,15.82,50049,university of pittsburg,control,Female,96.0,right handed,control,103.0,abide_initiative
+113.0,14.37,50050,university of pittsburg,control,Male,104.0,left handed,control,121.0,abide_initiative
+107.0,12.83,50051,university of pittsburg,control,Male,101.0,right handed,control,110.0,abide_initiative
+122.0,33.24,50052,university of pittsburg,control,Male,123.0,right handed,control,115.0,abide_initiative
+122.0,12.03,50053,university of pittsburg,autism,Male,119.0,right handed,autism,119.0,abide_initiative
+95.0,9.44,50054,university of pittsburg,control,Male,99.0,right handed,control,90.0,abide_initiative
+111.0,16.99,50055,university of pittsburg,autism,Male,108.0,right handed,autism,112.0,abide_initiative
+113.0,13.59,50056,university of pittsburg,autism,Male,101.0,right handed,autism,125.0,abide_initiative
+124.0,12.62,50057,university of pittsburg,autism,Female,115.0,right handed,autism,128.0,abide_initiative
+127.0,23.1,50058,university of pittsburg,control,Male,128.0,right handed,control,119.0,abide_initiative
+117.0,21.22,50059,university of pittsburg,control,Female,109.0,right handed,control,121.0,abide_initiative
+126.0,20.34,50060,university of pittsburg,control,Male,122.0,right handed,control,119.0,abide_initiative
+103.0,14.0,50102,olin,control,Male,,right handed,control,,abide_initiative
+106.0,14.0,50103,olin,control,Male,,right handed,control,,abide_initiative
+125.0,16.0,50104,olin,control,Male,,right handed,control,,abide_initiative
+100.0,17.0,50105,olin,control,Male,,right handed,control,,abide_initiative
+129.0,10.0,50106,olin,control,Male,,right handed,control,,abide_initiative
+132.0,21.0,50107,olin,control,Male,,right handed,control,,abide_initiative
+131.0,21.0,50108,olin,control,Male,,right handed,control,,abide_initiative
+102.0,20.0,50109,olin,control,Male,,right handed,control,,abide_initiative
+79.0,13.0,50110,olin,control,Male,,right handed,control,,abide_initiative
+118.0,14.0,50111,olin,control,Male,,right handed,control,,abide_initiative
+102.0,17.0,50112,olin,control,Male,,right handed,control,,abide_initiative
+100.0,15.0,50113,olin,control,Female,,right handed,control,,abide_initiative
+127.0,20.0,50114,olin,control,Female,,right handed,control,,abide_initiative
+135.0,23.0,50115,olin,control,Male,,left handed,control,,abide_initiative
+115.0,15.0,50116,olin,control,Male,,right handed,control,,abide_initiative
+135.0,21.0,50117,olin,control,Male,,left handed,control,,abide_initiative
+80.0,15.0,50118,olin,control,Male,,right handed,autism,,abide_initiative
+132.0,19.0,50119,olin,control,Female,,right handed,autism,,abide_initiative
+103.0,15.0,50120,olin,control,Male,,right handed,autism,,abide_initiative
+118.0,20.0,50121,olin,control,Male,,right handed,autism,,abide_initiative
+112.0,12.0,50122,olin,control,Male,,left handed,autism,,abide_initiative
+135.0,17.0,50123,olin,control,Male,,right handed,autism,,abide_initiative
+100.0,18.0,50124,olin,control,Male,,right handed,autism,,abide_initiative
+,24.0,50125,olin,control,Female,,right handed,autism,,abide_initiative
+133.0,17.0,50126,olin,control,Male,,right handed,autism,,abide_initiative
+115.0,14.0,50127,olin,control,Female,,right handed,autism,,abide_initiative
+114.0,16.0,50128,olin,control,Male,,right handed,autism,,abide_initiative
+108.0,12.0,50129,olin,control,Male,,right handed,autism,,abide_initiative
+129.0,18.0,50130,olin,control,Male,,right handed,autism,,abide_initiative
+71.0,21.0,50131,olin,control,Male,,left handed,autism,,abide_initiative
+,16.0,50132,olin,control,Male,,right handed,autism,,abide_initiative
+112.0,11.0,50133,olin,control,Male,,right handed,autism,,abide_initiative
+124.0,18.0,50134,olin,control,Male,,left handed,autism,,abide_initiative
+97.0,12.0,50135,olin,control,Male,,left handed,autism,,abide_initiative
+131.0,19.0,50136,olin,control,Male,,right handed,autism,,abide_initiative
+120.0,20.0,50137,olin,control,Male,,right handed,autism,,abide_initiative
+124.0,13.99,50142,ohsu,,Male,,left handed,autism,,abide_initiative
+130.0,13.79,50143,ohsu,,Male,,right handed,autism,,abide_initiative
+110.0,10.22,50144,ohsu,,Male,,right handed,autism,,abide_initiative
+82.0,10.75,50145,ohsu,,Male,,right handed,autism,,abide_initiative
+132.0,8.0,50146,ohsu,,Male,,right handed,autism,,abide_initiative
+128.0,11.35,50147,ohsu,,Male,,right handed,autism,,abide_initiative
+69.6,12.65,50148,ohsu,,Male,,right handed,autism,,abide_initiative
+107.6,12.32,50149,ohsu,,Male,,right handed,autism,,abide_initiative
+77.2,9.42,50150,ohsu,,Male,,right handed,autism,,abide_initiative
+105.7,9.73,50152,ohsu,,Male,,right handed,autism,,abide_initiative
+100.0,9.72,50153,ohsu,,Male,,right handed,autism,,abide_initiative
+,14.42,50155,ohsu,,Male,,right handed,autism,,abide_initiative
+,15.23,50156,ohsu,,Male,,right handed,autism,,abide_initiative
+104.0,10.5,50157,ohsu,,Male,,right handed,control,,abide_initiative
+106.0,11.55,50158,ohsu,,Male,,right handed,control,,abide_initiative
+132.0,10.29,50159,ohsu,,Male,,right handed,control,,abide_initiative
+112.0,11.45,50160,ohsu,,Male,,right handed,control,,abide_initiative
+104.0,9.15,50161,ohsu,,Male,,right handed,control,,abide_initiative
+120.0,8.94,50162,ohsu,,Male,,right handed,control,,abide_initiative
+118.7,9.4,50163,ohsu,,Male,,right handed,control,,abide_initiative
+122.0,8.86,50164,ohsu,,Male,,right handed,control,,abide_initiative
+126.0,9.69,50165,ohsu,,Male,,right handed,control,,abide_initiative
+126.0,8.2,50166,ohsu,,Male,,right handed,control,,abide_initiative
+115.2,10.08,50167,ohsu,,Male,,right handed,control,,abide_initiative
+105.7,9.69,50168,ohsu,,Male,,right handed,control,,abide_initiative
+130.0,11.99,50169,ohsu,,Male,,right handed,control,,abide_initiative
+94.0,10.53,50170,ohsu,,Male,,right handed,control,,abide_initiative
+120.0,10.64,50171,ohsu,,Male,,right handed,control,,abide_initiative
+115.0,16.61,50182,sdsu,aspergers,Male,113.0,right handed,autism,114.0,abide_initiative
+139.0,14.14,50183,sdsu,autism,Male,128.0,right handed,autism,140.0,abide_initiative
+141.0,17.15,50184,sdsu,aspergers,Male,147.0,right handed,autism,126.0,abide_initiative
+94.0,12.44,50185,sdsu,autism,Female,88.0,right handed,autism,101.0,abide_initiative
+112.0,12.13,50186,sdsu,aspergers,Male,109.0,right handed,autism,110.0,abide_initiative
+113.0,16.48,50187,sdsu,aspergers,Male,119.0,right handed,autism,104.0,abide_initiative
+126.0,15.4,50188,sdsu,,Male,116.0,right handed,autism,129.0,abide_initiative
+115.0,16.64,50189,sdsu,aspergers,Male,109.0,right handed,autism,117.0,abide_initiative
+124.0,13.99,50190,sdsu,aspergers,Male,125.0,right handed,autism,118.0,abide_initiative
+114.0,12.63,50191,sdsu,,Male,125.0,right handed,autism,101.0,abide_initiative
+85.0,12.99,50192,sdsu,autism,Male,93.0,right handed,autism,81.0,abide_initiative
+112.0,14.75,50193,sdsu,control,Male,108.0,right handed,control,114.0,abide_initiative
+110.0,13.35,50194,sdsu,control,Male,104.0,left handed,control,116.0,abide_initiative
+123.0,12.58,50195,sdsu,control,Male,111.0,right handed,control,129.0,abide_initiative
+110.0,12.91,50196,sdsu,control,Male,116.0,right handed,control,103.0,abide_initiative
+109.0,14.98,50197,sdsu,control,Male,109.0,right handed,control,106.0,abide_initiative
+121.0,15.28,50198,sdsu,control,Male,117.0,right handed,control,120.0,abide_initiative
+100.0,15.53,50199,sdsu,control,Male,107.0,right handed,control,92.0,abide_initiative
+108.0,13.88,50200,sdsu,control,Male,107.0,right handed,control,106.0,abide_initiative
+98.0,13.77,50201,sdsu,control,Female,106.0,right handed,control,90.0,abide_initiative
+100.0,12.08,50202,sdsu,control,Male,87.0,right handed,control,114.0,abide_initiative
+117.0,16.05,50203,sdsu,control,Male,117.0,left handed,control,114.0,abide_initiative
+100.0,14.86,50204,sdsu,control,Male,89.0,right handed,control,110.0,abide_initiative
+109.0,14.1,50205,sdsu,control,Female,105.0,right handed,control,112.0,abide_initiative
+112.0,8.67,50206,sdsu,control,Female,119.0,right handed,control,103.0,abide_initiative
+81.0,16.06,50207,sdsu,pdd-nos,Male,83.0,right handed,autism,84.0,abide_initiative
+93.0,13.78,50208,sdsu,control,Female,103.0,right handed,control,86.0,abide_initiative
+126.0,16.57,50209,sdsu,control,Male,126.0,left handed,control,120.0,abide_initiative
+123.0,16.6,50210,sdsu,control,Male,114.0,right handed,control,126.0,abide_initiative
+105.0,16.13,50211,sdsu,control,Male,112.0,right handed,control,96.0,abide_initiative
+100.0,13.81,50212,sdsu,aspergers,Male,88.0,left handed,autism,112.0,abide_initiative
+88.0,12.38,50213,sdsu,control,Female,93.0,right handed,control,88.0,abide_initiative
+93.0,14.76,50214,sdsu,control,Male,87.0,right handed,control,101.0,abide_initiative
+117.0,16.88,50215,sdsu,control,Female,110.0,right handed,control,120.0,abide_initiative
+100.0,15.6,50216,sdsu,pdd-nos,Male,99.0,right handed,autism,99.0,abide_initiative
+104.0,12.9,50217,sdsu,control,Male,100.0,right handed,control,106.0,abide_initiative
+115.0,23.08,50232,trinity,pdd-nos,Male,123.0,right handed,autism,103.0,abide_initiative
+135.0,20.75,50233,trinity,pdd-nos,Male,131.0,right handed,autism,131.0,abide_initiative
+111.0,15.66,50234,trinity,pdd-nos,Male,104.0,right handed,autism,117.0,abide_initiative
+119.0,15.33,50235,trinity,pdd-nos,Male,122.0,right handed,autism,111.0,abide_initiative
+118.0,19.16,50236,trinity,pdd-nos,Male,109.0,right handed,autism,123.0,abide_initiative
+118.0,21.42,50237,trinity,pdd-nos,Male,109.0,right handed,autism,116.0,abide_initiative
+120.0,18.92,50238,trinity,pdd-nos,Male,129.0,right handed,autism,108.0,abide_initiative
+97.0,17.03,50239,trinity,autism,Male,92.0,right handed,autism,102.0,abide_initiative
+132.0,15.05,50240,trinity,aspergers,Male,135.0,right handed,autism,121.0,abide_initiative
+89.0,17.17,50241,trinity,autism,Male,95.0,right handed,autism,87.0,abide_initiative
+117.0,12.75,50242,trinity,autism,Male,116.0,right handed,autism,117.0,abide_initiative
+90.0,13.75,50243,trinity,autism,Male,98.0,right handed,autism,88.0,abide_initiative
+106.0,25.91,50244,trinity,aspergers,Male,103.0,right handed,autism,106.0,abide_initiative
+72.0,21.58,50245,trinity,autism,Male,85.0,right handed,autism,63.0,abide_initiative
+105.0,19.5,50246,trinity,autism,Male,108.0,right handed,autism,99.0,abide_initiative
+103.0,12.0,50247,trinity,aspergers,Male,99.0,right handed,autism,,abide_initiative
+117.0,13.58,50248,trinity,autism,Male,112.0,right handed,autism,117.0,abide_initiative
+98.0,13.83,50249,trinity,autism,Male,98.0,right handed,autism,99.0,abide_initiative
+99.0,13.91,50250,trinity,autism,Male,99.0,right handed,autism,98.0,abide_initiative
+122.0,17.25,50251,trinity,autism,Male,119.0,right handed,autism,119.0,abide_initiative
+94.0,15.25,50252,trinity,aspergers,Male,87.0,right handed,autism,102.0,abide_initiative
+99.0,18.01,50253,trinity,aspergers,Male,90.0,right handed,autism,106.0,abide_initiative
+121.0,19.41,50254,trinity,aspergers,Male,123.0,right handed,autism,114.0,abide_initiative
+125.0,14.41,50255,trinity,aspergers,Male,119.0,right handed,autism,126.0,abide_initiative
+113.0,14.91,50257,trinity,control,Male,105.0,right handed,control,120.0,abide_initiative
+114.0,19.83,50259,trinity,control,Male,118.0,right handed,control,107.0,abide_initiative
+116.0,20.33,50260,trinity,control,Male,119.0,right handed,control,116.0,abide_initiative
+116.0,20.08,50261,trinity,control,Male,113.0,right handed,control,116.0,abide_initiative
+133.0,21.33,50262,trinity,control,Male,127.0,right handed,control,132.0,abide_initiative
+117.0,19.08,50263,trinity,control,Male,119.0,right handed,control,110.0,abide_initiative
+120.0,25.66,50264,trinity,control,Male,115.0,right handed,control,120.0,abide_initiative
+101.0,12.25,50265,trinity,control,Male,97.0,right handed,control,105.0,abide_initiative
+116.0,15.91,50266,trinity,control,Male,118.0,right handed,control,109.0,abide_initiative
+116.0,17.5,50267,trinity,control,Male,114.0,right handed,control,115.0,abide_initiative
+96.0,14.41,50268,trinity,control,Male,107.0,right handed,control,86.0,abide_initiative
+113.0,14.66,50269,trinity,control,Male,110.0,right handed,control,112.0,abide_initiative
+99.0,19.33,50270,trinity,control,Male,98.0,right handed,control,99.0,abide_initiative
+105.0,19.66,50271,trinity,control,Male,96.0,right handed,control,114.0,abide_initiative
+98.5,14.2,50272,university of michigan 1,autism,Male,100.0,right handed,autism,97.0,abide_initiative
+112.5,16.8,50273,university of michigan 1,autism,Male,109.0,right handed,autism,116.0,abide_initiative
+111.5,14.2,50274,university of michigan 1,autism,Male,106.0,right handed,autism,117.0,abide_initiative
+85.0,11.5,50275,university of michigan 1,autism,Male,106.0,left handed,autism,64.0,abide_initiative
+146.5,16.8,50276,university of michigan 1,autism,Female,145.0,,autism,148.0,abide_initiative
+107.5,15.4,50277,university of michigan 1,autism,Male,96.0,left handed,autism,119.0,abide_initiative
+107.5,11.3,50278,university of michigan 1,autism,Female,93.0,right handed,autism,122.0,abide_initiative
+87.5,12.2,50279,university of michigan 1,autism,Male,75.0,right handed,autism,100.0,abide_initiative
+85.0,15.6,50280,university of michigan 1,autism,Male,81.0,,autism,89.0,abide_initiative
+132.0,10.7,50281,university of michigan 1,aspergers,Male,131.0,right handed,autism,133.0,abide_initiative
+121.0,15.2,50282,university of michigan 1,autism,Male,118.0,,autism,124.0,abide_initiative
+97.5,11.2,50283,university of michigan 1,autism,Male,91.0,right handed,autism,104.0,abide_initiative
+111.0,11.2,50284,university of michigan 1,aspergers,Female,113.0,right handed,autism,109.0,abide_initiative
+99.5,12.8,50285,university of michigan 1,autism,Female,94.0,right handed,autism,105.0,abide_initiative
+130.5,11.2,50286,university of michigan 1,aspergers,Male,139.0,right handed,autism,122.0,abide_initiative
+96.5,14.4,50287,university of michigan 1,autism,Male,90.0,left handed,autism,103.0,abide_initiative
+105.0,11.1,50288,university of michigan 1,autism,Male,104.0,right handed,autism,106.0,abide_initiative
+105.0,12.9,50289,university of michigan 1,aspergers,Male,100.0,left handed,autism,110.0,abide_initiative
+108.5,14.0,50290,university of michigan 1,autism,Male,103.0,right handed,autism,114.0,abide_initiative
+96.0,13.9,50291,university of michigan 1,autism,Male,98.0,right handed,autism,94.0,abide_initiative
+89.5,12.6,50292,university of michigan 1,autism,Male,91.0,right handed,autism,88.0,abide_initiative
+,12.4,50293,university of michigan 1,autism,Male,126.0,right handed,autism,,abide_initiative
+103.0,12.6,50294,university of michigan 1,aspergers,Male,110.0,right handed,autism,96.0,abide_initiative
+135.0,11.5,50295,university of michigan 1,autism,Male,133.0,right handed,autism,137.0,abide_initiative
+89.0,15.1,50296,university of michigan 1,autism,Male,78.0,right handed,autism,100.0,abide_initiative
+125.5,15.9,50297,university of michigan 1,,Male,141.0,right handed,autism,110.0,abide_initiative
+101.0,12.8,50298,university of michigan 1,autism,Male,121.0,right handed,autism,81.0,abide_initiative
+87.5,12.2,50299,university of michigan 1,autism,Male,96.0,right handed,autism,79.0,abide_initiative
+90.0,9.7,50300,university of michigan 1,pdd-nos,Female,99.0,right handed,autism,81.0,abide_initiative
+97.0,16.1,50301,university of michigan 1,autism,Male,101.0,left handed,autism,93.0,abide_initiative
+97.0,10.4,50302,university of michigan 1,,Female,109.0,right handed,autism,85.0,abide_initiative
+84.0,11.6,50303,university of michigan 1,autism,Male,75.0,right handed,autism,93.0,abide_initiative
+96.5,11.0,50304,university of michigan 1,autism,Male,99.0,,autism,94.0,abide_initiative
+85.0,10.9,50305,university of michigan 1,autism,Male,103.0,right handed,autism,67.0,abide_initiative
+76.0,8.5,50306,university of michigan 1,autism,Male,86.0,right handed,autism,66.0,abide_initiative
+81.5,9.7,50307,university of michigan 1,autism,Male,87.0,ambidextrous,autism,76.0,abide_initiative
+113.0,8.9,50308,university of michigan 1,autism,Male,113.0,,autism,113.0,abide_initiative
+81.5,9.5,50309,university of michigan 1,autism,Female,81.0,,autism,82.0,abide_initiative
+78.5,9.7,50310,university of michigan 1,autism,Male,82.0,right handed,autism,75.0,abide_initiative
+89.0,9.8,50311,university of michigan 1,autism,Male,96.0,,autism,82.0,abide_initiative
+91.0,11.2,50312,university of michigan 1,autism,Male,97.0,right handed,autism,85.0,abide_initiative
+101.0,13.4,50313,university of michigan 1,autism,Male,109.0,right handed,autism,93.0,abide_initiative
+126.0,16.1,50314,university of michigan 1,aspergers,Male,127.0,right handed,autism,125.0,abide_initiative
+118.5,13.4,50315,university of michigan 1,autism,Male,126.0,right handed,autism,111.0,abide_initiative
+109.0,11.8,50316,university of michigan 1,autism,Male,125.0,right handed,autism,93.0,abide_initiative
+115.0,9.8,50317,university of michigan 1,autism,Male,117.0,right handed,autism,113.0,abide_initiative
+147.5,9.2,50318,university of michigan 1,autism,Male,180.0,left handed,autism,115.0,abide_initiative
+126.0,15.0,50319,university of michigan 1,autism,Female,125.0,right handed,autism,127.0,abide_initiative
+108.0,18.6,50320,university of michigan 1,autism,Male,89.0,right handed,autism,127.0,abide_initiative
+98.5,18.0,50321,university of michigan 1,autism,Female,116.0,right handed,autism,81.0,abide_initiative
+92.5,12.4,50322,university of michigan 1,autism,Male,103.0,right handed,autism,82.0,abide_initiative
+125.0,14.2,50323,university of michigan 1,autism,Male,135.0,right handed,autism,115.0,abide_initiative
+124.5,13.8,50324,university of michigan 1,autism,Male,136.0,right handed,autism,113.0,abide_initiative
+77.0,13.1,50325,university of michigan 1,aspergers,Male,95.0,right handed,autism,59.0,abide_initiative
+79.0,12.0,50326,university of michigan 1,autism,Male,88.0,right handed,autism,70.0,abide_initiative
+111.0,15.3,50327,university of michigan 1,control,Male,107.0,left handed,control,115.0,abide_initiative
+91.5,17.4,50328,university of michigan 1,control,Male,87.0,right handed,control,96.0,abide_initiative
+100.0,17.1,50329,university of michigan 1,control,Male,107.0,right handed,control,93.0,abide_initiative
+120.0,16.1,50330,university of michigan 1,control,Male,147.0,right handed,control,93.0,abide_initiative
+,17.2,50331,university of michigan 1,control,Male,138.0,left handed,control,,abide_initiative
+103.5,10.4,50332,university of michigan 1,control,Male,121.0,right handed,control,86.0,abide_initiative
+100.5,10.2,50333,university of michigan 1,control,Male,101.0,right handed,control,100.0,abide_initiative
+108.0,11.0,50334,university of michigan 1,control,Male,108.0,right handed,control,108.0,abide_initiative
+108.0,17.8,50335,university of michigan 1,control,Male,120.0,right handed,control,96.0,abide_initiative
+108.0,14.3,50336,university of michigan 1,control,Female,113.0,right handed,control,103.0,abide_initiative
+112.0,11.8,50337,university of michigan 1,control,Male,126.0,right handed,control,98.0,abide_initiative
+106.5,13.5,50338,university of michigan 1,control,Female,111.0,right handed,control,102.0,abide_initiative
+,18.0,50339,university of michigan 1,control,Male,119.0,right handed,control,,abide_initiative
+110.0,16.1,50340,university of michigan 1,control,Female,110.0,right handed,control,110.0,abide_initiative
+,18.2,50341,university of michigan 1,control,Female,123.0,right handed,control,,abide_initiative
+103.5,12.6,50342,university of michigan 1,control,Male,107.0,right handed,control,100.0,abide_initiative
+124.5,13.8,50343,university of michigan 1,control,Female,136.0,right handed,control,113.0,abide_initiative
+121.5,18.2,50344,university of michigan 1,control,Male,126.0,right handed,control,117.0,abide_initiative
+118.5,17.3,50345,university of michigan 1,control,Male,122.0,right handed,control,115.0,abide_initiative
+115.5,18.9,50346,university of michigan 1,control,Male,120.0,right handed,control,111.0,abide_initiative
+122.0,15.6,50347,university of michigan 1,control,Male,129.0,right handed,control,115.0,abide_initiative
+112.5,19.2,50348,university of michigan 1,control,Female,114.0,right handed,control,111.0,abide_initiative
+111.0,18.9,50349,university of michigan 1,control,Male,116.0,right handed,control,106.0,abide_initiative
+109.5,12.4,50350,university of michigan 1,control,Male,109.0,right handed,control,110.0,abide_initiative
+116.0,16.8,50351,university of michigan 1,control,Male,107.0,right handed,control,125.0,abide_initiative
+113.5,15.5,50352,university of michigan 1,control,Male,121.0,left handed,control,106.0,abide_initiative
+89.0,13.1,50353,university of michigan 1,control,Female,96.0,right handed,control,82.0,abide_initiative
+103.0,14.0,50354,university of michigan 1,control,Female,110.0,right handed,control,96.0,abide_initiative
+127.5,10.9,50355,university of michigan 1,control,Male,138.0,right handed,control,117.0,abide_initiative
+92.5,17.2,50356,university of michigan 1,control,Female,86.0,left handed,control,99.0,abide_initiative
+92.5,9.5,50357,university of michigan 1,control,Female,103.0,right handed,control,82.0,abide_initiative
+99.5,9.8,50358,university of michigan 1,control,Male,106.0,right handed,control,93.0,abide_initiative
+85.0,10.4,50359,university of michigan 1,control,Male,95.0,right handed,control,75.0,abide_initiative
+113.5,13.9,50360,university of michigan 1,control,Male,119.0,right handed,control,108.0,abide_initiative
+106.5,18.3,50361,university of michigan 1,control,Female,100.0,,control,113.0,abide_initiative
+108.0,11.2,50362,university of michigan 1,control,Male,106.0,left handed,control,110.0,abide_initiative
+104.5,9.8,50363,university of michigan 1,control,Male,103.0,right handed,control,106.0,abide_initiative
+97.0,10.8,50364,university of michigan 1,control,Male,102.0,right handed,control,92.0,abide_initiative
+106.5,15.6,50365,university of michigan 1,control,Male,98.0,left handed,control,115.0,abide_initiative
+102.0,8.2,50366,university of michigan 1,control,Male,114.0,,control,90.0,abide_initiative
+105.0,10.8,50367,university of michigan 1,control,Male,112.0,,control,98.0,abide_initiative
+118.5,17.9,50368,university of michigan 1,control,Male,124.0,right handed,control,113.0,abide_initiative
+96.5,14.8,50369,university of michigan 1,control,Female,97.0,right handed,control,96.0,abide_initiative
+93.5,12.8,50370,university of michigan 1,control,Male,98.0,right handed,control,89.0,abide_initiative
+97.5,12.2,50371,university of michigan 1,control,Male,123.0,right handed,control,72.0,abide_initiative
+107.5,10.2,50372,university of michigan 1,control,Male,109.0,right handed,control,106.0,abide_initiative
+94.0,17.2,50373,university of michigan 1,control,Female,94.0,right handed,control,94.0,abide_initiative
+106.0,9.7,50374,university of michigan 1,control,Female,120.0,right handed,control,92.0,abide_initiative
+123.5,11.6,50375,university of michigan 1,control,Female,137.0,right handed,control,110.0,abide_initiative
+98.5,9.2,50376,university of michigan 1,control,Male,118.0,right handed,control,79.0,abide_initiative
+113.5,11.5,50377,university of michigan 1,control,Male,129.0,right handed,control,98.0,abide_initiative
+114.0,11.6,50378,university of michigan 1,control,Male,135.0,left handed,control,93.0,abide_initiative
+104.0,14.3,50379,university of michigan 1,control,Female,116.0,right handed,control,92.0,abide_initiative
+95.5,17.4,50380,university of michigan 1,control,Female,88.0,left handed,control,103.0,abide_initiative
+114.5,16.5,50381,university of michigan 1,control,Male,121.0,right handed,control,108.0,abide_initiative
+114.0,28.8,50382,university of michigan 2,control,Male,115.0,right handed,control,109.0,abide_initiative
+116.0,14.4,50383,university of michigan 2,control,Male,111.0,right handed,control,117.0,abide_initiative
+109.0,17.8,50385,university of michigan 2,control,Male,99.0,right handed,control,119.0,abide_initiative
+129.0,17.8,50386,university of michigan 2,control,Male,126.0,right handed,control,119.0,abide_initiative
+93.5,14.0,50387,university of michigan 2,control,Male,98.0,right handed,control,89.0,abide_initiative
+115.0,26.8,50388,university of michigan 2,control,Male,108.0,right handed,control,119.0,abide_initiative
+103.5,14.5,50390,university of michigan 2,control,Male,107.0,right handed,control,100.0,abide_initiative
+113.5,17.2,50391,university of michigan 2,control,Male,121.0,left handed,control,106.0,abide_initiative
+116.0,14.7,50397,university of michigan 2,autism,Male,132.0,,autism,100.0,abide_initiative
+104.5,17.4,50399,university of michigan 2,aspergers,Male,129.0,right handed,autism,80.0,abide_initiative
+121.0,13.1,50402,university of michigan 2,autism,Male,117.0,right handed,autism,125.0,abide_initiative
+120.5,12.8,50403,university of michigan 2,aspergers,Male,126.0,right handed,autism,115.0,abide_initiative
+129.5,15.8,50404,university of michigan 2,autism,Male,132.0,right handed,autism,127.0,abide_initiative
+94.0,16.6,50405,university of michigan 2,autism,Male,90.0,right handed,autism,98.0,abide_initiative
+90.5,15.2,50406,university of michigan 2,autism,Male,78.0,right handed,autism,103.0,abide_initiative
+105.0,16.6,50407,university of michigan 2,autism,Female,107.0,right handed,autism,103.0,abide_initiative
+118.5,14.8,50408,university of michigan 2,autism,Male,123.0,right handed,autism,114.0,abide_initiative
+110.5,16.1,50410,university of michigan 2,autism,Male,113.0,right handed,autism,108.0,abide_initiative
+125.5,14.0,50411,university of michigan 2,aspergers,Male,126.0,right handed,autism,125.0,abide_initiative
+133.5,13.2,50412,university of michigan 2,autism,Male,137.0,right handed,autism,130.0,abide_initiative
+114.5,13.1,50413,university of michigan 2,autism,Male,96.0,left handed,autism,133.0,abide_initiative
+109.0,13.8,50414,university of michigan 2,control,Female,132.0,right handed,control,86.0,abide_initiative
+111.5,17.6,50415,university of michigan 2,control,Male,117.0,right handed,control,106.0,abide_initiative
+108.5,14.8,50416,university of michigan 2,control,Male,114.0,right handed,control,103.0,abide_initiative
+121.5,13.3,50417,university of michigan 2,control,Male,128.0,left handed,control,115.0,abide_initiative
+112.0,14.9,50418,university of michigan 2,control,Male,109.0,right handed,control,115.0,abide_initiative
+111.0,15.8,50419,university of michigan 2,control,Male,95.0,right handed,control,127.0,abide_initiative
+116.0,15.4,50421,university of michigan 2,control,Male,126.0,right handed,control,106.0,abide_initiative
+114.5,14.8,50422,university of michigan 2,control,Male,119.0,right handed,control,110.0,abide_initiative
+111.5,14.1,50423,university of michigan 2,control,Male,117.0,right handed,control,106.0,abide_initiative
+125.5,17.9,50424,university of michigan 2,control,Male,136.0,right handed,control,115.0,abide_initiative
+112.0,16.6,50425,university of michigan 2,control,Male,109.0,right handed,control,115.0,abide_initiative
+113.0,13.6,50426,university of michigan 2,control,Male,115.0,right handed,control,111.0,abide_initiative
+96.0,15.8,50427,university of michigan 2,control,Male,100.0,right handed,control,92.0,abide_initiative
+89.5,15.5,50428,university of michigan 2,control,Male,98.0,right handed,control,81.0,abide_initiative
+131.0,18.2806,50432,utah school of medicine,control,Male,127.0,,control,122.0,abide_initiative
+100.0,18.7379,50433,utah school of medicine,control,Male,98.0,,control,103.0,abide_initiative
+93.0,18.2615,50434,utah school of medicine,control,Male,88.0,,control,99.0,abide_initiative
+100.0,16.104,50435,utah school of medicine,control,Male,98.0,,control,102.0,abide_initiative
+126.0,13.8097,50436,utah school of medicine,control,Male,120.0,,control,125.0,abide_initiative
+138.0,14.9432,50437,utah school of medicine,control,Male,139.0,,control,127.0,abide_initiative
+97.0,15.0253,50438,utah school of medicine,control,Male,87.0,,control,108.0,abide_initiative
+128.0,22.601,50439,utah school of medicine,control,Male,130.0,,control,121.0,abide_initiative
+98.0,23.948,50440,utah school of medicine,control,Male,104.0,,control,90.0,abide_initiative
+123.0,27.5975,50441,utah school of medicine,control,Male,118.0,,control,121.0,abide_initiative
+127.0,26.8528,50442,utah school of medicine,control,Male,128.0,,control,119.0,abide_initiative
+120.0,17.0705,50443,utah school of medicine,control,Male,99.0,,control,122.0,abide_initiative
+100.0,24.9884,50444,utah school of medicine,control,Male,106.0,,control,92.0,abide_initiative
+128.0,18.1383,50445,utah school of medicine,control,Male,126.0,,control,125.0,abide_initiative
+116.0,27.3238,50446,utah school of medicine,control,Male,118.0,,control,111.0,abide_initiative
+130.0,12.9391,50447,utah school of medicine,control,Male,132.0,,control,121.0,abide_initiative
+144.0,10.4668,50448,utah school of medicine,control,Male,140.0,,control,138.0,abide_initiative
+108.0,18.2177,50449,utah school of medicine,control,Male,104.0,,control,111.0,abide_initiative
+95.0,21.0979,50450,utah school of medicine,control,Male,98.0,,control,100.0,abide_initiative
+109.0,12.5257,50451,utah school of medicine,control,Male,106.0,,control,111.0,abide_initiative
+112.0,29.9685,50452,utah school of medicine,control,Male,108.0,,control,114.0,abide_initiative
+121.0,8.7721,50453,utah school of medicine,control,Male,104.0,,control,137.0,abide_initiative
+111.0,18.8008,50454,utah school of medicine,control,Male,108.0,,control,112.0,abide_initiative
+112.0,31.2827,50455,utah school of medicine,control,Male,111.0,,control,109.0,abide_initiative
+109.0,16.0986,50456,utah school of medicine,control,Male,104.0,,control,115.0,abide_initiative
+123.0,34.0534,50457,utah school of medicine,control,Male,123.0,,control,119.0,abide_initiative
+148.0,26.1465,50458,utah school of medicine,control,Male,137.0,,control,155.0,abide_initiative
+111.0,18.1547,50459,utah school of medicine,control,Male,106.0,,control,115.0,abide_initiative
+109.0,14.412,50460,utah school of medicine,control,Male,115.0,,control,101.0,abide_initiative
+113.0,16.3943,50461,utah school of medicine,control,Male,105.0,,control,120.0,abide_initiative
+120.0,24.6543,50462,utah school of medicine,control,Male,121.0,,control,114.0,abide_initiative
+121.0,28.3669,50463,utah school of medicine,control,Male,124.0,,control,113.0,abide_initiative
+119.0,9.9548,50464,utah school of medicine,control,Male,106.0,,control,131.0,abide_initiative
+129.0,34.0068,50465,utah school of medicine,control,Male,123.0,,control,129.0,abide_initiative
+103.0,39.2526,50466,utah school of medicine,control,Male,101.0,,control,106.0,abide_initiative
+89.0,19.7591,50467,utah school of medicine,control,Male,89.0,,control,90.0,abide_initiative
+122.0,39.3949,50468,utah school of medicine,control,Male,127.0,,control,111.0,abide_initiative
+134.0,28.5613,50469,utah school of medicine,control,Male,130.0,,control,130.0,abide_initiative
+106.0,9.9165,50470,utah school of medicine,control,Male,119.0,,control,90.0,abide_initiative
+108.0,25.0157,50471,utah school of medicine,control,Male,106.0,,control,107.0,abide_initiative
+104.0,22.1081,50472,utah school of medicine,control,Male,98.0,,control,111.0,abide_initiative
+106.0,22.4367,50473,utah school of medicine,control,Male,110.0,,control,100.0,abide_initiative
+110.0,22.0479,50474,utah school of medicine,control,Male,112.0,,control,107.0,abide_initiative
+117.0,21.6482,50475,utah school of medicine,autism,Male,118.0,,autism,111.0,abide_initiative
+108.0,20.1697,50476,utah school of medicine,autism,Male,109.0,,autism,103.0,abide_initiative
+92.0,20.1807,50477,utah school of medicine,autism,Male,95.0,,autism,91.0,abide_initiative
+91.0,20.178,50478,utah school of medicine,autism,Male,103.0,,autism,83.0,abide_initiative
+113.0,22.8802,50479,utah school of medicine,autism,Male,108.0,,autism,116.0,abide_initiative
+127.0,29.0897,50480,utah school of medicine,autism,Male,117.0,,autism,132.0,abide_initiative
+88.0,17.1663,50481,utah school of medicine,autism,Male,85.0,,autism,95.0,abide_initiative
+94.0,27.4114,50482,utah school of medicine,autism,Male,94.0,,autism,92.0,abide_initiative
+96.0,21.4346,50483,utah school of medicine,autism,Male,76.0,,autism,120.0,abide_initiative
+102.0,19.7043,50484,utah school of medicine,autism,Male,95.0,,autism,109.0,abide_initiative
+132.0,23.5948,50485,utah school of medicine,autism,Male,122.0,,autism,133.0,abide_initiative
+97.0,17.7878,50486,utah school of medicine,autism,Male,77.0,,autism,120.0,abide_initiative
+86.0,25.7972,50487,utah school of medicine,autism,Male,77.0,,autism,99.0,abide_initiative
+100.0,25.4511,50488,utah school of medicine,autism,Male,83.0,,autism,120.0,abide_initiative
+94.0,16.7584,50489,utah school of medicine,autism,Male,72.0,,autism,124.0,abide_initiative
+110.0,19.6277,50490,utah school of medicine,autism,Male,100.0,,autism,119.0,abide_initiative
+125.0,26.9487,50491,utah school of medicine,autism,Male,122.0,,autism,120.0,abide_initiative
+126.0,32.5503,50492,utah school of medicine,autism,Male,130.0,,autism,117.0,abide_initiative
+102.0,35.7098,50493,utah school of medicine,autism,Male,98.0,,autism,106.0,abide_initiative
+65.0,37.7769,50494,utah school of medicine,autism,Male,55.0,,autism,76.0,abide_initiative
+88.0,22.5599,50495,utah school of medicine,autism,Male,86.0,,autism,96.0,abide_initiative
+129.0,24.3231,50496,utah school of medicine,autism,Male,120.0,,autism,132.0,abide_initiative
+80.0,34.4613,50497,utah school of medicine,autism,Male,76.0,,autism,89.0,abide_initiative
+99.0,21.1307,50498,utah school of medicine,autism,Male,118.0,,autism,87.0,abide_initiative
+113.0,25.4346,50499,utah school of medicine,autism,Male,121.0,,autism,104.0,abide_initiative
+118.0,17.2375,50500,utah school of medicine,autism,Male,113.0,,autism,119.0,abide_initiative
+78.0,17.7057,50501,utah school of medicine,autism,Male,79.0,,autism,80.0,abide_initiative
+90.0,32.9582,50502,utah school of medicine,autism,Male,101.0,,autism,83.0,abide_initiative
+80.0,28.6708,50503,utah school of medicine,autism,Male,91.0,,autism,72.0,abide_initiative
+87.0,17.6454,50504,utah school of medicine,autism,Male,86.0,,autism,92.0,abide_initiative
+95.0,33.1828,50505,utah school of medicine,autism,Male,86.0,,autism,106.0,abide_initiative
+73.0,15.9343,50506,utah school of medicine,autism,Male,77.0,,autism,74.0,abide_initiative
+97.0,28.1095,50507,utah school of medicine,autism,Male,108.0,,autism,87.0,abide_initiative
+107.0,26.3792,50508,utah school of medicine,autism,Male,96.0,,autism,118.0,abide_initiative
+95.0,16.7337,50509,utah school of medicine,autism,Male,85.0,,autism,107.0,abide_initiative
+102.0,14.1437,50510,utah school of medicine,autism,Male,104.0,,autism,99.0,abide_initiative
+114.0,16.3833,50511,utah school of medicine,autism,Male,109.0,,autism,116.0,abide_initiative
+121.0,15.4908,50512,utah school of medicine,autism,Male,108.0,,autism,131.0,abide_initiative
+102.0,18.4668,50513,utah school of medicine,autism,Male,97.0,,autism,107.0,abide_initiative
+109.0,21.4018,50514,utah school of medicine,autism,Male,99.0,,autism,119.0,abide_initiative
+94.0,15.8522,50515,utah school of medicine,autism,Male,71.0,,autism,106.0,abide_initiative
+107.0,17.1143,50516,utah school of medicine,autism,Male,108.0,,autism,104.0,abide_initiative
+109.0,16.501,50517,utah school of medicine,autism,Male,108.0,,autism,107.0,abide_initiative
+77.0,18.6585,50518,utah school of medicine,autism,Male,83.0,,autism,75.0,abide_initiative
+83.0,16.3778,50519,utah school of medicine,autism,Male,78.0,,autism,90.0,abide_initiative
+76.0,17.6728,50520,utah school of medicine,autism,Male,55.0,,autism,101.0,abide_initiative
+80.0,18.4175,50521,utah school of medicine,autism,Male,69.0,,autism,99.0,abide_initiative
+100.0,14.7515,50522,utah school of medicine,autism,Male,93.0,,autism,108.0,abide_initiative
+115.0,17.3251,50523,utah school of medicine,autism,Male,118.0,,autism,109.0,abide_initiative
+83.0,12.334,50524,utah school of medicine,autism,Male,76.0,,autism,93.0,abide_initiative
+106.0,32.8487,50525,utah school of medicine,autism,Male,87.0,,autism,128.0,abide_initiative
+123.0,50.2231,50526,utah school of medicine,autism,Male,118.0,,autism,121.0,abide_initiative
+93.0,18.4148,50527,utah school of medicine,pdd-nos,Male,84.0,,autism,105.0,abide_initiative
+100.0,11.3539,50528,utah school of medicine,autism,Male,90.0,,autism,109.0,abide_initiative
+128.0,42.3354,50529,utah school of medicine,autism,Male,122.0,,autism,127.0,abide_initiative
+106.0,18.245,50530,utah school of medicine,autism,Male,120.0,,autism,91.0,abide_initiative
+112.0,28.0903,50531,utah school of medicine,autism,Male,104.0,,autism,119.0,abide_initiative
+84.0,16.9199,50532,utah school of medicine,autism,Male,87.0,,autism,81.0,abide_initiative
+94.0,15.92,50551,yale,control,Male,107.0,right handed,control,83.0,abide_initiative
+106.0,12.75,50552,yale,control,Male,106.0,right handed,control,95.0,abide_initiative
+127.0,9.75,50553,yale,control,Male,119.0,right handed,control,125.0,abide_initiative
+99.0,8.67,50554,yale,control,Male,87.0,right handed,control,95.0,abide_initiative
+131.0,14.42,50555,yale,control,Female,122.0,right handed,control,107.0,abide_initiative
+78.0,10.67,50556,yale,control,Male,89.0,right handed,control,76.0,abide_initiative
+92.0,14.25,50557,yale,control,Female,92.0,right handed,control,93.0,abide_initiative
+113.0,13.75,50558,yale,control,Female,101.0,right handed,control,115.0,abide_initiative
+123.0,12.25,50559,yale,control,Male,116.0,right handed,control,115.0,abide_initiative
+111.0,9.25,50560,yale,control,Male,106.0,right handed,control,108.0,abide_initiative
+110.0,13.33,50561,yale,control,Male,124.0,right handed,control,99.0,abide_initiative
+114.0,10.83,50562,yale,control,Male,120.0,left handed,control,107.0,abide_initiative
+137.0,13.92,50563,yale,control,Female,140.0,right handed,control,139.0,abide_initiative
+140.0,7.66,50564,yale,control,Male,126.0,right handed,control,134.0,abide_initiative
+101.0,11.0,50565,yale,control,Female,113.0,right handed,control,104.0,abide_initiative
+107.0,9.66,50566,yale,control,Male,113.0,right handed,control,106.0,abide_initiative
+80.0,17.83,50567,yale,control,Male,86.0,left handed,control,79.0,abide_initiative
+92.0,13.92,50568,yale,control,Male,107.0,right handed,control,91.0,abide_initiative
+89.0,16.66,50569,yale,control,Female,83.0,right handed,control,93.0,abide_initiative
+88.0,16.66,50570,yale,control,Male,103.0,left handed,control,84.0,abide_initiative
+92.0,11.0,50571,yale,control,Male,91.0,right handed,control,97.0,abide_initiative
+105.0,15.75,50572,yale,control,Female,126.0,right handed,control,82.0,abide_initiative
+103.0,14.17,50573,yale,control,Male,92.0,right handed,control,103.0,abide_initiative
+91.0,10.92,50574,yale,control,Male,103.0,right handed,control,88.0,abide_initiative
+120.0,14.0,50575,yale,control,Male,127.0,right handed,control,114.0,abide_initiative
+119.0,8.42,50576,yale,control,Female,112.0,right handed,control,120.0,abide_initiative
+73.0,15.25,50577,yale,control,Male,73.0,right handed,control,77.0,abide_initiative
+104.0,12.33,50578,yale,control,Male,106.0,left handed,control,106.0,abide_initiative
+102.0,14.33,50601,yale,pdd-nos,Male,115.0,left handed,autism,104.0,abide_initiative
+108.0,10.0,50602,yale,aspergers,Male,106.0,right handed,autism,109.0,abide_initiative
+76.0,13.25,50603,yale,autism,Male,69.0,left handed,autism,88.0,abide_initiative
+85.0,14.42,50604,yale,autism,Female,79.0,right handed,autism,84.0,abide_initiative
+121.0,16.0,50605,yale,autism,Male,102.0,right handed,autism,111.0,abide_initiative
+41.0,16.42,50606,yale,pdd-nos,Male,42.0,right handed,autism,37.0,abide_initiative
+141.0,17.17,50607,yale,aspergers,Male,143.0,right handed,autism,120.0,abide_initiative
+100.0,16.58,50608,yale,pdd-nos,Male,102.0,right handed,autism,99.0,abide_initiative
+114.0,8.92,50609,yale,aspergers,Male,117.0,right handed,autism,107.0,abide_initiative
+95.0,13.0,50610,yale,aspergers,Male,107.0,right handed,autism,84.0,abide_initiative
+86.0,11.92,50611,yale,pdd-nos,Male,100.0,right handed,autism,87.0,abide_initiative
+121.0,11.83,50612,yale,aspergers,Male,126.0,right handed,autism,107.0,abide_initiative
+131.0,12.5,50613,yale,aspergers,Male,141.0,left handed,autism,112.0,abide_initiative
+72.0,17.75,50614,yale,autism,Male,57.0,right handed,autism,67.0,abide_initiative
+119.0,8.58,50615,yale,aspergers,Female,101.0,right handed,autism,126.0,abide_initiative
+93.0,11.83,50616,yale,pdd-nos,Male,106.0,right handed,autism,95.0,abide_initiative
+84.0,7.25,50617,yale,pdd-nos,Male,82.0,right handed,autism,76.0,abide_initiative
+76.0,12.75,50618,yale,autism,Male,79.0,left handed,autism,93.0,abide_initiative
+88.0,16.5,50619,yale,autism,Female,86.0,right handed,autism,94.0,abide_initiative
+114.0,12.75,50620,yale,pdd-nos,Female,110.0,right handed,autism,115.0,abide_initiative
+83.0,16.58,50621,yale,aspergers,Female,111.0,right handed,autism,77.0,abide_initiative
+89.0,9.92,50622,yale,pdd-nos,Male,97.0,right handed,autism,100.0,abide_initiative
+94.0,13.66,50623,yale,pdd-nos,Female,101.0,right handed,autism,86.0,abide_initiative
+90.0,11.08,50624,yale,pdd-nos,Female,91.0,right handed,autism,89.0,abide_initiative
+99.0,7.0,50625,yale,pdd-nos,Male,90.0,left handed,autism,98.0,abide_initiative
+61.0,11.08,50626,yale,pdd-nos,Male,66.0,left handed,autism,60.0,abide_initiative
+88.0,9.5,50627,yale,pdd-nos,Female,103.0,right handed,autism,84.0,abide_initiative
+77.0,14.42,50628,yale,pdd-nos,Male,72.0,right handed,autism,75.0,abide_initiative
+103.0,33.0,50642,carnegie mellon university,autism,Male,98.0,right handed,autism,107.0,abide_initiative
+123.0,21.0,50643,carnegie mellon university,autism,Male,112.0,right handed,autism,128.0,abide_initiative
+107.0,19.0,50644,carnegie mellon university,autism,Female,110.0,right handed,autism,102.0,abide_initiative
+124.0,20.0,50645,carnegie mellon university,autism,Male,128.0,right handed,autism,115.0,abide_initiative
+108.0,21.0,50646,carnegie mellon university,autism,Male,100.0,right handed,autism,115.0,abide_initiative
+104.0,27.0,50647,carnegie mellon university,autism,Male,97.0,right handed,autism,109.0,abide_initiative
+121.0,31.0,50648,carnegie mellon university,autism,Female,132.0,right handed,autism,106.0,abide_initiative
+127.0,22.0,50649,carnegie mellon university,autism,Male,121.0,right handed,autism,126.0,abide_initiative
+123.0,31.0,50650,carnegie mellon university,autism,Female,119.0,right handed,autism,121.0,abide_initiative
+116.0,39.0,50651,carnegie mellon university,autism,Male,108.0,ambidextrous,autism,121.0,abide_initiative
+118.0,24.0,50652,carnegie mellon university,autism,Male,113.0,right handed,autism,119.0,abide_initiative
+134.0,30.0,50653,carnegie mellon university,autism,Male,131.0,right handed,autism,129.0,abide_initiative
+95.0,24.0,50654,carnegie mellon university,autism,Male,99.0,left handed,autism,92.0,abide_initiative
+100.0,27.0,50655,carnegie mellon university,autism,Male,89.0,right handed,autism,111.0,abide_initiative
+129.0,28.0,50656,carnegie mellon university,control,Female,125.0,right handed,control,127.0,abide_initiative
+120.0,21.0,50657,carnegie mellon university,control,Male,112.0,right handed,control,124.0,abide_initiative
+103.0,27.0,50658,carnegie mellon university,control,Male,108.0,right handed,control,96.0,abide_initiative
+109.0,27.0,50659,carnegie mellon university,control,Male,111.0,right handed,control,106.0,abide_initiative
+115.0,25.0,50660,carnegie mellon university,control,Male,116.0,ambidextrous,control,109.0,abide_initiative
+124.0,20.0,50661,carnegie mellon university,control,Female,128.0,right handed,control,114.0,abide_initiative
+101.0,21.0,50663,carnegie mellon university,control,Male,94.0,right handed,control,108.0,abide_initiative
+109.0,21.0,50664,carnegie mellon university,control,Male,107.0,right handed,control,110.0,abide_initiative
+109.0,33.0,50665,carnegie mellon university,control,Male,111.0,right handed,control,104.0,abide_initiative
+107.0,31.0,50666,carnegie mellon university,control,Male,101.0,right handed,control,109.0,abide_initiative
+128.0,40.0,50667,carnegie mellon university,control,Male,122.0,right handed,control,128.0,abide_initiative
+110.0,25.0,50668,carnegie mellon university,control,Male,109.0,right handed,control,108.0,abide_initiative
+126.0,30.0,50669,carnegie mellon university,control,Female,123.0,right handed,control,123.0,abide_initiative
+128.0,23.0,50682,leuven 1,control,Male,118.0,right handed,control,132.0,abide_initiative
+106.0,24.0,50683,leuven 1,control,Male,113.0,right handed,control,96.0,abide_initiative
+112.0,23.0,50685,leuven 1,control,Male,114.0,right handed,control,108.0,abide_initiative
+92.0,19.0,50686,leuven 1,autism,Male,88.0,right handed,autism,101.0,abide_initiative
+124.0,22.0,50687,leuven 1,control,Male,121.0,right handed,control,117.0,abide_initiative
+98.0,21.0,50688,leuven 1,control,Male,103.0,right handed,control,93.0,abide_initiative
+106.0,21.0,50689,leuven 1,autism,Male,115.0,right handed,autism,93.0,abide_initiative
+101.0,22.0,50690,leuven 1,autism,Male,95.0,right handed,autism,111.0,abide_initiative
+146.0,22.0,50691,leuven 1,control,Male,133.0,right handed,control,155.0,abide_initiative
+109.0,22.0,50692,leuven 1,control,Male,112.0,right handed,control,106.0,abide_initiative
+128.0,22.0,50693,leuven 1,autism,Male,128.0,right handed,autism,120.0,abide_initiative
+109.0,19.0,50694,leuven 1,autism,Male,103.0,right handed,autism,117.0,abide_initiative
+101.0,19.0,50695,leuven 1,autism,Male,126.0,right handed,autism,74.0,abide_initiative
+121.0,20.0,50696,leuven 1,autism,Male,118.0,right handed,autism,119.0,abide_initiative
+101.0,19.0,50697,leuven 1,autism,Male,99.0,right handed,autism,106.0,abide_initiative
+109.0,28.0,50698,leuven 1,control,Male,107.0,right handed,control,113.0,abide_initiative
+104.0,21.0,50699,leuven 1,control,Male,114.0,right handed,control,92.0,abide_initiative
+128.0,23.0,50700,leuven 1,autism,Male,110.0,left handed,autism,149.0,abide_initiative
+109.0,18.0,50701,leuven 1,control,Male,131.0,right handed,control,84.0,abide_initiative
+100.0,18.0,50702,leuven 1,autism,Male,110.0,right handed,autism,88.0,abide_initiative
+108.0,29.0,50703,leuven 1,control,Male,112.0,right handed,control,103.0,abide_initiative
+119.0,29.0,50704,leuven 1,autism,Male,121.0,right handed,autism,113.0,abide_initiative
+111.0,24.0,50705,leuven 1,autism,Male,113.0,right handed,autism,107.0,abide_initiative
+134.0,22.0,50706,leuven 1,control,Male,136.0,left handed,control,123.0,abide_initiative
+113.0,22.0,50707,leuven 1,control,Male,121.0,right handed,control,101.0,abide_initiative
+89.0,32.0,50708,leuven 1,autism,Male,97.0,right handed,autism,84.0,abide_initiative
+116.0,25.0,50709,leuven 1,control,Male,121.0,right handed,control,107.0,abide_initiative
+106.0,27.0,50710,leuven 1,control,Male,106.0,right handed,control,107.0,abide_initiative
+126.0,19.0,50711,leuven 1,autism,Male,123.0,right handed,autism,121.0,abide_initiative
+,13.8,50722,leuven 2,control,Female,86.0,left handed,control,89.0,abide_initiative
+,13.8,50723,leuven 2,control,Female,97.0,left handed,control,100.0,abide_initiative
+,15.1,50724,leuven 2,control,Male,103.0,right handed,control,106.0,abide_initiative
+,14.2,50725,leuven 2,control,Male,105.0,left handed,control,126.0,abide_initiative
+,16.6,50726,leuven 2,control,Male,130.0,right handed,control,106.0,abide_initiative
+,13.9,50727,leuven 2,control,Male,122.0,ambidextrous,control,111.0,abide_initiative
+,15.6,50728,leuven 2,control,Male,116.0,right handed,control,109.0,abide_initiative
+,12.3,50730,leuven 2,control,Female,111.0,right handed,control,109.0,abide_initiative
+,16.2,50731,leuven 2,control,Male,124.0,right handed,control,111.0,abide_initiative
+,12.4,50732,leuven 2,control,Male,127.0,right handed,control,120.0,abide_initiative
+,14.7,50733,leuven 2,control,Male,124.0,right handed,control,111.0,abide_initiative
+,16.6,50734,leuven 2,control,Male,97.0,right handed,control,97.0,abide_initiative
+,14.3,50735,leuven 2,control,Female,103.0,right handed,control,103.0,abide_initiative
+,13.6,50736,leuven 2,control,Female,119.0,right handed,control,111.0,abide_initiative
+,12.2,50737,leuven 2,control,Male,119.0,right handed,control,103.0,abide_initiative
+,12.8,50738,leuven 2,control,Male,124.0,right handed,control,103.0,abide_initiative
+,15.2,50739,leuven 2,control,Male,119.0,right handed,control,103.0,abide_initiative
+,12.4,50740,leuven 2,control,Male,127.0,right handed,control,97.0,abide_initiative
+,14.2,50741,leuven 2,control,Male,119.0,right handed,control,114.0,abide_initiative
+,16.9,50742,leuven 2,control,Male,122.0,right handed,control,103.0,abide_initiative
+,14.2,50743,leuven 2,autism,Female,62.0,right handed,autism,103.0,abide_initiative
+,12.5,50744,leuven 2,autism,Female,100.0,right handed,autism,94.0,abide_initiative
+,13.0,50745,leuven 2,autism,Male,103.0,right handed,autism,86.0,abide_initiative
+,13.8,50746,leuven 2,autism,Male,84.0,right handed,autism,109.0,abide_initiative
+,14.2,50747,leuven 2,autism,Male,84.0,right handed,autism,106.0,abide_initiative
+,14.2,50748,leuven 2,autism,Male,105.0,right handed,autism,106.0,abide_initiative
+,15.3,50749,leuven 2,autism,Female,70.0,left handed,autism,102.0,abide_initiative
+,16.8,50750,leuven 2,autism,Male,50.0,right handed,autism,85.0,abide_initiative
+,12.1,50751,leuven 2,autism,Male,124.0,right handed,autism,132.0,abide_initiative
+,14.7,50752,leuven 2,autism,Male,92.0,left handed,autism,117.0,abide_initiative
+,14.3,50753,leuven 2,autism,Male,78.0,right handed,autism,86.0,abide_initiative
+,12.3,50754,leuven 2,autism,Male,97.0,right handed,autism,97.0,abide_initiative
+,12.2,50755,leuven 2,autism,Male,116.0,right handed,autism,83.0,abide_initiative
+,14.9,50756,leuven 2,autism,Male,92.0,right handed,autism,114.0,abide_initiative
+,14.3,50757,leuven 2,autism,Male,70.0,right handed,autism,83.0,abide_initiative
+98.0,12.77,50772,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+124.0,10.84,50773,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+124.0,10.64,50774,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+101.0,11.0,50775,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+102.0,9.3,50776,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+125.0,8.39,50777,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+122.0,9.73,50778,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+105.0,9.41,50779,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+117.0,9.82,50780,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+120.0,9.3,50781,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+108.0,10.18,50782,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+121.0,10.4,50783,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+115.0,8.07,50784,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+102.0,10.37,50785,kennedy krieger institute,control,Male,,ambidextrous,control,,abide_initiative
+112.0,8.75,50786,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+117.0,10.82,50787,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+125.0,10.25,50788,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+114.0,9.31,50789,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+100.0,8.83,50790,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+69.0,10.18,50791,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+130.0,8.2,50792,kennedy krieger institute,aspergers,Female,,ambidextrous,autism,,abide_initiative
+114.0,8.4,50793,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+90.0,9.66,50794,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+92.0,8.09,50795,kennedy krieger institute,aspergers,Female,,right handed,autism,,abide_initiative
+88.0,11.99,50796,kennedy krieger institute,aspergers,Female,,right handed,autism,,abide_initiative
+90.0,12.54,50797,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+102.0,10.17,50798,kennedy krieger institute,autism,Female,,ambidextrous,autism,,abide_initiative
+84.0,11.14,50799,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+77.0,11.76,50800,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+131.0,11.27,50801,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+104.0,8.2,50802,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+88.0,8.45,50803,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+78.0,8.33,50804,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+95.0,11.33,50805,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+77.0,8.48,50806,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+84.0,10.65,50807,kennedy krieger institute,autism,Male,,ambidextrous,autism,,abide_initiative
+125.0,11.09,50808,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+118.0,8.43,50809,kennedy krieger institute,control,Male,,left handed,control,,abide_initiative
+117.0,11.85,50810,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+118.0,12.76,50811,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+121.0,9.97,50812,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+125.0,10.79,50813,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+108.0,8.46,50814,kennedy krieger institute,control,Male,,left handed,control,,abide_initiative
+105.0,10.62,50815,kennedy krieger institute,autism,Male,,left handed,autism,,abide_initiative
+119.0,9.73,50816,kennedy krieger institute,control,Male,,ambidextrous,control,,abide_initiative
+119.0,9.97,50817,kennedy krieger institute,control,Male,,ambidextrous,control,,abide_initiative
+98.0,11.79,50818,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+101.0,9.71,50819,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+108.0,8.87,50820,kennedy krieger institute,control,Female,,right handed,control,,abide_initiative
+114.0,11.17,50821,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+98.0,12.43,50822,kennedy krieger institute,control,Male,,right handed,control,,abide_initiative
+120.0,11.37,50823,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+109.0,10.29,50824,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+89.0,8.5,50825,kennedy krieger institute,autism,Male,,right handed,autism,,abide_initiative
+114.0,10.57,50826,kennedy krieger institute,aspergers,Male,,right handed,autism,,abide_initiative
+134.0,8.74,50952,nyu child study center,autism,Female,139.0,,autism,120.0,abide_initiative
+132.0,11.764,50953,nyu child study center,autism,Female,139.0,,autism,117.0,abide_initiative
+78.0,14.75,50954,nyu child study center,autism,Female,79.0,,autism,80.0,abide_initiative
+93.0,12.64,50955,nyu child study center,autism,Female,96.0,,autism,91.0,abide_initiative
+115.0,14.06,50956,nyu child study center,autism,Female,115.0,,autism,110.0,abide_initiative
+79.0,14.75,50957,nyu child study center,autism,Female,84.0,,autism,79.0,abide_initiative
+101.0,10.23,50958,nyu child study center,autism,Female,109.0,,autism,92.0,abide_initiative
+118.0,22.81,50959,nyu child study center,aspergers,Female,129.0,,autism,104.0,abide_initiative
+114.0,38.76,50960,nyu child study center,aspergers,Female,108.0,,autism,119.0,abide_initiative
+92.0,25.02,50961,nyu child study center,aspergers,Female,89.0,,autism,96.0,abide_initiative
+98.0,24.41,50962,nyu child study center,aspergers,Female,108.0,,autism,88.0,abide_initiative
+106.0,12.75,50964,nyu child study center,autism,Male,108.0,,autism,101.0,abide_initiative
+132.0,9.25,50965,nyu child study center,pdd-nos,Male,119.0,,autism,136.0,abide_initiative
+108.0,15.14,50966,nyu child study center,pdd-nos,Male,100.0,,autism,115.0,abide_initiative
+76.0,9.74,50967,nyu child study center,pdd-nos,Male,84.0,,autism,72.0,abide_initiative
+108.0,9.95,50968,nyu child study center,pdd-nos,Male,106.0,,autism,109.0,abide_initiative
+129.0,7.61,50969,nyu child study center,aspergers,Male,108.0,,autism,146.0,abide_initiative
+99.0,8.9,50970,nyu child study center,aspergers,Male,99.0,,autism,99.0,abide_initiative
+122.0,10.24,50971,nyu child study center,aspergers,Male,111.0,,autism,128.0,abide_initiative
+100.0,13.95,50972,nyu child study center,aspergers,Male,100.0,,autism,100.0,abide_initiative
+112.0,17.88,50973,nyu child study center,aspergers,Male,113.0,,autism,108.0,abide_initiative
+90.0,11.56,50974,nyu child study center,aspergers,Male,99.0,,autism,85.0,abide_initiative
+100.0,10.96,50975,nyu child study center,aspergers,Male,112.0,,autism,89.0,abide_initiative
+127.0,14.65,50976,nyu child study center,aspergers,Male,117.0,,autism,132.0,abide_initiative
+142.0,7.13,50977,nyu child study center,aspergers,Male,129.0,,autism,145.0,abide_initiative
+142.0,9.58,50978,nyu child study center,aspergers,Male,126.0,,autism,149.0,abide_initiative
+114.0,9.37,50979,nyu child study center,aspergers,Male,99.0,,autism,129.0,abide_initiative
+136.0,8.52,50980,nyu child study center,aspergers,Male,127.0,,autism,137.0,abide_initiative
+100.0,12.96,50981,nyu child study center,autism,Male,100.0,,autism,99.0,abide_initiative
+119.0,9.46,50982,nyu child study center,autism,Male,121.0,,autism,106.0,abide_initiative
+117.0,10.48,50983,nyu child study center,autism,Male,132.0,,autism,101.0,abide_initiative
+98.0,13.2,50984,nyu child study center,autism,Male,114.0,,autism,83.0,abide_initiative
+90.0,13.09,50985,nyu child study center,autism,Male,84.0,,autism,100.0,abide_initiative
+102.0,8.53,50986,nyu child study center,autism,Male,108.0,,autism,115.0,abide_initiative
+105.0,8.56,50987,nyu child study center,autism,Male,93.0,,autism,118.0,abide_initiative
+112.0,14.21,50988,nyu child study center,autism,Male,113.0,,autism,115.0,abide_initiative
+84.0,9.78,50989,nyu child study center,autism,Male,77.0,,autism,94.0,abide_initiative
+131.0,13.71,50990,nyu child study center,autism,Male,126.0,,autism,129.0,abide_initiative
+100.0,10.9,50991,nyu child study center,autism,Male,97.0,,autism,104.0,abide_initiative
+118.0,10.66,50992,nyu child study center,autism,Male,106.0,,autism,129.0,abide_initiative
+101.0,10.87,50993,nyu child study center,autism,Male,98.0,,autism,105.0,abide_initiative
+102.0,15.66,50994,nyu child study center,autism,Male,95.0,,autism,108.0,abide_initiative
+109.0,16.74,50995,nyu child study center,autism,Male,98.0,,autism,119.0,abide_initiative
+100.0,15.81,50996,nyu child study center,autism,Male,89.0,,autism,112.0,abide_initiative
+123.0,16.27,50997,nyu child study center,autism,Male,131.0,,autism,109.0,abide_initiative
+91.0,13.04,50998,nyu child study center,autism,Male,92.0,,autism,92.0,abide_initiative
+95.0,14.53,50999,nyu child study center,autism,Male,102.0,,autism,88.0,abide_initiative
+78.0,13.33,51000,nyu child study center,autism,Male,74.0,,autism,88.0,abide_initiative
+87.0,10.71,51001,nyu child study center,autism,Male,85.0,,autism,94.0,abide_initiative
+90.0,7.228,51002,nyu child study center,autism,Male,99.0,,autism,84.0,abide_initiative
+120.0,8.51,51003,nyu child study center,autism,Male,106.0,,autism,133.0,abide_initiative
+103.0,11.11,51006,nyu child study center,autism,Male,101.0,,autism,104.0,abide_initiative
+108.0,11.92,51007,nyu child study center,autism,Male,111.0,,autism,103.0,abide_initiative
+128.0,12.37,51008,nyu child study center,autism,Male,125.0,,autism,126.0,abide_initiative
+86.0,11.03,51009,nyu child study center,autism,Male,88.0,,autism,86.0,abide_initiative
+148.0,8.53,51010,nyu child study center,autism,Male,137.0,,autism,147.0,abide_initiative
+104.0,8.79,51011,nyu child study center,autism,Male,89.0,,autism,119.0,abide_initiative
+96.0,9.79,51012,nyu child study center,autism,Male,88.0,,autism,103.0,abide_initiative
+100.0,7.15,51013,nyu child study center,autism,Male,94.0,,autism,107.0,abide_initiative
+106.0,11.005,51014,nyu child study center,autism,Male,89.0,,autism,125.0,abide_initiative
+105.0,29.98,51015,nyu child study center,aspergers,Male,105.0,,autism,103.0,abide_initiative
+134.0,22.99,51016,nyu child study center,aspergers,Male,136.0,,autism,124.0,abide_initiative
+137.0,22.04,51017,nyu child study center,aspergers,Male,136.0,,autism,129.0,abide_initiative
+116.0,20.25,51018,nyu child study center,aspergers,Male,115.0,,autism,114.0,abide_initiative
+108.0,22.29,51019,nyu child study center,aspergers,Male,107.0,,autism,109.0,abide_initiative
+107.0,28.58,51020,nyu child study center,autism,Male,108.0,,autism,103.0,abide_initiative
+112.0,23.66,51021,nyu child study center,autism,Male,120.0,,autism,101.0,abide_initiative
+115.0,20.62,51023,nyu child study center,autism,Male,108.0,,autism,119.0,abide_initiative
+98.0,39.1,51024,nyu child study center,autism,Male,91.0,,autism,103.0,abide_initiative
+94.0,19.64,51025,nyu child study center,autism,Male,81.0,,autism,109.0,abide_initiative
+108.0,18.58,51026,nyu child study center,autism,Male,110.0,,autism,103.0,abide_initiative
+102.0,22.98,51027,nyu child study center,autism,Male,106.0,,autism,99.0,abide_initiative
+80.0,29.18,51028,nyu child study center,autism,Male,73.0,,autism,92.0,abide_initiative
+107.0,26.516,51029,nyu child study center,autism,Male,107.0,,autism,110.0,abide_initiative
+139.0,7.29,51030,nyu child study center,pdd-nos,Male,129.0,,autism,140.0,abide_initiative
+93.0,7.15,51032,nyu child study center,autism,Male,104.0,,autism,85.0,abide_initiative
+113.0,9.98,51033,nyu child study center,autism,Male,102.0,,autism,123.0,abide_initiative
+109.0,10.65,51034,nyu child study center,autism,Male,112.0,,autism,103.0,abide_initiative
+100.0,10.27,51035,nyu child study center,autism,Male,95.0,,autism,106.0,abide_initiative
+101.0,8.04,51036,nyu child study center,control,Female,102.0,,control,99.0,abide_initiative
+134.0,8.26,51038,nyu child study center,control,Female,143.0,,control,117.0,abide_initiative
+136.0,8.5,51039,nyu child study center,control,Female,131.0,,control,133.0,abide_initiative
+129.0,8.52,51040,nyu child study center,control,Female,132.0,,control,120.0,abide_initiative
+100.0,8.9,51041,nyu child study center,control,Female,100.0,,control,99.0,abide_initiative
+125.0,8.91,51042,nyu child study center,control,Female,117.0,,control,128.0,abide_initiative
+106.0,10.86,51044,nyu child study center,control,Female,99.0,,control,111.0,abide_initiative
+80.0,11.56,51045,nyu child study center,control,Female,85.0,,control,79.0,abide_initiative
+103.0,11.56,51046,nyu child study center,control,Female,115.0,,control,91.0,abide_initiative
+123.0,12.1,51047,nyu child study center,control,Female,119.0,,control,119.0,abide_initiative
+124.0,12.44,51048,nyu child study center,control,Female,117.0,,control,126.0,abide_initiative
+104.0,13.22,51049,nyu child study center,control,Female,108.0,,control,99.0,abide_initiative
+100.0,13.25,51050,nyu child study center,control,Female,99.0,,control,101.0,abide_initiative
+115.0,14.06,51051,nyu child study center,control,Female,109.0,,control,119.0,abide_initiative
+117.0,14.18,51052,nyu child study center,control,Female,108.0,,control,124.0,abide_initiative
+123.0,14.38,51053,nyu child study center,control,Female,119.0,,control,120.0,abide_initiative
+132.0,14.42,51054,nyu child study center,control,Female,132.0,,control,124.0,abide_initiative
+113.0,15.95,51055,nyu child study center,control,Female,118.0,,control,106.0,abide_initiative
+98.0,17.31,51056,nyu child study center,control,Female,103.0,,control,92.0,abide_initiative
+113.0,21.58,51057,nyu child study center,control,Female,109.0,,control,114.0,abide_initiative
+112.0,22.11,51058,nyu child study center,control,Female,113.0,,control,107.0,abide_initiative
+113.0,22.76,51059,nyu child study center,control,Female,113.0,,control,109.0,abide_initiative
+118.0,22.74,51060,nyu child study center,control,Female,118.0,,control,114.0,abide_initiative
+109.0,27.03,51061,nyu child study center,control,Female,115.0,,control,102.0,abide_initiative
+91.0,27.76,51062,nyu child study center,control,Female,98.0,,control,87.0,abide_initiative
+120.0,29.13,51063,nyu child study center,control,Female,118.0,,control,118.0,abide_initiative
+119.0,7.26,51064,nyu child study center,control,Male,127.0,,control,108.0,abide_initiative
+105.0,10.52,51065,nyu child study center,control,Male,111.0,,control,97.0,abide_initiative
+112.0,18.59,51066,nyu child study center,control,Male,117.0,,control,105.0,abide_initiative
+116.0,23.65,51067,nyu child study center,control,Male,109.0,,control,119.0,abide_initiative
+104.0,31.78,51068,nyu child study center,control,Male,104.0,,control,103.0,abide_initiative
+118.0,8.15,51069,nyu child study center,control,Male,115.0,,control,117.0,abide_initiative
+109.0,7.29,51070,nyu child study center,control,Male,112.0,,control,103.0,abide_initiative
+80.0,10.69,51071,nyu child study center,control,Male,92.0,,control,72.0,abide_initiative
+121.0,11.91,51072,nyu child study center,control,Male,120.0,,control,117.0,abide_initiative
+126.0,12.49,51073,nyu child study center,control,Male,109.0,,control,137.0,abide_initiative
+123.0,12.81,51074,nyu child study center,control,Male,117.0,,control,124.0,abide_initiative
+109.0,14.2,51075,nyu child study center,control,Male,121.0,,control,96.0,abide_initiative
+124.0,16.93,51076,nyu child study center,control,Male,120.0,,control,120.0,abide_initiative
+109.0,17.3,51077,nyu child study center,control,Male,113.0,,control,104.0,abide_initiative
+114.0,6.47,51078,nyu child study center,control,Male,113.0,,control,111.0,abide_initiative
+129.0,7.19,51079,nyu child study center,control,Male,120.0,,control,131.0,abide_initiative
+110.0,8.01,51080,nyu child study center,control,Male,117.0,,control,102.0,abide_initiative
+98.0,8.82,51081,nyu child study center,control,Male,88.0,,control,108.0,abide_initiative
+119.0,8.88,51082,nyu child study center,control,Male,127.0,,control,108.0,abide_initiative
+100.0,8.93,51083,nyu child study center,control,Male,91.0,,control,109.0,abide_initiative
+118.0,9.23,51084,nyu child study center,control,Male,127.0,,control,106.0,abide_initiative
+101.0,9.81,51085,nyu child study center,control,Male,109.0,,control,93.0,abide_initiative
+119.0,10.46,51086,nyu child study center,control,Male,118.0,,control,116.0,abide_initiative
+111.0,10.52,51087,nyu child study center,control,Male,102.0,,control,119.0,abide_initiative
+121.0,10.73,51088,nyu child study center,control,Male,120.0,,control,117.0,abide_initiative
+138.0,10.76,51089,nyu child study center,control,Male,131.0,,control,135.0,abide_initiative
+107.0,11.03,51090,nyu child study center,control,Male,105.0,,control,107.0,abide_initiative
+142.0,11.32,51091,nyu child study center,control,Male,141.0,,control,133.0,abide_initiative
+116.0,11.69,51093,nyu child study center,control,Male,113.0,,control,116.0,abide_initiative
+107.0,12.1,51094,nyu child study center,control,Male,112.0,,control,99.0,abide_initiative
+123.0,12.23,51095,nyu child study center,control,Male,134.0,,control,106.0,abide_initiative
+101.0,13.18,51096,nyu child study center,control,Male,95.0,,control,106.0,abide_initiative
+126.0,13.583,51097,nyu child study center,control,Male,126.0,,control,119.0,abide_initiative
+134.0,13.628,51098,nyu child study center,control,Male,131.0,,control,129.0,abide_initiative
+87.0,13.72,51099,nyu child study center,control,Male,93.0,,control,86.0,abide_initiative
+91.0,14.36,51100,nyu child study center,control,Male,102.0,,control,83.0,abide_initiative
+104.0,14.425,51101,nyu child study center,control,Male,116.0,,control,92.0,abide_initiative
+110.0,14.653,51102,nyu child study center,control,Male,119.0,,control,100.0,abide_initiative
+126.0,14.66,51103,nyu child study center,control,Male,115.0,,control,132.0,abide_initiative
+104.0,15.27,51104,nyu child study center,control,Male,96.0,,control,110.0,abide_initiative
+83.0,15.284,51105,nyu child study center,control,Male,80.0,,control,89.0,abide_initiative
+85.0,15.42,51106,nyu child study center,control,Male,108.0,,control,67.0,abide_initiative
+107.0,15.53,51107,nyu child study center,control,Male,112.0,,control,99.0,abide_initiative
+108.0,15.71,51108,nyu child study center,control,Male,103.0,,control,110.0,abide_initiative
+109.0,16.13,51109,nyu child study center,control,Male,109.0,,control,106.0,abide_initiative
+125.0,16.28,51110,nyu child study center,control,Male,122.0,,control,120.0,abide_initiative
+113.0,16.55,51111,nyu child study center,control,Male,114.0,,control,109.0,abide_initiative
+129.0,19.228,51112,nyu child study center,control,Male,127.0,,control,125.0,abide_initiative
+109.0,22.38,51113,nyu child study center,control,Male,113.0,,control,103.0,abide_initiative
+123.0,22.48,51114,nyu child study center,control,Male,122.0,,control,118.0,abide_initiative
+119.0,22.76,51115,nyu child study center,control,Male,129.0,,control,106.0,abide_initiative
+115.0,25.34,51116,nyu child study center,control,Male,109.0,,control,118.0,abide_initiative
+103.0,28.203,51117,nyu child study center,control,Male,104.0,,control,102.0,abide_initiative
+122.0,29.02,51118,nyu child study center,control,Male,115.0,,control,124.0,abide_initiative
+123.0,30.724,51119,nyu child study center,control,Male,128.0,,control,111.0,abide_initiative
+115.0,10.19,51120,nyu child study center,control,Male,119.0,,control,106.0,abide_initiative
+113.0,10.74,51121,nyu child study center,control,Male,103.0,,control,121.0,abide_initiative
+111.0,11.92,51122,nyu child study center,control,Male,102.0,,control,119.0,abide_initiative
+130.0,12.07,51123,nyu child study center,control,Male,126.0,,control,128.0,abide_initiative
+124.0,12.67,51124,nyu child study center,control,Male,121.0,,control,120.0,abide_initiative
+112.0,14.79,51125,nyu child study center,control,Male,116.0,,control,106.0,abide_initiative
+81.0,16.31,51126,nyu child study center,control,Male,83.0,,control,83.0,abide_initiative
+91.0,16.55,51127,nyu child study center,control,Male,88.0,,control,96.0,abide_initiative
+125.0,16.88,51128,nyu child study center,control,Male,121.0,,control,123.0,abide_initiative
+102.0,17.7,51129,nyu child study center,control,Male,111.0,,control,92.0,abide_initiative
+107.0,19.13,51130,nyu child study center,control,Male,97.0,,control,117.0,abide_initiative
+119.0,19.73,51131,nyu child study center,control,Male,112.0,,control,123.0,abide_initiative
+119.0,24.83,51132,trinity,control,Male,113.0,right handed,control,121.0,abide_initiative
+91.0,12.04,51133,trinity,control,Male,100.0,right handed,control,84.0,abide_initiative
+89.0,16.83,51134,trinity,control,Male,81.0,right handed,control,101.0,abide_initiative
+101.0,13.75,51135,trinity,control,Male,95.0,right handed,control,108.0,abide_initiative
+126.0,12.66,51136,trinity,control,Male,125.0,right handed,control,120.0,abide_initiative
+131.0,13.25,51137,trinity,control,Male,137.0,right handed,control,120.0,abide_initiative
+99.0,12.66,51138,trinity,control,Male,94.0,right handed,control,103.0,abide_initiative
+112.0,19.5,51139,trinity,control,Male,115.0,right handed,control,112.0,abide_initiative
+128.0,15.75,51140,trinity,control,Male,132.0,right handed,control,121.0,abide_initiative
+97.0,15.91,51141,trinity,control,Male,91.0,right handed,control,102.0,abide_initiative
+104.0,14.91,51142,trinity,control,Male,101.0,right handed,control,105.0,abide_initiative
+106.0,20.02,51146,nyu child study center,control,Male,96.0,,control,116.0,abide_initiative
+129.0,20.04,51147,nyu child study center,control,Male,129.0,,control,111.0,abide_initiative
+107.0,20.3,51148,nyu child study center,control,Male,108.0,,control,104.0,abide_initiative
+113.0,20.56,51149,nyu child study center,control,Male,107.0,,control,118.0,abide_initiative
+132.0,22.77,51150,nyu child study center,control,Male,130.0,,control,127.0,abide_initiative
+122.0,23.08,51151,nyu child study center,control,Male,121.0,,control,117.0,abide_initiative
+139.0,23.35,51152,nyu child study center,control,Male,140.0,,control,129.0,abide_initiative
+114.0,26.17,51153,nyu child study center,control,Male,117.0,,control,108.0,abide_initiative
+104.0,30.08,51154,nyu child study center,control,Male,103.0,,control,104.0,abide_initiative
+104.0,30.78,51155,nyu child study center,control,Male,106.0,,control,100.0,abide_initiative
+120.0,21.15,51156,nyu child study center,control,Male,118.0,,control,119.0,abide_initiative
+118.0,12.81,51159,nyu child study center,control,Male,122.0,,control,109.0,abide_initiative
+98.0,7.9336,51160,stanford,,Male,97.0,right handed,autism,99.0,abide_initiative
+94.0,9.0301,51161,stanford,,Male,95.0,right handed,autism,95.0,abide_initiative
+111.0,8.9199,51162,stanford,,Female,106.0,left handed,autism,116.0,abide_initiative
+137.0,9.0821,51163,stanford,,Male,137.0,right handed,autism,128.0,abide_initiative
+105.0,8.4216,51164,stanford,,Female,88.0,ambidextrous,autism,124.0,abide_initiative
+78.0,11.8433,51165,stanford,,Male,72.0,right handed,autism,89.0,abide_initiative
+100.0,8.3833,51166,stanford,,Male,93.0,right handed,autism,106.0,abide_initiative
+98.0,11.8789,51167,stanford,,Female,96.0,right handed,autism,99.0,abide_initiative
+112.0,11.2628,51168,stanford,,Male,108.0,left handed,autism,114.0,abide_initiative
+127.0,9.7775,51169,stanford,,Male,131.0,left handed,autism,117.0,abide_initiative
+97.0,10.8652,51170,stanford,,Female,86.0,right handed,autism,109.0,abide_initiative
+141.0,12.9363,51171,stanford,,Male,143.0,right handed,autism,129.0,abide_initiative
+127.0,8.7912,51172,stanford,,Male,149.0,right handed,autism,101.0,abide_initiative
+124.0,7.5284,51173,stanford,,Male,113.0,right handed,autism,129.0,abide_initiative
+114.0,9.9473,51174,stanford,,Male,106.0,right handed,autism,119.0,abide_initiative
+107.0,8.5804,51175,stanford,,Male,99.0,right handed,autism,111.0,abide_initiative
+148.0,9.271,51176,stanford,,Male,127.0,left handed,autism,157.0,abide_initiative
+113.0,11.6982,51177,stanford,,Male,117.0,right handed,autism,106.0,abide_initiative
+123.0,11.4326,51178,stanford,,Male,121.0,right handed,autism,118.0,abide_initiative
+97.0,11.6543,51179,stanford,,Male,101.0,right handed,autism,93.0,abide_initiative
+136.0,7.7502,51180,stanford,,Female,144.0,right handed,control,119.0,abide_initiative
+121.0,9.3149,51181,stanford,,Male,122.0,right handed,control,115.0,abide_initiative
+93.0,10.6927,51182,stanford,,Male,88.0,right handed,control,99.0,abide_initiative
+98.0,8.2656,51183,stanford,,Male,103.0,right handed,control,93.0,abide_initiative
+124.0,9.1068,51184,stanford,,Female,98.0,right handed,control,145.0,abide_initiative
+119.0,8.2464,51185,stanford,,Male,107.0,right handed,control,129.0,abide_initiative
+98.0,8.3203,51186,stanford,,Male,88.0,right handed,control,107.0,abide_initiative
+105.0,8.3313,51187,stanford,,Male,115.0,right handed,control,93.0,abide_initiative
+80.0,8.9747,51188,stanford,,Female,83.0,right handed,control,81.0,abide_initiative
+123.0,9.2081,51189,stanford,,Male,136.0,right handed,control,105.0,abide_initiative
+123.0,8.9363,51190,stanford,,Male,107.0,ambidextrous,control,135.0,abide_initiative
+79.0,9.7201,51191,stanford,,Male,67.0,right handed,control,99.0,abide_initiative
+124.0,10.2218,51192,stanford,,Female,130.0,right handed,control,112.0,abide_initiative
+122.0,9.5202,51193,stanford,,Male,132.0,right handed,control,107.0,abide_initiative
+118.0,12.3477,51194,stanford,,Male,106.0,right handed,control,129.0,abide_initiative
+110.0,11.178,51195,stanford,,Male,115.0,right handed,control,103.0,abide_initiative
+117.0,11.8816,51196,stanford,,Male,131.0,right handed,control,101.0,abide_initiative
+113.0,12.4298,51197,stanford,,Male,118.0,right handed,control,106.0,abide_initiative
+114.0,12.2546,51198,stanford,,Male,109.0,ambidextrous,control,115.0,abide_initiative
+125.0,12.3833,51199,stanford,,Male,125.0,right handed,control,119.0,abide_initiative
+104.0,13.52,51201,ucla 1,autism,Male,98.0,right handed,autism,109.0,abide_initiative
+98.0,11.56,51202,ucla 1,autism,Male,110.0,right handed,autism,86.0,abide_initiative
+103.0,13.37,51203,ucla 1,autism,Male,91.0,right handed,autism,116.0,abide_initiative
+98.0,14.57,51204,ucla 1,autism,Male,110.0,right handed,autism,90.0,abide_initiative
+102.0,17.94,51205,ucla 1,autism,Male,105.0,right handed,autism,99.0,abide_initiative
+102.0,15.78,51206,ucla 1,autism,Male,98.0,right handed,autism,104.0,abide_initiative
+112.0,14.11,51207,ucla 1,autism,Female,100.0,right handed,autism,123.0,abide_initiative
+113.0,16.98,51208,ucla 1,autism,Male,116.0,left handed,autism,104.0,abide_initiative
+128.0,9.99,51209,ucla 1,autism,Male,119.0,right handed,autism,131.0,abide_initiative
+92.0,16.56,51210,ucla 1,autism,Male,99.0,right handed,autism,91.0,abide_initiative
+94.0,11.27,51211,ucla 1,autism,Male,102.0,right handed,autism,94.0,abide_initiative
+100.0,15.66,51212,ucla 1,autism,Male,100.0,left handed,autism,97.0,abide_initiative
+98.0,9.11,51213,ucla 1,autism,Male,104.0,right handed,autism,95.0,abide_initiative
+109.0,10.41,51214,ucla 1,autism,Male,102.0,right handed,autism,108.0,abide_initiative
+113.0,11.56,51215,ucla 1,autism,Female,119.0,right handed,autism,104.0,abide_initiative
+107.0,10.54,51216,ucla 1,autism,Male,89.0,left handed,autism,112.0,abide_initiative
+104.0,15.22,51217,ucla 1,autism,Male,132.0,right handed,autism,89.0,abide_initiative
+111.0,16.87,51218,ucla 1,autism,Male,118.0,right handed,autism,103.0,abide_initiative
+79.0,13.93,51219,ucla 1,autism,Female,85.0,right handed,autism,81.0,abide_initiative
+99.0,14.74,51220,ucla 1,autism,Male,121.0,right handed,autism,90.0,abide_initiative
+75.0,14.58,51221,ucla 1,autism,Male,98.0,right handed,autism,73.0,abide_initiative
+113.0,11.81,51222,ucla 1,autism,Male,114.0,right handed,autism,106.0,abide_initiative
+119.0,13.31,51223,ucla 1,autism,Male,96.0,right handed,autism,121.0,abide_initiative
+112.0,12.99,51224,ucla 1,autism,Male,105.0,right handed,autism,119.0,abide_initiative
+111.0,12.33,51225,ucla 1,autism,Male,119.0,right handed,autism,102.0,abide_initiative
+102.0,9.26,51226,ucla 1,autism,Female,99.0,right handed,autism,104.0,abide_initiative
+95.0,14.53,51227,ucla 1,autism,Male,87.0,right handed,autism,101.0,abide_initiative
+95.0,8.36,51228,ucla 1,autism,Female,91.0,right handed,autism,98.0,abide_initiative
+95.0,14.59,51229,ucla 1,autism,Male,115.0,right handed,autism,77.0,abide_initiative
+127.0,17.53,51230,ucla 1,autism,Female,132.0,right handed,autism,116.0,abide_initiative
+103.0,10.28,51231,ucla 1,autism,Male,104.0,right handed,autism,98.0,abide_initiative
+89.0,15.79,51232,ucla 1,autism,Male,94.0,right handed,autism,88.0,abide_initiative
+79.0,12.75,51233,ucla 1,autism,Male,90.0,right handed,autism,72.0,abide_initiative
+87.0,10.91,51234,ucla 1,autism,Male,93.0,right handed,autism,89.0,abide_initiative
+132.0,10.67,51235,ucla 1,autism,Male,130.0,right handed,autism,122.0,abide_initiative
+89.0,12.42,51236,ucla 1,autism,Male,85.0,right handed,autism,94.0,abide_initiative
+100.0,17.4,51237,ucla 1,autism,Male,112.0,right handed,autism,94.0,abide_initiative
+73.0,10.85,51238,ucla 1,autism,Male,67.0,right handed,autism,82.0,abide_initiative
+86.0,13.67,51239,ucla 1,autism,Male,98.0,right handed,autism,83.0,abide_initiative
+121.0,14.96,51240,ucla 1,autism,Male,106.0,right handed,autism,120.0,abide_initiative
+95.0,10.9,51241,ucla 1,autism,Male,87.0,right handed,autism,105.0,abide_initiative
+81.0,14.14,51242,ucla 1,autism,Female,79.0,right handed,autism,86.0,abide_initiative
+101.0,11.69,51243,ucla 1,autism,Male,96.0,right handed,autism,100.0,abide_initiative
+,13.09,51244,ucla 1,autism,Male,83.0,right handed,autism,90.0,abide_initiative
+64.0,14.98,51245,ucla 1,autism,Male,59.0,right handed,autism,73.0,abide_initiative
+84.0,13.1,51246,ucla 1,autism,Male,85.0,right handed,autism,87.0,abide_initiative
+118.0,11.97,51247,ucla 1,autism,Male,108.0,right handed,autism,114.0,abide_initiative
+110.0,13.5,51248,ucla 1,autism,Male,99.0,right handed,autism,110.0,abide_initiative
+107.0,8.49,51249,ucla 1,autism,Male,112.0,right handed,autism,103.0,abide_initiative
+110.0,14.88,51250,ucla 1,control,Male,108.0,right handed,control,110.0,abide_initiative
+96.0,12.36,51251,ucla 1,control,Male,86.0,right handed,control,107.0,abide_initiative
+116.0,10.99,51252,ucla 1,control,Male,118.0,right handed,control,110.0,abide_initiative
+109.0,11.8,51253,ucla 1,control,Male,108.0,left handed,control,110.0,abide_initiative
+113.0,14.44,51254,ucla 1,control,Male,107.0,left handed,control,117.0,abide_initiative
+88.0,14.8,51255,ucla 1,control,Male,88.0,right handed,control,93.0,abide_initiative
+108.0,15.04,51256,ucla 1,control,Male,109.0,right handed,control,106.0,abide_initiative
+106.0,13.38,51257,ucla 1,control,Male,105.0,right handed,control,105.0,abide_initiative
+90.0,11.55,51258,ucla 1,control,Male,92.0,right handed,control,91.0,abide_initiative
+117.0,11.07,51259,ucla 1,control,Male,125.0,right handed,control,106.0,abide_initiative
+95.0,13.66,51260,ucla 1,control,Male,117.0,right handed,control,76.0,abide_initiative
+95.0,17.79,51261,ucla 1,control,Male,100.0,right handed,control,90.0,abide_initiative
+97.0,11.56,51262,ucla 1,control,Male,97.0,right handed,control,96.0,abide_initiative
+87.0,16.03,51263,ucla 1,control,Male,89.0,right handed,control,89.0,abide_initiative
+107.0,13.46,51264,ucla 1,control,Female,109.0,right handed,control,102.0,abide_initiative
+108.0,15.92,51265,ucla 1,control,Male,108.0,right handed,control,106.0,abide_initiative
+108.0,14.03,51266,ucla 1,control,Male,107.0,right handed,control,108.0,abide_initiative
+118.0,11.25,51267,ucla 1,control,Female,119.0,right handed,control,112.0,abide_initiative
+105.0,17.78,51268,ucla 1,control,Male,99.0,right handed,control,109.0,abide_initiative
+94.0,14.29,51269,ucla 1,control,Male,95.0,right handed,control,95.0,abide_initiative
+117.0,11.08,51270,ucla 1,control,Male,113.0,right handed,control,117.0,abide_initiative
+113.0,12.09,51271,ucla 1,control,Male,121.0,right handed,control,102.0,abide_initiative
+84.0,13.41,51272,ucla 1,control,Male,94.0,right handed,control,77.0,abide_initiative
+104.0,12.68,51273,ucla 1,control,Male,109.0,right handed,control,98.0,abide_initiative
+125.0,10.96,51274,ucla 1,control,Male,115.0,right handed,control,129.0,abide_initiative
+106.0,15.74,51275,ucla 1,control,Male,109.0,right handed,control,99.0,abide_initiative
+105.0,13.85,51276,ucla 1,control,Male,98.0,right handed,control,109.0,abide_initiative
+126.0,12.01,51277,ucla 1,control,Male,119.0,right handed,control,128.0,abide_initiative
+109.0,9.21,51278,ucla 1,control,Male,121.0,left handed,control,97.0,abide_initiative
+106.0,13.82,51279,ucla 1,control,Female,99.0,right handed,control,109.0,abide_initiative
+109.0,9.5,51280,ucla 1,control,Male,123.0,right handed,control,96.0,abide_initiative
+108.0,11.83,51281,ucla 1,control,Male,115.0,right handed,control,100.0,abide_initiative
+91.0,12.73,51282,ucla 1,control,Female,88.0,right handed,control,96.0,abide_initiative
+86.0,16.47,51291,ucla 2,autism,Male,83.0,right handed,autism,91.0,abide_initiative
+75.0,12.24,51292,ucla 2,autism,Male,83.0,right handed,autism,79.0,abide_initiative
+92.0,13.08,51293,ucla 2,autism,Male,102.0,right handed,autism,90.0,abide_initiative
+87.0,11.7,51294,ucla 2,autism,Male,89.0,right handed,autism,90.0,abide_initiative
+108.0,10.04,51295,ucla 2,autism,Male,95.0,left handed,autism,120.0,abide_initiative
+77.0,11.16,51296,ucla 2,autism,Male,71.0,right handed,autism,85.0,abide_initiative
+88.0,14.27,51297,ucla 2,autism,Male,98.0,left handed,autism,87.0,abide_initiative
+118.0,10.57,51298,ucla 2,autism,Male,104.0,right handed,autism,132.0,abide_initiative
+104.0,14.77,51299,ucla 2,autism,Male,106.0,right handed,autism,99.0,abide_initiative
+92.0,14.08,51300,ucla 2,autism,Male,104.0,left handed,autism,89.0,abide_initiative
+91.0,13.28,51301,ucla 2,autism,Male,108.0,right handed,autism,86.0,abide_initiative
+87.0,10.85,51302,ucla 2,autism,Male,75.0,right handed,autism,97.0,abide_initiative
+99.0,13.0,51303,ucla 2,control,Female,95.0,right handed,control,103.0,abide_initiative
+120.0,10.53,51304,ucla 2,control,Male,120.0,right handed,control,116.0,abide_initiative
+102.0,12.64,51305,ucla 2,control,Female,105.0,right handed,control,99.0,abide_initiative
+119.0,11.66,51306,ucla 2,control,Male,115.0,right handed,control,119.0,abide_initiative
+128.0,12.15,51307,ucla 2,control,Male,127.0,right handed,control,124.0,abide_initiative
+124.0,9.79,51308,ucla 2,control,Male,125.0,right handed,control,118.0,abide_initiative
+107.0,11.9,51309,ucla 2,control,Male,116.0,right handed,control,97.0,abide_initiative
+87.0,11.7,51310,ucla 2,control,Male,90.0,right handed,control,88.0,abide_initiative
+103.0,11.95,51311,ucla 2,control,Male,96.0,right handed,control,109.0,abide_initiative
+123.0,12.9,51312,ucla 2,control,Male,123.0,right handed,control,116.0,abide_initiative
+112.0,13.36,51313,ucla 2,control,Male,112.0,right handed,control,109.0,abide_initiative
+97.0,13.12,51314,ucla 2,control,Male,106.0,right handed,control,89.0,abide_initiative
+118.0,13.63,51315,ucla 2,control,Male,115.0,right handed,control,117.0,abide_initiative
+94.0,12.66,51316,ucla 2,control,Male,87.0,left handed,control,103.0,abide_initiative
+102.0,12.82,51317,ucla 2,autism,Male,99.0,right handed,autism,103.0,abide_initiative
+93.0,19.0,51318,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+118.0,33.0,51319,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+110.0,31.0,51320,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+129.0,45.0,51321,ludwig maximilians,aspergers,Female,,right handed,autism,,abide_initiative
+122.0,29.0,51322,ludwig maximilians,aspergers,Male,,left handed,autism,,abide_initiative
+118.0,30.0,51323,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+133.0,52.0,51324,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+110.0,32.0,51325,ludwig maximilians,aspergers,Female,,left handed,autism,,abide_initiative
+114.0,42.0,51326,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+129.0,58.0,51327,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+114.0,22.0,51328,ludwig maximilians,aspergers,Male,,right handed,autism,122.0,abide_initiative
+95.0,18.0,51329,ludwig maximilians,aspergers,Male,,right handed,autism,106.0,abide_initiative
+,45.0,51330,ludwig maximilians,aspergers,Male,,right handed,autism,99.0,abide_initiative
+,35.0,51331,ludwig maximilians,aspergers,Male,,right handed,autism,119.0,abide_initiative
+125.0,23.0,51332,ludwig maximilians,control,Male,,right handed,control,126.0,abide_initiative
+99.0,24.0,51333,ludwig maximilians,control,Male,,right handed,control,89.0,abide_initiative
+104.0,27.0,51334,ludwig maximilians,control,Male,,right handed,control,111.0,abide_initiative
+122.0,23.0,51335,ludwig maximilians,control,Male,,right handed,control,126.0,abide_initiative
+114.0,26.0,51336,ludwig maximilians,control,Male,,right handed,control,114.0,abide_initiative
+110.0,30.0,51338,ludwig maximilians,control,Male,,right handed,control,122.0,abide_initiative
+110.0,29.0,51339,ludwig maximilians,control,Male,,right handed,control,109.0,abide_initiative
+110.0,29.0,51340,ludwig maximilians,control,Male,,right handed,control,83.0,abide_initiative
+110.0,29.0,51341,ludwig maximilians,control,Male,,right handed,control,111.0,abide_initiative
+107.0,23.0,51342,ludwig maximilians,control,Male,,right handed,control,102.0,abide_initiative
+118.0,30.0,51343,ludwig maximilians,control,Male,,right handed,control,122.0,abide_initiative
+118.0,22.0,51344,ludwig maximilians,control,Male,,right handed,control,96.0,abide_initiative
+107.0,35.0,51345,ludwig maximilians,control,Male,,right handed,control,122.0,abide_initiative
+118.0,25.0,51346,ludwig maximilians,control,Male,,right handed,control,104.0,abide_initiative
+129.0,24.0,51347,ludwig maximilians,control,Male,,right handed,control,126.0,abide_initiative
+102.0,8.0,51348,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+105.0,11.0,51349,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+79.0,11.0,51350,ludwig maximilians,autism,Male,,right handed,autism,,abide_initiative
+79.0,11.0,51351,ludwig maximilians,autism,Male,,right handed,autism,,abide_initiative
+104.0,9.0,51352,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+113.0,7.0,51353,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+101.0,12.0,51354,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+122.0,11.0,51355,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative
+129.0,10.0,51356,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+110.0,11.0,51357,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+113.0,10.0,51358,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+101.0,13.0,51359,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+98.0,7.0,51360,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+114.0,16.0,51361,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+114.0,33.0,51362,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+112.0,32.0,51363,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+122.0,26.0,51364,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+105.0,23.0,51365,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+112.0,32.0,51366,ludwig maximilians,control,Female,,right handed,control,,abide_initiative
+112.0,21.0,51367,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+114.0,28.0,51368,ludwig maximilians,control,Female,,right handed,control,,abide_initiative
+96.0,32.0,51369,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+95.0,32.0,51370,ludwig maximilians,control,Female,,right handed,control,,abide_initiative
+99.0,48.0,51371,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+112.0,46.0,51372,ludwig maximilians,control,Female,,right handed,control,,abide_initiative
+119.0,46.0,51373,ludwig maximilians,control,Male,,right handed,control,,abide_initiative
+126.0,55.4,51456,caltech,aspergers pdd-nos,Male,118.0,right handed,autism,128.0,abide_initiative
+107.0,22.9,51457,caltech,aspergers pdd-nos,Male,119.0,ambidextrous,autism,93.0,abide_initiative
+93.0,39.2,51458,caltech,autism,Male,80.0,right handed,autism,108.0,abide_initiative
+106.0,22.8,51459,caltech,autism,Male,94.0,right handed,autism,118.0,abide_initiative
+133.0,34.6,51460,caltech,autism,Female,135.0,ambidextrous,autism,122.0,abide_initiative
+99.0,37.7,51461,caltech,aspergers pdd-nos,Male,111.0,right handed,autism,84.0,abide_initiative
+107.0,20.2,51462,caltech,autism,Female,102.0,right handed,autism,110.0,abide_initiative
+102.0,20.2,51463,caltech,autism,Female,101.0,right handed,autism,103.0,abide_initiative
+101.0,20.9,51464,caltech,autism,Male,118.0,ambidextrous,autism,109.0,abide_initiative
+96.0,20.2,51465,caltech,autism,Male,99.0,right handed,autism,93.0,abide_initiative
+106.0,27.6,51466,caltech,autism,Male,111.0,ambidextrous,autism,99.0,abide_initiative
+93.0,23.4,51467,caltech,autism,Male,89.0,right handed,autism,99.0,abide_initiative
+100.0,20.1,51468,caltech,autism,Male,89.0,right handed,autism,109.0,abide_initiative
+104.0,45.1,51469,caltech,aspergers pdd-nos,Male,109.0,right handed,autism,96.0,abide_initiative
+124.0,29.1,51470,caltech,aspergers pdd-nos,Male,127.0,right handed,autism,115.0,abide_initiative
+125.0,22.4,51471,caltech,aspergers pdd-nos,Female,123.0,right handed,autism,119.0,abide_initiative
+125.0,17.5,51472,caltech,autism,Male,123.0,ambidextrous,autism,119.0,abide_initiative
+,21.2,51473,caltech,autism,Male,,right handed,autism,,abide_initiative
+100.0,20.9,51474,caltech,autism,Male,90.0,right handed,autism,109.0,abide_initiative
+104.0,44.2,51475,caltech,control,Male,113.0,right handed,control,94.0,abide_initiative
+123.0,39.3,51476,caltech,control,Male,127.0,right handed,control,112.0,abide_initiative
+97.0,42.5,51477,caltech,control,Male,85.0,right handed,control,109.0,abide_initiative
+116.0,19.7,51478,caltech,control,Male,117.0,right handed,control,116.0,abide_initiative
+111.0,20.0,51479,caltech,control,Female,110.0,right handed,control,109.0,abide_initiative
+112.0,20.8,51480,caltech,control,Female,109.0,right handed,control,110.0,abide_initiative
+117.0,27.9,51481,caltech,control,Male,133.0,right handed,control,99.0,abide_initiative
+103.0,21.1,51482,caltech,control,Female,108.0,right handed,control,96.0,abide_initiative
+124.0,20.9,51483,caltech,control,Male,127.0,ambidextrous,control,115.0,abide_initiative
+128.0,23.6,51484,caltech,control,Male,135.0,right handed,control,115.0,abide_initiative
+123.0,23.9,51485,caltech,control,Male,113.0,right handed,control,127.0,abide_initiative
+134.0,22.0,51486,caltech,control,Male,131.0,ambidextrous,control,129.0,abide_initiative
+113.0,17.0,51487,caltech,control,Male,106.0,right handed,control,119.0,abide_initiative
+107.0,23.3,51488,caltech,control,Male,106.0,left handed,control,106.0,abide_initiative
+111.0,34.1,51489,caltech,control,Male,118.0,right handed,control,102.0,abide_initiative
+108.0,44.1,51490,caltech,control,Male,107.0,right handed,control,108.0,abide_initiative
+120.0,56.2,51491,caltech,control,Male,109.0,right handed,control,128.0,abide_initiative
+117.0,18.7,51492,caltech,control,Male,119.0,ambidextrous,control,110.0,abide_initiative
+102.0,29.2,51493,caltech,control,Female,101.0,right handed,control,103.0,abide_initiative
+,20.0,51556,social brain lab,control,Male,,,control,,abide_initiative
+,26.0,51557,social brain lab,control,Male,,,control,,abide_initiative
+,27.0,51558,social brain lab,control,Male,,,control,,abide_initiative
+,27.0,51559,social brain lab,control,Male,,,control,,abide_initiative
+,27.0,51560,social brain lab,control,Male,,,control,,abide_initiative
+,36.0,51561,social brain lab,control,Male,,,control,,abide_initiative
+,37.0,51562,social brain lab,control,Male,,,control,,abide_initiative
+,38.0,51563,social brain lab,control,Male,,,control,,abide_initiative
+,39.0,51564,social brain lab,control,Male,,,control,,abide_initiative
+,39.0,51565,social brain lab,control,Male,,,control,,abide_initiative
+,41.0,51566,social brain lab,control,Male,,,control,,abide_initiative
+,34.0,51567,social brain lab,control,Male,,,control,,abide_initiative
+,37.0,51568,social brain lab,control,Male,,,control,,abide_initiative
+,36.0,51569,social brain lab,control,Male,,,control,,abide_initiative
+,42.0,51570,social brain lab,control,Male,,,control,,abide_initiative
+,22.0,51571,social brain lab,autism,Male,101.0,,autism,110.0,abide_initiative
+,28.0,51572,social brain lab,aspergers,Male,93.0,,autism,110.0,abide_initiative
+,30.0,51573,social brain lab,pdd-nos,Male,108.0,left handed,autism,120.0,abide_initiative
+,30.0,51574,social brain lab,aspergers,Male,105.0,,autism,121.0,abide_initiative
+,31.0,51575,social brain lab,aspergers,Male,100.0,,autism,113.0,abide_initiative
+,31.0,51576,social brain lab,pdd-nos,Male,,,autism,,abide_initiative
+,31.0,51577,social brain lab,pdd-nos,Male,,,autism,,abide_initiative
+125.0,33.0,51578,social brain lab,aspergers,Male,129.0,,autism,113.0,abide_initiative
+110.0,41.0,51579,social brain lab,pdd-nos,Male,,,autism,,abide_initiative
+,42.0,51580,social brain lab,pdd-nos,Male,117.0,,autism,121.0,abide_initiative
+120.0,64.0,51581,social brain lab,pdd-nos,Male,119.0,,autism,116.0,abide_initiative
+,31.0,51582,social brain lab,aspergers,Male,116.0,,autism,121.0,abide_initiative
+95.0,35.0,51583,social brain lab,aspergers,Male,105.0,,autism,84.0,abide_initiative
+,49.0,51584,social brain lab,aspergers,Male,133.0,,autism,135.0,abide_initiative
+96.0,27.0,51585,social brain lab,autism,Male,99.0,,autism,106.0,abide_initiative
+118.0,29.0,51606,ludwig maximilians,aspergers,Female,,right handed,autism,,abide_initiative
+110.0,26.0,51607,ludwig maximilians,aspergers,Male,,right handed,autism,,abide_initiative

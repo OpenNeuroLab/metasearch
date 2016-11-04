@@ -1,670 +1,670 @@
-verbal iq,sex,age,handedness,site_id,diagnosis,full iq,participant_id,performance iq
-133.0,,16.92,right handed,brown university,,120.0,26001.0,104.0
-106.0,,15.68,right handed,brown university,,107.0,26002.0,106.0
-119.0,,14.99,right handed,brown university,,125.0,26004.0,123.0
-116.0,,15.16,right handed,brown university,,126.0,26005.0,131.0
-113.0,,16.91,left handed,brown university,,97.0,26009.0,81.0
-101.0,,16.21,right handed,brown university,,102.0,26014.0,102.0
-127.0,,15.2,right handed,brown university,,113.0,26015.0,98.0
-120.0,,16.07,right handed,brown university,,109.0,26016.0,96.0
-95.0,,14.56,right handed,brown university,,89.0,26017.0,87.0
-105.0,,17.83,right handed,brown university,,109.0,26022.0,111.0
-89.0,,17.77,right handed,brown university,,85.0,26024.0,83.0
-108.0,,11.28,right handed,brown university,,106.0,26027.0,103.0
-121.0,,14.51,right handed,brown university,,123.0,26030.0,119.0
-125.0,,14.19,right handed,brown university,,124.0,26039.0,117.0
-111.0,,13.67,right handed,brown university,,102.0,26040.0,93.0
-129.0,,13.68,right handed,brown university,,128.0,26041.0,120.0
-106.0,,13.82,right handed,brown university,,109.0,26042.0,110.0
-125.0,,11.6,right handed,brown university,,129.0,26043.0,127.0
-119.0,,9.32,right handed,brown university,,107.0,26044.0,93.0
-109.0,,14.67,right handed,brown university,,111.0,26045.0,109.0
-121.0,,8.5,right handed,brown university,,121.0,26050.0,116.0
-111.0,,17.87,right handed,brown university,,112.0,26052.0,109.0
-123.0,,15.79,right handed,brown university,,120.0,26053.0,111.0
-136.0,,12.02,right handed,brown university,,125.0,26054.0,109.0
-109.0,,17.74,right handed,brown university,,116.0,26055.0,119.0
-114.0,,12.0,right handed,brown university,,114.0,26057.0,110.0
-121.0,,10.73,right handed,kennedy krieger institute,control,122.0,2371032.0,119.0
-122.0,,12.99,right handed,kennedy krieger institute,adhd-combined,106.0,2026113.0,108.0
-85.0,,8.12,right handed,kennedy krieger institute,control,89.0,3434578.0,98.0
-85.0,,10.81,right handed,kennedy krieger institute,control,97.0,8628223.0,86.0
-89.0,,12.65,right handed,kennedy krieger institute,adhd-combined,89.0,1623716.0,88.0
-124.0,,12.87,right handed,kennedy krieger institute,control,108.0,1594156.0,104.0
-91.0,,9.97,right handed,kennedy krieger institute,control,106.0,2930625.0,127.0
-93.0,,11.65,right handed,kennedy krieger institute,adhd-inattentive,88.0,3154996.0,98.0
-93.0,,11.95,right handed,kennedy krieger institute,adhd-combined,99.0,3160561.0,108.0
-93.0,,10.5,right handed,kennedy krieger institute,adhd-inattentive,94.0,4275075.0,100.0
-95.0,,12.66,right handed,kennedy krieger institute,control,100.0,2917777.0,104.0
-130.0,,8.87,right handed,kennedy krieger institute,control,120.0,2558999.0,108.0
-99.0,,11.09,right handed,kennedy krieger institute,control,85.0,2740232.0,102.0
-121.0,,12.36,right handed,kennedy krieger institute,control,110.0,1018959.0,100.0
-96.0,,8.33,right handed,kennedy krieger institute,control,106.0,2572285.0,119.0
-102.0,,8.67,left handed,kennedy krieger institute,control,115.0,1962503.0,110.0
-110.0,,10.09,right handed,kennedy krieger institute,control,105.0,1842819.0,92.0
-138.0,,10.36,right handed,kennedy krieger institute,adhd-combined,126.0,1873761.0,108.0
-104.0,,9.3,right handed,kennedy krieger institute,control,102.0,3103809.0,92.0
-104.0,,12.77,right handed,kennedy krieger institute,control,98.0,3699991.0,102.0
-136.0,,9.64,left handed,kennedy krieger institute,control,120.0,1535233.0,96.0
-106.0,,9.75,right handed,kennedy krieger institute,control,111.0,4154182.0,123.0
-106.0,,8.72,right handed,kennedy krieger institute,adhd-combined,108.0,6453038.0,106.0
-108.0,,11.73,right handed,kennedy krieger institute,control,117.0,3486975.0,121.0
-108.0,,9.79,right handed,kennedy krieger institute,control,109.0,3912996.0,110.0
-112.0,,8.02,left handed,kennedy krieger institute,control,108.0,1686265.0,119.0
-108.0,,10.35,right handed,kennedy krieger institute,adhd-combined,102.0,2014113.0,106.0
-116.0,,11.04,right handed,kennedy krieger institute,adhd-inattentive,112.0,1996183.0,123.0
-110.0,,9.73,right handed,kennedy krieger institute,control,112.0,7129258.0,108.0
-116.0,,10.84,right handed,kennedy krieger institute,control,124.0,1779922.0,137.0
-110.0,,9.97,right handed,kennedy krieger institute,adhd-hyperactive,113.0,3310328.0,123.0
-104.0,,10.09,right handed,kennedy krieger institute,control,96.0,2618929.0,100.0
-112.0,,10.6,left handed,kennedy krieger institute,control,115.0,1652369.0,106.0
-112.0,,12.43,right handed,kennedy krieger institute,control,101.0,4104523.0,98.0
-112.0,,8.62,right handed,kennedy krieger institute,control,121.0,8083695.0,125.0
-112.0,,10.69,right handed,kennedy krieger institute,control,104.0,6346605.0,110.0
-112.0,,10.3,right handed,kennedy krieger institute,control,109.0,9922944.0,110.0
-87.0,,10.44,right handed,kennedy krieger institute,control,98.0,1638334.0,104.0
-108.0,,10.78,right handed,kennedy krieger institute,control,105.0,1692275.0,119.0
-114.0,,10.38,right handed,kennedy krieger institute,control,95.0,2641332.0,92.0
-114.0,,8.34,right handed,kennedy krieger institute,control,107.0,8263351.0,106.0
-119.0,,11.84,right handed,kennedy krieger institute,control,134.0,3884955.0,123.0
-119.0,,8.92,right handed,kennedy krieger institute,control,119.0,2344857.0,108.0
-119.0,,9.62,right handed,kennedy krieger institute,control,111.0,2822304.0,98.0
-119.0,,9.75,right handed,kennedy krieger institute,control,114.0,8658218.0,115.0
-119.0,,10.15,left handed,kennedy krieger institute,adhd-inattentive,119.0,3119327.0,125.0
-110.0,,11.89,right handed,kennedy krieger institute,adhd-combined,86.0,2299519.0,79.0
-121.0,,10.55,right handed,kennedy krieger institute,control,132.0,3813783.0,131.0
-136.0,,12.47,right handed,kennedy krieger institute,control,119.0,2640795.0,108.0
-121.0,,11.02,right handed,kennedy krieger institute,control,115.0,4601682.0,108.0
-121.0,,9.12,right handed,kennedy krieger institute,control,109.0,3972472.0,94.0
-108.0,,11.66,right handed,kennedy krieger institute,control,114.0,2018106.0,110.0
-116.0,,9.62,left handed,kennedy krieger institute,control,115.0,2104012.0,123.0
-124.0,,10.82,right handed,kennedy krieger institute,control,98.0,5216908.0,79.0
-99.0,,12.98,right handed,kennedy krieger institute,adhd-inattentive,103.0,1019436.0,115.0
-126.0,,11.51,right handed,kennedy krieger institute,control,116.0,8432725.0,102.0
-124.0,,9.12,right handed,kennedy krieger institute,control,122.0,1043241.0,108.0
-138.0,,9.02,right handed,kennedy krieger institute,control,120.0,2554127.0,121.0
-132.0,,11.67,right handed,kennedy krieger institute,control,119.0,3713230.0,106.0
-132.0,,10.64,right handed,kennedy krieger institute,control,124.0,3902469.0,112.0
-134.0,,10.12,right handed,kennedy krieger institute,control,131.0,3972956.0,127.0
-134.0,,10.9,right handed,kennedy krieger institute,control,117.0,7415617.0,106.0
-134.0,,8.1,right handed,kennedy krieger institute,adhd-combined,134.0,3519022.0,129.0
-128.0,,9.67,right handed,kennedy krieger institute,control,120.0,1266183.0,106.0
-100.0,,8.91,right handed,kennedy krieger institute,control,109.0,1846346.0,106.0
-140.0,,9.24,right handed,kennedy krieger institute,control,122.0,2768273.0,112.0
-142.0,,8.19,right handed,kennedy krieger institute,adhd-combined,126.0,3917422.0,119.0
-146.0,,8.99,right handed,kennedy krieger institute,adhd-combined,121.0,4362730.0,106.0
-93.0,,8.8,right handed,kennedy krieger institute,adhd-combined,94.0,8337695.0,112.0
-95.0,,9.08,left handed,kennedy krieger institute,adhd-combined,89.0,3611827.0,106.0
-106.0,,8.45,right handed,kennedy krieger institute,adhd-combined,122.0,1541812.0,135.0
-100.0,,9.58,right handed,kennedy krieger institute,control,99.0,2601925.0,106.0
-104.0,,11.22,right handed,kennedy krieger institute,control,108.0,7774305.0,92.0
-124.0,,8.46,right handed,kennedy krieger institute,control,119.0,2138826.0,106.0
-112.0,,9.52,right handed,kennedy krieger institute,adhd-combined,122.0,3170319.0,125.0
-100.0,,11.17,right handed,kennedy krieger institute,control,99.0,1988015.0,108.0
-114.0,,9.39,ambidextrous,kennedy krieger institute,control,116.0,1735881.0,102.0
-81.0,,9.43,right handed,kennedy krieger institute,adhd-combined,88.0,2081148.0,98.0
-119.0,,8.56,right handed,kennedy krieger institute,control,113.0,2360428.0,102.0
-121.0,,11.91,right handed,kennedy krieger institute,control,126.0,2903997.0,121.0
-124.0,,11.1,right handed,kennedy krieger institute,control,109.0,2703289.0,117.0
-100.0,,9.06,right handed,kennedy krieger institute,adhd-combined,90.0,1577042.0,90.0
-112.0,,8.98,right handed,kennedy krieger institute,control,116.0,2621228.0,110.0
-112.0,,7.29,,nyu child study center,control,109.0,1000804.0,103.0
-115.0,,8.29,,nyu child study center,adhd-inattentive,123.0,1023964.0,125.0
-131.0,,8.78,,nyu child study center,adhd-combined,129.0,1057962.0,121.0
-109.0,,8.04,,nyu child study center,adhd-combined,116.0,1099481.0,120.0
-117.0,,12.44,,nyu child study center,control,124.0,1127915.0,126.0
-109.0,,12.79,,nyu child study center,adhd-combined,129.0,1187766.0,134.0
-122.0,,9.57,,nyu child study center,adhd-inattentive,118.0,1208795.0,109.0
-106.0,,8.61,,nyu child study center,adhd-combined,107.0,1283494.0,106.0
-131.0,,8.59,,nyu child study center,control,122.0,1320247.0,108.0
-131.0,,10.76,,nyu child study center,control,138.0,1359325.0,135.0
-102.0,,11.92,,nyu child study center,control,111.0,1435954.0,119.0
-106.0,,13.32,,nyu child study center,adhd-inattentive,99.0,1471736.0,91.0
-126.0,,8.56,,nyu child study center,adhd-combined,125.0,1497055.0,119.0
-110.0,,10.12,,nyu child study center,adhd-inattentive,108.0,1511464.0,104.0
-125.0,,10.06,,nyu child study center,adhd-combined,125.0,1517240.0,117.0
-117.0,,8.91,,nyu child study center,control,125.0,1567356.0,128.0
-93.0,,7.68,,nyu child study center,control,97.0,1700637.0,100.0
-126.0,,11.24,,nyu child study center,control,130.0,1737393.0,128.0
-108.0,,10.26,,nyu child study center,adhd-inattentive,119.0,1740607.0,128.0
-96.0,,11.18,,nyu child study center,adhd-combined,107.0,1780174.0,118.0
-112.0,,12.99,,nyu child study center,control,105.0,1854959.0,96.0
-85.0,,7.17,,nyu child study center,control,90.0,1875084.0,94.0
-91.0,,8.91,,nyu child study center,control,100.0,1884448.0,109.0
-115.0,,7.55,,nyu child study center,adhd-combined,125.0,1918630.0,129.0
-111.0,,8.45,,nyu child study center,control,114.0,1934623.0,112.0
-120.0,,7.26,,nyu child study center,adhd-combined,115.0,1992284.0,106.0
-130.0,,11.43,,nyu child study center,control,127.0,1995121.0,119.0
-141.0,,13.56,,nyu child study center,adhd-combined,131.0,2030383.0,114.0
-101.0,,8.11,,nyu child study center,adhd-combined,102.0,2054438.0,103.0
-109.0,,10.41,,nyu child study center,adhd-combined,109.0,2107638.0,106.0
-127.0,,9.23,,nyu child study center,control,118.0,2136051.0,106.0
-98.0,,9.17,,nyu child study center,adhd-combined,95.0,2230510.0,93.0
-108.0,,12.07,,nyu child study center,adhd-combined,98.0,2260910.0,88.0
-114.0,,11.06,,nyu child study center,adhd-inattentive,105.0,2297413.0,94.0
-115.0,,11.53,,nyu child study center,adhd-combined,111.0,2306976.0,104.0
-107.0,,11.61,,nyu child study center,adhd-combined,116.0,2497695.0,123.0
-88.0,,13.49,,nyu child study center,adhd-combined,84.0,2570769.0,82.0
-106.0,,10.78,,nyu child study center,adhd-combined,107.0,2682736.0,107.0
-107.0,,10.21,,nyu child study center,control,94.0,2730704.0,83.0
-122.0,,11.42,,nyu child study center,control,127.0,2735617.0,126.0
-118.0,,8.53,,nyu child study center,adhd-combined,114.0,2741068.0,107.0
-98.0,,8.38,,nyu child study center,adhd-inattentive,109.0,2773205.0,120.0
-123.0,,10.69,,nyu child study center,adhd-inattentive,134.0,2821683.0,137.0
-116.0,,9.17,,nyu child study center,adhd-inattentive,124.0,2854839.0,126.0
-111.0,,12.24,,nyu child study center,control,109.0,2907383.0,105.0
-99.0,,11.28,,nyu child study center,adhd-combined,97.0,2950672.0,95.0
-108.0,,12.28,,nyu child study center,adhd-inattentive,107.0,2983819.0,103.0
-115.0,,8.3,,nyu child study center,control,118.0,2991307.0,117.0
-137.0,,12.62,,nyu child study center,adhd-inattentive,132.0,2996531.0,119.0
-115.0,,11.56,,nyu child study center,control,103.0,3011311.0,91.0
-120.0,,11.91,,nyu child study center,control,121.0,3163200.0,117.0
-109.0,,8.49,,nyu child study center,adhd-combined,99.0,3174224.0,88.0
-123.0,,8.61,,nyu child study center,adhd-combined,117.0,3235580.0,107.0
-100.0,,8.56,,nyu child study center,control,99.0,3243657.0,99.0
-104.0,,10.21,,nyu child study center,adhd-inattentive,100.0,3349205.0,97.0
-121.0,,12.59,,nyu child study center,control,124.0,3349423.0,120.0
-107.0,,10.36,,nyu child study center,adhd-combined,102.0,3433846.0,97.0
-135.0,,9.26,,nyu child study center,adhd-inattentive,128.0,3441455.0,116.0
-123.0,,7.86,,nyu child study center,adhd-combined,128.0,3457975.0,126.0
-119.0,,7.67,,nyu child study center,control,124.0,3518345.0,126.0
-98.0,,8.05,,nyu child study center,adhd-combined,107.0,3542588.0,94.0
-99.0,,9.24,,nyu child study center,adhd-combined,88.0,3601861.0,82.0
-106.0,,7.49,,nyu child study center,adhd-combined,103.0,3619797.0,100.0
-99.0,,13.25,,nyu child study center,control,100.0,3650634.0,101.0
-106.0,,9.38,,nyu child study center,adhd-combined,106.0,3653737.0,104.0
-90.0,,12.45,,nyu child study center,control,98.0,3662296.0,104.0
-114.0,,11.97,,nyu child study center,adhd-combined,102.0,3679455.0,89.0
-117.0,,8.19,,nyu child study center,control,110.0,3845761.0,102.0
-134.0,,9.27,,nyu child study center,control,116.0,3999344.0,98.0
-85.0,,11.8,,nyu child study center,adhd-inattentive,95.0,4060823.0,107.0
-119.0,,10.19,,nyu child study center,control,115.0,4079254.0,106.0
-110.0,,7.63,,nyu child study center,control,111.0,4084645.0,108.0
-99.0,,9.32,,nyu child study center,adhd-combined,95.0,4095229.0,92.0
-122.0,,10.81,,nyu child study center,adhd-combined,108.0,4116166.0,93.0
-118.0,,9.23,,nyu child study center,adhd-combined,119.0,4154672.0,117.0
-92.0,,10.69,,nyu child study center,control,80.0,4164316.0,72.0
-105.0,,13.28,,nyu child study center,adhd-combined,109.0,4187857.0,111.0
-112.0,,7.91,,nyu child study center,control,109.0,4562206.0,104.0
-108.0,,13.22,,nyu child study center,control,104.0,4827048.0,99.0
-117.0,,10.16,,nyu child study center,adhd-combined,115.0,5164727.0,109.0
-101.0,,7.24,,nyu child study center,adhd-combined,94.0,5971050.0,88.0
-85.0,,11.56,,nyu child study center,control,80.0,6206397.0,79.0
-102.0,,8.1,,nyu child study center,control,101.0,6568351.0,99.0
-101.0,,11.33,,nyu child study center,adhd-inattentive,109.0,8009688.0,116.0
-108.0,,11.79,,nyu child study center,control,102.0,8415034.0,95.0
-120.0,,12.25,,nyu child study center,control,123.0,8692452.0,127.0
-97.0,,9.92,,nyu child study center,adhd-combined,101.0,8697774.0,106.0
-106.0,,8.8,,nyu child study center,control,106.0,8834383.0,103.0
-136.0,,10.7,,nyu child study center,adhd-combined,134.0,8915162.0,124.0
-95.0,,10.92,,nyu child study center,adhd-combined,95.0,9326955.0,96.0
-143.0,,8.26,,nyu child study center,control,134.0,9578663.0,117.0
-103.0,,10.74,,nyu child study center,control,113.0,9750701.0,121.0
-130.0,,9.98,,nyu child study center,adhd-inattentive,132.0,9907452.0,127.0
-106.0,,11.17,,nyu child study center,adhd-inattentive,99.0,10001.0,91.0
-107.0,,9.29,,nyu child study center,control,100.0,10003.0,93.0
--999.0,,13.75,,nyu child study center,control,-999.0,10004.0,-999.0
-98.0,,11.92,,nyu child study center,adhd-hyperactive,108.0,10005.0,118.0
-87.0,,8.7,,nyu child study center,adhd-combined,80.0,10016.0,78.0
-112.0,,12.1,,nyu child study center,control,107.0,10009.0,99.0
-141.0,,11.32,,nyu child study center,control,142.0,10010.0,133.0
-102.0,,12.41,,nyu child study center,adhd-combined,100.0,10012.0,97.0
-89.0,,11.54,,nyu child study center,adhd-combined,94.0,10018.0,100.0
-105.0,,8.37,,nyu child study center,adhd-combined,95.0,10020.0,86.0
-112.0,,12.54,,nyu child study center,control,109.0,10021.0,105.0
-108.0,,12.12,,nyu child study center,adhd-combined,105.0,10022.0,100.0
-104.0,,13.42,,nyu child study center,control,105.0,10023.0,105.0
-99.0,,9.42,,nyu child study center,adhd-inattentive,92.0,10028.0,87.0
-100.0,,12.41,,nyu child study center,adhd-inattentive,103.0,10030.0,105.0
-142.0,,12.79,,nyu child study center,control,140.0,10038.0,129.0
-99.0,,10.86,,nyu child study center,control,106.0,10034.0,111.0
-97.0,,11.87,,nyu child study center,control,85.0,10031.0,77.0
-91.0,,11.1,,nyu child study center,adhd-combined,89.0,10032.0,91.0
-109.0,,8.95,,nyu child study center,adhd-inattentive,109.0,10035.0,106.0
-100.0,,10.9,,nyu child study center,adhd-combined,91.0,10037.0,85.0
-93.0,,13.28,,nyu child study center,control,87.0,10039.0,86.0
-100.0,,10.65,,nyu child study center,adhd-combined,108.0,10042.0,115.0
-98.0,,9.81,,nyu child study center,adhd-combined,108.0,10044.0,119.0
-119.0,,17.43,,nyu child study center,adhd-combined,109.0,10050.0,97.0
-109.0,,15.4,,nyu child study center,adhd-inattentive,107.0,10051.0,102.0
-83.0,,16.31,,nyu child study center,control,81.0,10052.0,83.0
-99.0,,15.28,,nyu child study center,control,101.0,10053.0,103.0
--999.0,,15.63,,nyu child study center,adhd-inattentive,-999.0,10056.0,-999.0
-111.0,,17.7,,nyu child study center,control,102.0,10057.0,92.0
-121.0,,14.2,,nyu child study center,control,109.0,10058.0,96.0
-127.0,,17.89,,nyu child study center,control,128.0,10059.0,124.0
--999.0,,17.83,,nyu child study center,control,-999.0,10054.0,-999.0
-97.0,,10.86,,nyu child study center,control,91.0,10055.0,88.0
-120.0,,14.95,,nyu child study center,adhd-combined,118.0,10048.0,111.0
-93.0,,8.75,,nyu child study center,adhd-combined,99.0,10060.0,104.0
-109.0,,12.72,,nyu child study center,adhd-combined,122.0,10047.0,131.0
-99.0,,11.41,,nyu child study center,adhd-inattentive,101.0,10061.0,103.0
-132.0,,16.14,,nyu child study center,adhd-inattentive,122.0,10062.0,107.0
-109.0,,15.91,,nyu child study center,control,105.0,10063.0,99.0
-95.0,,15.9,,nyu child study center,adhd-combined,101.0,10064.0,107.0
-91.0,,14.19,,nyu child study center,control,88.0,10065.0,89.0
-122.0,,13.9,,nyu child study center,control,116.0,10066.0,106.0
-109.0,,13.1,,nyu child study center,adhd-inattentive,115.0,10067.0,118.0
--999.0,,13.3,,nyu child study center,control,-999.0,10068.0,-999.0
-120.0,,16.93,,nyu child study center,control,124.0,10069.0,120.0
-101.0,,7.77,,nyu child study center,adhd-inattentive,94.0,10119.0,88.0
-122.0,,16.08,,nyu child study center,adhd-combined,115.0,10109.0,105.0
-99.0,,16.08,,nyu child study center,control,99.0,10110.0,97.0
-108.0,,7.74,,nyu child study center,control,98.0,10111.0,88.0
-133.0,,9.75,,nyu child study center,control,124.0,10046.0,109.0
-116.0,,14.79,,nyu child study center,control,112.0,10112.0,106.0
-104.0,,17.37,,nyu child study center,adhd-inattentive,102.0,10107.0,99.0
-116.0,,14.81,,nyu child study center,adhd-combined,120.0,10019.0,119.0
-99.0,,8.03,,nyu child study center,control,86.0,10077.0,77.0
-113.0,,8.19,,nyu child study center,adhd-combined,121.0,10078.0,125.0
-96.0,,15.27,,nyu child study center,control,104.0,10079.0,110.0
-106.0,,17.86,,nyu child study center,control,106.0,10080.0,103.0
-113.0,,14.48,,nyu child study center,control,111.0,10008.0,106.0
-99.0,,7.55,,nyu child study center,control,99.0,10014.0,98.0
-107.0,,14.87,,nyu child study center,control,107.0,10089.0,106.0
-96.0,,16.32,,nyu child study center,adhd-combined,94.0,10090.0,93.0
-77.0,,8.93,,nyu child study center,adhd-combined,83.0,10091.0,93.0
-113.0,,17.3,,nyu child study center,control,109.0,10092.0,104.0
-109.0,,12.49,,nyu child study center,control,126.0,10045.0,137.0
--999.0,,15.21,,nyu child study center,control,-999.0,10093.0,-999.0
--999.0,,15.21,,nyu child study center,control,-999.0,10094.0,-999.0
-81.0,,14.39,,nyu child study center,adhd-combined,81.0,10095.0,84.0
-119.0,,14.94,,nyu child study center,adhd-inattentive,113.0,10096.0,104.0
-119.0,,14.38,,nyu child study center,control,123.0,10097.0,120.0
-101.0,,7.6,,nyu child study center,adhd-combined,100.0,10098.0,98.0
-120.0,,9.96,,nyu child study center,control,110.0,10099.0,99.0
-121.0,,16.88,,nyu child study center,control,125.0,10100.0,123.0
-107.0,,14.2,,nyu child study center,adhd-combined,92.0,10101.0,79.0
-88.0,,16.55,,nyu child study center,control,91.0,10102.0,96.0
-116.0,,17.15,,nyu child study center,adhd-inattentive,115.0,10108.0,115.0
-65.0,,13.24,,nyu child study center,adhd-inattentive,75.0,10002.0,89.0
-102.0,,9.16,,nyu child study center,adhd-inattentive,106.0,10011.0,107.0
-111.0,,14.91,,nyu child study center,control,113.0,10113.0,110.0
--999.0,,16.73,,nyu child study center,control,-999.0,10114.0,-999.0
-98.0,,15.32,,nyu child study center,adhd-inattentive,93.0,10115.0,89.0
-117.0,,11.18,,nyu child study center,control,101.0,10006.0,87.0
-95.0,,7.43,,nyu child study center,adhd-inattentive,99.0,10105.0,103.0
-114.0,,8.26,,nyu child study center,control,112.0,10024.0,107.0
-119.0,,11.21,,nyu child study center,adhd-inattentive,129.0,10015.0,133.0
-106.0,,11.82,,nyu child study center,adhd-inattentive,99.0,10106.0,91.0
-115.0,,16.77,,nyu child study center,adhd-inattentive,114.0,10116.0,109.0
-95.0,,9.35,,nyu child study center,control,99.0,10117.0,103.0
-89.0,,13.33,,nyu child study center,adhd-combined,84.0,10118.0,83.0
--999.0,,17.09,,nyu child study center,control,-999.0,10120.0,-999.0
-132.0,,11.73,,nyu child study center,adhd-combined,131.0,10026.0,123.0
-108.0,,14.18,,nyu child study center,control,117.0,10121.0,124.0
-122.0,,16.28,,nyu child study center,control,125.0,10122.0,120.0
-109.0,,16.13,,nyu child study center,control,109.0,10123.0,106.0
-141.0,,11.4,,nyu child study center,control,142.0,10082.0,133.0
-92.0,,8.06,,nyu child study center,adhd-combined,88.0,10074.0,88.0
-77.0,,11.09,,nyu child study center,adhd-inattentive,73.0,10075.0,72.0
-118.0,,15.95,,nyu child study center,control,113.0,10076.0,106.0
-106.0,,9.59,,nyu child study center,adhd-combined,106.0,10103.0,104.0
--999.0,,15.81,,nyu child study center,adhd-inattentive,-999.0,10081.0,-999.0
-132.0,,14.42,,nyu child study center,control,132.0,10083.0,124.0
-113.0,,17.96,,nyu child study center,control,108.0,10084.0,102.0
-82.0,,11.37,,nyu child study center,adhd-combined,78.0,10085.0,79.0
-86.0,,9.45,,nyu child study center,control,84.0,10036.0,86.0
-109.0,,15.83,,nyu child study center,adhd-combined,102.0,10086.0,93.0
-100.0,,8.28,,nyu child study center,adhd-combined,96.0,10027.0,92.0
-82.0,,17.61,,nyu child study center,adhd-inattentive,95.0,10087.0,108.0
-109.0,,8.75,,nyu child study center,adhd-combined,99.0,10025.0,88.0
-126.0,,13.09,,nyu child study center,adhd-combined,127.0,10029.0,121.0
-98.0,,12.38,,nyu child study center,adhd-combined,94.0,10017.0,90.0
-115.0,,7.35,,nyu child study center,adhd-combined,106.0,10049.0,96.0
-111.0,,10.52,,nyu child study center,control,105.0,10070.0,97.0
-80.0,,14.09,,nyu child study center,adhd-inattentive,83.0,10071.0,88.0
-104.0,,10.97,,nyu child study center,adhd-inattentive,100.0,10033.0,97.0
-108.0,,7.25,,nyu child study center,adhd-combined,109.0,10072.0,107.0
-88.0,,14.46,,nyu child study center,adhd-combined,82.0,10073.0,79.0
-127.0,,13.35,,nyu child study center,adhd-inattentive,123.0,10104.0,114.0
-115.0,,14.66,,nyu child study center,control,126.0,10088.0,132.0
-141.0,,9.94,,nyu child study center,adhd-combined,133.0,10040.0,117.0
-109.0,,14.06,,nyu child study center,control,115.0,10124.0,119.0
-109.0,,9.22,,nyu child study center,adhd-hyperactive,105.0,10041.0,99.0
-120.0,,7.19,,nyu child study center,control,129.0,10125.0,131.0
-95.0,,11.41,,nyu child study center,adhd-inattentive,95.0,10007.0,93.0
-83.0,,9.7,,nyu child study center,adhd-combined,88.0,10126.0,96.0
-132.0,,8.14,,nyu child study center,adhd-combined,130.0,10127.0,121.0
-112.0,,9.53,,nyu child study center,control,127.0,10128.0,136.0
--999.0,,8.39,,nyu child study center,adhd-inattentive,-999.0,10129.0,-999.0
-106.0,,9.55,,nyu child study center,adhd-combined,97.0,10013.0,88.0
-125.0,,8.16,,nyu child study center,control,112.0,10043.0,99.0
-,,11.0,right handed,ohsu,adhd-combined,110.0,1084283.0,
-,,9.42,right handed,ohsu,control,106.0,1084884.0,
-,,8.5,right handed,ohsu,adhd-combined,116.0,1108916.0,
-,,9.17,right handed,ohsu,adhd-inattentive,90.0,1206380.0,
-,,7.42,right handed,ohsu,adhd-combined,98.0,1340333.0,
-,,8.0,right handed,ohsu,control,134.0,1386056.0,
-,,9.17,right handed,ohsu,adhd-combined,112.0,1411223.0,
-,,8.67,right handed,ohsu,control,98.0,1418396.0,
-,,8.75,right handed,ohsu,control,118.0,1421489.0,
-,,11.92,right handed,ohsu,control,116.0,1481430.0,
-,,8.58,right handed,ohsu,control,120.0,1502229.0,
-,,8.58,right handed,ohsu,adhd-combined,136.0,1536593.0,
-,,11.17,right handed,ohsu,control,126.0,1548937.0,
-,,9.83,right handed,ohsu,adhd-inattentive,126.0,1552181.0,
-,,11.0,right handed,ohsu,control,92.0,1647968.0,
-,,9.0,right handed,ohsu,control,144.0,1664335.0,
-,,10.33,right handed,ohsu,control,130.0,1679142.0,
-,,8.75,right handed,ohsu,control,104.0,1696588.0,
-,,8.75,right handed,ohsu,adhd-combined,100.0,1743472.0,
-,,8.42,right handed,ohsu,adhd-combined,110.0,2054310.0,
-,,7.33,right handed,ohsu,control,108.0,2054998.0,
-,,8.25,right handed,ohsu,adhd-combined,132.0,2071989.0,
-,,9.33,right handed,ohsu,control,128.0,2124248.0,
-,,9.33,right handed,ohsu,control,124.0,2155356.0,
-,,10.33,right handed,ohsu,control,110.0,2232376.0,
-,,9.17,right handed,ohsu,control,104.0,2232413.0,
-,,7.42,right handed,ohsu,adhd-combined,120.0,2288903.0,
-,,8.0,right handed,ohsu,adhd-combined,90.0,2292940.0,
-,,7.67,right handed,ohsu,control,128.0,2409220.0,
-,,8.58,right handed,ohsu,adhd-inattentive,112.0,2415970.0,
-,,7.92,right handed,ohsu,control,120.0,2426523.0,
-,,8.08,right handed,ohsu,control,137.0,2427434.0,
-,,7.5,right handed,ohsu,adhd-combined,86.0,2455205.0,
-,,8.42,right handed,ohsu,adhd-combined,116.0,2535204.0,
-,,7.92,right handed,ohsu,adhd-inattentive,98.0,2559559.0,
-,,8.67,right handed,ohsu,adhd-combined,98.0,2561174.0,
-,,7.67,right handed,ohsu,adhd-combined,102.0,2571197.0,
-,,9.5,right handed,ohsu,control,112.0,2578455.0,
-,,8.92,right handed,ohsu,adhd-combined,90.0,2620872.0,
-,,9.0,right handed,ohsu,adhd-inattentive,112.0,2790141.0,
-,,7.67,right handed,ohsu,adhd-inattentive,102.0,2845989.0,
-,,7.5,right handed,ohsu,control,120.0,2920716.0,
-,,9.58,right handed,ohsu,adhd-hyperactive,124.0,2929195.0,
-,,8.5,right handed,ohsu,control,124.0,2947936.0,
-,,9.08,right handed,ohsu,control,100.0,2959809.0,
-,,11.58,right handed,ohsu,control,110.0,3048401.0,
-,,11.75,right handed,ohsu,control,100.0,3051944.0,
-,,9.17,right handed,ohsu,adhd-combined,114.0,3052540.0,
-,,8.5,right handed,ohsu,control,136.0,3162671.0,
-,,8.25,right handed,ohsu,control,122.0,3206978.0,
-,,8.67,right handed,ohsu,control,134.0,3212875.0,
-,,7.17,right handed,ohsu,control,116.0,3244985.0,
-,,8.08,right handed,ohsu,adhd-hyperactive,104.0,3286474.0,
-,,9.0,right handed,ohsu,control,120.0,3302025.0,
-,,8.5,right handed,ohsu,adhd-combined,108.0,3358877.0,
-,,8.08,right handed,ohsu,adhd-combined,108.0,3466651.0,
-,,8.5,right handed,ohsu,adhd-combined,104.0,3470141.0,
-,,7.83,right handed,ohsu,adhd-combined,126.0,3560456.0,
-,,7.67,right handed,ohsu,adhd-inattentive,86.0,3652932.0,
-,,8.75,right handed,ohsu,adhd-inattentive,96.0,3677724.0,
-,,8.83,right handed,ohsu,adhd-inattentive,120.0,3684229.0,
-,,7.83,right handed,ohsu,control,104.0,3812101.0,
-,,8.08,right handed,ohsu,control,132.0,3848511.0,
-,,8.67,right handed,ohsu,control,126.0,3869075.0,
-,,8.25,right handed,ohsu,control,112.0,3899622.0,
-,,9.08,right handed,ohsu,adhd-combined,126.0,4016887.0,
-,,8.58,right handed,ohsu,control,132.0,4046678.0,
-,,9.25,right handed,ohsu,adhd-inattentive,106.0,4072305.0,
-,,7.33,right handed,ohsu,control,108.0,4103874.0,
-,,8.25,right handed,ohsu,control,114.0,4219416.0,
-,,8.42,right handed,ohsu,control,116.0,4529116.0,
-,,11.33,right handed,ohsu,adhd-inattentive,114.0,5302451.0,
-,,7.58,right handed,ohsu,control,140.0,6592761.0,
-,,11.83,right handed,ohsu,adhd-combined,132.0,6953386.0,
-,,9.0,right handed,ohsu,adhd-combined,108.0,7333005.0,
-,,9.25,right handed,ohsu,control,118.0,8064456.0,
-,,8.33,right handed,ohsu,control,104.0,8218392.0,
-,,10.33,right handed,ohsu,adhd-inattentive,82.0,8720244.0,
-,,8.17,right handed,ohsu,control,126.0,9499804.0,
-,,10.42,right handed,ohsu,adhd-combined,104.0,23000.0,
-,,9.33,right handed,ohsu,control,96.0,23001.0,
-,,10.67,right handed,ohsu,adhd-combined,136.0,23002.0,
-,,7.67,right handed,ohsu,adhd-hyperactive,126.0,23003.0,
-,,9.33,right handed,ohsu,adhd-combined,103.8,23004.0,
-,,11.75,right handed,ohsu,control,104.0,23005.0,
-,,9.25,right handed,ohsu,control,114.0,23006.0,
-,,11.08,right handed,ohsu,adhd-inattentive,112.0,23007.0,
-,,9.17,right handed,ohsu,control,112.0,23008.0,
-,,7.67,right handed,ohsu,control,118.0,23010.0,
-,,8.92,right handed,ohsu,control,104.0,23011.0,
-,,11.33,right handed,ohsu,adhd-combined,120.0,23012.0,
-,,10.58,right handed,ohsu,control,94.0,23013.0,
-,,10.25,right handed,ohsu,control,143.7,23016.0,
-,,12.5,right handed,ohsu,control,112.0,23017.0,
-,,9.5,right handed,ohsu,control,100.0,23018.0,
-,,8.08,right handed,ohsu,control,132.0,23019.0,
-,,11.0,right handed,ohsu,control,122.0,23020.0,
-,,9.58,right handed,ohsu,control,98.0,23024.0,
-,,8.33,right handed,ohsu,control,98.0,23025.0,
-,,8.33,right handed,ohsu,control,106.0,23026.0,
-,,11.58,right handed,ohsu,control,100.0,23027.0,
-,,9.92,right handed,ohsu,control,117.1,23028.0,
-,,8.5,right handed,ohsu,control,120.0,23030.0,
-,,11.92,right handed,ohsu,control,126.0,23031.0,
-,,8.5,right handed,ohsu,control,120.0,23033.0,
-,,9.75,right handed,ohsu,control,105.7,23035.0,
-,,9.75,right handed,ohsu,control,128.0,23036.0,
-,,9.42,right handed,ohsu,control,108.0,23037.0,
-,,9.33,right handed,ohsu,control,124.0,23038.0,
-,,11.17,right handed,ohsu,control,114.0,23039.0,
-,,7.5,right handed,ohsu,control,126.0,23040.0,
-,,9.92,right handed,ohsu,control,128.5,23041.0,
-,,8.08,right handed,ohsu,control,98.0,23042.0,
-126.0,,13.92,right handed,peking university,control,135.0,1056121.0,136.0
-125.0,,14.83,right handed,peking university,control,133.0,1113498.0,135.0
-116.0,,12.33,right handed,peking university,adhd-combined,113.0,1133221.0,108.0
-90.0,,11.33,right handed,peking university,control,87.0,1139030.0,86.0
-112.0,,13.92,right handed,peking university,adhd-inattentive,109.0,1186237.0,103.0
-95.0,,9.5,right handed,peking university,adhd-combined,97.0,1240299.0,100.0
-113.0,,9.92,right handed,peking university,control,117.0,1258069.0,117.0
-125.0,,10.58,right handed,peking university,adhd-inattentive,108.0,1282248.0,86.0
-126.0,,8.58,right handed,peking university,control,120.0,1302449.0,108.0
-125.0,,9.83,right handed,peking university,control,124.0,1391181.0,118.0
-140.0,,11.92,right handed,peking university,control,126.0,1408093.0,104.0
-134.0,,11.58,right handed,peking university,control,128.0,1469171.0,114.0
-83.0,,10.92,right handed,peking university,adhd-inattentive,88.0,1561488.0,97.0
-112.0,,9.67,right handed,peking university,control,113.0,1686092.0,112.0
-132.0,,11.75,right handed,peking university,control,128.0,1689948.0,117.0
-130.0,,9.33,right handed,peking university,adhd-inattentive,123.0,1791543.0,108.0
-101.0,,10.08,right handed,peking university,control,103.0,1805037.0,104.0
-109.0,,9.75,right handed,peking university,control,109.0,1875711.0,106.0
-121.0,,13.58,right handed,peking university,control,117.0,1879542.0,108.0
-130.0,,10.33,right handed,peking university,control,128.0,1912810.0,118.0
-82.0,,9.42,right handed,peking university,adhd-inattentive,81.0,1947991.0,85.0
-130.0,,12.17,right handed,peking university,control,113.0,2081754.0,91.0
-129.0,,9.92,right handed,peking university,control,125.0,2106109.0,115.0
-119.0,,11.67,right handed,peking university,control,115.0,2123983.0,108.0
-101.0,,9.83,right handed,peking university,adhd-combined,108.0,2174595.0,114.0
-97.0,,10.33,right handed,peking university,adhd-inattentive,100.0,2196753.0,103.0
-115.0,,11.83,right handed,peking university,control,117.0,2240562.0,115.0
-113.0,,12.0,right handed,peking university,control,113.0,2249443.0,111.0
-128.0,,11.25,right handed,peking university,control,128.0,2266806.0,123.0
-92.0,,12.08,right handed,peking university,adhd-combined,90.0,2367157.0,89.0
-130.0,,13.08,right handed,peking university,control,133.0,2408774.0,129.0
-128.0,,14.08,right handed,peking university,control,117.0,2427408.0,101.0
-115.0,,13.33,left handed,peking university,control,118.0,2535087.0,118.0
-119.0,,8.92,right handed,peking university,control,111.0,2538839.0,100.0
-96.0,,12.58,right handed,peking university,adhd-inattentive,87.0,2697768.0,80.0
-123.0,,11.5,right handed,peking university,control,124.0,2703336.0,120.0
-101.0,,10.0,right handed,peking university,control,101.0,2714224.0,100.0
-138.0,,10.42,right handed,peking university,control,141.0,2833684.0,135.0
-113.0,,9.17,right handed,peking university,adhd-inattentive,99.0,2897046.0,83.0
-130.0,,13.83,right handed,peking university,adhd-inattentive,128.0,2910270.0,120.0
-116.0,,14.0,right handed,peking university,control,108.0,3004580.0,97.0
-121.0,,11.5,right handed,peking university,control,125.0,3086074.0,124.0
-119.0,,12.17,right handed,peking university,control,118.0,3212536.0,114.0
-112.0,,10.42,right handed,peking university,control,115.0,3233028.0,115.0
-142.0,,9.25,right handed,peking university,control,128.0,3239413.0,104.0
-134.0,,9.75,right handed,peking university,control,141.0,3262042.0,139.0
-125.0,,12.08,right handed,peking university,control,122.0,3269608.0,114.0
-104.0,,8.58,right handed,peking university,control,109.0,3306863.0,114.0
-112.0,,10.33,right handed,peking university,adhd-inattentive,83.0,3390312.0,54.0
-125.0,,10.75,right handed,peking university,control,131.0,3554582.0,132.0
-121.0,,9.92,right handed,peking university,control,131.0,3587000.0,136.0
-126.0,,10.0,right handed,peking university,control,109.0,3593327.0,86.0
-133.0,,8.42,right handed,peking university,control,117.0,3672854.0,95.0
-92.0,,10.42,right handed,peking university,control,86.0,3707771.0,82.0
-117.0,,10.42,right handed,peking university,control,107.0,3732101.0,94.0
-104.0,,10.83,right handed,peking university,control,108.0,3739175.0,111.0
-116.0,,9.08,right handed,peking university,control,112.0,3809753.0,111.0
-126.0,,11.92,right handed,peking university,control,120.0,3889095.0,108.0
-116.0,,13.42,right handed,peking university,control,119.0,3967265.0,118.0
-123.0,,11.0,right handed,peking university,adhd-combined,110.0,3976121.0,94.0
-76.0,,9.67,right handed,peking university,adhd-combined,87.0,3983607.0,103.0
-105.0,,9.25,right handed,peking university,adhd-inattentive,98.0,4028266.0,91.0
-144.0,,9.92,right handed,peking university,control,143.0,4053836.0,132.0
-101.0,,12.17,right handed,peking university,adhd-inattentive,98.0,4091983.0,94.0
-109.0,,10.5,right handed,peking university,adhd-combined,106.0,4095748.0,101.0
-99.0,,12.0,right handed,peking university,control,106.0,4256491.0,112.0
-97.0,,14.58,right handed,peking university,adhd-inattentive,99.0,4334113.0,101.0
-101.0,,9.67,right handed,peking university,control,102.0,4383707.0,103.0
-121.0,,9.58,right handed,peking university,control,120.0,4475709.0,114.0
-140.0,,9.58,right handed,peking university,control,137.0,4921428.0,126.0
-90.0,,15.92,right handed,peking university,adhd-inattentive,86.0,5150328.0,85.0
-86.0,,9.0,right handed,peking university,adhd-inattentive,81.0,5193577.0,80.0
-121.0,,11.92,right handed,peking university,control,123.0,5600820.0,120.0
-107.0,,9.92,right handed,peking university,control,117.0,6187322.0,124.0
-130.0,,11.42,right handed,peking university,control,132.0,7093319.0,127.0
-100.0,,13.92,right handed,peking university,control,85.0,7135128.0,71.0
-105.0,,17.33,right handed,peking university,adhd-inattentive,105.0,7390867.0,104.0
-88.0,,13.75,right handed,peking university,control,81.0,8328877.0,77.0
-91.0,,14.25,right handed,peking university,control,100.0,8838009.0,111.0
-123.0,,11.58,right handed,peking university,control,119.0,9093997.0,111.0
-97.0,,9.25,right handed,peking university,adhd-inattentive,93.0,9210521.0,89.0
-129.0,,11.83,right handed,peking university,control,128.0,9221927.0,120.0
-128.0,,12.75,right handed,peking university,control,130.0,9783279.0,126.0
-128.0,,11.33,right handed,peking university,control,135.0,9887336.0,135.0
-125.0,,9.25,right handed,peking university,control,117.0,9890726.0,103.0
-109.0,,14.92,right handed,peking university,adhd-inattentive,107.0,,103.0
-115.0,,12.33,right handed,peking university,adhd-inattentive,110.0,,103.0
-121.0,,8.58,right handed,peking university,control,106.0,,88.0
-119.0,,8.08,right handed,peking university,control,114.0,,106.0
-124.0,,9.92,right handed,peking university,control,102.0,,76.0
-141.0,,9.75,right handed,peking university,control,144.0,,138.0
-111.0,,8.83,right handed,peking university,control,118.0,,123.0
-136.0,,8.92,right handed,peking university,adhd-inattentive,116.0,,89.0
-140.0,,11.67,right handed,peking university,control,131.0,,114.0
-117.0,,8.83,right handed,peking university,control,114.0,,108.0
-112.0,,9.08,right handed,peking university,adhd-inattentive,98.0,,83.0
-126.0,,11.92,right handed,peking university,control,121.0,,111.0
-146.0,,11.92,right handed,peking university,control,140.0,,124.0
-117.0,,10.33,right handed,peking university,adhd-combined,109.0,,98.0
-109.0,,13.75,right handed,peking university,control,108.0,,104.0
-117.0,,15.17,right handed,peking university,control,109.0,,98.0
-112.0,,9.5,right handed,peking university,control,111.0,,108.0
-111.0,,10.17,right handed,peking university,control,117.0,,120.0
-103.0,,9.58,right handed,peking university,adhd-inattentive,102.0,,100.0
-109.0,,10.0,right handed,peking university,adhd-inattentive,113.0,,115.0
-107.0,,9.75,right handed,peking university,control,101.0,,94.0
-99.0,,8.92,right handed,peking university,control,84.0,,71.0
-113.0,,13.75,right handed,peking university,control,109.0,,103.0
-83.0,,8.83,right handed,peking university,adhd-inattentive,82.0,,85.0
-133.0,,8.33,right handed,peking university,control,128.0,,115.0
-141.0,,8.92,right handed,peking university,control,124.0,,100.0
-134.0,,10.0,right handed,peking university,control,128.0,,115.0
-101.0,,14.0,right handed,peking university,adhd-combined,98.0,,94.0
-90.0,,13.0,right handed,peking university,adhd-inattentive,97.0,,106.0
-109.0,,8.5,right handed,peking university,control,116.0,,120.0
-121.0,,11.92,right handed,peking university,control,120.0,,114.0
-128.0,,8.75,right handed,peking university,adhd-combined,109.0,,85.0
-104.0,,11.0,right handed,peking university,adhd-inattentive,108.0,,111.0
-111.0,,9.33,right handed,peking university,adhd-combined,111.0,,109.0
-126.0,,10.67,right handed,peking university,control,120.0,,109.0
-126.0,,8.33,right handed,peking university,control,114.0,,97.0
-141.0,,9.83,right handed,peking university,adhd-combined,131.0,,112.0
-100.0,,13.33,right handed,peking university,adhd-inattentive,99.0,,98.0
-115.0,,13.17,right handed,peking university,adhd-inattentive,109.0,,100.0
-140.0,,9.83,right handed,peking university,adhd-combined,142.0,,135.0
-108.0,,12.58,right handed,peking university,adhd-hyperactive,107.0,,104.0
-130.0,,8.58,right handed,peking university,control,118.0,,100.0
-112.0,,8.33,right handed,peking university,adhd-inattentive,109.0,,104.0
-112.0,,12.92,right handed,peking university,adhd-combined,108.0,,101.0
-136.0,,9.17,,peking university,control,121.0,,100.0
-146.0,,11.5,right handed,peking university,control,134.0,,112.0
-97.0,,12.42,right handed,peking university,adhd-combined,86.0,,76.0
-113.0,,9.17,right handed,peking university,control,113.0,,111.0
-108.0,,12.67,right handed,peking university,adhd-inattentive,102.0,,94.0
-134.0,,12.5,right handed,peking university,adhd-inattentive,128.0,,114.0
-117.0,,9.5,right handed,peking university,adhd-combined,113.0,,104.0
-109.0,,17.01,right handed,university of pittsburg,control,116.0,16058.0,129.0
-116.0,,14.99,right handed,university of pittsburg,control,117.0,16046.0,129.0
-122.0,,17.16,right handed,university of pittsburg,control,113.0,16060.0,119.0
-109.0,,15.56,right handed,university of pittsburg,control,103.0,16048.0,102.0
-99.0,,13.11,right handed,university of pittsburg,control,88.0,16029.0,99.0
-108.0,,20.45,right handed,university of pittsburg,control,115.0,16089.0,125.0
-95.0,,10.49,right handed,university of pittsburg,control,104.0,16004.0,105.0
-110.0,,18.72,right handed,university of pittsburg,control,124.0,16078.0,119.0
-119.0,,18.48,right handed,university of pittsburg,control,128.0,16073.0,126.0
-108.0,,18.93,right handed,university of pittsburg,control,95.0,16086.0,102.0
-125.0,,18.43,right handed,university of pittsburg,control,123.0,16072.0,103.0
-117.0,,19.66,right handed,university of pittsburg,control,120.0,16088.0,118.0
-105.0,,11.41,right handed,university of pittsburg,control,109.0,16012.0,118.0
-108.0,,18.52,right handed,university of pittsburg,control,105.0,16075.0,99.0
-80.0,,14.82,right handed,university of pittsburg,control,88.0,16041.0,107.0
--999.0,,18.8,right handed,university of pittsburg,control,121.0,16080.0,-999.0
--999.0,,18.96,right handed,university of pittsburg,control,113.0,16087.0,-999.0
-103.0,,12.65,right handed,university of pittsburg,control,117.0,16024.0,109.0
-105.0,,14.85,right handed,university of pittsburg,control,107.0,16043.0,115.0
--999.0,,10.76,right handed,university of pittsburg,control,78.0,16006.0,-999.0
-110.0,,18.9,right handed,university of pittsburg,control,118.0,16084.0,118.0
--999.0,,18.85,right handed,university of pittsburg,control,118.0,16082.0,-999.0
-105.0,,13.87,right handed,university of pittsburg,control,109.0,16034.0,114.0
-113.0,,11.71,right handed,university of pittsburg,control,108.0,16016.0,119.0
-141.0,,10.57,right handed,university of pittsburg,control,128.0,16005.0,127.0
-88.0,,10.11,right handed,university of pittsburg,control,106.0,16001.0,131.0
--999.0,,11.75,right handed,university of pittsburg,control,111.0,16017.0,-999.0
-112.0,,12.88,right handed,university of pittsburg,control,109.0,16026.0,93.0
-109.0,,14.15,right handed,university of pittsburg,control,117.0,16037.0,129.0
-126.0,,15.92,right handed,university of pittsburg,control,120.0,16053.0,116.0
--999.0,,15.78,right handed,university of pittsburg,control,108.0,16050.0,-999.0
-116.0,,14.57,right handed,university of pittsburg,control,110.0,16039.0,100.0
-88.0,,11.53,right handed,university of pittsburg,control,113.0,16013.0,126.0
--999.0,,17.91,left handed,university of pittsburg,control,96.0,16067.0,-999.0
-122.0,,13.53,right handed,university of pittsburg,control,124.0,16031.0,116.0
-116.0,,13.97,right handed,university of pittsburg,control,107.0,16036.0,92.0
-98.0,,12.47,right handed,university of pittsburg,control,102.0,16022.0,114.0
-88.0,,14.85,right handed,university of pittsburg,control,82.0,16044.0,81.0
-100.0,,17.46,right handed,university of pittsburg,control,101.0,16063.0,111.0
-98.0,,14.24,right handed,university of pittsburg,control,91.0,16038.0,107.0
--999.0,,18.31,right handed,university of pittsburg,control,92.0,16070.0,-999.0
--999.0,,17.23,right handed,university of pittsburg,control,90.0,16061.0,-999.0
-107.0,,14.84,right handed,university of pittsburg,control,109.0,16042.0,115.0
-105.0,,16.16,right handed,university of pittsburg,control,113.0,16055.0,109.0
-112.0,,15.69,right handed,university of pittsburg,control,102.0,16049.0,96.0
-102.0,,17.13,right handed,university of pittsburg,control,102.0,16059.0,119.0
-105.0,,14.89,right handed,university of pittsburg,control,118.0,16045.0,116.0
-118.0,,11.24,right handed,university of pittsburg,control,123.0,16010.0,131.0
-108.0,,15.15,right handed,university of pittsburg,control,111.0,16047.0,109.0
--999.0,,18.6,right handed,university of pittsburg,control,125.0,16076.0,-999.0
-119.0,,18.14,right handed,university of pittsburg,control,118.0,16069.0,118.0
-106.0,,17.86,right handed,university of pittsburg,control,107.0,16066.0,105.0
--999.0,,17.44,right handed,university of pittsburg,control,112.0,16062.0,-999.0
--999.0,,18.72,right handed,university of pittsburg,control,113.0,16077.0,-999.0
-110.0,,15.91,right handed,university of pittsburg,control,106.0,16052.0,116.0
--999.0,,17.49,right handed,university of pittsburg,control,109.0,16064.0,-999.0
--999.0,,12.91,right handed,university of pittsburg,control,123.0,16027.0,-999.0
-112.0,,11.12,right handed,university of pittsburg,control,109.0,16009.0,109.0
--999.0,,16.28,right handed,university of pittsburg,control,102.0,16056.0,-999.0
--999.0,,17.96,right handed,university of pittsburg,control,131.0,16068.0,-999.0
-115.0,,12.12,right handed,university of pittsburg,control,118.0,16018.0,103.0
--999.0,,18.49,right handed,university of pittsburg,control,118.0,16074.0,-999.0
--999.0,,18.9,right handed,university of pittsburg,control,113.0,16085.0,-999.0
--999.0,,18.33,right handed,university of pittsburg,control,111.0,16071.0,-999.0
--999.0,,11.03,right handed,university of pittsburg,control,130.0,16008.0,-999.0
--999.0,,12.71,right handed,university of pittsburg,control,99.0,16025.0,-999.0
--999.0,,13.68,right handed,university of pittsburg,control,99.0,16033.0,-999.0
--999.0,,13.03,right handed,university of pittsburg,control,111.0,16028.0,-999.0
--999.0,,10.93,right handed,university of pittsburg,control,108.0,16007.0,-999.0
--999.0,,13.44,right handed,university of pittsburg,control,96.0,16030.0,-999.0
--999.0,,12.41,right handed,university of pittsburg,control,133.0,16021.0,-999.0
--999.0,,18.86,right handed,university of pittsburg,control,133.0,16083.0,-999.0
--999.0,,12.35,right handed,university of pittsburg,control,131.0,16020.0,-999.0
--999.0,,11.69,right handed,university of pittsburg,control,103.0,16014.0,-999.0
--999.0,,18.74,left handed,university of pittsburg,control,119.0,16079.0,-999.0
--999.0,,15.88,right handed,university of pittsburg,control,99.0,16051.0,-999.0
-108.0,,14.63,right handed,university of pittsburg,control,108.0,16040.0,117.0
--999.0,,12.23,right handed,university of pittsburg,control,89.0,16019.0,-999.0
--999.0,,17.84,right handed,university of pittsburg,control,108.0,16065.0,-999.0
--999.0,,18.81,right handed,university of pittsburg,control,103.0,16081.0,-999.0
--999.0,,13.65,left handed,university of pittsburg,control,105.0,16032.0,-999.0
--999.0,,10.46,right handed,university of pittsburg,control,114.0,16003.0,-999.0
--999.0,,11.28,right handed,university of pittsburg,control,105.0,16011.0,-999.0
--999.0,,16.74,right handed,university of pittsburg,control,90.0,16057.0,-999.0
--999.0,,11.7,right handed,university of pittsburg,control,108.0,16015.0,-999.0
--999.0,,13.94,right handed,university of pittsburg,control,113.0,16035.0,-999.0
-113.0,,12.51,left handed,university of pittsburg,control,107.0,16023.0,105.0
--999.0,,16.05,right handed,university of pittsburg,control,105.0,16054.0,-999.0
--999.0,,10.16,right handed,university of pittsburg,control,120.0,16002.0,-999.0
+verbal iq,sex,age,handedness,site_id,diagnosis,full iq,participant_id,performance iq,project
+133.0,Male,16.92,right handed,brown university,,120.0,26001,104.0,adhd200
+106.0,Male,15.68,right handed,brown university,,107.0,26002,106.0,adhd200
+119.0,Female,14.99,right handed,brown university,,125.0,26004,123.0,adhd200
+116.0,Female,15.16,right handed,brown university,,126.0,26005,131.0,adhd200
+113.0,Male,16.91,left handed,brown university,,97.0,26009,81.0,adhd200
+101.0,Female,16.21,right handed,brown university,,102.0,26014,102.0,adhd200
+127.0,Female,15.2,right handed,brown university,,113.0,26015,98.0,adhd200
+120.0,Male,16.07,right handed,brown university,,109.0,26016,96.0,adhd200
+95.0,Female,14.56,right handed,brown university,,89.0,26017,87.0,adhd200
+105.0,Male,17.83,right handed,brown university,,109.0,26022,111.0,adhd200
+89.0,Female,17.77,right handed,brown university,,85.0,26024,83.0,adhd200
+108.0,Female,11.28,right handed,brown university,,106.0,26027,103.0,adhd200
+121.0,Female,14.51,right handed,brown university,,123.0,26030,119.0,adhd200
+125.0,Female,14.19,right handed,brown university,,124.0,26039,117.0,adhd200
+111.0,Female,13.67,right handed,brown university,,102.0,26040,93.0,adhd200
+129.0,Female,13.68,right handed,brown university,,128.0,26041,120.0,adhd200
+106.0,Female,13.82,right handed,brown university,,109.0,26042,110.0,adhd200
+125.0,Female,11.6,right handed,brown university,,129.0,26043,127.0,adhd200
+119.0,Female,9.32,right handed,brown university,,107.0,26044,93.0,adhd200
+109.0,Male,14.67,right handed,brown university,,111.0,26045,109.0,adhd200
+121.0,Female,8.5,right handed,brown university,,121.0,26050,116.0,adhd200
+111.0,Female,17.87,right handed,brown university,,112.0,26052,109.0,adhd200
+123.0,Male,15.79,right handed,brown university,,120.0,26053,111.0,adhd200
+136.0,Female,12.02,right handed,brown university,,125.0,26054,109.0,adhd200
+109.0,Male,17.74,right handed,brown university,,116.0,26055,119.0,adhd200
+114.0,Male,12.0,right handed,brown university,,114.0,26057,110.0,adhd200
+121.0,Female,10.73,right handed,kennedy krieger institute,control,122.0,2371032,119.0,adhd200
+122.0,Female,12.99,right handed,kennedy krieger institute,adhd-combined,106.0,2026113,108.0,adhd200
+85.0,Female,8.12,right handed,kennedy krieger institute,control,89.0,3434578,98.0,adhd200
+85.0,Female,10.81,right handed,kennedy krieger institute,control,97.0,8628223,86.0,adhd200
+89.0,Female,12.65,right handed,kennedy krieger institute,adhd-combined,89.0,1623716,88.0,adhd200
+124.0,Male,12.87,right handed,kennedy krieger institute,control,108.0,1594156,104.0,adhd200
+91.0,Male,9.97,right handed,kennedy krieger institute,control,106.0,2930625,127.0,adhd200
+93.0,Male,11.65,right handed,kennedy krieger institute,adhd-inattentive,88.0,3154996,98.0,adhd200
+93.0,Male,11.95,right handed,kennedy krieger institute,adhd-combined,99.0,3160561,108.0,adhd200
+93.0,Female,10.5,right handed,kennedy krieger institute,adhd-inattentive,94.0,4275075,100.0,adhd200
+95.0,Male,12.66,right handed,kennedy krieger institute,control,100.0,2917777,104.0,adhd200
+130.0,Male,8.87,right handed,kennedy krieger institute,control,120.0,2558999,108.0,adhd200
+99.0,Male,11.09,right handed,kennedy krieger institute,control,85.0,2740232,102.0,adhd200
+121.0,Female,12.36,right handed,kennedy krieger institute,control,110.0,1018959,100.0,adhd200
+96.0,Male,8.33,right handed,kennedy krieger institute,control,106.0,2572285,119.0,adhd200
+102.0,Female,8.67,left handed,kennedy krieger institute,control,115.0,1962503,110.0,adhd200
+110.0,Male,10.09,right handed,kennedy krieger institute,control,105.0,1842819,92.0,adhd200
+138.0,Female,10.36,right handed,kennedy krieger institute,adhd-combined,126.0,1873761,108.0,adhd200
+104.0,Male,9.3,right handed,kennedy krieger institute,control,102.0,3103809,92.0,adhd200
+104.0,Male,12.77,right handed,kennedy krieger institute,control,98.0,3699991,102.0,adhd200
+136.0,Male,9.64,left handed,kennedy krieger institute,control,120.0,1535233,96.0,adhd200
+106.0,Female,9.75,right handed,kennedy krieger institute,control,111.0,4154182,123.0,adhd200
+106.0,Female,8.72,right handed,kennedy krieger institute,adhd-combined,108.0,6453038,106.0,adhd200
+108.0,Female,11.73,right handed,kennedy krieger institute,control,117.0,3486975,121.0,adhd200
+108.0,Female,9.79,right handed,kennedy krieger institute,control,109.0,3912996,110.0,adhd200
+112.0,Male,8.02,left handed,kennedy krieger institute,control,108.0,1686265,119.0,adhd200
+108.0,Male,10.35,right handed,kennedy krieger institute,adhd-combined,102.0,2014113,106.0,adhd200
+116.0,Male,11.04,right handed,kennedy krieger institute,adhd-inattentive,112.0,1996183,123.0,adhd200
+110.0,Male,9.73,right handed,kennedy krieger institute,control,112.0,7129258,108.0,adhd200
+116.0,Male,10.84,right handed,kennedy krieger institute,control,124.0,1779922,137.0,adhd200
+110.0,Male,9.97,right handed,kennedy krieger institute,adhd-hyperactive,113.0,3310328,123.0,adhd200
+104.0,Male,10.09,right handed,kennedy krieger institute,control,96.0,2618929,100.0,adhd200
+112.0,Female,10.6,left handed,kennedy krieger institute,control,115.0,1652369,106.0,adhd200
+112.0,Male,12.43,right handed,kennedy krieger institute,control,101.0,4104523,98.0,adhd200
+112.0,Male,8.62,right handed,kennedy krieger institute,control,121.0,8083695,125.0,adhd200
+112.0,Male,10.69,right handed,kennedy krieger institute,control,104.0,6346605,110.0,adhd200
+112.0,Male,10.3,right handed,kennedy krieger institute,control,109.0,9922944,110.0,adhd200
+87.0,Female,10.44,right handed,kennedy krieger institute,control,98.0,1638334,104.0,adhd200
+108.0,Female,10.78,right handed,kennedy krieger institute,control,105.0,1692275,119.0,adhd200
+114.0,Female,10.38,right handed,kennedy krieger institute,control,95.0,2641332,92.0,adhd200
+114.0,Male,8.34,right handed,kennedy krieger institute,control,107.0,8263351,106.0,adhd200
+119.0,Male,11.84,right handed,kennedy krieger institute,control,134.0,3884955,123.0,adhd200
+119.0,Female,8.92,right handed,kennedy krieger institute,control,119.0,2344857,108.0,adhd200
+119.0,Female,9.62,right handed,kennedy krieger institute,control,111.0,2822304,98.0,adhd200
+119.0,Male,9.75,right handed,kennedy krieger institute,control,114.0,8658218,115.0,adhd200
+119.0,Male,10.15,left handed,kennedy krieger institute,adhd-inattentive,119.0,3119327,125.0,adhd200
+110.0,Male,11.89,right handed,kennedy krieger institute,adhd-combined,86.0,2299519,79.0,adhd200
+121.0,Female,10.55,right handed,kennedy krieger institute,control,132.0,3813783,131.0,adhd200
+136.0,Male,12.47,right handed,kennedy krieger institute,control,119.0,2640795,108.0,adhd200
+121.0,Female,11.02,right handed,kennedy krieger institute,control,115.0,4601682,108.0,adhd200
+121.0,Female,9.12,right handed,kennedy krieger institute,control,109.0,3972472,94.0,adhd200
+108.0,Male,11.66,right handed,kennedy krieger institute,control,114.0,2018106,110.0,adhd200
+116.0,Male,9.62,left handed,kennedy krieger institute,control,115.0,2104012,123.0,adhd200
+124.0,Male,10.82,right handed,kennedy krieger institute,control,98.0,5216908,79.0,adhd200
+99.0,Male,12.98,right handed,kennedy krieger institute,adhd-inattentive,103.0,1019436,115.0,adhd200
+126.0,Female,11.51,right handed,kennedy krieger institute,control,116.0,8432725,102.0,adhd200
+124.0,Male,9.12,right handed,kennedy krieger institute,control,122.0,1043241,108.0,adhd200
+138.0,Male,9.02,right handed,kennedy krieger institute,control,120.0,2554127,121.0,adhd200
+132.0,Female,11.67,right handed,kennedy krieger institute,control,119.0,3713230,106.0,adhd200
+132.0,Male,10.64,right handed,kennedy krieger institute,control,124.0,3902469,112.0,adhd200
+134.0,Male,10.12,right handed,kennedy krieger institute,control,131.0,3972956,127.0,adhd200
+134.0,Male,10.9,right handed,kennedy krieger institute,control,117.0,7415617,106.0,adhd200
+134.0,Female,8.1,right handed,kennedy krieger institute,adhd-combined,134.0,3519022,129.0,adhd200
+128.0,Female,9.67,right handed,kennedy krieger institute,control,120.0,1266183,106.0,adhd200
+100.0,Female,8.91,right handed,kennedy krieger institute,control,109.0,1846346,106.0,adhd200
+140.0,Female,9.24,right handed,kennedy krieger institute,control,122.0,2768273,112.0,adhd200
+142.0,Male,8.19,right handed,kennedy krieger institute,adhd-combined,126.0,3917422,119.0,adhd200
+146.0,Female,8.99,right handed,kennedy krieger institute,adhd-combined,121.0,4362730,106.0,adhd200
+93.0,Male,8.8,right handed,kennedy krieger institute,adhd-combined,94.0,8337695,112.0,adhd200
+95.0,Male,9.08,left handed,kennedy krieger institute,adhd-combined,89.0,3611827,106.0,adhd200
+106.0,Female,8.45,right handed,kennedy krieger institute,adhd-combined,122.0,1541812,135.0,adhd200
+100.0,Male,9.58,right handed,kennedy krieger institute,control,99.0,2601925,106.0,adhd200
+104.0,Female,11.22,right handed,kennedy krieger institute,control,108.0,7774305,92.0,adhd200
+124.0,Female,8.46,right handed,kennedy krieger institute,control,119.0,2138826,106.0,adhd200
+112.0,Female,9.52,right handed,kennedy krieger institute,adhd-combined,122.0,3170319,125.0,adhd200
+100.0,Male,11.17,right handed,kennedy krieger institute,control,99.0,1988015,108.0,adhd200
+114.0,Female,9.39,ambidextrous,kennedy krieger institute,control,116.0,1735881,102.0,adhd200
+81.0,Female,9.43,right handed,kennedy krieger institute,adhd-combined,88.0,2081148,98.0,adhd200
+119.0,Male,8.56,right handed,kennedy krieger institute,control,113.0,2360428,102.0,adhd200
+121.0,Female,11.91,right handed,kennedy krieger institute,control,126.0,2903997,121.0,adhd200
+124.0,Male,11.1,right handed,kennedy krieger institute,control,109.0,2703289,117.0,adhd200
+100.0,Male,9.06,right handed,kennedy krieger institute,adhd-combined,90.0,1577042,90.0,adhd200
+112.0,Female,8.98,right handed,kennedy krieger institute,control,116.0,2621228,110.0,adhd200
+112.0,Male,7.29,,nyu child study center,control,109.0,1000804,103.0,adhd200
+115.0,Male,8.29,,nyu child study center,adhd-inattentive,123.0,1023964,125.0,adhd200
+131.0,Male,8.78,,nyu child study center,adhd-combined,129.0,1057962,121.0,adhd200
+109.0,Female,8.04,,nyu child study center,adhd-combined,116.0,1099481,120.0,adhd200
+117.0,Female,12.44,,nyu child study center,control,124.0,1127915,126.0,adhd200
+109.0,Male,12.79,,nyu child study center,adhd-combined,129.0,1187766,134.0,adhd200
+122.0,Female,9.57,,nyu child study center,adhd-inattentive,118.0,1208795,109.0,adhd200
+106.0,Male,8.61,,nyu child study center,adhd-combined,107.0,1283494,106.0,adhd200
+131.0,Male,8.59,,nyu child study center,control,122.0,1320247,108.0,adhd200
+131.0,Male,10.76,,nyu child study center,control,138.0,1359325,135.0,adhd200
+102.0,Male,11.92,right handed,nyu child study center,control,111.0,1435954,119.0,adhd200
+106.0,Male,13.32,,nyu child study center,adhd-inattentive,99.0,1471736,91.0,adhd200
+126.0,Male,8.56,,nyu child study center,adhd-combined,125.0,1497055,119.0,adhd200
+110.0,Male,10.12,,nyu child study center,adhd-inattentive,108.0,1511464,104.0,adhd200
+125.0,Male,10.06,,nyu child study center,adhd-combined,125.0,1517240,117.0,adhd200
+117.0,Female,8.91,,nyu child study center,control,125.0,1567356,128.0,adhd200
+93.0,Female,7.68,,nyu child study center,control,97.0,1700637,100.0,adhd200
+126.0,Male,11.24,,nyu child study center,control,130.0,1737393,128.0,adhd200
+108.0,Female,10.26,,nyu child study center,adhd-inattentive,119.0,1740607,128.0,adhd200
+96.0,Male,11.18,,nyu child study center,adhd-combined,107.0,1780174,118.0,adhd200
+112.0,Female,12.99,,nyu child study center,control,105.0,1854959,96.0,adhd200
+85.0,Female,7.17,,nyu child study center,control,90.0,1875084,94.0,adhd200
+91.0,Male,8.91,,nyu child study center,control,100.0,1884448,109.0,adhd200
+115.0,Male,7.55,,nyu child study center,adhd-combined,125.0,1918630,129.0,adhd200
+111.0,Female,8.45,,nyu child study center,control,114.0,1934623,112.0,adhd200
+120.0,Male,7.26,,nyu child study center,adhd-combined,115.0,1992284,106.0,adhd200
+130.0,Male,11.43,right handed,nyu child study center,control,127.0,1995121,119.0,adhd200
+141.0,Male,13.56,,nyu child study center,adhd-combined,131.0,2030383,114.0,adhd200
+101.0,Male,8.11,,nyu child study center,adhd-combined,102.0,2054438,103.0,adhd200
+109.0,Male,10.41,,nyu child study center,adhd-combined,109.0,2107638,106.0,adhd200
+127.0,Male,9.23,,nyu child study center,control,118.0,2136051,106.0,adhd200
+98.0,Male,9.17,,nyu child study center,adhd-combined,95.0,2230510,93.0,adhd200
+108.0,Male,12.07,,nyu child study center,adhd-combined,98.0,2260910,88.0,adhd200
+114.0,Male,11.06,,nyu child study center,adhd-inattentive,105.0,2297413,94.0,adhd200
+115.0,Male,11.53,,nyu child study center,adhd-combined,111.0,2306976,104.0,adhd200
+107.0,Male,11.61,,nyu child study center,adhd-combined,116.0,2497695,123.0,adhd200
+88.0,Male,13.49,right handed,nyu child study center,adhd-combined,84.0,2570769,82.0,adhd200
+106.0,Male,10.78,right handed,nyu child study center,adhd-combined,107.0,2682736,107.0,adhd200
+107.0,Female,10.21,,nyu child study center,control,94.0,2730704,83.0,adhd200
+122.0,Male,11.42,,nyu child study center,control,127.0,2735617,126.0,adhd200
+118.0,Male,8.53,,nyu child study center,adhd-combined,114.0,2741068,107.0,adhd200
+98.0,Female,8.38,,nyu child study center,adhd-inattentive,109.0,2773205,120.0,adhd200
+123.0,Male,10.69,,nyu child study center,adhd-inattentive,134.0,2821683,137.0,adhd200
+116.0,Female,9.17,,nyu child study center,adhd-inattentive,124.0,2854839,126.0,adhd200
+111.0,Female,12.24,,nyu child study center,control,109.0,2907383,105.0,adhd200
+99.0,Male,11.28,right handed,nyu child study center,adhd-combined,97.0,2950672,95.0,adhd200
+108.0,Female,12.28,,nyu child study center,adhd-inattentive,107.0,2983819,103.0,adhd200
+115.0,Male,8.3,,nyu child study center,control,118.0,2991307,117.0,adhd200
+137.0,Male,12.62,,nyu child study center,adhd-inattentive,132.0,2996531,119.0,adhd200
+115.0,Female,11.56,,nyu child study center,control,103.0,3011311,91.0,adhd200
+120.0,Male,11.91,right handed,nyu child study center,control,121.0,3163200,117.0,adhd200
+109.0,Male,8.49,,nyu child study center,adhd-combined,99.0,3174224,88.0,adhd200
+123.0,Female,8.61,,nyu child study center,adhd-combined,117.0,3235580,107.0,adhd200
+100.0,Female,8.56,,nyu child study center,control,99.0,3243657,99.0,adhd200
+104.0,Female,10.21,,nyu child study center,adhd-inattentive,100.0,3349205,97.0,adhd200
+121.0,Male,12.59,,nyu child study center,control,124.0,3349423,120.0,adhd200
+107.0,Male,10.36,,nyu child study center,adhd-combined,102.0,3433846,97.0,adhd200
+135.0,Male,9.26,right handed,nyu child study center,adhd-inattentive,128.0,3441455,116.0,adhd200
+123.0,Female,7.86,,nyu child study center,adhd-combined,128.0,3457975,126.0,adhd200
+119.0,Female,7.67,,nyu child study center,control,124.0,3518345,126.0,adhd200
+98.0,Female,8.05,right handed,nyu child study center,adhd-combined,107.0,3542588,94.0,adhd200
+99.0,Female,9.24,,nyu child study center,adhd-combined,88.0,3601861,82.0,adhd200
+106.0,Male,7.49,,nyu child study center,adhd-combined,103.0,3619797,100.0,adhd200
+99.0,Female,13.25,,nyu child study center,control,100.0,3650634,101.0,adhd200
+106.0,Male,9.38,,nyu child study center,adhd-combined,106.0,3653737,104.0,adhd200
+90.0,Female,12.45,,nyu child study center,control,98.0,3662296,104.0,adhd200
+114.0,Male,11.97,right handed,nyu child study center,adhd-combined,102.0,3679455,89.0,adhd200
+117.0,Male,8.19,,nyu child study center,control,110.0,3845761,102.0,adhd200
+134.0,Female,9.27,,nyu child study center,control,116.0,3999344,98.0,adhd200
+85.0,Male,11.8,,nyu child study center,adhd-inattentive,95.0,4060823,107.0,adhd200
+119.0,Male,10.19,,nyu child study center,control,115.0,4079254,106.0,adhd200
+110.0,Female,7.63,,nyu child study center,control,111.0,4084645,108.0,adhd200
+99.0,Male,9.32,,nyu child study center,adhd-combined,95.0,4095229,92.0,adhd200
+122.0,Female,10.81,,nyu child study center,adhd-combined,108.0,4116166,93.0,adhd200
+118.0,Male,9.23,,nyu child study center,adhd-combined,119.0,4154672,117.0,adhd200
+92.0,Male,10.69,,nyu child study center,control,80.0,4164316,72.0,adhd200
+105.0,Male,13.28,,nyu child study center,adhd-combined,109.0,4187857,111.0,adhd200
+112.0,Female,7.91,,nyu child study center,control,109.0,4562206,104.0,adhd200
+108.0,Female,13.22,,nyu child study center,control,104.0,4827048,99.0,adhd200
+117.0,Female,10.16,,nyu child study center,adhd-combined,115.0,5164727,109.0,adhd200
+101.0,Male,7.24,,nyu child study center,adhd-combined,94.0,5971050,88.0,adhd200
+85.0,Female,11.56,,nyu child study center,control,80.0,6206397,79.0,adhd200
+102.0,Female,8.1,,nyu child study center,control,101.0,6568351,99.0,adhd200
+101.0,Female,11.33,,nyu child study center,adhd-inattentive,109.0,8009688,116.0,adhd200
+108.0,Female,11.79,,nyu child study center,control,102.0,8415034,95.0,adhd200
+120.0,Male,12.25,,nyu child study center,control,123.0,8692452,127.0,adhd200
+97.0,Male,9.92,,nyu child study center,adhd-combined,101.0,8697774,106.0,adhd200
+106.0,Male,8.8,,nyu child study center,control,106.0,8834383,103.0,adhd200
+136.0,Male,10.7,right handed,nyu child study center,adhd-combined,134.0,8915162,124.0,adhd200
+95.0,Male,10.92,right handed,nyu child study center,adhd-combined,95.0,9326955,96.0,adhd200
+143.0,Female,8.26,,nyu child study center,control,134.0,9578663,117.0,adhd200
+103.0,Male,10.74,,nyu child study center,control,113.0,9750701,121.0,adhd200
+130.0,Male,9.98,,nyu child study center,adhd-inattentive,132.0,9907452,127.0,adhd200
+106.0,Female,11.17,,nyu child study center,adhd-inattentive,99.0,10001,91.0,adhd200
+107.0,Female,9.29,,nyu child study center,control,100.0,10003,93.0,adhd200
+,Female,13.75,,nyu child study center,control,,10004,,adhd200
+98.0,Male,11.92,,nyu child study center,adhd-hyperactive,108.0,10005,118.0,adhd200
+87.0,Male,8.7,,nyu child study center,adhd-combined,80.0,10016,78.0,adhd200
+112.0,Male,12.1,,nyu child study center,control,107.0,10009,99.0,adhd200
+141.0,Male,11.32,,nyu child study center,control,142.0,10010,133.0,adhd200
+102.0,Female,12.41,,nyu child study center,adhd-combined,100.0,10012,97.0,adhd200
+89.0,Male,11.54,,nyu child study center,adhd-combined,94.0,10018,100.0,adhd200
+105.0,Female,8.37,,nyu child study center,adhd-combined,95.0,10020,86.0,adhd200
+112.0,Female,12.54,,nyu child study center,control,109.0,10021,105.0,adhd200
+108.0,Male,12.12,,nyu child study center,adhd-combined,105.0,10022,100.0,adhd200
+104.0,Male,13.42,,nyu child study center,control,105.0,10023,105.0,adhd200
+99.0,Male,9.42,right handed,nyu child study center,adhd-inattentive,92.0,10028,87.0,adhd200
+100.0,Male,12.41,,nyu child study center,adhd-inattentive,103.0,10030,105.0,adhd200
+142.0,Female,12.79,,nyu child study center,control,140.0,10038,129.0,adhd200
+99.0,Female,10.86,,nyu child study center,control,106.0,10034,111.0,adhd200
+97.0,Female,11.87,,nyu child study center,control,85.0,10031,77.0,adhd200
+91.0,Male,11.1,right handed,nyu child study center,adhd-combined,89.0,10032,91.0,adhd200
+109.0,Male,8.95,,nyu child study center,adhd-inattentive,109.0,10035,106.0,adhd200
+100.0,Male,10.9,,nyu child study center,adhd-combined,91.0,10037,85.0,adhd200
+93.0,Male,13.28,,nyu child study center,control,87.0,10039,86.0,adhd200
+100.0,Male,10.65,,nyu child study center,adhd-combined,108.0,10042,115.0,adhd200
+98.0,,9.81,,nyu child study center,adhd-combined,108.0,10044,119.0,adhd200
+119.0,Male,17.43,right handed,nyu child study center,adhd-combined,109.0,10050,97.0,adhd200
+109.0,Male,15.4,,nyu child study center,adhd-inattentive,107.0,10051,102.0,adhd200
+83.0,Male,16.31,right handed,nyu child study center,control,81.0,10052,83.0,adhd200
+99.0,Female,15.28,,nyu child study center,control,101.0,10053,103.0,adhd200
+,Male,15.63,,nyu child study center,adhd-inattentive,,10056,,adhd200
+111.0,Male,17.7,,nyu child study center,control,102.0,10057,92.0,adhd200
+121.0,Male,14.2,,nyu child study center,control,109.0,10058,96.0,adhd200
+127.0,Female,17.89,right handed,nyu child study center,control,128.0,10059,124.0,adhd200
+,Male,17.83,,nyu child study center,control,,10054,,adhd200
+97.0,Male,10.86,left handed,nyu child study center,control,91.0,10055,88.0,adhd200
+120.0,Male,14.95,,nyu child study center,adhd-combined,118.0,10048,111.0,adhd200
+93.0,Male,8.75,,nyu child study center,adhd-combined,99.0,10060,104.0,adhd200
+109.0,Male,12.72,,nyu child study center,adhd-combined,122.0,10047,131.0,adhd200
+99.0,Male,11.41,right handed,nyu child study center,adhd-inattentive,101.0,10061,103.0,adhd200
+132.0,Male,16.14,right handed,nyu child study center,adhd-inattentive,122.0,10062,107.0,adhd200
+109.0,Female,15.91,,nyu child study center,control,105.0,10063,99.0,adhd200
+95.0,Male,15.9,,nyu child study center,adhd-combined,101.0,10064,107.0,adhd200
+91.0,Female,14.19,,nyu child study center,control,88.0,10065,89.0,adhd200
+122.0,Female,13.9,,nyu child study center,control,116.0,10066,106.0,adhd200
+109.0,Male,13.1,,nyu child study center,adhd-inattentive,115.0,10067,118.0,adhd200
+,Male,13.3,,nyu child study center,control,,10068,,adhd200
+120.0,Male,16.93,,nyu child study center,control,124.0,10069,120.0,adhd200
+101.0,Male,7.77,right handed,nyu child study center,adhd-inattentive,94.0,10119,88.0,adhd200
+122.0,Female,16.08,,nyu child study center,adhd-combined,115.0,10109,105.0,adhd200
+99.0,Female,16.08,,nyu child study center,control,99.0,10110,97.0,adhd200
+108.0,Male,7.74,,nyu child study center,control,98.0,10111,88.0,adhd200
+133.0,Male,9.75,,nyu child study center,control,124.0,10046,109.0,adhd200
+116.0,Male,14.79,,nyu child study center,control,112.0,10112,106.0,adhd200
+104.0,Male,17.37,,nyu child study center,adhd-inattentive,102.0,10107,99.0,adhd200
+116.0,Male,14.81,,nyu child study center,adhd-combined,120.0,10019,119.0,adhd200
+99.0,Female,8.03,,nyu child study center,control,86.0,10077,77.0,adhd200
+113.0,Male,8.19,,nyu child study center,adhd-combined,121.0,10078,125.0,adhd200
+96.0,Male,15.27,,nyu child study center,control,104.0,10079,110.0,adhd200
+106.0,Female,17.86,,nyu child study center,control,106.0,10080,103.0,adhd200
+113.0,Female,14.48,,nyu child study center,control,111.0,10008,106.0,adhd200
+99.0,Female,7.55,,nyu child study center,control,99.0,10014,98.0,adhd200
+107.0,Female,14.87,,nyu child study center,control,107.0,10089,106.0,adhd200
+96.0,Male,16.32,right handed,nyu child study center,adhd-combined,94.0,10090,93.0,adhd200
+77.0,Male,8.93,right handed,nyu child study center,adhd-combined,83.0,10091,93.0,adhd200
+113.0,Male,17.3,,nyu child study center,control,109.0,10092,104.0,adhd200
+109.0,Male,12.49,,nyu child study center,control,126.0,10045,137.0,adhd200
+,Female,15.21,,nyu child study center,control,,10093,,adhd200
+,Female,15.21,,nyu child study center,control,,10094,,adhd200
+81.0,Male,14.39,,nyu child study center,adhd-combined,81.0,10095,84.0,adhd200
+119.0,Male,14.94,,nyu child study center,adhd-inattentive,113.0,10096,104.0,adhd200
+119.0,Female,14.38,,nyu child study center,control,123.0,10097,120.0,adhd200
+101.0,Male,7.6,,nyu child study center,adhd-combined,100.0,10098,98.0,adhd200
+120.0,Female,9.96,,nyu child study center,control,110.0,10099,99.0,adhd200
+121.0,Male,16.88,,nyu child study center,control,125.0,10100,123.0,adhd200
+107.0,Male,14.2,,nyu child study center,adhd-combined,92.0,10101,79.0,adhd200
+88.0,Male,16.55,,nyu child study center,control,91.0,10102,96.0,adhd200
+116.0,Female,17.15,,nyu child study center,adhd-inattentive,115.0,10108,115.0,adhd200
+65.0,Female,13.24,,nyu child study center,adhd-inattentive,75.0,10002,89.0,adhd200
+102.0,Female,9.16,,nyu child study center,adhd-inattentive,106.0,10011,107.0,adhd200
+111.0,Female,14.91,,nyu child study center,control,113.0,10113,110.0,adhd200
+,Male,16.73,,nyu child study center,control,,10114,,adhd200
+98.0,Male,15.32,,nyu child study center,adhd-inattentive,93.0,10115,89.0,adhd200
+117.0,Female,11.18,,nyu child study center,control,101.0,10006,87.0,adhd200
+95.0,Female,7.43,,nyu child study center,adhd-inattentive,99.0,10105,103.0,adhd200
+114.0,Male,8.26,,nyu child study center,control,112.0,10024,107.0,adhd200
+119.0,Male,11.21,,nyu child study center,adhd-inattentive,129.0,10015,133.0,adhd200
+106.0,Male,11.82,,nyu child study center,adhd-inattentive,99.0,10106,91.0,adhd200
+115.0,Male,16.77,,nyu child study center,adhd-inattentive,114.0,10116,109.0,adhd200
+95.0,Male,9.35,,nyu child study center,control,99.0,10117,103.0,adhd200
+89.0,Male,13.33,right handed,nyu child study center,adhd-combined,84.0,10118,83.0,adhd200
+,Female,17.09,,nyu child study center,control,,10120,,adhd200
+132.0,Male,11.73,,nyu child study center,adhd-combined,131.0,10026,123.0,adhd200
+108.0,Female,14.18,,nyu child study center,control,117.0,10121,124.0,adhd200
+122.0,Male,16.28,,nyu child study center,control,125.0,10122,120.0,adhd200
+109.0,Male,16.13,,nyu child study center,control,109.0,10123,106.0,adhd200
+141.0,Male,11.4,,nyu child study center,control,142.0,10082,133.0,adhd200
+92.0,Male,8.06,,nyu child study center,adhd-combined,88.0,10074,88.0,adhd200
+77.0,Male,11.09,,nyu child study center,adhd-inattentive,73.0,10075,72.0,adhd200
+118.0,Female,15.95,,nyu child study center,control,113.0,10076,106.0,adhd200
+106.0,Male,9.59,,nyu child study center,adhd-combined,106.0,10103,104.0,adhd200
+,Female,15.81,,nyu child study center,adhd-inattentive,,10081,,adhd200
+132.0,Female,14.42,,nyu child study center,control,132.0,10083,124.0,adhd200
+113.0,Female,17.96,,nyu child study center,control,108.0,10084,102.0,adhd200
+82.0,Female,11.37,,nyu child study center,adhd-combined,78.0,10085,79.0,adhd200
+86.0,Female,9.45,,nyu child study center,control,84.0,10036,86.0,adhd200
+109.0,Male,15.83,,nyu child study center,adhd-combined,102.0,10086,93.0,adhd200
+100.0,Male,8.28,,nyu child study center,adhd-combined,96.0,10027,92.0,adhd200
+82.0,Male,17.61,,nyu child study center,adhd-inattentive,95.0,10087,108.0,adhd200
+109.0,Male,8.75,,nyu child study center,adhd-combined,99.0,10025,88.0,adhd200
+126.0,Female,13.09,,nyu child study center,adhd-combined,127.0,10029,121.0,adhd200
+98.0,Male,12.38,,nyu child study center,adhd-combined,94.0,10017,90.0,adhd200
+115.0,Male,7.35,,nyu child study center,adhd-combined,106.0,10049,96.0,adhd200
+111.0,Male,10.52,,nyu child study center,control,105.0,10070,97.0,adhd200
+80.0,Male,14.09,,nyu child study center,adhd-inattentive,83.0,10071,88.0,adhd200
+104.0,Male,10.97,,nyu child study center,adhd-inattentive,100.0,10033,97.0,adhd200
+108.0,Male,7.25,,nyu child study center,adhd-combined,109.0,10072,107.0,adhd200
+88.0,Male,14.46,,nyu child study center,adhd-combined,82.0,10073,79.0,adhd200
+127.0,Male,13.35,,nyu child study center,adhd-inattentive,123.0,10104,114.0,adhd200
+115.0,Male,14.66,,nyu child study center,control,126.0,10088,132.0,adhd200
+141.0,Male,9.94,,nyu child study center,adhd-combined,133.0,10040,117.0,adhd200
+109.0,Female,14.06,,nyu child study center,control,115.0,10124,119.0,adhd200
+109.0,Male,9.22,,nyu child study center,adhd-hyperactive,105.0,10041,99.0,adhd200
+120.0,Male,7.19,,nyu child study center,control,129.0,10125,131.0,adhd200
+95.0,Female,11.41,,nyu child study center,adhd-inattentive,95.0,10007,93.0,adhd200
+83.0,Male,9.7,,nyu child study center,adhd-combined,88.0,10126,96.0,adhd200
+132.0,Male,8.14,,nyu child study center,adhd-combined,130.0,10127,121.0,adhd200
+112.0,Male,9.53,,nyu child study center,control,127.0,10128,136.0,adhd200
+,Female,8.39,,nyu child study center,adhd-inattentive,,10129,,adhd200
+106.0,Male,9.55,,nyu child study center,adhd-combined,97.0,10013,88.0,adhd200
+125.0,Female,8.16,,nyu child study center,control,112.0,10043,99.0,adhd200
+,Male,11.0,right handed,ohsu,adhd-combined,110.0,1084283,,adhd200
+,Female,9.42,right handed,ohsu,control,106.0,1084884,,adhd200
+,Male,8.5,right handed,ohsu,adhd-combined,116.0,1108916,,adhd200
+,Male,9.17,right handed,ohsu,adhd-inattentive,90.0,1206380,,adhd200
+,Female,7.42,right handed,ohsu,adhd-combined,98.0,1340333,,adhd200
+,Male,8.0,right handed,ohsu,control,134.0,1386056,,adhd200
+,Male,9.17,right handed,ohsu,adhd-combined,112.0,1411223,,adhd200
+,Male,8.67,right handed,ohsu,control,98.0,1418396,,adhd200
+,Male,8.75,right handed,ohsu,control,118.0,1421489,,adhd200
+,Male,11.92,right handed,ohsu,control,116.0,1481430,,adhd200
+,Female,8.58,right handed,ohsu,control,120.0,1502229,,adhd200
+,Female,8.58,right handed,ohsu,adhd-combined,136.0,1536593,,adhd200
+,Male,11.17,right handed,ohsu,control,126.0,1548937,,adhd200
+,Female,9.83,right handed,ohsu,adhd-inattentive,126.0,1552181,,adhd200
+,Female,11.0,right handed,ohsu,control,92.0,1647968,,adhd200
+,Female,9.0,right handed,ohsu,control,144.0,1664335,,adhd200
+,Male,10.33,right handed,ohsu,control,130.0,1679142,,adhd200
+,Female,8.75,right handed,ohsu,control,104.0,1696588,,adhd200
+,Male,8.75,right handed,ohsu,adhd-combined,100.0,1743472,,adhd200
+,Male,8.42,right handed,ohsu,adhd-combined,110.0,2054310,,adhd200
+,Female,7.33,right handed,ohsu,control,108.0,2054998,,adhd200
+,Male,8.25,right handed,ohsu,adhd-combined,132.0,2071989,,adhd200
+,Female,9.33,right handed,ohsu,control,128.0,2124248,,adhd200
+,Female,9.33,right handed,ohsu,control,124.0,2155356,,adhd200
+,Female,10.33,right handed,ohsu,control,110.0,2232376,,adhd200
+,Male,9.17,right handed,ohsu,control,104.0,2232413,,adhd200
+,Male,7.42,right handed,ohsu,adhd-combined,120.0,2288903,,adhd200
+,Male,8.0,right handed,ohsu,adhd-combined,90.0,2292940,,adhd200
+,Male,7.67,right handed,ohsu,control,128.0,2409220,,adhd200
+,Male,8.58,right handed,ohsu,adhd-inattentive,112.0,2415970,,adhd200
+,Female,7.92,right handed,ohsu,control,120.0,2426523,,adhd200
+,Female,8.08,right handed,ohsu,control,137.0,2427434,,adhd200
+,Male,7.5,right handed,ohsu,adhd-combined,86.0,2455205,,adhd200
+,Male,8.42,right handed,ohsu,adhd-combined,116.0,2535204,,adhd200
+,Male,7.92,right handed,ohsu,adhd-inattentive,98.0,2559559,,adhd200
+,Male,8.67,right handed,ohsu,adhd-combined,98.0,2561174,,adhd200
+,Male,7.67,right handed,ohsu,adhd-combined,102.0,2571197,,adhd200
+,Female,9.5,right handed,ohsu,control,112.0,2578455,,adhd200
+,Male,8.92,right handed,ohsu,adhd-combined,90.0,2620872,,adhd200
+,Female,9.0,right handed,ohsu,adhd-inattentive,112.0,2790141,,adhd200
+,Female,7.67,right handed,ohsu,adhd-inattentive,102.0,2845989,,adhd200
+,Male,7.5,right handed,ohsu,control,120.0,2920716,,adhd200
+,Male,9.58,right handed,ohsu,adhd-hyperactive,124.0,2929195,,adhd200
+,Male,8.5,right handed,ohsu,control,124.0,2947936,,adhd200
+,Female,9.08,right handed,ohsu,control,100.0,2959809,,adhd200
+,Female,11.58,right handed,ohsu,control,110.0,3048401,,adhd200
+,Male,11.75,right handed,ohsu,control,100.0,3051944,,adhd200
+,Male,9.17,right handed,ohsu,adhd-combined,114.0,3052540,,adhd200
+,Male,8.5,right handed,ohsu,control,136.0,3162671,,adhd200
+,Female,8.25,right handed,ohsu,control,122.0,3206978,,adhd200
+,Female,8.67,right handed,ohsu,control,134.0,3212875,,adhd200
+,Male,7.17,right handed,ohsu,control,116.0,3244985,,adhd200
+,Female,8.08,right handed,ohsu,adhd-hyperactive,104.0,3286474,,adhd200
+,Male,9.0,right handed,ohsu,control,120.0,3302025,,adhd200
+,Female,8.5,right handed,ohsu,adhd-combined,108.0,3358877,,adhd200
+,Male,8.08,right handed,ohsu,adhd-combined,108.0,3466651,,adhd200
+,Male,8.5,right handed,ohsu,adhd-combined,104.0,3470141,,adhd200
+,Female,7.83,right handed,ohsu,adhd-combined,126.0,3560456,,adhd200
+,Male,7.67,right handed,ohsu,adhd-inattentive,86.0,3652932,,adhd200
+,Male,8.75,right handed,ohsu,adhd-inattentive,96.0,3677724,,adhd200
+,Female,8.83,right handed,ohsu,adhd-inattentive,120.0,3684229,,adhd200
+,Female,7.83,right handed,ohsu,control,104.0,3812101,,adhd200
+,Female,8.08,right handed,ohsu,control,132.0,3848511,,adhd200
+,Male,8.67,right handed,ohsu,control,126.0,3869075,,adhd200
+,Female,8.25,right handed,ohsu,control,112.0,3899622,,adhd200
+,Male,9.08,right handed,ohsu,adhd-combined,126.0,4016887,,adhd200
+,Female,8.58,right handed,ohsu,control,132.0,4046678,,adhd200
+,Female,9.25,right handed,ohsu,adhd-inattentive,106.0,4072305,,adhd200
+,Female,7.33,right handed,ohsu,control,108.0,4103874,,adhd200
+,Female,8.25,right handed,ohsu,control,114.0,4219416,,adhd200
+,Female,8.42,right handed,ohsu,control,116.0,4529116,,adhd200
+,Male,11.33,right handed,ohsu,adhd-inattentive,114.0,5302451,,adhd200
+,Male,7.58,right handed,ohsu,control,140.0,6592761,,adhd200
+,Male,11.83,right handed,ohsu,adhd-combined,132.0,6953386,,adhd200
+,Male,9.0,right handed,ohsu,adhd-combined,108.0,7333005,,adhd200
+,Female,9.25,right handed,ohsu,control,118.0,8064456,,adhd200
+,Male,8.33,right handed,ohsu,control,104.0,8218392,,adhd200
+,Female,10.33,right handed,ohsu,adhd-inattentive,82.0,8720244,,adhd200
+,Male,8.17,right handed,ohsu,control,126.0,9499804,,adhd200
+,Female,10.42,right handed,ohsu,adhd-combined,104.0,23000,,adhd200
+,Male,9.33,right handed,ohsu,control,96.0,23001,,adhd200
+,Male,10.67,right handed,ohsu,adhd-combined,136.0,23002,,adhd200
+,Male,7.67,right handed,ohsu,adhd-hyperactive,126.0,23003,,adhd200
+,Male,9.33,right handed,ohsu,adhd-combined,103.8,23004,,adhd200
+,Male,11.75,right handed,ohsu,control,104.0,23005,,adhd200
+,Female,9.25,right handed,ohsu,control,114.0,23006,,adhd200
+,Male,11.08,right handed,ohsu,adhd-inattentive,112.0,23007,,adhd200
+,Male,9.17,right handed,ohsu,control,112.0,23008,,adhd200
+,Female,7.67,right handed,ohsu,control,118.0,23010,,adhd200
+,Male,8.92,right handed,ohsu,control,104.0,23011,,adhd200
+,Female,11.33,right handed,ohsu,adhd-combined,120.0,23012,,adhd200
+,Male,10.58,right handed,ohsu,control,94.0,23013,,adhd200
+,Female,10.25,right handed,ohsu,control,143.7,23016,,adhd200
+,Female,12.5,right handed,ohsu,control,112.0,23017,,adhd200
+,Female,9.5,right handed,ohsu,control,100.0,23018,,adhd200
+,Female,8.08,right handed,ohsu,control,132.0,23019,,adhd200
+,Male,11.0,right handed,ohsu,control,122.0,23020,,adhd200
+,Female,9.58,right handed,ohsu,control,98.0,23024,,adhd200
+,Female,8.33,right handed,ohsu,control,98.0,23025,,adhd200
+,Female,8.33,right handed,ohsu,control,106.0,23026,,adhd200
+,Male,11.58,right handed,ohsu,control,100.0,23027,,adhd200
+,Female,9.92,right handed,ohsu,control,117.1,23028,,adhd200
+,Male,8.5,right handed,ohsu,control,120.0,23030,,adhd200
+,Male,11.92,right handed,ohsu,control,126.0,23031,,adhd200
+,Female,8.5,right handed,ohsu,control,120.0,23033,,adhd200
+,Male,9.75,right handed,ohsu,control,105.7,23035,,adhd200
+,Female,9.75,right handed,ohsu,control,128.0,23036,,adhd200
+,Male,9.42,right handed,ohsu,control,108.0,23037,,adhd200
+,Male,9.33,right handed,ohsu,control,124.0,23038,,adhd200
+,Male,11.17,right handed,ohsu,control,114.0,23039,,adhd200
+,Female,7.5,right handed,ohsu,control,126.0,23040,,adhd200
+,Female,9.92,right handed,ohsu,control,128.5,23041,,adhd200
+,Female,8.08,right handed,ohsu,control,98.0,23042,,adhd200
+126.0,Male,13.92,right handed,peking university,control,135.0,1056121,136.0,adhd200
+125.0,Female,14.83,right handed,peking university,control,133.0,1113498,135.0,adhd200
+116.0,Male,12.33,right handed,peking university,adhd-combined,113.0,1133221,108.0,adhd200
+90.0,Female,11.33,right handed,peking university,control,87.0,1139030,86.0,adhd200
+112.0,Male,13.92,right handed,peking university,adhd-inattentive,109.0,1186237,103.0,adhd200
+95.0,Male,9.5,right handed,peking university,adhd-combined,97.0,1240299,100.0,adhd200
+113.0,Female,9.92,right handed,peking university,control,117.0,1258069,117.0,adhd200
+125.0,Male,10.58,right handed,peking university,adhd-inattentive,108.0,1282248,86.0,adhd200
+126.0,Female,8.58,right handed,peking university,control,120.0,1302449,108.0,adhd200
+125.0,Female,9.83,right handed,peking university,control,124.0,1391181,118.0,adhd200
+140.0,Male,11.92,right handed,peking university,control,126.0,1408093,104.0,adhd200
+134.0,Female,11.58,right handed,peking university,control,128.0,1469171,114.0,adhd200
+83.0,Female,10.92,right handed,peking university,adhd-inattentive,88.0,1561488,97.0,adhd200
+112.0,Female,9.67,right handed,peking university,control,113.0,1686092,112.0,adhd200
+132.0,Female,11.75,right handed,peking university,control,128.0,1689948,117.0,adhd200
+130.0,Female,9.33,right handed,peking university,adhd-inattentive,123.0,1791543,108.0,adhd200
+101.0,Female,10.08,right handed,peking university,control,103.0,1805037,104.0,adhd200
+109.0,Female,9.75,right handed,peking university,control,109.0,1875711,106.0,adhd200
+121.0,Male,13.58,right handed,peking university,control,117.0,1879542,108.0,adhd200
+130.0,Female,10.33,right handed,peking university,control,128.0,1912810,118.0,adhd200
+82.0,Male,9.42,right handed,peking university,adhd-inattentive,81.0,1947991,85.0,adhd200
+130.0,Female,12.17,right handed,peking university,control,113.0,2081754,91.0,adhd200
+129.0,Female,9.92,right handed,peking university,control,125.0,2106109,115.0,adhd200
+119.0,Female,11.67,right handed,peking university,control,115.0,2123983,108.0,adhd200
+101.0,Male,9.83,right handed,peking university,adhd-combined,108.0,2174595,114.0,adhd200
+97.0,Male,10.33,right handed,peking university,adhd-inattentive,100.0,2196753,103.0,adhd200
+115.0,Female,11.83,right handed,peking university,control,117.0,2240562,115.0,adhd200
+113.0,Female,12.0,right handed,peking university,control,113.0,2249443,111.0,adhd200
+128.0,Male,11.25,right handed,peking university,control,128.0,2266806,123.0,adhd200
+92.0,Male,12.08,right handed,peking university,adhd-combined,90.0,2367157,89.0,adhd200
+130.0,Female,13.08,right handed,peking university,control,133.0,2408774,129.0,adhd200
+128.0,Female,14.08,right handed,peking university,control,117.0,2427408,101.0,adhd200
+115.0,Male,13.33,left handed,peking university,control,118.0,2535087,118.0,adhd200
+119.0,Female,8.92,right handed,peking university,control,111.0,2538839,100.0,adhd200
+96.0,Female,12.58,right handed,peking university,adhd-inattentive,87.0,2697768,80.0,adhd200
+123.0,Female,11.5,right handed,peking university,control,124.0,2703336,120.0,adhd200
+101.0,Female,10.0,right handed,peking university,control,101.0,2714224,100.0,adhd200
+138.0,Male,10.42,right handed,peking university,control,141.0,2833684,135.0,adhd200
+113.0,Female,9.17,right handed,peking university,adhd-inattentive,99.0,2897046,83.0,adhd200
+130.0,Male,13.83,right handed,peking university,adhd-inattentive,128.0,2910270,120.0,adhd200
+116.0,Male,14.0,right handed,peking university,control,108.0,3004580,97.0,adhd200
+121.0,Male,11.5,right handed,peking university,control,125.0,3086074,124.0,adhd200
+119.0,Male,12.17,right handed,peking university,control,118.0,3212536,114.0,adhd200
+112.0,Female,10.42,right handed,peking university,control,115.0,3233028,115.0,adhd200
+142.0,Female,9.25,right handed,peking university,control,128.0,3239413,104.0,adhd200
+134.0,Female,9.75,right handed,peking university,control,141.0,3262042,139.0,adhd200
+125.0,Male,12.08,right handed,peking university,control,122.0,3269608,114.0,adhd200
+104.0,Female,8.58,right handed,peking university,control,109.0,3306863,114.0,adhd200
+112.0,Male,10.33,right handed,peking university,adhd-inattentive,83.0,3390312,54.0,adhd200
+125.0,Female,10.75,right handed,peking university,control,131.0,3554582,132.0,adhd200
+121.0,Female,9.92,right handed,peking university,control,131.0,3587000,136.0,adhd200
+126.0,Male,10.0,right handed,peking university,control,109.0,3593327,86.0,adhd200
+133.0,Female,8.42,right handed,peking university,control,117.0,3672854,95.0,adhd200
+92.0,Male,10.42,right handed,peking university,control,86.0,3707771,82.0,adhd200
+117.0,Female,10.42,right handed,peking university,control,107.0,3732101,94.0,adhd200
+104.0,Female,10.83,right handed,peking university,control,108.0,3739175,111.0,adhd200
+116.0,Female,9.08,right handed,peking university,control,112.0,3809753,111.0,adhd200
+126.0,Male,11.92,right handed,peking university,control,120.0,3889095,108.0,adhd200
+116.0,Female,13.42,right handed,peking university,control,119.0,3967265,118.0,adhd200
+123.0,Male,11.0,right handed,peking university,adhd-combined,110.0,3976121,94.0,adhd200
+76.0,Male,9.67,right handed,peking university,adhd-combined,87.0,3983607,103.0,adhd200
+105.0,Male,9.25,right handed,peking university,adhd-inattentive,98.0,4028266,91.0,adhd200
+144.0,Female,9.92,right handed,peking university,control,143.0,4053836,132.0,adhd200
+101.0,Female,12.17,right handed,peking university,adhd-inattentive,98.0,4091983,94.0,adhd200
+109.0,Male,10.5,right handed,peking university,adhd-combined,106.0,4095748,101.0,adhd200
+99.0,Female,12.0,right handed,peking university,control,106.0,4256491,112.0,adhd200
+97.0,Male,14.58,right handed,peking university,adhd-inattentive,99.0,4334113,101.0,adhd200
+101.0,Female,9.67,right handed,peking university,control,102.0,4383707,103.0,adhd200
+121.0,Female,9.58,right handed,peking university,control,120.0,4475709,114.0,adhd200
+140.0,Male,9.58,right handed,peking university,control,137.0,4921428,126.0,adhd200
+90.0,Female,15.92,right handed,peking university,adhd-inattentive,86.0,5150328,85.0,adhd200
+86.0,Female,9.0,right handed,peking university,adhd-inattentive,81.0,5193577,80.0,adhd200
+121.0,Female,11.92,right handed,peking university,control,123.0,5600820,120.0,adhd200
+107.0,Female,9.92,right handed,peking university,control,117.0,6187322,124.0,adhd200
+130.0,Male,11.42,right handed,peking university,control,132.0,7093319,127.0,adhd200
+100.0,Female,13.92,right handed,peking university,control,85.0,7135128,71.0,adhd200
+105.0,Male,17.33,right handed,peking university,adhd-inattentive,105.0,7390867,104.0,adhd200
+88.0,Female,13.75,right handed,peking university,control,81.0,8328877,77.0,adhd200
+91.0,Female,14.25,right handed,peking university,control,100.0,8838009,111.0,adhd200
+123.0,Female,11.58,right handed,peking university,control,119.0,9093997,111.0,adhd200
+97.0,Male,9.25,right handed,peking university,adhd-inattentive,93.0,9210521,89.0,adhd200
+129.0,Male,11.83,right handed,peking university,control,128.0,9221927,120.0,adhd200
+128.0,Female,12.75,right handed,peking university,control,130.0,9783279,126.0,adhd200
+128.0,Male,11.33,right handed,peking university,control,135.0,9887336,135.0,adhd200
+125.0,Female,9.25,right handed,peking university,control,117.0,9890726,103.0,adhd200
+109.0,Male,14.92,right handed,peking university,adhd-inattentive,107.0,,103.0,adhd200
+115.0,Male,12.33,right handed,peking university,adhd-inattentive,110.0,,103.0,adhd200
+121.0,Female,8.58,right handed,peking university,control,106.0,,88.0,adhd200
+119.0,Male,8.08,right handed,peking university,control,114.0,,106.0,adhd200
+124.0,Female,9.92,right handed,peking university,control,102.0,,76.0,adhd200
+141.0,Male,9.75,right handed,peking university,control,144.0,,138.0,adhd200
+111.0,Male,8.83,right handed,peking university,control,118.0,,123.0,adhd200
+136.0,Male,8.92,right handed,peking university,adhd-inattentive,116.0,,89.0,adhd200
+140.0,Male,11.67,right handed,peking university,control,131.0,,114.0,adhd200
+117.0,Female,8.83,right handed,peking university,control,114.0,,108.0,adhd200
+112.0,Female,9.08,right handed,peking university,adhd-inattentive,98.0,,83.0,adhd200
+126.0,Female,11.92,right handed,peking university,control,121.0,,111.0,adhd200
+146.0,Female,11.92,right handed,peking university,control,140.0,,124.0,adhd200
+117.0,Male,10.33,right handed,peking university,adhd-combined,109.0,,98.0,adhd200
+109.0,Female,13.75,right handed,peking university,control,108.0,,104.0,adhd200
+117.0,Female,15.17,right handed,peking university,control,109.0,,98.0,adhd200
+112.0,Male,9.5,right handed,peking university,control,111.0,,108.0,adhd200
+111.0,Female,10.17,right handed,peking university,control,117.0,,120.0,adhd200
+103.0,Female,9.58,right handed,peking university,adhd-inattentive,102.0,,100.0,adhd200
+109.0,Male,10.0,right handed,peking university,adhd-inattentive,113.0,,115.0,adhd200
+107.0,Male,9.75,right handed,peking university,control,101.0,,94.0,adhd200
+99.0,Male,8.92,right handed,peking university,control,84.0,,71.0,adhd200
+113.0,Female,13.75,right handed,peking university,control,109.0,,103.0,adhd200
+83.0,Female,8.83,right handed,peking university,adhd-inattentive,82.0,,85.0,adhd200
+133.0,Male,8.33,right handed,peking university,control,128.0,,115.0,adhd200
+141.0,Male,8.92,right handed,peking university,control,124.0,,100.0,adhd200
+134.0,Male,10.0,right handed,peking university,control,128.0,,115.0,adhd200
+101.0,Male,14.0,right handed,peking university,adhd-combined,98.0,,94.0,adhd200
+90.0,Female,13.0,right handed,peking university,adhd-inattentive,97.0,,106.0,adhd200
+109.0,Female,8.5,right handed,peking university,control,116.0,,120.0,adhd200
+121.0,Female,11.92,right handed,peking university,control,120.0,,114.0,adhd200
+128.0,Male,8.75,right handed,peking university,adhd-combined,109.0,,85.0,adhd200
+104.0,Male,11.0,right handed,peking university,adhd-inattentive,108.0,,111.0,adhd200
+111.0,Male,9.33,right handed,peking university,adhd-combined,111.0,,109.0,adhd200
+126.0,Male,10.67,right handed,peking university,control,120.0,,109.0,adhd200
+126.0,Female,8.33,right handed,peking university,control,114.0,,97.0,adhd200
+141.0,Male,9.83,right handed,peking university,adhd-combined,131.0,,112.0,adhd200
+100.0,Male,13.33,right handed,peking university,adhd-inattentive,99.0,,98.0,adhd200
+115.0,Male,13.17,right handed,peking university,adhd-inattentive,109.0,,100.0,adhd200
+140.0,Male,9.83,right handed,peking university,adhd-combined,142.0,,135.0,adhd200
+108.0,Male,12.58,right handed,peking university,adhd-hyperactive,107.0,,104.0,adhd200
+130.0,Female,8.58,right handed,peking university,control,118.0,,100.0,adhd200
+112.0,Male,8.33,right handed,peking university,adhd-inattentive,109.0,,104.0,adhd200
+112.0,Male,12.92,right handed,peking university,adhd-combined,108.0,,101.0,adhd200
+136.0,Male,9.17,,peking university,control,121.0,,100.0,adhd200
+146.0,Male,11.5,right handed,peking university,control,134.0,,112.0,adhd200
+97.0,Male,12.42,right handed,peking university,adhd-combined,86.0,,76.0,adhd200
+113.0,Female,9.17,right handed,peking university,control,113.0,,111.0,adhd200
+108.0,Female,12.67,right handed,peking university,adhd-inattentive,102.0,,94.0,adhd200
+134.0,Male,12.5,right handed,peking university,adhd-inattentive,128.0,,114.0,adhd200
+117.0,Male,9.5,right handed,peking university,adhd-combined,113.0,,104.0,adhd200
+109.0,Female,17.01,right handed,university of pittsburg,control,116.0,16058,129.0,adhd200
+116.0,Female,14.99,right handed,university of pittsburg,control,117.0,16046,129.0,adhd200
+122.0,Male,17.16,right handed,university of pittsburg,control,113.0,16060,119.0,adhd200
+109.0,Male,15.56,right handed,university of pittsburg,control,103.0,16048,102.0,adhd200
+99.0,Male,13.11,right handed,university of pittsburg,control,88.0,16029,99.0,adhd200
+108.0,Female,20.45,right handed,university of pittsburg,control,115.0,16089,125.0,adhd200
+95.0,Male,10.49,right handed,university of pittsburg,control,104.0,16004,105.0,adhd200
+110.0,Male,18.72,right handed,university of pittsburg,control,124.0,16078,119.0,adhd200
+119.0,Male,18.48,right handed,university of pittsburg,control,128.0,16073,126.0,adhd200
+108.0,Male,18.93,right handed,university of pittsburg,control,95.0,16086,102.0,adhd200
+125.0,Male,18.43,right handed,university of pittsburg,control,123.0,16072,103.0,adhd200
+117.0,Female,19.66,right handed,university of pittsburg,control,120.0,16088,118.0,adhd200
+105.0,Male,11.41,right handed,university of pittsburg,control,109.0,16012,118.0,adhd200
+108.0,Female,18.52,right handed,university of pittsburg,control,105.0,16075,99.0,adhd200
+80.0,Female,14.82,right handed,university of pittsburg,control,88.0,16041,107.0,adhd200
+,Female,18.8,right handed,university of pittsburg,control,121.0,16080,,adhd200
+,Male,18.96,right handed,university of pittsburg,control,113.0,16087,,adhd200
+103.0,Female,12.65,right handed,university of pittsburg,control,117.0,16024,109.0,adhd200
+105.0,Female,14.85,right handed,university of pittsburg,control,107.0,16043,115.0,adhd200
+,Male,10.76,right handed,university of pittsburg,control,78.0,16006,,adhd200
+110.0,Male,18.9,right handed,university of pittsburg,control,118.0,16084,118.0,adhd200
+,Female,18.85,right handed,university of pittsburg,control,118.0,16082,,adhd200
+105.0,Female,13.87,right handed,university of pittsburg,control,109.0,16034,114.0,adhd200
+113.0,Male,11.71,right handed,university of pittsburg,control,108.0,16016,119.0,adhd200
+141.0,Female,10.57,right handed,university of pittsburg,control,128.0,16005,127.0,adhd200
+88.0,Male,10.11,right handed,university of pittsburg,control,106.0,16001,131.0,adhd200
+,Female,11.75,right handed,university of pittsburg,control,111.0,16017,,adhd200
+112.0,Male,12.88,right handed,university of pittsburg,control,109.0,16026,93.0,adhd200
+109.0,Male,14.15,right handed,university of pittsburg,control,117.0,16037,129.0,adhd200
+126.0,Male,15.92,right handed,university of pittsburg,control,120.0,16053,116.0,adhd200
+,Male,15.78,right handed,university of pittsburg,control,108.0,16050,,adhd200
+116.0,Male,14.57,right handed,university of pittsburg,control,110.0,16039,100.0,adhd200
+88.0,Male,11.53,right handed,university of pittsburg,control,113.0,16013,126.0,adhd200
+,Female,17.91,left handed,university of pittsburg,control,96.0,16067,,adhd200
+122.0,Male,13.53,right handed,university of pittsburg,control,124.0,16031,116.0,adhd200
+116.0,Male,13.97,right handed,university of pittsburg,control,107.0,16036,92.0,adhd200
+98.0,Female,12.47,right handed,university of pittsburg,control,102.0,16022,114.0,adhd200
+88.0,Male,14.85,right handed,university of pittsburg,control,82.0,16044,81.0,adhd200
+100.0,Male,17.46,right handed,university of pittsburg,control,101.0,16063,111.0,adhd200
+98.0,Male,14.24,right handed,university of pittsburg,control,91.0,16038,107.0,adhd200
+,Female,18.31,right handed,university of pittsburg,control,92.0,16070,,adhd200
+,Male,17.23,right handed,university of pittsburg,control,90.0,16061,,adhd200
+107.0,Female,14.84,right handed,university of pittsburg,control,109.0,16042,115.0,adhd200
+105.0,Male,16.16,right handed,university of pittsburg,control,113.0,16055,109.0,adhd200
+112.0,Female,15.69,right handed,university of pittsburg,control,102.0,16049,96.0,adhd200
+102.0,Female,17.13,right handed,university of pittsburg,control,102.0,16059,119.0,adhd200
+105.0,Female,14.89,right handed,university of pittsburg,control,118.0,16045,116.0,adhd200
+118.0,Male,11.24,right handed,university of pittsburg,control,123.0,16010,131.0,adhd200
+108.0,Female,15.15,right handed,university of pittsburg,control,111.0,16047,109.0,adhd200
+,Female,18.6,right handed,university of pittsburg,control,125.0,16076,,adhd200
+119.0,Female,18.14,right handed,university of pittsburg,control,118.0,16069,118.0,adhd200
+106.0,Female,17.86,right handed,university of pittsburg,control,107.0,16066,105.0,adhd200
+,Female,17.44,right handed,university of pittsburg,control,112.0,16062,,adhd200
+,Female,18.72,right handed,university of pittsburg,control,113.0,16077,,adhd200
+110.0,Male,15.91,right handed,university of pittsburg,control,106.0,16052,116.0,adhd200
+,Male,17.49,right handed,university of pittsburg,control,109.0,16064,,adhd200
+,Male,12.91,right handed,university of pittsburg,control,123.0,16027,,adhd200
+112.0,Male,11.12,right handed,university of pittsburg,control,109.0,16009,109.0,adhd200
+,Female,16.28,right handed,university of pittsburg,control,102.0,16056,,adhd200
+,Female,17.96,right handed,university of pittsburg,control,131.0,16068,,adhd200
+115.0,Female,12.12,right handed,university of pittsburg,control,118.0,16018,103.0,adhd200
+,Female,18.49,right handed,university of pittsburg,control,118.0,16074,,adhd200
+,Female,18.9,right handed,university of pittsburg,control,113.0,16085,,adhd200
+,Female,18.33,right handed,university of pittsburg,control,111.0,16071,,adhd200
+,Male,11.03,right handed,university of pittsburg,control,130.0,16008,,adhd200
+,Male,12.71,right handed,university of pittsburg,control,99.0,16025,,adhd200
+,Male,13.68,right handed,university of pittsburg,control,99.0,16033,,adhd200
+,Male,13.03,right handed,university of pittsburg,control,111.0,16028,,adhd200
+,Female,10.93,right handed,university of pittsburg,control,108.0,16007,,adhd200
+,Male,13.44,right handed,university of pittsburg,control,96.0,16030,,adhd200
+,Male,12.41,right handed,university of pittsburg,control,133.0,16021,,adhd200
+,Male,18.86,right handed,university of pittsburg,control,133.0,16083,,adhd200
+,Female,12.35,right handed,university of pittsburg,control,131.0,16020,,adhd200
+,Male,11.69,right handed,university of pittsburg,control,103.0,16014,,adhd200
+,Male,18.74,left handed,university of pittsburg,control,119.0,16079,,adhd200
+,Female,15.88,right handed,university of pittsburg,control,99.0,16051,,adhd200
+108.0,Female,14.63,right handed,university of pittsburg,control,108.0,16040,117.0,adhd200
+,Female,12.23,right handed,university of pittsburg,control,89.0,16019,,adhd200
+,Female,17.84,right handed,university of pittsburg,control,108.0,16065,,adhd200
+,Male,18.81,right handed,university of pittsburg,control,103.0,16081,,adhd200
+,Female,13.65,left handed,university of pittsburg,control,105.0,16032,,adhd200
+,Male,10.46,right handed,university of pittsburg,control,114.0,16003,,adhd200
+,Female,11.28,right handed,university of pittsburg,control,105.0,16011,,adhd200
+,Female,16.74,right handed,university of pittsburg,control,90.0,16057,,adhd200
+,Male,11.7,right handed,university of pittsburg,control,108.0,16015,,adhd200
+,Male,13.94,right handed,university of pittsburg,control,113.0,16035,,adhd200
+113.0,Female,12.51,left handed,university of pittsburg,control,107.0,16023,105.0,adhd200
+,Male,16.05,right handed,university of pittsburg,control,105.0,16054,,adhd200
+,Female,10.16,right handed,university of pittsburg,control,120.0,16002,,adhd200

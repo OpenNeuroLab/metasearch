@@ -10,11 +10,15 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _logo = require('./logo.svg');
+var _logo = require('./logo.jpg');
 
 var _logo2 = _interopRequireDefault(_logo);
 
 require('./App.css');
+
+var _Viz = require('./Viz');
+
+var _Viz2 = _interopRequireDefault(_Viz);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -49,17 +53,7 @@ var App = function (_Component) {
             'Welcome to MetaSearch'
           )
         ),
-        _react2.default.createElement(
-          'p',
-          { className: 'App-intro' },
-          'To get started, edit ',
-          _react2.default.createElement(
-            'code',
-            null,
-            'src/App.js'
-          ),
-          ' and save to reload.'
-        )
+        _react2.default.createElement(_Viz2.default, null)
       );
     }
   }]);

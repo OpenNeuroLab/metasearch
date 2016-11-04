@@ -7,7 +7,27 @@
   "SITE_ID":
   {
     "element": "site_id",
-    "type": "identifier"
+    "type": "category",
+    "PITT": "university of pittsburg",
+    "OHSU": "ohsu",
+    "SDSU": "sdsu",
+    "TRINITY": "trinity",
+    "LEUVEN_1": "leuven 1",
+    "LEUVEN_2": "leuven 2",
+    "YALE": "yale",
+    "CMU": "carnegie mellon university",
+    "KKI": "kennedy krieger institute",
+    "NYU": "nyu child study center",
+    "STANFORD": "stanford",
+    "UCLA_1": "ucla 1",
+    "UCLA_2": "ucla 2",
+    "MAX_MUN": "ludwig maximilians",
+    "CALTECH": "caltech",
+    "SBL": "social brain lab",
+    "OLIN": "olin",
+    "UM_1": "university of michigan 1",
+    "UM_2": "university of michigan 2",
+    "USM": "utah school of medicine"
   },
   "DX_GROUP":
   {
@@ -54,18 +74,24 @@
   {
     "element": "full iq",
     "type": "number",
-    "-9999": null
+    "-9999": null,
+    "-9999.0": null,
+    "-999.0": null
   },
   "VIQ":
   {
     "element": "verbal iq",
     "type": "number",
-    "-9999": null
+    "-9999": null,
+    "-9999.0": null,
+    "-999.0": null
   },
   "PIQ":
   {
     "element": "performance iq",
     "type": "number",
-    "-9999": null
+    "-9999": null,
+    "-9999.0": null,
+    "-999.0": null
   }
 }

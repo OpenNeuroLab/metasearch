@@ -25,6 +25,10 @@
     "1": "adhd-combined",
     "2": "adhd-hyperactive",
     "3": "adhd-inattentive",
+    "0.0": "control",
+    "1.0": "adhd-combined",
+    "2.0": "adhd-hyperactive",
+    "3.0": "adhd-inattentive",
     "pending": null
   },
   "Age":
@@ -37,7 +41,9 @@
     "element": "sex",
     "type": "category",
     "1": "Male",
-    "0": "Female"
+    "0": "Female",
+    "1.0": "Male",
+    "0.0": "Female"
   },
   "Handedness":
   {
@@ -46,24 +52,33 @@
     "1": "right handed",
     "0": "left handed",
     "2": "ambidextrous",
+    "1.0": "right handed",
+    "0.0": "left handed",
+    "2.0": "ambidextrous",
     "-9999": null
   },
   "Full4 IQ":
   {
     "element": "full iq",
     "type": "number",
-    "-9999": null
+    "-9999": null,
+    "-9999.0": null,
+    "-999.0": null
   },
   "Verbal IQ":
   {
     "element": "verbal iq",
     "type": "number",
-    "-9999": null
+    "-9999": null,
+    "-9999.0": null,
+    "-999.0": null
   },
   "Performance IQ":
   {
     "element": "performance iq",
     "type": "number",
-    "-9999": null
+    "-9999": null,
+    "-9999.0": null,
+    "-999.0": null
   }
 }

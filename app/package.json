@@ -12,8 +12,11 @@
     "webpack": "^1.13.3"
   },
   "dependencies": {
+    "d3.parcoords.js": "^0.7.0",
+    "jquery": "^3.1.1",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "slickgrid": "^2.1.0-1"
   },
   "scripts": {
     "start": "react-scripts start",

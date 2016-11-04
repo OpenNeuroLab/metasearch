@@ -7,7 +7,9 @@
   "DATASET":
   {
     "element": "site_id",
-    "type": "identifier"
+    "type": "category",
+    "MTA_1": "mta 1",
+    "NYU_1": "nyu 1"
   },
   "AGE_AT_SCAN_1":
   {
