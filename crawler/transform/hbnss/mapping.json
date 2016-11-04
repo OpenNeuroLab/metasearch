@@ -1,0 +1,46 @@
+{
+  "SubID": {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "SITE": {
+    "element": "site_id",
+    "type": "category",
+    "CMI": "cmi"
+  },
+  "visit": {
+    "Visit 01": 1,
+    "Visit 02": 2,
+    "Visit 03": 3,
+    "Visit 04": 4,
+    "Visit 05": 5,
+    "Visit 06": 6,
+    "Visit 07": 7,
+    "Visit 08": 8,
+    "Visit 09": 9,
+    "Visit 10": 10,
+    "Visit 11": 11,
+    "Visit 11 Rerun": 11,
+    "Visit 12": 12,
+    "Visit 13": 13,
+    "Visit 14": 14
+  },
+  "Age":
+  {
+    "element": "age",
+    "type": "number"
+  },
+  "Gender":
+  {
+    "element": "sex",
+    "type": "category",
+    "M": "Male",
+    "F": "Female"
+  },
+  "Handedness":
+  {
+    "element": "handedness",
+    "type": "category",
+    "R": "right handed"
+  }
+}
