@@ -1,0 +1,37 @@
+{
+  "SubIDMatch_ID": {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "site_id": {
+    "element": "site_id",
+    "type": "category",
+    "CMI": "cmi"
+  },
+  "Session": {
+    "1": 1
+  },
+  "age_at_Scan1":
+  {
+    "element": "age",
+    "type": "number"
+  },
+  "Sex":
+  {
+    "element": "sex",
+    "type": "category",
+    "male": "Male",
+    "female": "Female"
+  },
+  "participant_id": {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "sex":
+  {
+    "element": "sex",
+    "type": "category",
+    "m": "Male",
+    "f": "Female"
+  },
+}

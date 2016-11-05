@@ -3,7 +3,7 @@
     "element": "participant_id",
     "type": "identifier"
   },
-  "SITE": {
+  "site_id": {
     "element": "site_id",
     "type": "category",
     "CMI": "cmi"
