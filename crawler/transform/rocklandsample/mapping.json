@@ -1,0 +1,32 @@
+{
+  "Subject ID": {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "site_id": {
+    "element": "site_id",
+    "type": "category",
+    "CMI": "cmi"
+  },
+  "Session": {
+    "1": 1
+  },
+  "Age":
+  {
+    "element": "age",
+    "type": "number"
+  },
+  "Sex":
+  {
+    "element": "sex",
+    "type": "category",
+    "M": "Male",
+    "F": "Female"
+  },
+  "Dominant Hand": {
+    "element": "handedness",
+    "type": "category",
+    "Left": "left handed",
+    "Right": "right handed"
+  }
+}
