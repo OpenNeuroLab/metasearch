@@ -1,0 +1,4286 @@
+participant_id,,age,handedness,site_id,sex,project
+3001,Baseline,25.13,right handed,,Male,corr
+3001,Retest_1,25.13,right handed,,Male,corr
+3002,Baseline,23.96,right handed,,Female,corr
+3002,Retest_1,23.96,right handed,,Female,corr
+3004,Baseline,31.15,right handed,,Male,corr
+3004,Retest_1,31.15,right handed,,Male,corr
+3006,Baseline,23,right handed,,Female,corr
+3006,Retest_1,23,right handed,,Female,corr
+3007,Baseline,43.53,right handed,,Male,corr
+3007,Retest_1,43.53,right handed,,Male,corr
+3008,Baseline,26.87,right handed,,Female,corr
+3008,Retest_1,26.87,right handed,,Female,corr
+3009,Baseline,33.82,right handed,,Male,corr
+3009,Retest_1,33.82,right handed,,Male,corr
+3010,Baseline,27.02,right handed,,Female,corr
+3010,Retest_1,27.02,right handed,,Female,corr
+3011,Baseline,24.37,right handed,,Female,corr
+3011,Retest_1,24.37,right handed,,Female,corr
+3012,Baseline,33.59,right handed,,Male,corr
+3012,Retest_1,33.59,right handed,,Male,corr
+3013,Baseline,26.06,right handed,,Female,corr
+3013,Retest_1,26.06,right handed,,Female,corr
+3014,Baseline,28.27,right handed,,Male,corr
+3014,Retest_1,28.27,right handed,,Male,corr
+3015,Baseline,26.64,right handed,,Female,corr
+3015,Retest_1,26.64,right handed,,Female,corr
+3016,Baseline,28.46,right handed,,Male,corr
+3016,Retest_1,28.46,right handed,,Male,corr
+3017,Baseline,26.58,right handed,,Male,corr
+3017,Retest_1,26.58,right handed,,Male,corr
+3018,Baseline,26.78,right handed,,Female,corr
+3018,Retest_1,26.78,right handed,,Female,corr
+3020,Baseline,31.25,right handed,,Male,corr
+3020,Retest_1,31.25,right handed,,Male,corr
+3021,Baseline,37.42,right handed,,Female,corr
+3021,Retest_1,37.42,right handed,,Female,corr
+3022,Baseline,38.01,right handed,,Male,corr
+3022,Retest_1,38.01,right handed,,Male,corr
+3023,Baseline,32.3,right handed,,Female,corr
+3023,Retest_1,32.3,right handed,,Female,corr
+3024,Baseline,39.04,right handed,,Male,corr
+3024,Retest_1,39.04,right handed,,Male,corr
+3025,Baseline,28.44,right handed,,Female,corr
+3025,Retest_1,28.44,right handed,,Female,corr
+3026,Baseline,29.34,right handed,,Female,corr
+3026,Retest_1,29.34,right handed,,Female,corr
+3032,Baseline,33.28,right handed,,Female,corr
+3032,Retest_1,33.28,right handed,,Female,corr
+3033,Baseline,32.52,right handed,,Male,corr
+3033,Retest_1,32.52,right handed,,Male,corr
+3034,Baseline,31.59,right handed,,Female,corr
+3034,Retest_1,31.59,right handed,,Female,corr
+3036,Baseline,30.3,right handed,,Female,corr
+3036,Retest_1,30.3,right handed,,Female,corr
+3037,Baseline,59.73,right handed,,Female,corr
+3037,Retest_1,59.73,right handed,,Female,corr
+3038,Baseline,34.72,right handed,,Male,corr
+3038,Retest_1,34.72,right handed,,Male,corr
+3039,Baseline,22.99,right handed,,Female,corr
+3039,Retest_1,22.99,right handed,,Female,corr
+3040,Baseline,36.25,left handed,,Male,corr
+3040,Retest_1,36.25,left handed,,Male,corr
+3041,Baseline,23.96,right handed,,Female,corr
+3041,Retest_1,23.96,right handed,,Female,corr
+3042,Baseline,35.18,right handed,,Male,corr
+3042,Retest_1,35.18,right handed,,Male,corr
+3044,Baseline,30.95,right handed,,Male,corr
+3044,Retest_1,30.95,right handed,,Male,corr
+3045,Baseline,42.63,right handed,,Female,corr
+3045,Retest_1,42.63,right handed,,Female,corr
+3047,Baseline,32.63,right handed,,Male,corr
+3047,Retest_1,32.63,right handed,,Male,corr
+3049,Baseline,30.31,right handed,,Male,corr
+3049,Retest_1,30.31,right handed,,Male,corr
+3050,Baseline,49.37,right handed,,Female,corr
+3050,Retest_1,49.37,right handed,,Female,corr
+3051,Baseline,23.62,right handed,,Male,corr
+3051,Retest_1,23.62,right handed,,Male,corr
+3051,Retest_2,23.62,right handed,,Male,corr
+3051,Retest_3,23.62,right handed,,Male,corr
+3052,Baseline,28.57,right handed,,Female,corr
+3052,Retest_1,28.57,right handed,,Female,corr
+3052,Retest_2,28.57,right handed,,Female,corr
+3052,Retest_3,28.57,right handed,,Female,corr
+3054,Baseline,27.71,right handed,,Male,corr
+3054,Retest_1,27.71,right handed,,Male,corr
+3054,Retest_2,27.71,right handed,,Male,corr
+3054,Retest_3,27.71,right handed,,Male,corr
+3055,Baseline,29.95,right handed,,Male,corr
+3055,Retest_1,29.95,right handed,,Male,corr
+3055,Retest_2,29.95,right handed,,Male,corr
+3055,Retest_3,29.95,right handed,,Male,corr
+3056,Baseline,29.78,right handed,,Male,corr
+3056,Retest_1,29.78,right handed,,Male,corr
+3056,Retest_2,29.78,right handed,,Male,corr
+3056,Retest_3,29.78,right handed,,Male,corr
+3057,Baseline,19.96,right handed,,Male,corr
+3057,Retest_1,19.96,right handed,,Male,corr
+3057,Retest_2,19.96,right handed,,Male,corr
+3057,Retest_3,19.96,right handed,,Male,corr
+3059,Baseline,30.66,right handed,,Female,corr
+3059,Retest_1,30.66,right handed,,Female,corr
+3059,Retest_2,30.66,right handed,,Female,corr
+3059,Retest_3,30.66,right handed,,Female,corr
+3060,Baseline,30.44,left handed,,Female,corr
+3060,Retest_1,30.44,left handed,,Female,corr
+3061,Baseline,24.88,right handed,,Female,corr
+3061,Retest_1,24.88,right handed,,Female,corr
+3062,Baseline,27.1,right handed,,Male,corr
+3062,Retest_1,27.1,right handed,,Male,corr
+3062,Retest_2,27.1,right handed,,Male,corr
+3062,Retest_3,27.1,right handed,,Male,corr
+3063,Baseline,22.34,right handed,,Female,corr
+3063,Retest_1,22.34,right handed,,Female,corr
+3063,Retest_2,22.34,right handed,,Female,corr
+3063,Retest_3,22.34,right handed,,Female,corr
+3064,Baseline,28.85,right handed,,Female,corr
+3064,Retest_1,28.85,right handed,,Female,corr
+3064,Retest_2,28.85,right handed,,Female,corr
+3064,Retest_3,28.85,right handed,,Female,corr
+25864,Baseline,22,,BNU_1,Male,corr
+25864,Retest_1,,,BNU_1,,corr
+25865,Baseline,24,,BNU_1,Male,corr
+25865,Retest_1,,,BNU_1,,corr
+25866,Baseline,27,,BNU_1,Male,corr
+25866,Retest_1,,,BNU_1,,corr
+25867,Baseline,22,,BNU_1,Male,corr
+25867,Retest_1,,,BNU_1,,corr
+25868,Baseline,27,,BNU_1,Male,corr
+25868,Retest_1,,,BNU_1,,corr
+25869,Baseline,22,,BNU_1,Female,corr
+25869,Retest_1,,,BNU_1,,corr
+25870,Baseline,23,,BNU_1,Male,corr
+25870,Retest_1,,,BNU_1,,corr
+25871,Baseline,22,,BNU_1,Male,corr
+25871,Retest_1,,,BNU_1,,corr
+25872,Baseline,22,,BNU_1,Male,corr
+25872,Retest_1,,,BNU_1,,corr
+25873,Baseline,26,,BNU_1,Female,corr
+25873,Retest_1,,,BNU_1,,corr
+25874,Baseline,24,,BNU_1,Female,corr
+25874,Retest_1,,,BNU_1,,corr
+25875,Baseline,30,,BNU_1,Female,corr
+25875,Retest_1,,,BNU_1,,corr
+25876,Baseline,25,,BNU_1,Male,corr
+25876,Retest_1,,,BNU_1,,corr
+25877,Baseline,20,,BNU_1,Male,corr
+25877,Retest_1,,,BNU_1,,corr
+25878,Baseline,23,,BNU_1,Male,corr
+25878,Retest_1,,,BNU_1,,corr
+25879,Baseline,23,,BNU_1,Male,corr
+25879,Retest_1,,,BNU_1,,corr
+25880,Baseline,24,,BNU_1,Male,corr
+25880,Retest_1,,,BNU_1,,corr
+25881,Baseline,21,,BNU_1,Male,corr
+25881,Retest_1,,,BNU_1,,corr
+25882,Baseline,22,,BNU_1,Female,corr
+25882,Retest_1,,,BNU_1,,corr
+25883,Baseline,21,,BNU_1,Male,corr
+25883,Retest_1,,,BNU_1,,corr
+25884,Baseline,24,,BNU_1,Male,corr
+25884,Retest_1,,,BNU_1,,corr
+25885,Baseline,22,,BNU_1,Female,corr
+25885,Retest_1,,,BNU_1,,corr
+25886,Baseline,24,,BNU_1,Female,corr
+25886,Retest_1,,,BNU_1,,corr
+25887,Baseline,27,,BNU_1,Male,corr
+25887,Retest_1,,,BNU_1,,corr
+25888,Baseline,25,,BNU_1,Male,corr
+25888,Retest_1,,,BNU_1,,corr
+25889,Baseline,26,,BNU_1,Female,corr
+25889,Retest_1,,,BNU_1,,corr
+25890,Baseline,21,,BNU_1,Male,corr
+25890,Retest_1,,,BNU_1,,corr
+25891,Baseline,19,,BNU_1,Female,corr
+25891,Retest_1,,,BNU_1,,corr
+25892,Baseline,23,,BNU_1,Female,corr
+25892,Retest_1,,,BNU_1,,corr
+25893,Baseline,26,,BNU_1,Male,corr
+25893,Retest_1,,,BNU_1,,corr
+25894,Baseline,21,,BNU_1,Female,corr
+25894,Retest_1,,,BNU_1,,corr
+25895,Baseline,24,,BNU_1,Male,corr
+25895,Retest_1,,,BNU_1,,corr
+25896,Baseline,21,,BNU_1,Female,corr
+25896,Retest_1,,,BNU_1,,corr
+25897,Baseline,23,,BNU_1,Female,corr
+25897,Retest_1,,,BNU_1,,corr
+25898,Baseline,22,,BNU_1,Female,corr
+25898,Retest_1,,,BNU_1,,corr
+25899,Baseline,21,,BNU_1,Male,corr
+25899,Retest_1,,,BNU_1,,corr
+25900,Baseline,20,,BNU_1,Female,corr
+25900,Retest_1,,,BNU_1,,corr
+25901,Baseline,22,,BNU_1,Female,corr
+25901,Retest_1,,,BNU_1,,corr
+25902,Baseline,22,,BNU_1,Female,corr
+25902,Retest_1,,,BNU_1,,corr
+25903,Baseline,22,,BNU_1,Female,corr
+25903,Retest_1,,,BNU_1,,corr
+25904,Baseline,19,,BNU_1,Female,corr
+25904,Retest_1,,,BNU_1,,corr
+25905,Baseline,27,,BNU_1,Male,corr
+25905,Retest_1,,,BNU_1,,corr
+25906,Baseline,24,,BNU_1,Female,corr
+25906,Retest_1,,,BNU_1,,corr
+25907,Baseline,24,,BNU_1,Male,corr
+25907,Retest_1,,,BNU_1,,corr
+25908,Baseline,23,,BNU_1,Male,corr
+25908,Retest_1,,,BNU_1,,corr
+25909,Baseline,25,,BNU_1,Female,corr
+25909,Retest_1,,,BNU_1,,corr
+25910,Baseline,23,,BNU_1,Female,corr
+25910,Retest_1,,,BNU_1,,corr
+25911,Baseline,19,,BNU_1,Female,corr
+25911,Retest_1,,,BNU_1,,corr
+25912,Baseline,21,,BNU_1,Male,corr
+25912,Retest_1,,,BNU_1,,corr
+25913,Baseline,21,,BNU_1,Female,corr
+25913,Retest_1,,,BNU_1,,corr
+25914,Baseline,27,,BNU_1,Female,corr
+25914,Retest_1,,,BNU_1,,corr
+25915,Baseline,22,,BNU_1,Male,corr
+25915,Retest_1,,,BNU_1,,corr
+25916,Baseline,23,,BNU_1,Male,corr
+25916,Retest_1,,,BNU_1,,corr
+25917,Baseline,22,,BNU_1,Female,corr
+25917,Retest_1,,,BNU_1,,corr
+25918,Baseline,23,,BNU_1,Male,corr
+25918,Retest_1,,,BNU_1,,corr
+25919,Baseline,25,,BNU_1,Male,corr
+25919,Retest_1,,,BNU_1,,corr
+25920,Baseline,21,,BNU_1,Female,corr
+25920,Retest_1,,,BNU_1,,corr
+25921,Baseline,20.7,,BNU_2,Female,corr
+25921,Retest_1,,,BNU_2,,corr
+25922,Baseline,21.7,,BNU_2,Female,corr
+25922,Retest_1,,,BNU_2,,corr
+25923,Baseline,22.5,,BNU_2,Female,corr
+25923,Retest_1,,,BNU_2,,corr
+25924,Baseline,21,,BNU_2,Female,corr
+25924,Retest_1,,,BNU_2,,corr
+25925,Baseline,21.2,,BNU_2,Female,corr
+25925,Retest_1,,,BNU_2,,corr
+25926,Baseline,22.2,,BNU_2,Male,corr
+25926,Retest_1,,,BNU_2,,corr
+25927,Baseline,20.8,,BNU_2,Male,corr
+25927,Retest_1,,,BNU_2,,corr
+25928,Baseline,20.2,,BNU_2,Male,corr
+25928,Retest_1,,,BNU_2,,corr
+25929,Baseline,20.1,,BNU_2,Male,corr
+25929,Retest_1,,,BNU_2,,corr
+25930,Baseline,22.3,,BNU_2,Male,corr
+25930,Retest_1,,,BNU_2,,corr
+25931,Baseline,21.3,,BNU_2,Male,corr
+25931,Retest_1,,,BNU_2,,corr
+25932,Baseline,20.9,,BNU_2,Male,corr
+25932,Retest_1,,,BNU_2,,corr
+25933,Baseline,21.6,,BNU_2,Female,corr
+25933,Retest_1,,,BNU_2,,corr
+25934,Baseline,20.9,,BNU_2,Male,corr
+25934,Retest_1,,,BNU_2,,corr
+25935,Baseline,22,,BNU_2,Male,corr
+25935,Retest_1,,,BNU_2,,corr
+25936,Baseline,22.5,,BNU_2,Male,corr
+25936,Retest_1,,,BNU_2,,corr
+25937,Baseline,21.7,,BNU_2,Male,corr
+25937,Retest_1,,,BNU_2,,corr
+25938,Baseline,21.8,,BNU_2,Male,corr
+25938,Retest_1,,,BNU_2,,corr
+25939,Baseline,20.4,,BNU_2,Male,corr
+25939,Retest_1,,,BNU_2,,corr
+25940,Baseline,20.8,,BNU_2,Male,corr
+25940,Retest_1,,,BNU_2,,corr
+25941,Baseline,23.3,,BNU_2,Female,corr
+25941,Retest_1,,,BNU_2,,corr
+25942,Baseline,21,,BNU_2,Female,corr
+25942,Retest_1,,,BNU_2,,corr
+25943,Baseline,22.9,,BNU_2,Female,corr
+25943,Retest_1,,,BNU_2,,corr
+25944,Baseline,21.3,,BNU_2,Female,corr
+25944,Retest_1,,,BNU_2,,corr
+25945,Baseline,19.3,,BNU_2,Female,corr
+25945,Retest_1,,,BNU_2,,corr
+25946,Baseline,19.8,,BNU_2,Male,corr
+25946,Retest_1,,,BNU_2,,corr
+25947,Baseline,21.3,,BNU_2,Male,corr
+25947,Retest_1,,,BNU_2,,corr
+25948,Baseline,21.5,,BNU_2,Female,corr
+25948,Retest_1,,,BNU_2,,corr
+25949,Baseline,20.4,,BNU_2,Female,corr
+25949,Retest_1,,,BNU_2,,corr
+25950,Baseline,21.7,,BNU_2,Female,corr
+25950,Retest_1,,,BNU_2,,corr
+25951,Baseline,21.5,,BNU_2,Female,corr
+25951,Retest_1,,,BNU_2,,corr
+25952,Baseline,19.8,,BNU_2,Female,corr
+25952,Retest_1,,,BNU_2,,corr
+25953,Baseline,21.1,,BNU_2,Female,corr
+25953,Retest_1,,,BNU_2,,corr
+25954,Baseline,22.7,,BNU_2,Female,corr
+25954,Retest_1,,,BNU_2,,corr
+25955,Baseline,19.5,,BNU_2,Male,corr
+25955,Retest_1,,,BNU_2,,corr
+25956,Baseline,21.4,,BNU_2,Male,corr
+25956,Retest_1,,,BNU_2,,corr
+25957,Baseline,21.1,,BNU_2,Male,corr
+25957,Retest_1,,,BNU_2,,corr
+25958,Baseline,20.1,,BNU_2,Male,corr
+25958,Retest_1,,,BNU_2,,corr
+25959,Baseline,21.3,,BNU_2,Male,corr
+25959,Retest_1,,,BNU_2,,corr
+25960,Baseline,21.1,,BNU_2,Male,corr
+25960,Retest_1,,,BNU_2,,corr
+25961,Baseline,21.8,,BNU_2,Male,corr
+25961,Retest_1,,,BNU_2,,corr
+25962,Baseline,21.8,,BNU_2,Male,corr
+25962,Retest_1,,,BNU_2,,corr
+25963,Baseline,21.6,,BNU_2,Male,corr
+25963,Retest_1,,,BNU_2,,corr
+25964,Baseline,22,,BNU_2,Male,corr
+25964,Retest_1,,,BNU_2,,corr
+25965,Baseline,21.4,,BNU_2,Male,corr
+25965,Retest_1,,,BNU_2,,corr
+25966,Baseline,22,,BNU_2,Male,corr
+25966,Retest_1,,,BNU_2,,corr
+25967,Baseline,21.6,,BNU_2,Female,corr
+25967,Retest_1,,,BNU_2,,corr
+25968,Baseline,21.3,,BNU_2,Male,corr
+25968,Retest_1,,,BNU_2,,corr
+25969,Baseline,21.8,,BNU_2,Male,corr
+25969,Retest_1,,,BNU_2,,corr
+25970,Baseline,21.2,,BNU_2,Female,corr
+25970,Retest_1,,,BNU_2,,corr
+25971,Baseline,20.5,,BNU_2,Female,corr
+25971,Retest_1,,,BNU_2,,corr
+25972,Baseline,21.4,,BNU_2,Female,corr
+25972,Retest_1,,,BNU_2,,corr
+25973,Baseline,22.2,,BNU_2,Female,corr
+25973,Retest_1,,,BNU_2,,corr
+25974,Baseline,21.7,,BNU_2,Male,corr
+25974,Retest_1,,,BNU_2,,corr
+25975,Baseline,21.6,,BNU_2,Female,corr
+25975,Retest_1,,,BNU_2,,corr
+25976,Baseline,21.3,,BNU_2,Female,corr
+25976,Retest_1,,,BNU_2,,corr
+25977,Baseline,23.1,,BNU_2,Female,corr
+25977,Retest_1,,,BNU_2,,corr
+25978,Baseline,21.8,,BNU_2,Female,corr
+25978,Retest_1,,,BNU_2,,corr
+25979,Baseline,21.1,,BNU_2,Male,corr
+25979,Retest_1,,,BNU_2,,corr
+25980,Baseline,19.5,,BNU_2,Male,corr
+25980,Retest_1,,,BNU_2,,corr
+25981,Baseline,21.3,,BNU_2,Female,corr
+25981,Retest_1,,,BNU_2,,corr
+27065,Baseline,23,,BNU_3,Female,corr
+27065,Retest_1,23,,BNU_3,Female,corr
+27065,Retest_2,23,,BNU_3,Female,corr
+27069,Baseline,18,,BNU_3,Male,corr
+27069,Retest_1,18,,BNU_3,Male,corr
+27069,Retest_2,18,,BNU_3,Male,corr
+27082,Baseline,23,,BNU_3,Female,corr
+27082,Retest_1,23,,BNU_3,Female,corr
+27082,Retest_2,23,,BNU_3,Female,corr
+27086,Baseline,22,,BNU_3,Male,corr
+27086,Retest_1,22,,BNU_3,Male,corr
+27086,Retest_2,22,,BNU_3,Male,corr
+27096,Baseline,23,,BNU_3,Male,corr
+27096,Retest_1,23,,BNU_3,Male,corr
+27096,Retest_2,23,,BNU_3,Male,corr
+27064,Baseline,21,,BNU_3,Female,corr
+27064,Retest_1,21,,BNU_3,Female,corr
+27064,Retest_2,21,,BNU_3,Female,corr
+27067,Baseline,24,,BNU_3,Male,corr
+27067,Retest_1,24,,BNU_3,Male,corr
+27067,Retest_2,24,,BNU_3,Male,corr
+27074,Baseline,24,,BNU_3,Female,corr
+27074,Retest_1,24,,BNU_3,Female,corr
+27074,Retest_2,24,,BNU_3,Female,corr
+27073,Baseline,23,,BNU_3,Male,corr
+27073,Retest_1,23,,BNU_3,Male,corr
+27073,Retest_2,23,,BNU_3,Male,corr
+27062,Baseline,20,,BNU_3,Female,corr
+27062,Retest_1,20,,BNU_3,Female,corr
+27062,Retest_2,20,,BNU_3,Female,corr
+27088,Baseline,20,,BNU_3,Female,corr
+27088,Retest_1,20,,BNU_3,Female,corr
+27088,Retest_2,20,,BNU_3,Female,corr
+27058,Baseline,24,,BNU_3,Female,corr
+27058,Retest_1,24,,BNU_3,Female,corr
+27058,Retest_2,24,,BNU_3,Female,corr
+27071,Baseline,21,,BNU_3,Female,corr
+27071,Retest_1,21,,BNU_3,Female,corr
+27071,Retest_2,21,,BNU_3,Female,corr
+27100,Baseline,23,,BNU_3,Female,corr
+27100,Retest_1,23,,BNU_3,Female,corr
+27100,Retest_2,23,,BNU_3,Female,corr
+27093,Baseline,23,,BNU_3,Female,corr
+27093,Retest_1,23,,BNU_3,Female,corr
+27093,Retest_2,23,,BNU_3,Female,corr
+27059,Baseline,23,,BNU_3,Female,corr
+27059,Retest_1,23,,BNU_3,Female,corr
+27059,Retest_2,23,,BNU_3,Female,corr
+27090,Baseline,23,,BNU_3,Female,corr
+27090,Retest_1,23,,BNU_3,Female,corr
+27090,Retest_2,23,,BNU_3,Female,corr
+27068,Baseline,23,,BNU_3,Female,corr
+27068,Retest_1,23,,BNU_3,Female,corr
+27068,Retest_2,23,,BNU_3,Female,corr
+27081,Baseline,23,,BNU_3,Female,corr
+27081,Retest_1,23,,BNU_3,Female,corr
+27081,Retest_2,23,,BNU_3,Female,corr
+27056,Baseline,20,,BNU_3,Female,corr
+27056,Retest_1,20,,BNU_3,Female,corr
+27056,Retest_2,20,,BNU_3,Female,corr
+27066,Baseline,23,,BNU_3,Female,corr
+27066,Retest_1,23,,BNU_3,Female,corr
+27066,Retest_2,23,,BNU_3,Female,corr
+27060,Baseline,20,,BNU_3,Female,corr
+27060,Retest_1,20,,BNU_3,Female,corr
+27060,Retest_2,20,,BNU_3,Female,corr
+27089,Baseline,25,,BNU_3,Male,corr
+27089,Retest_1,25,,BNU_3,Male,corr
+27089,Retest_2,25,,BNU_3,Male,corr
+27083,Baseline,24,,BNU_3,Male,corr
+27083,Retest_1,24,,BNU_3,Male,corr
+27083,Retest_2,24,,BNU_3,Male,corr
+27061,Baseline,30,,BNU_3,Male,corr
+27061,Retest_1,30,,BNU_3,Male,corr
+27061,Retest_2,30,,BNU_3,Male,corr
+27078,Baseline,23,,BNU_3,Female,corr
+27078,Retest_1,23,,BNU_3,Female,corr
+27078,Retest_2,23,,BNU_3,Female,corr
+27079,Baseline,21,,BNU_3,Female,corr
+27079,Retest_1,21,,BNU_3,Female,corr
+27079,Retest_2,21,,BNU_3,Female,corr
+27101,Baseline,23,,BNU_3,Male,corr
+27101,Retest_1,23,,BNU_3,Male,corr
+27101,Retest_2,23,,BNU_3,Male,corr
+27063,Baseline,24,,BNU_3,Male,corr
+27063,Retest_1,24,,BNU_3,Male,corr
+27063,Retest_2,24,,BNU_3,Male,corr
+27085,Baseline,23,,BNU_3,Male,corr
+27085,Retest_1,23,,BNU_3,Male,corr
+27085,Retest_2,23,,BNU_3,Male,corr
+27075,Baseline,23,,BNU_3,Male,corr
+27075,Retest_1,23,,BNU_3,Male,corr
+27075,Retest_2,23,,BNU_3,Male,corr
+27095,Baseline,21,,BNU_3,Male,corr
+27095,Retest_1,21,,BNU_3,Male,corr
+27095,Retest_2,21,,BNU_3,Male,corr
+27076,Baseline,29,,BNU_3,Female,corr
+27076,Retest_1,29,,BNU_3,Female,corr
+27076,Retest_2,29,,BNU_3,Female,corr
+27055,Baseline,22,,BNU_3,Male,corr
+27055,Retest_1,22,,BNU_3,Male,corr
+27055,Retest_2,22,,BNU_3,Male,corr
+27098,Baseline,24,,BNU_3,Male,corr
+27098,Retest_1,24,,BNU_3,Male,corr
+27098,Retest_2,24,,BNU_3,Male,corr
+27077,Baseline,22,,BNU_3,Male,corr
+27077,Retest_1,22,,BNU_3,Male,corr
+27077,Retest_2,22,,BNU_3,Male,corr
+27094,Baseline,22,,BNU_3,Male,corr
+27094,Retest_1,22,,BNU_3,Male,corr
+27094,Retest_2,22,,BNU_3,Male,corr
+27087,Baseline,23,,BNU_3,Male,corr
+27087,Retest_1,23,,BNU_3,Male,corr
+27087,Retest_2,23,,BNU_3,Male,corr
+27097,Baseline,24,,BNU_3,Male,corr
+27097,Retest_1,24,,BNU_3,Male,corr
+27097,Retest_2,24,,BNU_3,Male,corr
+27091,Baseline,23,,BNU_3,Male,corr
+27091,Retest_1,23,,BNU_3,Male,corr
+27091,Retest_2,23,,BNU_3,Male,corr
+27099,Baseline,21,,BNU_3,Female,corr
+27099,Retest_1,21,,BNU_3,Female,corr
+27099,Retest_2,21,,BNU_3,Female,corr
+27102,Baseline,20,,BNU_3,Male,corr
+27102,Retest_1,20,,BNU_3,Male,corr
+27102,Retest_2,20,,BNU_3,Male,corr
+27080,Baseline,22,,BNU_3,Male,corr
+27080,Retest_1,22,,BNU_3,Male,corr
+27080,Retest_2,22,,BNU_3,Male,corr
+27057,Baseline,20,,BNU_3,Female,corr
+27057,Retest_1,20,,BNU_3,Female,corr
+27057,Retest_2,20,,BNU_3,Female,corr
+27092,Baseline,19,,BNU_3,Male,corr
+27092,Retest_1,19,,BNU_3,Male,corr
+27092,Retest_2,19,,BNU_3,Male,corr
+27084,Baseline,25,,BNU_3,Female,corr
+27084,Retest_1,25,,BNU_3,Female,corr
+27084,Retest_2,25,,BNU_3,Female,corr
+27072,Baseline,21,,BNU_3,Female,corr
+27072,Retest_1,21,,BNU_3,Female,corr
+27072,Retest_2,21,,BNU_3,Female,corr
+27070,Baseline,21,,BNU_3,Male,corr
+27070,Retest_1,21,,BNU_3,Male,corr
+27070,Retest_2,21,,BNU_3,Male,corr
+25427,Baseline,23,,HNU_1,Male,corr
+25427,Retest_1,23,,HNU_1,Male,corr
+25427,Retest_2,23,,HNU_1,Male,corr
+25427,Retest_3,23,,HNU_1,Male,corr
+25427,Retest_4,23,,HNU_1,Male,corr
+25427,Retest_5,23,,HNU_1,Male,corr
+25427,Retest_6,23,,HNU_1,Male,corr
+25427,Retest_7,23,,HNU_1,Male,corr
+25427,Retest_8,23,,HNU_1,Male,corr
+25427,Retest_9,23,,HNU_1,Male,corr
+25428,Baseline,28,,HNU_1,Female,corr
+25428,Retest_1,28,,HNU_1,Female,corr
+25428,Retest_2,28,,HNU_1,Female,corr
+25428,Retest_3,28,,HNU_1,Female,corr
+25428,Retest_4,28,,HNU_1,Female,corr
+25428,Retest_5,28,,HNU_1,Female,corr
+25428,Retest_6,28,,HNU_1,Female,corr
+25428,Retest_7,28,,HNU_1,Female,corr
+25428,Retest_8,28,,HNU_1,Female,corr
+25428,Retest_9,28,,HNU_1,Female,corr
+25441,Baseline,24,,HNU_1,Female,corr
+25441,Retest_1,24,,HNU_1,Female,corr
+25441,Retest_2,24,,HNU_1,Female,corr
+25441,Retest_3,24,,HNU_1,Female,corr
+25441,Retest_4,24,,HNU_1,Female,corr
+25441,Retest_5,24,,HNU_1,Female,corr
+25441,Retest_6,24,,HNU_1,Female,corr
+25441,Retest_7,24,,HNU_1,Female,corr
+25441,Retest_8,24,,HNU_1,Female,corr
+25441,Retest_9,24,,HNU_1,Female,corr
+25442,Baseline,27,,HNU_1,Female,corr
+25442,Retest_1,27,,HNU_1,Female,corr
+25442,Retest_2,27,,HNU_1,Female,corr
+25442,Retest_3,27,,HNU_1,Female,corr
+25442,Retest_4,27,,HNU_1,Female,corr
+25442,Retest_5,27,,HNU_1,Female,corr
+25442,Retest_6,27,,HNU_1,Female,corr
+25442,Retest_7,27,,HNU_1,Female,corr
+25442,Retest_8,27,,HNU_1,Female,corr
+25442,Retest_9,27,,HNU_1,Female,corr
+25443,Baseline,25,,HNU_1,Male,corr
+25443,Retest_1,25,,HNU_1,Male,corr
+25443,Retest_2,25,,HNU_1,Male,corr
+25443,Retest_3,25,,HNU_1,Male,corr
+25443,Retest_4,25,,HNU_1,Male,corr
+25443,Retest_5,25,,HNU_1,Male,corr
+25443,Retest_6,25,,HNU_1,Male,corr
+25443,Retest_7,25,,HNU_1,Male,corr
+25443,Retest_8,25,,HNU_1,Male,corr
+25443,Retest_9,25,,HNU_1,Male,corr
+25444,Baseline,27,,HNU_1,Female,corr
+25444,Retest_1,27,,HNU_1,Female,corr
+25444,Retest_2,27,,HNU_1,Female,corr
+25444,Retest_3,27,,HNU_1,Female,corr
+25444,Retest_4,27,,HNU_1,Female,corr
+25444,Retest_5,27,,HNU_1,Female,corr
+25444,Retest_6,27,,HNU_1,Female,corr
+25444,Retest_7,27,,HNU_1,Female,corr
+25444,Retest_8,27,,HNU_1,Female,corr
+25444,Retest_9,27,,HNU_1,Female,corr
+25445,Baseline,23,,HNU_1,Female,corr
+25445,Retest_1,23,,HNU_1,Female,corr
+25445,Retest_2,23,,HNU_1,Female,corr
+25445,Retest_3,23,,HNU_1,Female,corr
+25445,Retest_4,23,,HNU_1,Female,corr
+25445,Retest_5,23,,HNU_1,Female,corr
+25445,Retest_6,23,,HNU_1,Female,corr
+25445,Retest_7,23,,HNU_1,Female,corr
+25445,Retest_8,23,,HNU_1,Female,corr
+25445,Retest_9,23,,HNU_1,Female,corr
+25446,Baseline,30,,HNU_1,Male,corr
+25446,Retest_1,30,,HNU_1,Male,corr
+25446,Retest_2,30,,HNU_1,Male,corr
+25446,Retest_3,30,,HNU_1,Male,corr
+25446,Retest_4,30,,HNU_1,Male,corr
+25446,Retest_5,30,,HNU_1,Male,corr
+25446,Retest_6,30,,HNU_1,Male,corr
+25446,Retest_7,30,,HNU_1,Male,corr
+25446,Retest_8,30,,HNU_1,Male,corr
+25446,Retest_9,30,,HNU_1,Male,corr
+25447,Baseline,26,,HNU_1,Male,corr
+25447,Retest_1,26,,HNU_1,Male,corr
+25447,Retest_2,26,,HNU_1,Male,corr
+25447,Retest_3,26,,HNU_1,Male,corr
+25447,Retest_4,26,,HNU_1,Male,corr
+25447,Retest_5,26,,HNU_1,Male,corr
+25447,Retest_6,26,,HNU_1,Male,corr
+25447,Retest_7,26,,HNU_1,Male,corr
+25447,Retest_8,26,,HNU_1,Male,corr
+25447,Retest_9,26,,HNU_1,Male,corr
+25448,Baseline,23,,HNU_1,Male,corr
+25448,Retest_1,23,,HNU_1,Male,corr
+25448,Retest_2,23,,HNU_1,Male,corr
+25448,Retest_3,23,,HNU_1,Male,corr
+25448,Retest_4,23,,HNU_1,Male,corr
+25448,Retest_5,23,,HNU_1,Male,corr
+25448,Retest_6,23,,HNU_1,Male,corr
+25448,Retest_7,23,,HNU_1,Male,corr
+25448,Retest_8,23,,HNU_1,Male,corr
+25448,Retest_9,23,,HNU_1,Male,corr
+25449,Baseline,22,,HNU_1,Male,corr
+25449,Retest_1,22,,HNU_1,Male,corr
+25449,Retest_2,22,,HNU_1,Male,corr
+25449,Retest_3,22,,HNU_1,Male,corr
+25449,Retest_4,22,,HNU_1,Male,corr
+25449,Retest_5,22,,HNU_1,Male,corr
+25449,Retest_6,22,,HNU_1,Male,corr
+25449,Retest_7,22,,HNU_1,Male,corr
+25449,Retest_8,22,,HNU_1,Male,corr
+25449,Retest_9,22,,HNU_1,Male,corr
+25450,Baseline,25,,HNU_1,Female,corr
+25450,Retest_1,25,,HNU_1,Female,corr
+25450,Retest_2,25,,HNU_1,Female,corr
+25450,Retest_3,25,,HNU_1,Female,corr
+25450,Retest_4,25,,HNU_1,Female,corr
+25450,Retest_5,25,,HNU_1,Female,corr
+25450,Retest_6,25,,HNU_1,Female,corr
+25450,Retest_7,25,,HNU_1,Female,corr
+25450,Retest_8,25,,HNU_1,Female,corr
+25450,Retest_9,25,,HNU_1,Female,corr
+25451,Baseline,22,,HNU_1,Male,corr
+25451,Retest_1,22,,HNU_1,Male,corr
+25451,Retest_2,22,,HNU_1,Male,corr
+25451,Retest_3,22,,HNU_1,Male,corr
+25451,Retest_4,22,,HNU_1,Male,corr
+25451,Retest_5,22,,HNU_1,Male,corr
+25451,Retest_6,22,,HNU_1,Male,corr
+25451,Retest_7,22,,HNU_1,Male,corr
+25451,Retest_8,22,,HNU_1,Male,corr
+25451,Retest_9,22,,HNU_1,Male,corr
+25452,Baseline,22,,HNU_1,Female,corr
+25452,Retest_1,22,,HNU_1,Female,corr
+25452,Retest_2,22,,HNU_1,Female,corr
+25452,Retest_3,22,,HNU_1,Female,corr
+25452,Retest_4,22,,HNU_1,Female,corr
+25452,Retest_5,22,,HNU_1,Female,corr
+25452,Retest_6,22,,HNU_1,Female,corr
+25452,Retest_7,22,,HNU_1,Female,corr
+25452,Retest_8,22,,HNU_1,Female,corr
+25452,Retest_9,22,,HNU_1,Female,corr
+25453,Baseline,26,,HNU_1,Female,corr
+25453,Retest_1,26,,HNU_1,Female,corr
+25453,Retest_2,26,,HNU_1,Female,corr
+25453,Retest_3,26,,HNU_1,Female,corr
+25453,Retest_4,26,,HNU_1,Female,corr
+25453,Retest_5,26,,HNU_1,Female,corr
+25453,Retest_6,26,,HNU_1,Female,corr
+25453,Retest_7,26,,HNU_1,Female,corr
+25453,Retest_8,26,,HNU_1,Female,corr
+25453,Retest_9,26,,HNU_1,Female,corr
+25454,Baseline,26,,HNU_1,Male,corr
+25454,Retest_1,26,,HNU_1,Male,corr
+25454,Retest_2,26,,HNU_1,Male,corr
+25454,Retest_3,26,,HNU_1,Male,corr
+25454,Retest_4,26,,HNU_1,Male,corr
+25454,Retest_5,26,,HNU_1,Male,corr
+25454,Retest_6,26,,HNU_1,Male,corr
+25454,Retest_7,26,,HNU_1,Male,corr
+25454,Retest_8,26,,HNU_1,Male,corr
+25454,Retest_9,26,,HNU_1,Male,corr
+25455,Baseline,25,,HNU_1,Male,corr
+25455,Retest_1,25,,HNU_1,Male,corr
+25455,Retest_2,25,,HNU_1,Male,corr
+25455,Retest_3,25,,HNU_1,Male,corr
+25455,Retest_4,25,,HNU_1,Male,corr
+25455,Retest_5,25,,HNU_1,Male,corr
+25455,Retest_6,25,,HNU_1,Male,corr
+25455,Retest_7,25,,HNU_1,Male,corr
+25455,Retest_8,25,,HNU_1,Male,corr
+25455,Retest_9,25,,HNU_1,Male,corr
+25456,Baseline,22,,HNU_1,Female,corr
+25456,Retest_1,22,,HNU_1,Female,corr
+25456,Retest_2,22,,HNU_1,Female,corr
+25456,Retest_3,22,,HNU_1,Female,corr
+25456,Retest_4,22,,HNU_1,Female,corr
+25456,Retest_5,22,,HNU_1,Female,corr
+25456,Retest_6,22,,HNU_1,Female,corr
+25456,Retest_7,22,,HNU_1,Female,corr
+25456,Retest_8,22,,HNU_1,Female,corr
+25456,Retest_9,22,,HNU_1,Female,corr
+25429,Baseline,23,,HNU_1,Female,corr
+25429,Retest_1,23,,HNU_1,Female,corr
+25429,Retest_2,23,,HNU_1,Female,corr
+25429,Retest_3,23,,HNU_1,Female,corr
+25429,Retest_4,23,,HNU_1,Female,corr
+25429,Retest_5,23,,HNU_1,Female,corr
+25429,Retest_6,23,,HNU_1,Female,corr
+25429,Retest_7,23,,HNU_1,Female,corr
+25429,Retest_8,23,,HNU_1,Female,corr
+25429,Retest_9,23,,HNU_1,Female,corr
+25430,Baseline,20,,HNU_1,Female,corr
+25430,Retest_1,20,,HNU_1,Female,corr
+25430,Retest_2,20,,HNU_1,Female,corr
+25430,Retest_3,20,,HNU_1,Female,corr
+25430,Retest_4,20,,HNU_1,Female,corr
+25430,Retest_5,20,,HNU_1,Female,corr
+25430,Retest_6,20,,HNU_1,Female,corr
+25430,Retest_7,20,,HNU_1,Female,corr
+25430,Retest_8,20,,HNU_1,Female,corr
+25430,Retest_9,20,,HNU_1,Female,corr
+25431,Baseline,25,,HNU_1,Female,corr
+25431,Retest_1,25,,HNU_1,Female,corr
+25431,Retest_2,25,,HNU_1,Female,corr
+25431,Retest_3,25,,HNU_1,Female,corr
+25431,Retest_4,25,,HNU_1,Female,corr
+25431,Retest_5,25,,HNU_1,Female,corr
+25431,Retest_6,25,,HNU_1,Female,corr
+25431,Retest_7,25,,HNU_1,Female,corr
+25431,Retest_8,25,,HNU_1,Female,corr
+25431,Retest_9,25,,HNU_1,Female,corr
+25432,Baseline,21,,HNU_1,Male,corr
+25432,Retest_1,21,,HNU_1,Male,corr
+25432,Retest_2,21,,HNU_1,Male,corr
+25432,Retest_3,21,,HNU_1,Male,corr
+25432,Retest_4,21,,HNU_1,Male,corr
+25432,Retest_5,21,,HNU_1,Male,corr
+25432,Retest_6,21,,HNU_1,Male,corr
+25432,Retest_7,21,,HNU_1,Male,corr
+25432,Retest_8,21,,HNU_1,Male,corr
+25432,Retest_9,21,,HNU_1,Male,corr
+25433,Baseline,22,,HNU_1,Male,corr
+25433,Retest_1,22,,HNU_1,Male,corr
+25433,Retest_2,22,,HNU_1,Male,corr
+25433,Retest_3,22,,HNU_1,Male,corr
+25433,Retest_4,22,,HNU_1,Male,corr
+25433,Retest_5,22,,HNU_1,Male,corr
+25433,Retest_6,22,,HNU_1,Male,corr
+25433,Retest_7,22,,HNU_1,Male,corr
+25433,Retest_8,22,,HNU_1,Male,corr
+25433,Retest_9,22,,HNU_1,Male,corr
+25434,Baseline,24,,HNU_1,Male,corr
+25434,Retest_1,24,,HNU_1,Male,corr
+25434,Retest_2,24,,HNU_1,Male,corr
+25434,Retest_3,24,,HNU_1,Male,corr
+25434,Retest_4,24,,HNU_1,Male,corr
+25434,Retest_5,24,,HNU_1,Male,corr
+25434,Retest_6,24,,HNU_1,Male,corr
+25434,Retest_7,24,,HNU_1,Male,corr
+25434,Retest_8,24,,HNU_1,Male,corr
+25434,Retest_9,24,,HNU_1,Male,corr
+25435,Baseline,30,,HNU_1,Female,corr
+25435,Retest_1,30,,HNU_1,Female,corr
+25435,Retest_2,30,,HNU_1,Female,corr
+25435,Retest_3,30,,HNU_1,Female,corr
+25435,Retest_4,30,,HNU_1,Female,corr
+25435,Retest_5,30,,HNU_1,Female,corr
+25435,Retest_6,30,,HNU_1,Female,corr
+25435,Retest_7,30,,HNU_1,Female,corr
+25435,Retest_8,30,,HNU_1,Female,corr
+25435,Retest_9,30,,HNU_1,Female,corr
+25436,Baseline,25,,HNU_1,Male,corr
+25436,Retest_1,25,,HNU_1,Male,corr
+25436,Retest_2,25,,HNU_1,Male,corr
+25436,Retest_3,25,,HNU_1,Male,corr
+25436,Retest_4,25,,HNU_1,Male,corr
+25436,Retest_5,25,,HNU_1,Male,corr
+25436,Retest_6,25,,HNU_1,Male,corr
+25436,Retest_7,25,,HNU_1,Male,corr
+25436,Retest_8,25,,HNU_1,Male,corr
+25436,Retest_9,25,,HNU_1,Male,corr
+25437,Baseline,24,,HNU_1,Male,corr
+25437,Retest_1,24,,HNU_1,Male,corr
+25437,Retest_2,24,,HNU_1,Male,corr
+25437,Retest_3,24,,HNU_1,Male,corr
+25437,Retest_4,24,,HNU_1,Male,corr
+25437,Retest_5,24,,HNU_1,Male,corr
+25437,Retest_6,24,,HNU_1,Male,corr
+25437,Retest_7,24,,HNU_1,Male,corr
+25437,Retest_8,24,,HNU_1,Male,corr
+25437,Retest_9,24,,HNU_1,Male,corr
+25438,Baseline,23,,HNU_1,Female,corr
+25438,Retest_1,23,,HNU_1,Female,corr
+25438,Retest_2,23,,HNU_1,Female,corr
+25438,Retest_3,23,,HNU_1,Female,corr
+25438,Retest_4,23,,HNU_1,Female,corr
+25438,Retest_5,23,,HNU_1,Female,corr
+25438,Retest_6,23,,HNU_1,Female,corr
+25438,Retest_7,23,,HNU_1,Female,corr
+25438,Retest_8,23,,HNU_1,Female,corr
+25438,Retest_9,23,,HNU_1,Female,corr
+25439,Baseline,24,,HNU_1,Female,corr
+25439,Retest_1,24,,HNU_1,Female,corr
+25439,Retest_2,24,,HNU_1,Female,corr
+25439,Retest_3,24,,HNU_1,Female,corr
+25439,Retest_4,24,,HNU_1,Female,corr
+25439,Retest_5,24,,HNU_1,Female,corr
+25439,Retest_6,24,,HNU_1,Female,corr
+25439,Retest_7,24,,HNU_1,Female,corr
+25439,Retest_8,24,,HNU_1,Female,corr
+25439,Retest_9,24,,HNU_1,Female,corr
+25440,Baseline,24,,HNU_1,Male,corr
+25440,Retest_1,24,,HNU_1,Male,corr
+25440,Retest_2,24,,HNU_1,Male,corr
+25440,Retest_3,24,,HNU_1,Male,corr
+25440,Retest_4,24,,HNU_1,Male,corr
+25440,Retest_5,24,,HNU_1,Male,corr
+25440,Retest_6,24,,HNU_1,Male,corr
+25440,Retest_7,24,,HNU_1,Male,corr
+25440,Retest_8,24,,HNU_1,Male,corr
+25440,Retest_9,24,,HNU_1,Male,corr
+25457,Baseline,24,,IACAS,Female,corr
+25457,Retest_1,24,,IACAS,Female,corr
+25458,Baseline,24,,IACAS,Male,corr
+25458,Retest_1,24,,IACAS,Male,corr
+25459,Baseline,25,,IACAS,Male,corr
+25459,Retest_1,25,,IACAS,Male,corr
+25460,Baseline,24,,IACAS,Female,corr
+25460,Retest_1,24,,IACAS,Female,corr
+25461,Baseline,25,,IACAS,Male,corr
+25461,Retest_1,25,,IACAS,Male,corr
+25462,Baseline,24,,IACAS,Female,corr
+25462,Retest_1,24,,IACAS,Female,corr
+25463,Baseline,28,,IACAS,Female,corr
+25463,Retest_1,28,,IACAS,Female,corr
+25464,Baseline,26,,IACAS,Female,corr
+25464,Retest_1,26,,IACAS,Female,corr
+25465,Baseline,24,,IACAS,Male,corr
+25465,Retest_1,24,,IACAS,Male,corr
+25466,Baseline,24,,IACAS,Female,corr
+25466,Retest_1,24,,IACAS,Female,corr
+25467,Baseline,30,,IACAS,Male,corr
+25467,Retest_1,30,,IACAS,Male,corr
+25468,Baseline,31,,IACAS,Female,corr
+25468,Retest_1,31,,IACAS,Female,corr
+25469,Baseline,25,,IACAS,Female,corr
+25469,Retest_1,25,,IACAS,Female,corr
+25470,Baseline,21,,IACAS,Female,corr
+25470,Retest_1,21,,IACAS,Female,corr
+25471,Baseline,19,,IACAS,Male,corr
+25471,Retest_1,19,,IACAS,Male,corr
+25472,Baseline,29,,IACAS,Female,corr
+25472,Retest_1,29,,IACAS,Female,corr
+25473,Baseline,34,,IACAS,Female,corr
+25473,Retest_1,34,,IACAS,Female,corr
+25474,Baseline,43,,IACAS,Male,corr
+25474,Retest_1,43,,IACAS,Male,corr
+25475,Baseline,29,,IACAS,Male,corr
+25475,Retest_1,29,,IACAS,Male,corr
+25476,Baseline,25,,IACAS,Male,corr
+25476,Retest_1,25,,IACAS,Male,corr
+25477,Baseline,29,,IACAS,Male,corr
+25477,Retest_1,29,,IACAS,Male,corr
+25478,Baseline,24,,IACAS,Male,corr
+25478,Retest_1,24,,IACAS,Male,corr
+25479,Baseline,32,,IACAS,Male,corr
+25479,Retest_1,32,,IACAS,Male,corr
+25480,Baseline,19,,IACAS,Female,corr
+25480,Retest_1,19,,IACAS,Female,corr
+25481,Baseline,27,,IACAS,Male,corr
+25481,Retest_1,27,,IACAS,Male,corr
+25482,Baseline,28,,IACAS,Female,corr
+25482,Retest_1,28,,IACAS,Female,corr
+25483,Baseline,19,,IACAS,Female,corr
+25483,Retest_1,19,,IACAS,Female,corr
+25484,Baseline,28,,IACAS,Female,corr
+25484,Retest_1,28,,IACAS,Female,corr
+27223,Baseline,20,,IBATRT,Female,corr
+27224,Baseline,40,,IBATRT,Male,corr
+27224,Retest_1,,,IBATRT,Male,corr
+27225,Baseline,26,,IBATRT,Female,corr
+27225,Retest_1,,,IBATRT,Female,corr
+27226,Baseline,36,,IBATRT,Male,corr
+27226,Retest_1,,,IBATRT,Male,corr
+27227,Baseline,20,,IBATRT,Male,corr
+27227,Retest_1,,,IBATRT,Male,corr
+27228,Baseline,25,,IBATRT,Male,corr
+27228,Retest_1,,,IBATRT,Male,corr
+27229,Baseline,48,,IBATRT,Female,corr
+27230,Baseline,20,,IBATRT,Male,corr
+27231,Baseline,20,,IBATRT,Female,corr
+27231,Retest_1,,,IBATRT,Female,corr
+27232,Baseline,23,,IBATRT,Female,corr
+27233,Baseline,22,,IBATRT,Female,corr
+27234,Baseline,21,,IBATRT,Female,corr
+27235,Baseline,24,,IBATRT,Female,corr
+27236,Baseline,29,,IBATRT,Male,corr
+27237,Baseline,20,,IBATRT,Male,corr
+27238,Baseline,20,,IBATRT,Male,corr
+27239,Baseline,40,,IBATRT,Female,corr
+27240,Baseline,40,,IBATRT,Male,corr
+27240,Retest_1,,,IBATRT,Male,corr
+27241,Baseline,27,,IBATRT,Male,corr
+27241,Retest_1,,,IBATRT,Male,corr
+27242,Baseline,26,,IBATRT,Male,corr
+27243,Baseline,36,,IBATRT,Male,corr
+27243,Retest_1,,,IBATRT,Male,corr
+27244,Baseline,22,,IBATRT,Female,corr
+27245,Baseline,39,,IBATRT,Male,corr
+27246,Baseline,21,,IBATRT,Female,corr
+27247,Baseline,22,,IBATRT,Male,corr
+27248,Baseline,23,,IBATRT,Female,corr
+27248,Retest_1,,,IBATRT,Female,corr
+27249,Baseline,26,,IBATRT,Female,corr
+27250,Baseline,33,,IBATRT,Female,corr
+27250,Retest_1,,,IBATRT,Female,corr
+27251,Baseline,26,,IBATRT,Male,corr
+27251,Retest_1,,,IBATRT,Male,corr
+27252,Baseline,32,,IBATRT,Female,corr
+27252,Retest_1,,,IBATRT,Female,corr
+27253,Baseline,22,,IBATRT,Male,corr
+27254,Baseline,19,,IBATRT,Female,corr
+27255,Baseline,22,,IBATRT,Female,corr
+27256,Baseline,33,,IBATRT,Male,corr
+27256,Retest_1,,,IBATRT,Male,corr
+27257,Baseline,40,,IBATRT,Female,corr
+27258,Baseline,21,,IBATRT,Male,corr
+25485,Baseline,23,,IPCAS_1,Female,corr
+25485,Retest_1,,,IPCAS_1,,corr
+25485,Retest_2,,,IPCAS_1,,corr
+25485,Retest_3,,,IPCAS_1,,corr
+25486,Baseline,22,,IPCAS_1,Male,corr
+25486,Retest_1,,,IPCAS_1,,corr
+25486,Retest_2,,,IPCAS_1,,corr
+25486,Retest_3,,,IPCAS_1,,corr
+25487,Baseline,18,,IPCAS_1,Female,corr
+25487,Retest_1,,,IPCAS_1,,corr
+25487,Retest_2,,,IPCAS_1,,corr
+25487,Retest_3,,,IPCAS_1,,corr
+25488,Baseline,21,,IPCAS_1,Male,corr
+25488,Retest_1,,,IPCAS_1,,corr
+25488,Retest_2,,,IPCAS_1,,corr
+25488,Retest_3,,,IPCAS_1,,corr
+25489,Baseline,23,,IPCAS_1,Female,corr
+25489,Retest_1,,,IPCAS_1,,corr
+25489,Retest_2,,,IPCAS_1,,corr
+25489,Retest_3,,,IPCAS_1,,corr
+25490,Baseline,24,,IPCAS_1,Male,corr
+25490,Retest_1,,,IPCAS_1,,corr
+25490,Retest_2,,,IPCAS_1,,corr
+25490,Retest_3,,,IPCAS_1,,corr
+25491,Baseline,20,,IPCAS_1,Male,corr
+25491,Retest_1,,,IPCAS_1,,corr
+25491,Retest_2,,,IPCAS_1,,corr
+25491,Retest_3,,,IPCAS_1,,corr
+25492,Baseline,22,,IPCAS_1,Female,corr
+25492,Retest_1,,,IPCAS_1,,corr
+25492,Retest_2,,,IPCAS_1,,corr
+25492,Retest_3,,,IPCAS_1,,corr
+25493,Baseline,18,,IPCAS_1,Female,corr
+25493,Retest_1,,,IPCAS_1,,corr
+25493,Retest_2,,,IPCAS_1,,corr
+25493,Retest_3,,,IPCAS_1,,corr
+25494,Baseline,20,,IPCAS_1,Female,corr
+25494,Retest_1,,,IPCAS_1,,corr
+25494,Retest_2,,,IPCAS_1,,corr
+25494,Retest_3,,,IPCAS_1,,corr
+25495,Baseline,19,,IPCAS_1,Female,corr
+25495,Retest_1,,,IPCAS_1,,corr
+25495,Retest_2,,,IPCAS_1,,corr
+25495,Retest_3,,,IPCAS_1,,corr
+25496,Baseline,22,,IPCAS_1,Female,corr
+25496,Retest_1,,,IPCAS_1,,corr
+25496,Retest_2,,,IPCAS_1,,corr
+25496,Retest_3,,,IPCAS_1,,corr
+25497,Baseline,19,,IPCAS_1,Female,corr
+25497,Retest_1,,,IPCAS_1,,corr
+25497,Retest_2,,,IPCAS_1,,corr
+25497,Retest_3,,,IPCAS_1,,corr
+25498,Baseline,23,,IPCAS_1,Male,corr
+25498,Retest_1,,,IPCAS_1,,corr
+25498,Retest_2,,,IPCAS_1,,corr
+25498,Retest_3,,,IPCAS_1,,corr
+25499,Baseline,20,,IPCAS_1,Female,corr
+25499,Retest_1,,,IPCAS_1,,corr
+25499,Retest_2,,,IPCAS_1,,corr
+25499,Retest_3,,,IPCAS_1,,corr
+25500,Baseline,18,,IPCAS_1,Female,corr
+25500,Retest_1,,,IPCAS_1,,corr
+25500,Retest_2,,,IPCAS_1,,corr
+25500,Retest_3,,,IPCAS_1,,corr
+25501,Baseline,22,,IPCAS_1,Male,corr
+25501,Retest_1,,,IPCAS_1,,corr
+25501,Retest_2,,,IPCAS_1,,corr
+25501,Retest_3,,,IPCAS_1,,corr
+25502,Baseline,21,,IPCAS_1,Female,corr
+25502,Retest_1,,,IPCAS_1,,corr
+25502,Retest_2,,,IPCAS_1,,corr
+25502,Retest_3,,,IPCAS_1,,corr
+25503,Baseline,20,,IPCAS_1,Female,corr
+25503,Retest_1,,,IPCAS_1,,corr
+25503,Retest_2,,,IPCAS_1,,corr
+25503,Retest_3,,,IPCAS_1,,corr
+25504,Baseline,20,,IPCAS_1,Female,corr
+25504,Retest_1,,,IPCAS_1,,corr
+25504,Retest_2,,,IPCAS_1,,corr
+25504,Retest_3,,,IPCAS_1,,corr
+25505,Baseline,21,,IPCAS_1,Female,corr
+25505,Retest_1,,,IPCAS_1,,corr
+25505,Retest_2,,,IPCAS_1,,corr
+25505,Retest_3,,,IPCAS_1,,corr
+25506,Baseline,22,,IPCAS_1,Male,corr
+25506,Retest_1,,,IPCAS_1,,corr
+25506,Retest_2,,,IPCAS_1,,corr
+25506,Retest_3,,,IPCAS_1,,corr
+25507,Baseline,23,,IPCAS_1,Female,corr
+25507,Retest_1,,,IPCAS_1,,corr
+25507,Retest_2,,,IPCAS_1,,corr
+25507,Retest_3,,,IPCAS_1,,corr
+25508,Baseline,20,,IPCAS_1,Female,corr
+25508,Retest_1,,,IPCAS_1,,corr
+25508,Retest_2,,,IPCAS_1,,corr
+25508,Retest_3,,,IPCAS_1,,corr
+25509,Baseline,23,,IPCAS_1,Male,corr
+25509,Retest_1,,,IPCAS_1,,corr
+25509,Retest_2,,,IPCAS_1,,corr
+25509,Retest_3,,,IPCAS_1,,corr
+25510,Baseline,20,,IPCAS_1,Female,corr
+25510,Retest_1,,,IPCAS_1,,corr
+25510,Retest_2,,,IPCAS_1,,corr
+25510,Retest_3,,,IPCAS_1,,corr
+25511,Baseline,20,,IPCAS_1,Female,corr
+25511,Retest_1,,,IPCAS_1,,corr
+25511,Retest_2,,,IPCAS_1,,corr
+25511,Retest_3,,,IPCAS_1,,corr
+25512,Baseline,20,,IPCAS_1,Female,corr
+25512,Retest_1,,,IPCAS_1,,corr
+25512,Retest_2,,,IPCAS_1,,corr
+25512,Retest_3,,,IPCAS_1,,corr
+25513,Baseline,19,,IPCAS_1,Male,corr
+25513,Retest_1,,,IPCAS_1,,corr
+25513,Retest_2,,,IPCAS_1,,corr
+25513,Retest_3,,,IPCAS_1,,corr
+25514,Baseline,24,,IPCAS_1,Female,corr
+25514,Retest_1,,,IPCAS_1,,corr
+25514,Retest_2,,,IPCAS_1,,corr
+25514,Retest_3,,,IPCAS_1,,corr
+25515,Baseline,12,,IPCAS_2,Female,corr
+25515,Retest_1,12,,IPCAS_2,Female,corr
+25516,Baseline,13,,IPCAS_2,Male,corr
+25516,Retest_1,14,,IPCAS_2,Male,corr
+25517,Baseline,13,,IPCAS_2,Female,corr
+25517,Retest_1,13,,IPCAS_2,Female,corr
+25518,Baseline,12,,IPCAS_2,Male,corr
+25518,Retest_1,12,,IPCAS_2,Male,corr
+25519,Baseline,13,,IPCAS_2,Female,corr
+25519,Retest_1,13,,IPCAS_2,Female,corr
+25520,Baseline,13,,IPCAS_2,Female,corr
+25520,Retest_1,13,,IPCAS_2,Female,corr
+25521,Baseline,14,,IPCAS_2,Female,corr
+25521,Retest_1,14,,IPCAS_2,Female,corr
+25522,Baseline,12,,IPCAS_2,Female,corr
+25522,Retest_1,13,,IPCAS_2,Female,corr
+25523,Baseline,13,,IPCAS_2,Male,corr
+25523,Retest_1,13,,IPCAS_2,Male,corr
+25524,Baseline,12,,IPCAS_2,Female,corr
+25524,Retest_1,12,,IPCAS_2,Female,corr
+25525,Baseline,13,,IPCAS_2,Female,corr
+25525,Retest_1,13,,IPCAS_2,Female,corr
+25526,Baseline,15,,IPCAS_2,Male,corr
+25526,Retest_1,15,,IPCAS_2,Male,corr
+25527,Baseline,14,,IPCAS_2,Male,corr
+25527,Retest_1,14,,IPCAS_2,Male,corr
+25528,Baseline,12,,IPCAS_2,Female,corr
+25528,Retest_1,12,,IPCAS_2,Female,corr
+25529,Baseline,13,,IPCAS_2,Female,corr
+25529,Retest_1,13,,IPCAS_2,Female,corr
+25530,Baseline,13,,IPCAS_2,Female,corr
+25530,Retest_1,13,,IPCAS_2,Female,corr
+25531,Baseline,13,,IPCAS_2,Male,corr
+25531,Retest_1,13,,IPCAS_2,Male,corr
+25532,Baseline,13,,IPCAS_2,Female,corr
+25532,Retest_1,13,,IPCAS_2,Female,corr
+25533,Baseline,12,,IPCAS_2,Female,corr
+25533,Retest_1,12,,IPCAS_2,Female,corr
+25534,Baseline,13,,IPCAS_2,Male,corr
+25534,Retest_1,13,,IPCAS_2,Male,corr
+25535,Baseline,11,,IPCAS_2,Female,corr
+25535,Retest_1,11,,IPCAS_2,Female,corr
+25536,Baseline,13,,IPCAS_2,Male,corr
+25536,Retest_1,13,,IPCAS_2,Male,corr
+25537,Baseline,15,,IPCAS_2,Female,corr
+25537,Retest_1,15,,IPCAS_2,Female,corr
+25538,Baseline,14,,IPCAS_2,Female,corr
+25538,Retest_1,14,,IPCAS_2,Female,corr
+25539,Baseline,14,,IPCAS_2,Female,corr
+25539,Retest_1,14,,IPCAS_2,Female,corr
+25540,Baseline,14,,IPCAS_2,Female,corr
+25540,Retest_1,14,,IPCAS_2,Female,corr
+25541,Baseline,14,,IPCAS_2,Female,corr
+25541,Retest_1,14,,IPCAS_2,Female,corr
+25542,Baseline,14,,IPCAS_2,Female,corr
+25542,Retest_1,14,,IPCAS_2,Female,corr
+25543,Baseline,13,,IPCAS_2,Female,corr
+25543,Retest_1,13,,IPCAS_2,Female,corr
+25544,Baseline,15,,IPCAS_2,Female,corr
+25544,Retest_1,15,,IPCAS_2,Female,corr
+25546,Baseline,14,,IPCAS_2,Male,corr
+25546,Retest_1,14,,IPCAS_2,Male,corr
+25547,Baseline,14,,IPCAS_2,Male,corr
+25547,Retest_1,14,,IPCAS_2,Male,corr
+25548,Baseline,15,,IPCAS_2,Male,corr
+25548,Retest_1,15,,IPCAS_2,Male,corr
+25549,Baseline,14,,IPCAS_2,Male,corr
+25549,Retest_1,14,,IPCAS_2,Male,corr
+25550,Baseline,20,,IPCAS_3,Female,corr
+25550,Retest_1,,,IPCAS_3,,corr
+25551,Baseline,21,,IPCAS_3,Female,corr
+25551,Retest_1,,,IPCAS_3,,corr
+25552,Baseline,22,,IPCAS_3,Female,corr
+25552,Retest_1,,,IPCAS_3,,corr
+25553,Baseline,24,,IPCAS_3,Male,corr
+25553,Retest_1,,,IPCAS_3,,corr
+25554,Baseline,20,,IPCAS_3,Female,corr
+25554,Retest_1,,,IPCAS_3,,corr
+25555,Baseline,21,,IPCAS_3,Male,corr
+25555,Retest_1,,,IPCAS_3,,corr
+25556,Baseline,18,,IPCAS_3,Female,corr
+25556,Retest_1,,,IPCAS_3,,corr
+25557,Baseline,19,,IPCAS_3,Female,corr
+25557,Retest_1,,,IPCAS_3,,corr
+25557,Retest_2,,,IPCAS_3,,corr
+25557,Retest_3,,,IPCAS_3,,corr
+25558,Baseline,22,,IPCAS_3,Male,corr
+25558,Retest_1,,,IPCAS_3,,corr
+25559,Baseline,18,,IPCAS_3,Female,corr
+25559,Retest_1,,,IPCAS_3,,corr
+25560,Baseline,20,,IPCAS_3,Female,corr
+25560,Retest_1,,,IPCAS_3,,corr
+25561,Baseline,25,,IPCAS_3,Male,corr
+25561,Retest_1,,,IPCAS_3,,corr
+25561,Retest_2,,,IPCAS_3,,corr
+25561,Retest_3,,,IPCAS_3,,corr
+25562,Baseline,24,,IPCAS_3,Male,corr
+25562,Retest_1,,,IPCAS_3,,corr
+25562,Retest_2,,,IPCAS_3,,corr
+25562,Retest_3,,,IPCAS_3,,corr
+25563,Baseline,22,,IPCAS_3,Male,corr
+25563,Retest_1,,,IPCAS_3,,corr
+25564,Baseline,20,,IPCAS_3,Female,corr
+25564,Retest_1,,,IPCAS_3,,corr
+25565,Baseline,22,,IPCAS_3,Male,corr
+25565,Retest_1,,,IPCAS_3,,corr
+25566,Retest_2,,,IPCAS_3,,corr
+25566,Retest_3,,,IPCAS_3,,corr
+25567,Baseline,21,,IPCAS_3,Female,corr
+25567,Retest_1,,,IPCAS_3,,corr
+25567,Retest_2,,,IPCAS_3,,corr
+25567,Retest_3,,,IPCAS_3,,corr
+25568,Baseline,20,,IPCAS_3,Female,corr
+25568,Retest_1,,,IPCAS_3,,corr
+25569,Baseline,22,,IPCAS_3,Male,corr
+25569,Retest_1,,,IPCAS_3,,corr
+25570,Baseline,22,,IPCAS_3,Male,corr
+25570,Retest_1,,,IPCAS_3,,corr
+25571,Baseline,21,,IPCAS_3,Female,corr
+25571,Retest_1,,,IPCAS_3,,corr
+25572,Baseline,20,,IPCAS_3,Female,corr
+25572,Retest_1,,,IPCAS_3,,corr
+25573,Baseline,21,,IPCAS_3,Male,corr
+25573,Retest_1,,,IPCAS_3,,corr
+25574,Baseline,22,,IPCAS_3,Female,corr
+25574,Retest_1,,,IPCAS_3,,corr
+25575,Baseline,23,,IPCAS_3,Female,corr
+25575,Retest_1,,,IPCAS_3,,corr
+25576,Baseline,20,,IPCAS_3,Female,corr
+25576,Retest_1,,,IPCAS_3,,corr
+25577,Baseline,23,,IPCAS_3,Female,corr
+25577,Retest_1,,,IPCAS_3,,corr
+25578,Baseline,17,,IPCAS_3,Female,corr
+25578,Retest_1,,,IPCAS_3,,corr
+25579,Baseline,20,,IPCAS_3,Female,corr
+25579,Retest_1,,,IPCAS_3,,corr
+25580,Baseline,20,,IPCAS_3,Male,corr
+25580,Retest_1,,,IPCAS_3,,corr
+25581,Baseline,22,,IPCAS_3,Male,corr
+25581,Retest_1,,,IPCAS_3,,corr
+25582,Baseline,23,,IPCAS_3,Female,corr
+25582,Retest_1,,,IPCAS_3,,corr
+25583,Baseline,22,,IPCAS_3,Female,corr
+25583,Retest_1,,,IPCAS_3,,corr
+25584,Baseline,21,,IPCAS_3,Female,corr
+25584,Retest_1,,,IPCAS_3,,corr
+25585,Baseline,20,,IPCAS_3,Female,corr
+25585,Retest_1,,,IPCAS_3,,corr
+26190,Baseline,23,,IPCAS_4,Female,corr
+26190,Retest_1,,,IPCAS_4,,corr
+26191,Baseline,24,,IPCAS_4,Male,corr
+26191,Retest_1,,,IPCAS_4,,corr
+26192,Baseline,22,,IPCAS_4,Male,corr
+26192,Retest_1,,,IPCAS_4,,corr
+26193,Baseline,23,,IPCAS_4,Male,corr
+26193,Retest_1,,,IPCAS_4,,corr
+26194,Baseline,28,,IPCAS_4,Male,corr
+26194,Retest_1,,,IPCAS_4,,corr
+26195,Baseline,22,,IPCAS_4,Male,corr
+26195,Retest_1,,,IPCAS_4,,corr
+26196,Baseline,22,,IPCAS_4,Female,corr
+26196,Retest_1,,,IPCAS_4,,corr
+26197,Baseline,23,,IPCAS_4,Male,corr
+26197,Retest_1,,,IPCAS_4,,corr
+26198,Baseline,23,,IPCAS_4,Male,corr
+26198,Retest_1,,,IPCAS_4,,corr
+26199,Baseline,24,,IPCAS_4,Female,corr
+26199,Retest_1,,,IPCAS_4,,corr
+26200,Baseline,22,,IPCAS_4,Male,corr
+26200,Retest_1,,,IPCAS_4,,corr
+26201,Baseline,25,,IPCAS_4,Female,corr
+26201,Retest_1,,,IPCAS_4,,corr
+26202,Baseline,21,,IPCAS_4,Female,corr
+26202,Retest_1,,,IPCAS_4,,corr
+26203,Baseline,21,,IPCAS_4,Female,corr
+26203,Retest_1,,,IPCAS_4,,corr
+26204,Baseline,23,,IPCAS_4,Female,corr
+26204,Retest_1,,,IPCAS_4,,corr
+26205,Baseline,23,,IPCAS_4,Male,corr
+26205,Retest_1,,,IPCAS_4,,corr
+26206,Baseline,24,,IPCAS_4,Female,corr
+26206,Retest_1,,,IPCAS_4,,corr
+26207,Baseline,23,,IPCAS_4,Female,corr
+26207,Retest_1,,,IPCAS_4,,corr
+26208,Baseline,25,,IPCAS_4,Female,corr
+26208,Retest_1,,,IPCAS_4,,corr
+26209,Baseline,22,,IPCAS_4,Male,corr
+26209,Retest_1,,,IPCAS_4,,corr
+27284,Baseline,18,,IPCAS_5,Male,corr
+27284,Retest_1,,,IPCAS_5,,corr
+27284,Retest_2,,,IPCAS_5,,corr
+27285,Baseline,18,,IPCAS_5,Male,corr
+27285,Retest_1,,,IPCAS_5,,corr
+27285,Retest_2,,,IPCAS_5,,corr
+27286,Baseline,18,,IPCAS_5,Male,corr
+27286,Retest_1,,,IPCAS_5,,corr
+27287,Baseline,18,,IPCAS_5,Male,corr
+27287,Retest_1,,,IPCAS_5,,corr
+27287,Retest_2,,,IPCAS_5,,corr
+27288,Baseline,19,,IPCAS_5,Male,corr
+27288,Retest_1,,,IPCAS_5,,corr
+27289,Baseline,19,,IPCAS_5,Male,corr
+27289,Retest_1,,,IPCAS_5,,corr
+27289,Retest_2,,,IPCAS_5,,corr
+27290,Baseline,19,,IPCAS_5,Male,corr
+27290,Retest_1,,,IPCAS_5,,corr
+27290,Retest_2,,,IPCAS_5,,corr
+27291,Baseline,18,,IPCAS_5,Male,corr
+27291,Retest_1,,,IPCAS_5,,corr
+27292,Baseline,19,,IPCAS_5,Male,corr
+27292,Retest_1,,,IPCAS_5,,corr
+27292,Retest_2,,,IPCAS_5,,corr
+27293,Baseline,19,,IPCAS_5,Male,corr
+27293,Retest_1,,,IPCAS_5,,corr
+27294,Baseline,18,,IPCAS_5,Male,corr
+27294,Retest_1,,,IPCAS_5,,corr
+27294,Retest_2,,,IPCAS_5,,corr
+27295,Baseline,19,,IPCAS_5,Male,corr
+27295,Retest_1,,,IPCAS_5,,corr
+27295,Retest_2,,,IPCAS_5,,corr
+27296,Baseline,18,,IPCAS_5,Male,corr
+27296,Retest_1,,,IPCAS_5,,corr
+27296,Retest_2,,,IPCAS_5,,corr
+27297,Baseline,18,,IPCAS_5,Male,corr
+27297,Retest_1,,,IPCAS_5,,corr
+27298,Baseline,18,,IPCAS_5,Male,corr
+27298,Retest_1,,,IPCAS_5,,corr
+27298,Retest_2,,,IPCAS_5,,corr
+27299,Baseline,18,,IPCAS_5,Male,corr
+27299,Retest_1,,,IPCAS_5,,corr
+27300,Baseline,18,,IPCAS_5,Male,corr
+27300,Retest_1,,,IPCAS_5,,corr
+27301,Baseline,18,,IPCAS_5,Male,corr
+27301,Retest_1,,,IPCAS_5,,corr
+27302,Baseline,18,,IPCAS_5,Male,corr
+27302,Retest_1,,,IPCAS_5,,corr
+27302,Retest_2,,,IPCAS_5,,corr
+27303,Baseline,18,,IPCAS_5,Male,corr
+27303,Retest_1,,,IPCAS_5,,corr
+27304,Baseline,18,,IPCAS_5,Male,corr
+27304,Retest_1,,,IPCAS_5,,corr
+27305,Baseline,19,,IPCAS_5,Male,corr
+27305,Retest_1,,,IPCAS_5,,corr
+26044,Baseline,25,,IPCAS_6,Male,corr
+26044,Retest_1,,,IPCAS_6,,corr
+26044,Retest_2,,,IPCAS_6,,corr
+26044,Retest_3,,,IPCAS_6,,corr
+26044,Retest_4,,,IPCAS_6,,corr
+26044,Retest_5,,,IPCAS_6,,corr
+26044,Retest_6,,,IPCAS_6,,corr
+26044,Retest_7,,,IPCAS_6,,corr
+26044,Retest_8,,,IPCAS_6,,corr
+26044,Retest_9,,,IPCAS_6,,corr
+26044,Retest_10,,,IPCAS_6,,corr
+26044,Retest_11,,,IPCAS_6,,corr
+26044,Retest_12,,,IPCAS_6,,corr
+26044,Retest_13,,,IPCAS_6,,corr
+26044,Retest_14,,,IPCAS_6,,corr
+26044,Retest_15,,,IPCAS_6,,corr
+26044,Retest_16,,,IPCAS_6,,corr
+26044,Retest_17,,,IPCAS_6,,corr
+26044,Retest_18,,,IPCAS_6,,corr
+26044,Retest_19,,,IPCAS_6,,corr
+26044,Retest_20,,,IPCAS_6,,corr
+26044,Retest_21,,,IPCAS_6,,corr
+26044,Retest_22,,,IPCAS_6,,corr
+26044,Retest_23,,,IPCAS_6,,corr
+26044,Retest_24,,,IPCAS_6,,corr
+26044,Retest_25,,,IPCAS_6,,corr
+26044,Retest_26,,,IPCAS_6,,corr
+26044,Retest_27,,,IPCAS_6,,corr
+26044,Retest_28,,,IPCAS_6,,corr
+26044,Retest_29,,,IPCAS_6,,corr
+26044,Retest_30,,,IPCAS_6,,corr
+26044,Retest_31,,,IPCAS_6,,corr
+26044,Retest_32,,,IPCAS_6,,corr
+26044,Retest_33,,,IPCAS_6,,corr
+26044,Retest_34,,,IPCAS_6,,corr
+26044,Retest_35,,,IPCAS_6,,corr
+26044,Retest_36,,,IPCAS_6,,corr
+26044,Retest_37,,,IPCAS_6,,corr
+26044,Retest_38,,,IPCAS_6,,corr
+26044,Retest_39,,,IPCAS_6,,corr
+26044,Retest_40,,,IPCAS_6,,corr
+26044,Retest_41,,,IPCAS_6,,corr
+26044,Retest_42,,,IPCAS_6,,corr
+26044,Retest_43,,,IPCAS_6,,corr
+26044,Retest_44,,,IPCAS_6,,corr
+26045,Baseline,21,,IPCAS_6,Female,corr
+26045,Retest_1,,,IPCAS_6,,corr
+26045,Retest_2,,,IPCAS_6,,corr
+26045,Retest_3,,,IPCAS_6,,corr
+26045,Retest_4,,,IPCAS_6,,corr
+26045,Retest_5,,,IPCAS_6,,corr
+26045,Retest_6,,,IPCAS_6,,corr
+26045,Retest_7,,,IPCAS_6,,corr
+26045,Retest_8,,,IPCAS_6,,corr
+26045,Retest_9,,,IPCAS_6,,corr
+26045,Retest_10,,,IPCAS_6,,corr
+26045,Retest_11,,,IPCAS_6,,corr
+26045,Retest_12,,,IPCAS_6,,corr
+26045,Retest_13,,,IPCAS_6,,corr
+26045,Retest_14,,,IPCAS_6,,corr
+26045,Retest_15,,,IPCAS_6,,corr
+26045,Retest_16,,,IPCAS_6,,corr
+26045,Retest_17,,,IPCAS_6,,corr
+26045,Retest_18,,,IPCAS_6,,corr
+26045,Retest_19,,,IPCAS_6,,corr
+26045,Retest_20,,,IPCAS_6,,corr
+26045,Retest_21,,,IPCAS_6,,corr
+26045,Retest_22,,,IPCAS_6,,corr
+26045,Retest_23,,,IPCAS_6,,corr
+26045,Retest_24,,,IPCAS_6,,corr
+26045,Retest_25,,,IPCAS_6,,corr
+26045,Retest_26,,,IPCAS_6,,corr
+26045,Retest_27,,,IPCAS_6,,corr
+26045,Retest_28,,,IPCAS_6,,corr
+26045,Retest_29,,,IPCAS_6,,corr
+26045,Retest_30,,,IPCAS_6,,corr
+26045,Retest_31,,,IPCAS_6,,corr
+26045,Retest_32,,,IPCAS_6,,corr
+26045,Retest_33,,,IPCAS_6,,corr
+26045,Retest_34,,,IPCAS_6,,corr
+26045,Retest_35,,,IPCAS_6,,corr
+26045,Retest_36,,,IPCAS_6,,corr
+26045,Retest_37,,,IPCAS_6,,corr
+26045,Retest_38,,,IPCAS_6,,corr
+26045,Retest_39,,,IPCAS_6,,corr
+26045,Retest_40,,,IPCAS_6,,corr
+26045,Retest_41,,,IPCAS_6,,corr
+26045,Retest_42,,,IPCAS_6,,corr
+26045,Retest_43,,,IPCAS_6,,corr
+26045,Retest_44,,,IPCAS_6,,corr
+26046,Baseline,11,,IPCAS_7,Male,corr
+26046,Retest_1,11,,IPCAS_7,Male,corr
+26047,Baseline,11,,IPCAS_7,Male,corr
+26047,Retest_1,11,,IPCAS_7,Male,corr
+26048,Baseline,11,,IPCAS_7,Male,corr
+26048,Retest_1,11,,IPCAS_7,Male,corr
+26049,Baseline,12,,IPCAS_7,Male,corr
+26049,Retest_1,12,,IPCAS_7,Male,corr
+26050,Baseline,12,,IPCAS_7,Male,corr
+26050,Retest_1,12,,IPCAS_7,Male,corr
+26051,Baseline,11,,IPCAS_7,Female,corr
+26051,Retest_1,11,,IPCAS_7,Female,corr
+26052,Baseline,11,,IPCAS_7,Male,corr
+26052,Retest_1,11,,IPCAS_7,Male,corr
+26053,Baseline,11,,IPCAS_7,Female,corr
+26053,Retest_1,11,,IPCAS_7,Female,corr
+26054,Baseline,12,,IPCAS_7,Female,corr
+26054,Retest_1,12,,IPCAS_7,Female,corr
+26055,Baseline,11,,IPCAS_7,Female,corr
+26055,Retest_1,11,,IPCAS_7,Female,corr
+26056,Baseline,11,,IPCAS_7,Female,corr
+26056,Retest_1,11,,IPCAS_7,Female,corr
+26057,Baseline,9,,IPCAS_7,Female,corr
+26057,Retest_1,9,,IPCAS_7,Female,corr
+26058,Baseline,10,,IPCAS_7,Male,corr
+26058,Retest_1,10,,IPCAS_7,Male,corr
+26059,Baseline,9,,IPCAS_7,Female,corr
+26059,Retest_1,9,,IPCAS_7,Female,corr
+26060,Baseline,9,,IPCAS_7,Male,corr
+26060,Retest_1,9,,IPCAS_7,Male,corr
+26061,Baseline,9,,IPCAS_7,Male,corr
+26061,Retest_1,9,,IPCAS_7,Male,corr
+26062,Baseline,10,,IPCAS_7,Male,corr
+26062,Retest_1,10,,IPCAS_7,Male,corr
+26063,Baseline,9,,IPCAS_7,Male,corr
+26063,Retest_1,9,,IPCAS_7,Male,corr
+26064,Baseline,10,,IPCAS_7,Female,corr
+26064,Retest_1,10,,IPCAS_7,Female,corr
+26065,Baseline,10,,IPCAS_7,Male,corr
+26065,Retest_1,10,,IPCAS_7,Male,corr
+26066,Baseline,9,,IPCAS_7,Male,corr
+26066,Retest_1,9,,IPCAS_7,Male,corr
+26067,Baseline,9,,IPCAS_7,Male,corr
+26067,Retest_1,9,,IPCAS_7,Male,corr
+26068,Baseline,12,,IPCAS_7,Female,corr
+26068,Retest_1,12,,IPCAS_7,Female,corr
+26069,Baseline,11,,IPCAS_7,Female,corr
+26069,Retest_1,11,,IPCAS_7,Female,corr
+26070,Baseline,11,,IPCAS_7,Male,corr
+26070,Retest_1,11,,IPCAS_7,Male,corr
+26071,Baseline,11,,IPCAS_7,Female,corr
+26071,Retest_1,11,,IPCAS_7,Female,corr
+26072,Baseline,8,,IPCAS_7,Male,corr
+26072,Retest_1,8,,IPCAS_7,Male,corr
+26073,Baseline,9,,IPCAS_7,Female,corr
+26073,Retest_1,9,,IPCAS_7,Female,corr
+26074,Baseline,10,,IPCAS_7,Male,corr
+26074,Retest_1,10,,IPCAS_7,Male,corr
+26075,Baseline,7,,IPCAS_7,Female,corr
+26075,Retest_1,7,,IPCAS_7,Female,corr
+26076,Baseline,6,,IPCAS_7,Male,corr
+26076,Retest_1,6,,IPCAS_7,Male,corr
+26077,Baseline,6,,IPCAS_7,Male,corr
+26077,Retest_1,6,,IPCAS_7,Male,corr
+26078,Baseline,6,,IPCAS_7,Male,corr
+26078,Retest_1,6,,IPCAS_7,Male,corr
+26079,Baseline,6,,IPCAS_7,Female,corr
+26079,Retest_1,6,,IPCAS_7,Female,corr
+26080,Baseline,7,,IPCAS_7,Male,corr
+26080,Retest_1,7,,IPCAS_7,Male,corr
+26081,Baseline,6,,IPCAS_7,Male,corr
+26081,Retest_1,6,,IPCAS_7,Male,corr
+26082,Baseline,6,,IPCAS_7,Female,corr
+26082,Retest_1,6,,IPCAS_7,Female,corr
+26083,Baseline,7,,IPCAS_7,Male,corr
+26083,Retest_1,7,,IPCAS_7,Male,corr
+26084,Baseline,7,,IPCAS_7,Female,corr
+26084,Retest_1,7,,IPCAS_7,Female,corr
+26085,Baseline,13,,IPCAS_7,Female,corr
+26085,Retest_1,13,,IPCAS_7,Female,corr
+26086,Baseline,12,,IPCAS_7,Female,corr
+26086,Retest_1,12,,IPCAS_7,Female,corr
+26087,Baseline,13,,IPCAS_7,Female,corr
+26087,Retest_1,13,,IPCAS_7,Female,corr
+26088,Baseline,12,,IPCAS_7,Female,corr
+26088,Retest_1,12,,IPCAS_7,Female,corr
+26089,Baseline,14,,IPCAS_7,Male,corr
+26089,Retest_1,14,,IPCAS_7,Male,corr
+26090,Baseline,15,,IPCAS_7,Female,corr
+26090,Retest_1,15,,IPCAS_7,Female,corr
+26091,Baseline,14,,IPCAS_7,Female,corr
+26091,Retest_1,14,,IPCAS_7,Female,corr
+26092,Baseline,13,,IPCAS_7,Female,corr
+26092,Retest_1,13,,IPCAS_7,Female,corr
+26093,Baseline,13,,IPCAS_7,Female,corr
+26093,Retest_1,13,,IPCAS_7,Female,corr
+26094,Baseline,13,,IPCAS_7,Male,corr
+26094,Retest_1,13,,IPCAS_7,Male,corr
+26095,Baseline,14,,IPCAS_7,Male,corr
+26095,Retest_1,14,,IPCAS_7,Male,corr
+26096,Baseline,16,,IPCAS_7,Female,corr
+26096,Retest_1,16,,IPCAS_7,Female,corr
+26097,Baseline,15,,IPCAS_7,Female,corr
+26097,Retest_1,15,,IPCAS_7,Female,corr
+26098,Baseline,16,,IPCAS_7,Male,corr
+26098,Retest_1,16,,IPCAS_7,Male,corr
+26099,Baseline,15,,IPCAS_7,Female,corr
+26099,Retest_1,15,,IPCAS_7,Female,corr
+26100,Baseline,15,,IPCAS_7,Female,corr
+26100,Retest_1,15,,IPCAS_7,Female,corr
+26102,Baseline,13,,IPCAS_7,Female,corr
+26102,Retest_1,13,,IPCAS_7,Female,corr
+26103,Baseline,13,,IPCAS_7,Male,corr
+26103,Retest_1,13,,IPCAS_7,Male,corr
+26104,Baseline,15,,IPCAS_7,Female,corr
+26104,Retest_1,15,,IPCAS_7,Female,corr
+26105,Baseline,16,,IPCAS_7,Female,corr
+26105,Retest_1,16,,IPCAS_7,Female,corr
+26106,Baseline,15,,IPCAS_7,Female,corr
+26106,Retest_1,15,,IPCAS_7,Female,corr
+26107,Baseline,14,,IPCAS_7,Male,corr
+26107,Retest_1,14,,IPCAS_7,Male,corr
+26108,Baseline,15,,IPCAS_7,Female,corr
+26108,Retest_1,15,,IPCAS_7,Female,corr
+26109,Baseline,16,,IPCAS_7,Female,corr
+26109,Retest_1,16,,IPCAS_7,Female,corr
+26110,Baseline,15,,IPCAS_7,Female,corr
+26110,Retest_1,15,,IPCAS_7,Female,corr
+26111,Baseline,13,,IPCAS_7,Female,corr
+26111,Retest_1,13,,IPCAS_7,Female,corr
+26112,Baseline,13,,IPCAS_7,Female,corr
+26112,Retest_1,13,,IPCAS_7,Female,corr
+26113,Baseline,13,,IPCAS_7,Female,corr
+26113,Retest_1,13,,IPCAS_7,Female,corr
+26114,Baseline,16,,IPCAS_7,Male,corr
+26114,Retest_1,16,,IPCAS_7,Male,corr
+26115,Baseline,14,,IPCAS_7,Male,corr
+26115,Retest_1,14,,IPCAS_7,Male,corr
+26116,Baseline,16,,IPCAS_7,Female,corr
+26116,Retest_1,16,,IPCAS_7,Female,corr
+26118,Baseline,16,,IPCAS_7,Female,corr
+26118,Retest_1,16,,IPCAS_7,Female,corr
+26119,Baseline,17,,IPCAS_7,Female,corr
+26119,Retest_1,17,,IPCAS_7,Female,corr
+25586,Baseline,51,,IPCAS_8,Female,corr
+25586,Retest_1,,,IPCAS_8,,corr
+25587,Baseline,54,,IPCAS_8,Female,corr
+25587,Retest_1,,,IPCAS_8,,corr
+25588,Baseline,57,,IPCAS_8,Female,corr
+25588,Retest_1,,,IPCAS_8,,corr
+25589,Baseline,50,,IPCAS_8,Female,corr
+25589,Retest_1,,,IPCAS_8,,corr
+25590,Baseline,60,,IPCAS_8,Male,corr
+25590,Retest_1,,,IPCAS_8,,corr
+25591,Baseline,61,,IPCAS_8,Male,corr
+25591,Retest_1,,,IPCAS_8,,corr
+25592,Baseline,58,,IPCAS_8,Female,corr
+25592,Retest_1,,,IPCAS_8,,corr
+25593,Baseline,58,,IPCAS_8,Male,corr
+25593,Retest_1,,,IPCAS_8,,corr
+25594,Baseline,62,,IPCAS_8,Male,corr
+25594,Retest_1,,,IPCAS_8,,corr
+25595,Baseline,59,,IPCAS_8,Male,corr
+25595,Retest_1,,,IPCAS_8,,corr
+25596,Baseline,58,,IPCAS_8,Female,corr
+25596,Retest_1,,,IPCAS_8,,corr
+25597,Baseline,61,,IPCAS_8,Male,corr
+25597,Retest_1,,,IPCAS_8,,corr
+25598,Baseline,60,,IPCAS_8,Female,corr
+25598,Retest_1,,,IPCAS_8,,corr
+25599,Baseline,24,,JHNU_1,Male,corr
+25599,Retest_1,,,JHNU_1,,corr
+25600,Baseline,21,,JHNU_1,Male,corr
+25600,Retest_1,,,JHNU_1,,corr
+25601,Baseline,40,,JHNU_1,Male,corr
+25601,Retest_1,,,JHNU_1,,corr
+25602,Baseline,20,,JHNU_1,Female,corr
+25602,Retest_1,,,JHNU_1,,corr
+25603,Baseline,23,,JHNU_1,Male,corr
+25603,Retest_1,,,JHNU_1,,corr
+25604,Baseline,24,,JHNU_1,Male,corr
+25604,Retest_1,,,JHNU_1,,corr
+25605,Baseline,23,,JHNU_1,Male,corr
+25605,Retest_1,,,JHNU_1,,corr
+25606,Baseline,20,,JHNU_1,Male,corr
+25606,Retest_1,,,JHNU_1,,corr
+25607,Baseline,22,,JHNU_1,Male,corr
+25607,Retest_1,,,JHNU_1,,corr
+25608,Baseline,21,,JHNU_1,Male,corr
+25608,Retest_1,,,JHNU_1,,corr
+25609,Baseline,22,,JHNU_1,Female,corr
+25609,Retest_1,,,JHNU_1,,corr
+25610,Baseline,21,,JHNU_1,Male,corr
+25610,Retest_1,,,JHNU_1,,corr
+25611,Baseline,24,,JHNU_1,Male,corr
+25611,Retest_1,,,JHNU_1,,corr
+25612,Baseline,20,,JHNU_1,Female,corr
+25612,Retest_1,,,JHNU_1,,corr
+25613,Baseline,22,,JHNU_1,Male,corr
+25613,Retest_1,,,JHNU_1,,corr
+25614,Baseline,22,,JHNU_1,Male,corr
+25614,Retest_1,,,JHNU_1,,corr
+25615,Baseline,22,,JHNU_1,Female,corr
+25615,Retest_1,,,JHNU_1,,corr
+25616,Baseline,22,,JHNU_1,Female,corr
+25616,Retest_1,,,JHNU_1,,corr
+25617,Baseline,24,,JHNU_1,Male,corr
+25617,Retest_1,,,JHNU_1,,corr
+25618,Baseline,24,,JHNU_1,Female,corr
+25618,Retest_1,,,JHNU_1,,corr
+25619,Baseline,24,,JHNU_1,Female,corr
+25619,Retest_1,,,JHNU_1,,corr
+25620,Baseline,23,,JHNU_1,Male,corr
+25620,Retest_1,,,JHNU_1,,corr
+25621,Baseline,20,,JHNU_1,Female,corr
+25621,Retest_1,,,JHNU_1,,corr
+25622,Baseline,24,,JHNU_1,Male,corr
+25622,Retest_1,,,JHNU_1,,corr
+25623,Baseline,22,,JHNU_1,Male,corr
+25623,Retest_1,,,JHNU_1,,corr
+25624,Baseline,26,,JHNU_1,Male,corr
+25624,Retest_1,,,JHNU_1,,corr
+25625,Baseline,21,,JHNU_1,Female,corr
+25625,Retest_1,,,JHNU_1,,corr
+25626,Baseline,26,,JHNU_1,Male,corr
+25626,Retest_1,,,JHNU_1,,corr
+25627,Baseline,23,,JHNU_1,Male,corr
+25627,Retest_1,,,JHNU_1,,corr
+25628,Baseline,28,,JHNU_1,Male,corr
+25628,Retest_1,,,JHNU_1,,corr
+25335,Baseline,24,,LMU_1,Female,corr
+25335,Retest_1,,,LMU_1,,corr
+25335,Retest_2,,,LMU_1,,corr
+25335,Retest_4,,,LMU_1,,corr
+25335,Retest_5,,,LMU_1,,corr
+25336,Baseline,24,,LMU_1,Female,corr
+25336,Retest_1,,,LMU_1,,corr
+25336,Retest_2,,,LMU_1,,corr
+25336,Retest_3,,,LMU_1,,corr
+25336,Retest_4,,,LMU_1,,corr
+25336,Retest_5,,,LMU_1,,corr
+25337,Baseline,23,,LMU_1,Male,corr
+25337,Retest_1,,,LMU_1,,corr
+25337,Retest_2,,,LMU_1,,corr
+25337,Retest_3,,,LMU_1,,corr
+25337,Retest_4,,,LMU_1,,corr
+25338,Baseline,24,,LMU_1,Female,corr
+25338,Retest_1,,,LMU_1,,corr
+25338,Retest_2,,,LMU_1,,corr
+25338,Retest_3,,,LMU_1,,corr
+25338,Retest_4,,,LMU_1,,corr
+25338,Retest_5,,,LMU_1,,corr
+25339,Baseline,22,,LMU_1,Female,corr
+25339,Retest_1,,,LMU_1,,corr
+25339,Retest_2,,,LMU_1,,corr
+25339,Retest_3,,,LMU_1,,corr
+25339,Retest_4,,,LMU_1,,corr
+25339,Retest_5,,,LMU_1,,corr
+25340,Baseline,26,,LMU_1,Male,corr
+25340,Retest_1,,,LMU_1,,corr
+25340,Retest_2,,,LMU_1,,corr
+25340,Retest_3,,,LMU_1,,corr
+25340,Retest_4,,,LMU_1,,corr
+25340,Retest_5,,,LMU_1,,corr
+25341,Baseline,23,,LMU_1,Male,corr
+25341,Retest_1,,,LMU_1,,corr
+25341,Retest_3,,,LMU_1,,corr
+25341,Retest_4,,,LMU_1,,corr
+25341,Retest_5,,,LMU_1,,corr
+25342,Baseline,23,,LMU_1,Male,corr
+25342,Retest_1,,,LMU_1,,corr
+25342,Retest_3,,,LMU_1,,corr
+25342,Retest_4,,,LMU_1,,corr
+25342,Retest_5,,,LMU_1,,corr
+25343,Baseline,24,,LMU_1,Male,corr
+25343,Retest_1,,,LMU_1,,corr
+25343,Retest_2,,,LMU_1,,corr
+25343,Retest_3,,,LMU_1,,corr
+25343,Retest_4,,,LMU_1,,corr
+25343,Retest_5,,,LMU_1,,corr
+25344,Baseline,24,,LMU_1,Female,corr
+25344,Retest_1,,,LMU_1,,corr
+25344,Retest_2,,,LMU_1,,corr
+25344,Retest_3,,,LMU_1,,corr
+25344,Retest_4,,,LMU_1,,corr
+25344,Retest_5,,,LMU_1,,corr
+25345,Baseline,20,,LMU_1,Female,corr
+25345,Retest_1,,,LMU_1,,corr
+25345,Retest_2,,,LMU_1,,corr
+25345,Retest_3,,,LMU_1,,corr
+25345,Retest_4,,,LMU_1,,corr
+25345,Retest_5,,,LMU_1,,corr
+25346,Baseline,24,,LMU_1,Female,corr
+25346,Retest_1,,,LMU_1,,corr
+25346,Retest_2,,,LMU_1,,corr
+25346,Retest_3,,,LMU_1,,corr
+25346,Retest_4,,,LMU_1,,corr
+25346,Retest_5,,,LMU_1,,corr
+25347,Baseline,22,,LMU_1,Female,corr
+25347,Retest_1,,,LMU_1,,corr
+25347,Retest_2,,,LMU_1,,corr
+25347,Retest_3,,,LMU_1,,corr
+25347,Retest_4,,,LMU_1,,corr
+25347,Retest_5,,,LMU_1,,corr
+25348,Baseline,23,,LMU_1,Male,corr
+25348,Retest_1,,,LMU_1,,corr
+25348,Retest_3,,,LMU_1,,corr
+25348,Retest_4,,,LMU_1,,corr
+25348,Retest_5,,,LMU_1,,corr
+25349,Baseline,25,,LMU_1,Male,corr
+25349,Retest_1,,,LMU_1,,corr
+25349,Retest_2,,,LMU_1,,corr
+25349,Retest_3,,,LMU_1,,corr
+25349,Retest_4,,,LMU_1,,corr
+25349,Retest_5,,,LMU_1,,corr
+25350,Baseline,24,,LMU_1,Male,corr
+25350,Retest_1,,,LMU_1,,corr
+25350,Retest_2,,,LMU_1,,corr
+25350,Retest_3,,,LMU_1,,corr
+25350,Retest_4,,,LMU_1,,corr
+25350,Retest_5,,,LMU_1,,corr
+25351,Baseline,26,,LMU_1,Male,corr
+25351,Retest_1,,,LMU_1,,corr
+25351,Retest_2,,,LMU_1,,corr
+25351,Retest_3,,,LMU_1,,corr
+25351,Retest_4,,,LMU_1,,corr
+25351,Retest_5,,,LMU_1,,corr
+25352,Baseline,24,,LMU_1,Female,corr
+25352,Retest_1,,,LMU_1,,corr
+25352,Retest_2,,,LMU_1,,corr
+25352,Retest_3,,,LMU_1,,corr
+25352,Retest_4,,,LMU_1,,corr
+25352,Retest_5,,,LMU_1,,corr
+25353,Baseline,24,,LMU_1,Female,corr
+25353,Retest_1,,,LMU_1,,corr
+25353,Retest_2,,,LMU_1,,corr
+25353,Retest_3,,,LMU_1,,corr
+25353,Retest_4,,,LMU_1,,corr
+25353,Retest_5,,,LMU_1,,corr
+25354,Baseline,23,,LMU_1,Male,corr
+25354,Retest_1,,,LMU_1,,corr
+25354,Retest_2,,,LMU_1,,corr
+25354,Retest_3,,,LMU_1,,corr
+25354,Retest_4,,,LMU_1,,corr
+25354,Retest_5,,,LMU_1,,corr
+25355,Baseline,27,,LMU_1,Male,corr
+25355,Retest_1,,,LMU_1,,corr
+25355,Retest_2,,,LMU_1,,corr
+25355,Retest_3,,,LMU_1,,corr
+25355,Retest_4,,,LMU_1,,corr
+25356,Baseline,27,,LMU_1,Female,corr
+25356,Retest_1,,,LMU_1,,corr
+25356,Retest_2,,,LMU_1,,corr
+25356,Retest_3,,,LMU_1,,corr
+25356,Retest_4,,,LMU_1,,corr
+25356,Retest_5,,,LMU_1,,corr
+25357,Baseline,24,,LMU_1,Female,corr
+25357,Retest_1,,,LMU_1,,corr
+25357,Retest_2,,,LMU_1,,corr
+25357,Retest_3,,,LMU_1,,corr
+25357,Retest_4,,,LMU_1,,corr
+25357,Retest_5,,,LMU_1,,corr
+25358,Baseline,29,,LMU_1,Female,corr
+25358,Retest_1,,,LMU_1,,corr
+25358,Retest_2,,,LMU_1,,corr
+25358,Retest_3,,,LMU_1,,corr
+25358,Retest_4,,,LMU_1,,corr
+25359,Baseline,25,,LMU_1,Female,corr
+25359,Retest_1,,,LMU_1,,corr
+25359,Retest_2,,,LMU_1,,corr
+25359,Retest_3,,,LMU_1,,corr
+25359,Retest_4,,,LMU_1,,corr
+25359,Retest_5,,,LMU_1,,corr
+25360,Baseline,25,,LMU_1,Male,corr
+25360,Retest_1,,,LMU_1,,corr
+25360,Retest_2,,,LMU_1,,corr
+25360,Retest_3,,,LMU_1,,corr
+25360,Retest_4,,,LMU_1,,corr
+25360,Retest_5,,,LMU_1,,corr
+25361,Baseline,27,,LMU_1,Male,corr
+25361,Retest_1,,,LMU_1,,corr
+25361,Retest_2,,,LMU_1,,corr
+25361,Retest_3,,,LMU_1,,corr
+25361,Retest_4,,,LMU_1,,corr
+25361,Retest_5,,,LMU_1,,corr
+25362,Baseline,60,,LMU_2,Male,corr
+25362,Retest_1,,,LMU_2,,corr
+25362,Retest_2,,,LMU_2,,corr
+25362,Retest_3,,,LMU_2,,corr
+25363,Baseline,71,,LMU_2,Female,corr
+25363,Retest_1,,,LMU_2,,corr
+25363,Retest_2,,,LMU_2,,corr
+25363,Retest_3,,,LMU_2,,corr
+25364,Baseline,72,,LMU_2,Male,corr
+25364,Retest_1,,,LMU_2,,corr
+25364,Retest_2,,,LMU_2,,corr
+25364,Retest_3,,,LMU_2,,corr
+25365,Baseline,73,,LMU_2,Female,corr
+25365,Retest_1,,,LMU_2,,corr
+25365,Retest_2,,,LMU_2,,corr
+25365,Retest_3,,,LMU_2,,corr
+25366,Baseline,74,,LMU_2,Female,corr
+25366,Retest_1,,,LMU_2,,corr
+25366,Retest_2,,,LMU_2,,corr
+25366,Retest_3,,,LMU_2,,corr
+25367,Baseline,68,,LMU_2,Female,corr
+25367,Retest_1,,,LMU_2,,corr
+25367,Retest_2,,,LMU_2,,corr
+25367,Retest_3,,,LMU_2,,corr
+25368,Baseline,72,,LMU_2,Male,corr
+25368,Retest_1,,,LMU_2,,corr
+25368,Retest_2,,,LMU_2,,corr
+25368,Retest_3,,,LMU_2,,corr
+25369,Baseline,67,,LMU_2,Male,corr
+25369,Retest_1,,,LMU_2,,corr
+25369,Retest_2,,,LMU_2,,corr
+25369,Retest_3,,,LMU_2,,corr
+25370,Baseline,71,,LMU_2,Male,corr
+25370,Retest_1,,,LMU_2,,corr
+25370,Retest_2,,,LMU_2,,corr
+25370,Retest_3,,,LMU_2,,corr
+25371,Baseline,69,,LMU_2,Male,corr
+25371,Retest_1,,,LMU_2,,corr
+25371,Retest_2,,,LMU_2,,corr
+25371,Retest_3,,,LMU_2,,corr
+25372,Baseline,70,,LMU_2,Male,corr
+25372,Retest_1,,,LMU_2,,corr
+25372,Retest_2,,,LMU_2,,corr
+25372,Retest_3,,,LMU_2,,corr
+25373,Baseline,67,,LMU_2,Female,corr
+25373,Retest_1,,,LMU_2,,corr
+25373,Retest_2,,,LMU_2,,corr
+25373,Retest_3,,,LMU_2,,corr
+25374,Baseline,69,,LMU_2,Male,corr
+25374,Retest_1,,,LMU_2,,corr
+25374,Retest_2,,,LMU_2,,corr
+25374,Retest_3,,,LMU_2,,corr
+25375,Baseline,69,,LMU_2,Female,corr
+25375,Retest_1,,,LMU_2,,corr
+25375,Retest_2,,,LMU_2,,corr
+25375,Retest_3,,,LMU_2,,corr
+25376,Baseline,59,,LMU_2,Male,corr
+25376,Retest_1,,,LMU_2,,corr
+25376,Retest_2,,,LMU_2,,corr
+25376,Retest_3,,,LMU_2,,corr
+25377,Baseline,55,,LMU_2,Female,corr
+25377,Retest_1,,,LMU_2,,corr
+25377,Retest_2,,,LMU_2,,corr
+25377,Retest_3,,,LMU_2,,corr
+25378,Baseline,61,,LMU_2,Female,corr
+25378,Retest_1,,,LMU_2,,corr
+25378,Retest_2,,,LMU_2,,corr
+25378,Retest_3,,,LMU_2,,corr
+25379,Baseline,69,,LMU_2,Female,corr
+25379,Retest_1,,,LMU_2,,corr
+25379,Retest_2,,,LMU_2,,corr
+25379,Retest_3,,,LMU_2,,corr
+25380,Baseline,55,,LMU_2,Male,corr
+25380,Retest_1,,,LMU_2,,corr
+25380,Retest_2,,,LMU_2,,corr
+25380,Retest_3,,,LMU_2,,corr
+25381,Baseline,70,,LMU_2,Female,corr
+25381,Retest_1,,,LMU_2,,corr
+25381,Retest_2,,,LMU_2,,corr
+25381,Retest_3,,,LMU_2,,corr
+25382,Baseline,69,,LMU_2,Female,corr
+25382,Retest_1,,,LMU_2,,corr
+25382,Retest_2,,,LMU_2,,corr
+25382,Retest_3,,,LMU_2,,corr
+25383,Baseline,55,,LMU_2,Male,corr
+25383,Retest_1,,,LMU_2,,corr
+25383,Retest_2,,,LMU_2,,corr
+25383,Retest_3,,,LMU_2,,corr
+25384,Baseline,75,,LMU_2,Female,corr
+25384,Retest_1,,,LMU_2,,corr
+25384,Retest_2,,,LMU_2,,corr
+25384,Retest_3,,,LMU_2,,corr
+25385,Baseline,69,,LMU_2,Male,corr
+25385,Retest_1,,,LMU_2,,corr
+25385,Retest_2,,,LMU_2,,corr
+25385,Retest_3,,,LMU_2,,corr
+25386,Baseline,79,,LMU_2,Female,corr
+25386,Retest_1,,,LMU_2,,corr
+25386,Retest_2,,,LMU_2,,corr
+25386,Retest_3,,,LMU_2,,corr
+25387,Baseline,28,,LMU_2,Male,corr
+25387,Retest_1,,,LMU_2,,corr
+25387,Retest_2,,,LMU_2,,corr
+25387,Retest_3,,,LMU_2,,corr
+25388,Baseline,20,,LMU_2,Female,corr
+25388,Retest_1,,,LMU_2,,corr
+25388,Retest_2,,,LMU_2,,corr
+25388,Retest_3,,,LMU_2,,corr
+25389,Baseline,26,,LMU_2,Female,corr
+25389,Retest_1,,,LMU_2,,corr
+25389,Retest_2,,,LMU_2,,corr
+25389,Retest_3,,,LMU_2,,corr
+25390,Baseline,25,,LMU_2,Male,corr
+25390,Retest_1,,,LMU_2,,corr
+25390,Retest_2,,,LMU_2,,corr
+25390,Retest_3,,,LMU_2,,corr
+25391,Baseline,22,,LMU_2,Female,corr
+25391,Retest_1,,,LMU_2,,corr
+25391,Retest_2,,,LMU_2,,corr
+25391,Retest_3,,,LMU_2,,corr
+25392,Baseline,24,,LMU_2,Female,corr
+25392,Retest_1,,,LMU_2,,corr
+25392,Retest_2,,,LMU_2,,corr
+25392,Retest_3,,,LMU_2,,corr
+25393,Baseline,22,,LMU_2,Male,corr
+25393,Retest_1,,,LMU_2,,corr
+25393,Retest_2,,,LMU_2,,corr
+25393,Retest_3,,,LMU_2,,corr
+25394,Baseline,23,,LMU_2,Male,corr
+25394,Retest_1,,,LMU_2,,corr
+25394,Retest_2,,,LMU_2,,corr
+25394,Retest_3,,,LMU_2,,corr
+25395,Baseline,27,,LMU_2,Female,corr
+25395,Retest_1,,,LMU_2,,corr
+25395,Retest_2,,,LMU_2,,corr
+25395,Retest_3,,,LMU_2,,corr
+25396,Baseline,21,,LMU_2,Female,corr
+25396,Retest_1,,,LMU_2,,corr
+25396,Retest_2,,,LMU_2,,corr
+25396,Retest_3,,,LMU_2,,corr
+25397,Baseline,21,,LMU_2,Male,corr
+25397,Retest_1,,,LMU_2,,corr
+25397,Retest_2,,,LMU_2,,corr
+25397,Retest_3,,,LMU_2,,corr
+25398,Baseline,24,,LMU_2,Female,corr
+25398,Retest_1,,,LMU_2,,corr
+25398,Retest_2,,,LMU_2,,corr
+25398,Retest_3,,,LMU_2,,corr
+25399,Baseline,20,,LMU_2,Female,corr
+25399,Retest_1,,,LMU_2,,corr
+25399,Retest_2,,,LMU_2,,corr
+25399,Retest_3,,,LMU_2,,corr
+25400,Baseline,21,,LMU_2,Male,corr
+25400,Retest_1,,,LMU_2,,corr
+25400,Retest_2,,,LMU_2,,corr
+25400,Retest_3,,,LMU_2,,corr
+25401,Baseline,21,,LMU_2,Female,corr
+25401,Retest_1,,,LMU_2,,corr
+25401,Retest_2,,,LMU_2,,corr
+25401,Retest_3,,,LMU_2,,corr
+25402,Baseline,76,,LMU_3,Male,corr
+25402,Retest_1,,,LMU_3,,corr
+25403,Baseline,72,,LMU_3,Male,corr
+25403,Retest_1,,,LMU_3,,corr
+25404,Baseline,65,,LMU_3,Female,corr
+25404,Retest_1,,,LMU_3,,corr
+25405,Baseline,60,,LMU_3,Male,corr
+25405,Retest_1,,,LMU_3,,corr
+25406,Baseline,59,,LMU_3,Male,corr
+25406,Retest_1,,,LMU_3,,corr
+25407,Baseline,69,,LMU_3,Male,corr
+25407,Retest_1,,,LMU_3,,corr
+25408,Baseline,60,,LMU_3,Female,corr
+25408,Retest_1,,,LMU_3,,corr
+25409,Baseline,59,,LMU_3,Female,corr
+25409,Retest_1,,,LMU_3,,corr
+25410,Baseline,64,,LMU_3,Male,corr
+25410,Retest_1,,,LMU_3,,corr
+25411,Baseline,83,,LMU_3,Male,corr
+25411,Retest_1,,,LMU_3,,corr
+25412,Baseline,63,,LMU_3,Male,corr
+25412,Retest_1,,,LMU_3,,corr
+25413,Baseline,71,,LMU_3,Female,corr
+25413,Retest_1,,,LMU_3,,corr
+25414,Baseline,79,,LMU_3,Male,corr
+25414,Retest_1,,,LMU_3,,corr
+25415,Baseline,73,,LMU_3,Female,corr
+25415,Retest_1,,,LMU_3,,corr
+25416,Baseline,74,,LMU_3,Male,corr
+25416,Retest_1,,,LMU_3,,corr
+25417,Baseline,73,,LMU_3,Male,corr
+25417,Retest_1,,,LMU_3,,corr
+25418,Baseline,79,,LMU_3,Female,corr
+25418,Retest_1,,,LMU_3,,corr
+25419,Baseline,88,,LMU_3,Female,corr
+25419,Retest_1,,,LMU_3,,corr
+25420,Baseline,60,,LMU_3,Female,corr
+25420,Retest_1,,,LMU_3,,corr
+25421,Baseline,62,,LMU_3,Male,corr
+25421,Retest_1,,,LMU_3,,corr
+25422,Baseline,71,,LMU_3,Male,corr
+25422,Retest_1,,,LMU_3,,corr
+25423,Baseline,68,,LMU_3,Male,corr
+25423,Retest_1,,,LMU_3,,corr
+25424,Baseline,72,,LMU_3,Male,corr
+25424,Retest_1,,,LMU_3,,corr
+25425,Baseline,68,,LMU_3,Female,corr
+25425,Retest_1,,,LMU_3,,corr
+25426,Baseline,77,,LMU_3,Male,corr
+25426,Retest_1,,,LMU_3,,corr
+27430,Baseline,29,right handed,MPG_1,Female,corr
+27430,Retest_1,29,,MPG_1,Female,corr
+27430,Retest_2,29,,MPG_1,Female,corr
+27430,Retest_3,29,,MPG_1,Female,corr
+27431,Baseline,23,right handed,MPG_1,Female,corr
+27431,Retest_1,23,,MPG_1,Female,corr
+27431,Retest_2,23,,MPG_1,Female,corr
+27431,Retest_3,23,,MPG_1,Female,corr
+27432,Baseline,25,right handed,MPG_1,Male,corr
+27432,Retest_1,25,,MPG_1,Male,corr
+27432,Retest_2,25,,MPG_1,Male,corr
+27432,Retest_3,25,,MPG_1,Male,corr
+27433,Baseline,26,right handed,MPG_1,Male,corr
+27433,Retest_1,26,,MPG_1,Male,corr
+27433,Retest_2,26,,MPG_1,Male,corr
+27433,Retest_3,26,,MPG_1,Male,corr
+27434,Baseline,27,left handed,MPG_1,Male,corr
+27434,Retest_1,27,,MPG_1,Male,corr
+27434,Retest_2,27,,MPG_1,Male,corr
+27434,Retest_3,27,,MPG_1,Male,corr
+27435,Baseline,23,right handed,MPG_1,Female,corr
+27435,Retest_1,23,,MPG_1,Female,corr
+27435,Retest_2,23,,MPG_1,Female,corr
+27435,Retest_3,23,,MPG_1,Female,corr
+27436,Baseline,29,right handed,MPG_1,Male,corr
+27436,Retest_1,29,,MPG_1,Male,corr
+27436,Retest_2,29,,MPG_1,Male,corr
+27436,Retest_3,29,,MPG_1,Male,corr
+27437,Baseline,25,right handed,MPG_1,Male,corr
+27437,Retest_1,25,,MPG_1,Male,corr
+27437,Retest_2,25,,MPG_1,Male,corr
+27437,Retest_3,25,,MPG_1,Male,corr
+27438,Baseline,25,right handed,MPG_1,Male,corr
+27438,Retest_1,25,,MPG_1,Male,corr
+27438,Retest_2,25,,MPG_1,Male,corr
+27438,Retest_3,25,,MPG_1,Male,corr
+27439,Baseline,24,right handed,MPG_1,Male,corr
+27439,Retest_1,24,,MPG_1,Male,corr
+27439,Retest_2,24,,MPG_1,Male,corr
+27439,Retest_3,24,,MPG_1,Male,corr
+27440,Baseline,30,right handed,MPG_1,Male,corr
+27440,Retest_1,30,,MPG_1,Male,corr
+27440,Retest_2,30,,MPG_1,Male,corr
+27440,Retest_3,30,,MPG_1,Male,corr
+27441,Baseline,24,right handed,MPG_1,Male,corr
+27441,Retest_1,24,,MPG_1,Male,corr
+27441,Retest_2,24,,MPG_1,Male,corr
+27441,Retest_3,24,,MPG_1,Male,corr
+27442,Baseline,26,right handed,MPG_1,Female,corr
+27442,Retest_1,26,,MPG_1,Female,corr
+27442,Retest_2,26,,MPG_1,Female,corr
+27442,Retest_3,26,,MPG_1,Female,corr
+27443,Baseline,24,right handed,MPG_1,Female,corr
+27443,Retest_1,24,,MPG_1,Female,corr
+27443,Retest_2,24,,MPG_1,Female,corr
+27443,Retest_3,24,,MPG_1,Female,corr
+27444,Baseline,22,right handed,MPG_1,Female,corr
+27444,Retest_1,22,,MPG_1,Female,corr
+27444,Retest_2,22,,MPG_1,Female,corr
+27444,Retest_3,22,,MPG_1,Female,corr
+27445,Baseline,23,right handed,MPG_1,Female,corr
+27445,Retest_1,23,,MPG_1,Female,corr
+27445,Retest_2,23,,MPG_1,Female,corr
+27445,Retest_3,23,,MPG_1,Female,corr
+27446,Baseline,25,right handed,MPG_1,Female,corr
+27446,Retest_1,25,,MPG_1,Female,corr
+27446,Retest_2,25,,MPG_1,Female,corr
+27446,Retest_3,25,,MPG_1,Female,corr
+27447,Baseline,27,right handed,MPG_1,Male,corr
+27447,Retest_1,27,,MPG_1,Male,corr
+27447,Retest_2,27,,MPG_1,Male,corr
+27447,Retest_3,27,,MPG_1,Male,corr
+27448,Baseline,25,right handed,MPG_1,Male,corr
+27448,Retest_1,25,,MPG_1,Male,corr
+27448,Retest_2,25,,MPG_1,Male,corr
+27448,Retest_3,25,,MPG_1,Male,corr
+27449,Baseline,22,right handed,MPG_1,Female,corr
+27449,Retest_1,22,,MPG_1,Female,corr
+27449,Retest_2,22,,MPG_1,Female,corr
+27449,Retest_3,22,,MPG_1,Female,corr
+27450,Baseline,24,right handed,MPG_1,Female,corr
+27450,Retest_1,24,,MPG_1,Female,corr
+27450,Retest_2,24,,MPG_1,Female,corr
+27450,Retest_3,24,,MPG_1,Female,corr
+27451,Baseline,25,right handed,MPG_1,Male,corr
+27451,Retest_1,25,,MPG_1,Male,corr
+27451,Retest_2,25,,MPG_1,Male,corr
+27451,Retest_3,25,,MPG_1,Male,corr
+27010,Baseline,11,,MRN_1,Male,corr
+27010,Retest_1,,,MRN_1,,corr
+27011,Baseline,10,,MRN_1,Female,corr
+27011,Retest_1,,,MRN_1,,corr
+27012,Baseline,12,,MRN_1,Male,corr
+27012,Retest_1,,,MRN_1,,corr
+27013,Baseline,14,,MRN_1,Female,corr
+27013,Retest_1,,,MRN_1,,corr
+27014,Baseline,13,,MRN_1,Male,corr
+27014,Retest_1,,,MRN_1,,corr
+27015,Baseline,12,,MRN_1,Male,corr
+27015,Retest_1,,,MRN_1,,corr
+27016,Baseline,11,,MRN_1,Male,corr
+27016,Retest_1,,,MRN_1,,corr
+27017,Baseline,15,,MRN_1,Male,corr
+27017,Retest_1,16,,MRN_1,,corr
+27018,Baseline,15,,MRN_1,Male,corr
+27018,Retest_1,,,MRN_1,,corr
+27019,Baseline,13,,MRN_1,Female,corr
+27019,Retest_1,,,MRN_1,,corr
+27020,Baseline,16,,MRN_1,Female,corr
+27020,Retest_1,,,MRN_1,,corr
+27021,Baseline,17,,MRN_1,Male,corr
+27021,Retest_1,,,MRN_1,,corr
+27022,Baseline,14,,MRN_1,Male,corr
+27022,Retest_1,,,MRN_1,,corr
+27024,Baseline,22,,MRN_1,Female,corr
+27024,Retest_1,,,MRN_1,,corr
+27025,Baseline,29,,MRN_1,Male,corr
+27025,Retest_1,,,MRN_1,,corr
+27026,Baseline,24,,MRN_1,Male,corr
+27026,Retest_1,,,MRN_1,,corr
+27027,Baseline,22,,MRN_1,Female,corr
+27027,Retest_1,,,MRN_1,,corr
+27028,Baseline,21,,MRN_1,Female,corr
+27028,Retest_1,,,MRN_1,,corr
+27029,Baseline,20,,MRN_1,Female,corr
+27029,Retest_1,,,MRN_1,,corr
+27030,Baseline,23,,MRN_1,Male,corr
+27030,Retest_1,,,MRN_1,,corr
+27031,Baseline,19,,MRN_1,Female,corr
+27031,Retest_1,,,MRN_1,,corr
+27032,Baseline,41,,MRN_1,Female,corr
+27032,Retest_1,,,MRN_1,,corr
+27033,Baseline,41,,MRN_1,Male,corr
+27033,Retest_1,,,MRN_1,,corr
+27034,Baseline,32,,MRN_1,Male,corr
+27034,Retest_1,,,MRN_1,,corr
+27035,Baseline,25,,MRN_1,Female,corr
+27035,Retest_1,,,MRN_1,,corr
+27036,Baseline,47,,MRN_1,Female,corr
+27036,Retest_1,,,MRN_1,,corr
+27037,Baseline,35,,MRN_1,Female,corr
+27037,Retest_1,,,MRN_1,,corr
+27038,Baseline,27,,MRN_1,Female,corr
+27038,Retest_1,,,MRN_1,,corr
+27039,Baseline,49,,MRN_1,Male,corr
+27039,Retest_1,,,MRN_1,,corr
+27040,Baseline,21,,MRN_1,Male,corr
+27040,Retest_1,,,MRN_1,,corr
+27041,Baseline,20,,MRN_1,Female,corr
+27041,Retest_1,,,MRN_1,,corr
+27042,Baseline,53,,MRN_1,Male,corr
+27042,Retest_1,,,MRN_1,,corr
+27043,Baseline,47,,MRN_1,Female,corr
+27043,Retest_1,,,MRN_1,,corr
+27044,Baseline,26,,MRN_1,Female,corr
+27044,Retest_1,,,MRN_1,,corr
+27045,Baseline,28,,MRN_1,Male,corr
+27045,Retest_1,,,MRN_1,,corr
+27046,Baseline,20,,MRN_1,Male,corr
+27046,Retest_1,,,MRN_1,,corr
+27047,Baseline,18,,MRN_1,Female,corr
+27047,Retest_1,,,MRN_1,,corr
+27048,Baseline,22,,MRN_1,Female,corr
+27048,Retest_1,,,MRN_1,,corr
+27049,Baseline,51,,MRN_1,Male,corr
+27049,Retest_1,,,MRN_1,,corr
+27050,Baseline,46,,MRN_1,Male,corr
+27050,Retest_1,,,MRN_1,,corr
+27051,Baseline,30,,MRN_1,Male,corr
+27051,Retest_1,,,MRN_1,,corr
+27052,Baseline,23,,MRN_1,Female,corr
+27052,Retest_1,,,MRN_1,,corr
+27053,Baseline,20,,MRN_1,Female,corr
+27053,Retest_1,,,MRN_1,,corr
+27054,Baseline,24,,MRN_1,Female,corr
+27054,Retest_1,,,MRN_1,,corr
+27410,Baseline,21,,MRN_1,Male,corr
+27410,Retest_1,,,MRN_1,,corr
+27411,Baseline,20,,MRN_1,Male,corr
+27411,Retest_1,,,MRN_1,,corr
+27412,Baseline,19,,MRN_1,Male,corr
+27412,Retest_1,,,MRN_1,,corr
+27413,Baseline,26,,MRN_1,Female,corr
+27413,Retest_1,,,MRN_1,,corr
+27414,Baseline,24,,MRN_1,Female,corr
+27414,Retest_1,,,MRN_1,,corr
+27415,Baseline,33,,MRN_1,Male,corr
+27415,Retest_1,,,MRN_1,,corr
+27416,Baseline,30,,MRN_1,Female,corr
+27416,Retest_1,,,MRN_1,,corr
+27417,Baseline,21,,MRN_1,Female,corr
+27417,Retest_1,,,MRN_1,,corr
+27418,Baseline,24,,MRN_1,Male,corr
+27418,Retest_1,,,MRN_1,,corr
+27419,Baseline,26,,MRN_1,Female,corr
+27419,Retest_1,,,MRN_1,,corr
+2475376,Baseline,21,left handed,NKI_1,Female,corr
+2475376,Retest_1,21,left handed,NKI_1,Female,corr
+3893245,Baseline,38,right handed,NKI_1,Female,corr
+3893245,Retest_1,38,right handed,NKI_1,Female,corr
+3313349,Baseline,22,right handed,NKI_1,Female,corr
+3313349,Retest_1,22,right handed,NKI_1,Female,corr
+9630905,Baseline,36,right handed,NKI_1,Female,corr
+9630905,Retest_1,36,right handed,NKI_1,Female,corr
+2842950,Baseline,27,,NKI_1,Female,corr
+2842950,Retest_1,27,,NKI_1,Female,corr
+2799329,Baseline,30,right handed,NKI_1,Female,corr
+2799329,Retest_1,30,right handed,NKI_1,Female,corr
+8735778,Baseline,31,left handed,NKI_1,Female,corr
+8735778,Retest_1,31,left handed,NKI_1,Female,corr
+3808535,Baseline,25,right handed,NKI_1,Female,corr
+3808535,Retest_1,25,right handed,NKI_1,Female,corr
+7055197,Baseline,22,right handed,NKI_1,Female,corr
+7055197,Retest_1,22,right handed,NKI_1,Female,corr
+1427581,Baseline,27,right handed,NKI_1,Female,corr
+1427581,Retest_1,27,right handed,NKI_1,Female,corr
+3201815,Baseline,48,,NKI_1,Female,corr
+3201815,Retest_1,48,,NKI_1,Female,corr
+1961098,Baseline,21,right handed,NKI_1,Female,corr
+1961098,Retest_1,21,right handed,NKI_1,Female,corr
+21006,Baseline,32,right handed,NKI_1,Female,corr
+21006,Retest_1,32,right handed,NKI_1,Female,corr
+8574662,Baseline,42,right handed,NKI_1,Female,corr
+8574662,Retest_1,42,right handed,NKI_1,Female,corr
+21024,Baseline,22,right handed,NKI_1,Female,corr
+21024,Retest_1,22,right handed,NKI_1,Female,corr
+21001,Baseline,57,right handed,NKI_1,Female,corr
+21001,Retest_1,57,right handed,NKI_1,Female,corr
+21018,Baseline,36,right handed,NKI_1,Female,corr
+21018,Retest_1,36,right handed,NKI_1,Female,corr
+3795193,Baseline,57,right handed,NKI_1,Female,corr
+3795193,Retest_1,57,right handed,NKI_1,Female,corr
+1793622,Baseline,60,right handed,NKI_1,Female,corr
+1793622,Retest_1,60,right handed,NKI_1,Female,corr
+4288245,Baseline,22,right handed,NKI_1,Female,corr
+4288245,Retest_1,22,right handed,NKI_1,Female,corr
+4176156,Baseline,46,right handed,NKI_1,Female,corr
+4176156,Retest_1,46,right handed,NKI_1,Female,corr
+3315657,Baseline,19,right handed,NKI_1,Female,corr
+3315657,Retest_1,19,right handed,NKI_1,Female,corr
+6471972,Baseline,32,left handed,NKI_1,Female,corr
+6471972,Retest_1,32,left handed,NKI_1,Female,corr
+21002,Baseline,52,right handed,NKI_1,Female,corr
+21002,Retest_1,52,right handed,NKI_1,Female,corr
+27103,Baseline,27,right handed,NYU_1,Female,corr
+27103,Retest_1,27,right handed,NYU_1,Female,corr
+27103,Retest_2,27,right handed,NYU_1,Female,corr
+27104,Baseline,21,right handed,NYU_1,Female,corr
+27104,Retest_1,21,right handed,NYU_1,Female,corr
+27104,Retest_2,21,right handed,NYU_1,Female,corr
+27105,Baseline,26,right handed,NYU_1,Female,corr
+27105,Retest_1,26,right handed,NYU_1,Female,corr
+27105,Retest_2,26,right handed,NYU_1,Female,corr
+27106,Baseline,23,right handed,NYU_1,Female,corr
+27106,Retest_1,23,right handed,NYU_1,Female,corr
+27106,Retest_2,23,right handed,NYU_1,Female,corr
+27107,Baseline,22,right handed,NYU_1,Female,corr
+27107,Retest_1,22,right handed,NYU_1,Female,corr
+27107,Retest_2,22,right handed,NYU_1,Female,corr
+27108,Baseline,28,right handed,NYU_1,Female,corr
+27108,Retest_1,28,right handed,NYU_1,Female,corr
+27108,Retest_2,28,right handed,NYU_1,Female,corr
+27109,Baseline,49,right handed,NYU_1,Male,corr
+27109,Retest_1,49,right handed,NYU_1,Male,corr
+27109,Retest_2,49,right handed,NYU_1,Male,corr
+27110,Baseline,23,right handed,NYU_1,Female,corr
+27110,Retest_1,23,right handed,NYU_1,Female,corr
+27110,Retest_2,23,right handed,NYU_1,Female,corr
+27111,Baseline,31,right handed,NYU_1,Male,corr
+27111,Retest_1,31,right handed,NYU_1,Male,corr
+27111,Retest_2,31,right handed,NYU_1,Male,corr
+27112,Baseline,25,right handed,NYU_1,Male,corr
+27112,Retest_1,25,right handed,NYU_1,Male,corr
+27112,Retest_2,25,right handed,NYU_1,Male,corr
+27113,Baseline,27,right handed,NYU_1,Female,corr
+27113,Retest_1,27,right handed,NYU_1,Female,corr
+27113,Retest_2,27,right handed,NYU_1,Female,corr
+27114,Baseline,35,right handed,NYU_1,Female,corr
+27114,Retest_1,35,right handed,NYU_1,Female,corr
+27114,Retest_2,35,right handed,NYU_1,Female,corr
+27115,Baseline,22,right handed,NYU_1,Male,corr
+27115,Retest_1,22,right handed,NYU_1,Male,corr
+27115,Retest_2,22,right handed,NYU_1,Male,corr
+27116,Baseline,49,right handed,NYU_1,Female,corr
+27116,Retest_1,49,right handed,NYU_1,Female,corr
+27116,Retest_2,49,right handed,NYU_1,Female,corr
+27117,Baseline,24,right handed,NYU_1,Female,corr
+27117,Retest_1,24,right handed,NYU_1,Female,corr
+27117,Retest_2,24,right handed,NYU_1,Female,corr
+27118,Baseline,27,right handed,NYU_1,Female,corr
+27118,Retest_1,27,right handed,NYU_1,Female,corr
+27118,Retest_2,27,right handed,NYU_1,Female,corr
+27119,Baseline,27,right handed,NYU_1,Male,corr
+27119,Retest_1,27,right handed,NYU_1,Male,corr
+27119,Retest_2,27,right handed,NYU_1,Male,corr
+27120,Baseline,22,right handed,NYU_1,Female,corr
+27120,Retest_1,22,right handed,NYU_1,Female,corr
+27120,Retest_2,22,right handed,NYU_1,Female,corr
+27121,Baseline,23,right handed,NYU_1,Male,corr
+27121,Retest_1,23,right handed,NYU_1,Male,corr
+27121,Retest_2,23,right handed,NYU_1,Male,corr
+27122,Baseline,49,right handed,NYU_1,Male,corr
+27122,Retest_1,49,right handed,NYU_1,Male,corr
+27122,Retest_2,49,right handed,NYU_1,Male,corr
+27123,Baseline,32,right handed,NYU_1,Male,corr
+27123,Retest_1,32,right handed,NYU_1,Male,corr
+27123,Retest_2,32,right handed,NYU_1,Male,corr
+27124,Baseline,41,right handed,NYU_1,Male,corr
+27124,Retest_1,41,right handed,NYU_1,Male,corr
+27124,Retest_2,41,right handed,NYU_1,Male,corr
+27125,Baseline,30,right handed,NYU_1,Female,corr
+27125,Retest_1,30,right handed,NYU_1,Female,corr
+27125,Retest_2,30,right handed,NYU_1,Female,corr
+27126,Baseline,25,right handed,NYU_1,Male,corr
+27126,Retest_1,25,right handed,NYU_1,Male,corr
+27126,Retest_2,25,right handed,NYU_1,Male,corr
+27127,Baseline,28,right handed,NYU_1,Female,corr
+27127,Retest_1,28,right handed,NYU_1,Female,corr
+27127,Retest_2,28,right handed,NYU_1,Female,corr
+25000,Baseline,13.25,,NYU_2,Female,corr
+25000,Retest_1,,,NYU_2,,corr
+25000,Retest_2,,,NYU_2,,corr
+25001,Baseline,10.76,,NYU_2,Male,corr
+25001,Retest_1,,,NYU_2,,corr
+25001,Retest_2,,,NYU_2,,corr
+25002,Baseline,8.91,,NYU_2,Female,corr
+25002,Retest_1,,,NYU_2,,corr
+25002,Retest_2,,,NYU_2,,corr
+25003,Baseline,11.38,,NYU_2,Female,corr
+25003,Retest_1,,,NYU_2,,corr
+25003,Retest_2,,,NYU_2,,corr
+25003,Retest_3,,,NYU_2,,corr
+25004,Baseline,12.44,,NYU_2,Female,corr
+25004,Retest_1,,,NYU_2,,corr
+25004,Retest_2,,,NYU_2,,corr
+25004,Retest_3,,,NYU_2,,corr
+25005,Baseline,11.31,,NYU_2,Female,corr
+25005,Retest_1,,,NYU_2,,corr
+25005,Retest_2,,,NYU_2,,corr
+25005,Retest_3,,,NYU_2,,corr
+25006,Baseline,8.91,,NYU_2,Male,corr
+25006,Retest_1,,,NYU_2,,corr
+25006,Retest_2,,,NYU_2,,corr
+25007,Baseline,12.59,,NYU_2,Male,corr
+25007,Retest_1,,,NYU_2,,corr
+25007,Retest_2,,,NYU_2,,corr
+25007,Retest_3,,,NYU_2,,corr
+25008,Baseline,8.04,,NYU_2,Female,corr
+25008,Retest_1,,,NYU_2,,corr
+25008,Retest_2,,,NYU_2,,corr
+25008,Retest_3,,,NYU_2,,corr
+25009,Baseline,11.92,,NYU_2,Male,corr
+25009,Retest_1,,,NYU_2,,corr
+25009,Retest_2,,,NYU_2,,corr
+25009,Retest_3,,,NYU_2,,corr
+25010,Baseline,7.55,,NYU_2,Female,corr
+25010,Retest_1,,,NYU_2,,corr
+25010,Retest_2,,,NYU_2,,corr
+25011,Baseline,10.21,,NYU_2,Female,corr
+25011,Retest_1,,,NYU_2,,corr
+25011,Retest_2,,,NYU_2,,corr
+25011,Retest_3,,,NYU_2,,corr
+25012,Baseline,8.01,,NYU_2,Male,corr
+25012,Retest_1,,,NYU_2,,corr
+25012,Retest_2,,,NYU_2,,corr
+25012,Retest_3,,,NYU_2,,corr
+25013,Baseline,8.15,,NYU_2,Male,corr
+25013,Retest_1,,,NYU_2,,corr
+25013,Retest_2,,,NYU_2,,corr
+25013,Retest_3,,,NYU_2,,corr
+25014,Baseline,8.59,,NYU_2,Male,corr
+25014,Retest_1,,,NYU_2,,corr
+25014,Retest_2,,,NYU_2,,corr
+25014,Retest_3,,,NYU_2,,corr
+25015,Baseline,11.69,,NYU_2,Male,corr
+25015,Retest_1,,,NYU_2,,corr
+25015,Retest_2,,,NYU_2,,corr
+25015,Retest_3,,,NYU_2,,corr
+25016,Baseline,10.82,,NYU_2,Female,corr
+25016,Retest_1,,,NYU_2,,corr
+25016,Retest_2,,,NYU_2,,corr
+25016,Retest_3,,,NYU_2,,corr
+25017,Baseline,7.63,,NYU_2,Female,corr
+25017,Retest_1,,,NYU_2,,corr
+25017,Retest_2,,,NYU_2,,corr
+25017,Retest_3,,,NYU_2,,corr
+25018,Baseline,13.28,,NYU_2,Male,corr
+25018,Retest_1,,,NYU_2,,corr
+25018,Retest_2,,,NYU_2,,corr
+25018,Retest_3,,,NYU_2,,corr
+25019,Baseline,8.56,,NYU_2,Female,corr
+25019,Retest_1,,,NYU_2,,corr
+25019,Retest_2,,,NYU_2,,corr
+25019,Retest_3,,,NYU_2,,corr
+25020,Baseline,10.46,,NYU_2,Male,corr
+25020,Retest_1,,,NYU_2,,corr
+25020,Retest_2,,,NYU_2,,corr
+25021,Baseline,7.91,,NYU_2,Female,corr
+25021,Retest_1,,,NYU_2,,corr
+25021,Retest_2,,,NYU_2,,corr
+25022,Baseline,12.49,,NYU_2,Male,corr
+25022,Retest_1,,,NYU_2,,corr
+25022,Retest_2,,,NYU_2,,corr
+25022,Retest_3,,,NYU_2,,corr
+25023,Baseline,12.25,,NYU_2,Male,corr
+25023,Retest_1,,,NYU_2,,corr
+25023,Retest_2,,,NYU_2,,corr
+25023,Retest_3,,,NYU_2,,corr
+25023,Retest_4,,,NYU_2,,corr
+25023,Retest_5,,,NYU_2,,corr
+25024,Baseline,9.75,,NYU_2,Male,corr
+25024,Retest_1,,,NYU_2,,corr
+25024,Retest_2,,,NYU_2,,corr
+25024,Retest_3,,,NYU_2,,corr
+25025,Baseline,12.45,,NYU_2,Female,corr
+25025,Retest_1,,,NYU_2,,corr
+25025,Retest_2,,,NYU_2,,corr
+25025,Retest_3,,,NYU_2,,corr
+25025,Retest_4,,,NYU_2,,corr
+25025,Retest_5,,,NYU_2,,corr
+25026,Baseline,9.54,,NYU_2,Female,corr
+25026,Retest_1,,,NYU_2,,corr
+25026,Retest_2,,,NYU_2,,corr
+25027,Baseline,39.95,,NYU_2,Male,corr
+25027,Retest_1,,,NYU_2,,corr
+25027,Retest_2,,,NYU_2,,corr
+25027,Retest_3,,,NYU_2,,corr
+25028,Baseline,42.94,,NYU_2,Male,corr
+25028,Retest_1,,,NYU_2,,corr
+25028,Retest_2,,,NYU_2,,corr
+25028,Retest_3,,,NYU_2,,corr
+25029,Baseline,20.02,,NYU_2,Male,corr
+25029,Retest_1,,,NYU_2,,corr
+25029,Retest_2,,,NYU_2,,corr
+25029,Retest_3,,,NYU_2,,corr
+25030,Baseline,26.91,,NYU_2,Female,corr
+25030,Retest_1,,,NYU_2,,corr
+25030,Retest_2,,,NYU_2,,corr
+25030,Retest_3,,,NYU_2,,corr
+25031,Baseline,33.52,,NYU_2,Female,corr
+25031,Retest_1,,,NYU_2,,corr
+25031,Retest_2,,,NYU_2,,corr
+25031,Retest_3,,,NYU_2,,corr
+25032,Baseline,33.45,,NYU_2,Male,corr
+25032,Retest_1,,,NYU_2,,corr
+25032,Retest_2,,,NYU_2,,corr
+25033,Baseline,30.78,,NYU_2,Male,corr
+25033,Retest_1,,,NYU_2,,corr
+25033,Retest_2,,,NYU_2,,corr
+25033,Retest_3,,,NYU_2,,corr
+25034,Baseline,26.17,,NYU_2,Male,corr
+25034,Retest_1,,,NYU_2,,corr
+25034,Retest_2,,,NYU_2,,corr
+25034,Retest_3,,,NYU_2,,corr
+25035,Baseline,26.62,,NYU_2,Male,corr
+25035,Retest_1,,,NYU_2,,corr
+25035,Retest_2,,,NYU_2,,corr
+25036,Baseline,27.03,,NYU_2,Female,corr
+25036,Retest_1,,,NYU_2,,corr
+25036,Retest_2,,,NYU_2,,corr
+25036,Retest_3,,,NYU_2,,corr
+25037,Baseline,18.77,,NYU_2,Male,corr
+25037,Retest_1,,,NYU_2,,corr
+25037,Retest_2,,,NYU_2,,corr
+25037,Retest_3,,,NYU_2,,corr
+25038,Baseline,22.39,,NYU_2,Female,corr
+25038,Retest_1,,,NYU_2,,corr
+25038,Retest_2,,,NYU_2,,corr
+25038,Retest_3,,,NYU_2,,corr
+25039,Baseline,19.78,,NYU_2,Female,corr
+25039,Retest_1,,,NYU_2,,corr
+25039,Retest_2,,,NYU_2,,corr
+25040,Baseline,43.45,,NYU_2,Female,corr
+25040,Retest_1,,,NYU_2,,corr
+25040,Retest_2,,,NYU_2,,corr
+25041,Baseline,24.71,,NYU_2,Female,corr
+25041,Retest_1,,,NYU_2,,corr
+25041,Retest_2,,,NYU_2,,corr
+25041,Retest_3,,,NYU_2,,corr
+25042,Baseline,22.76,,NYU_2,Female,corr
+25042,Retest_1,,,NYU_2,,corr
+25042,Retest_2,,,NYU_2,,corr
+25042,Retest_3,,,NYU_2,,corr
+25043,Baseline,26.19,,NYU_2,Female,corr
+25043,Retest_1,,,NYU_2,,corr
+25043,Retest_2,,,NYU_2,,corr
+25044,Baseline,35.73,,NYU_2,Male,corr
+25044,Retest_1,,,NYU_2,,corr
+25044,Retest_2,,,NYU_2,,corr
+25044,Retest_3,,,NYU_2,,corr
+25045,Baseline,21.26,,NYU_2,Female,corr
+25045,Retest_1,,,NYU_2,,corr
+25045,Retest_2,,,NYU_2,,corr
+25045,Retest_3,,,NYU_2,,corr
+25046,Baseline,23.22,,NYU_2,Female,corr
+25046,Retest_1,,,NYU_2,,corr
+25046,Retest_2,,,NYU_2,,corr
+25046,Retest_3,,,NYU_2,,corr
+25047,Baseline,40.09,,NYU_2,Male,corr
+25047,Retest_1,,,NYU_2,,corr
+25047,Retest_2,,,NYU_2,,corr
+25047,Retest_4,,,NYU_2,,corr
+25047,Retest_5,,,NYU_2,,corr
+25048,Baseline,22.95,,NYU_2,Female,corr
+25048,Retest_1,,,NYU_2,,corr
+25048,Retest_2,,,NYU_2,,corr
+25048,Retest_3,,,NYU_2,,corr
+25049,Baseline,30.08,,NYU_2,Male,corr
+25049,Retest_1,,,NYU_2,,corr
+25049,Retest_2,,,NYU_2,,corr
+25049,Retest_3,,,NYU_2,,corr
+25050,Baseline,32.57,,NYU_2,Male,corr
+25050,Retest_1,,,NYU_2,,corr
+25050,Retest_2,,,NYU_2,,corr
+25050,Retest_3,,,NYU_2,,corr
+25051,Baseline,33.22,,NYU_2,Female,corr
+25051,Retest_1,,,NYU_2,,corr
+25051,Retest_2,,,NYU_2,,corr
+25051,Retest_3,,,NYU_2,,corr
+25052,Baseline,40.05,,NYU_2,Male,corr
+25052,Retest_1,,,NYU_2,,corr
+25052,Retest_2,,,NYU_2,,corr
+25053,Baseline,34.9,,NYU_2,Male,corr
+25053,Retest_1,,,NYU_2,,corr
+25053,Retest_2,,,NYU_2,,corr
+25053,Retest_3,,,NYU_2,,corr
+25054,Baseline,45.49,,NYU_2,Male,corr
+25054,Retest_1,,,NYU_2,,corr
+25054,Retest_2,,,NYU_2,,corr
+25054,Retest_3,,,NYU_2,,corr
+25055,Baseline,20.16,,NYU_2,Male,corr
+25055,Retest_1,,,NYU_2,,corr
+25055,Retest_2,,,NYU_2,,corr
+25055,Retest_3,,,NYU_2,,corr
+25056,Baseline,21.48,,NYU_2,Female,corr
+25056,Retest_1,,,NYU_2,,corr
+25056,Retest_2,,,NYU_2,,corr
+25056,Retest_3,,,NYU_2,,corr
+25057,Baseline,27.27,,NYU_2,Female,corr
+25057,Retest_1,,,NYU_2,,corr
+25057,Retest_2,,,NYU_2,,corr
+25057,Retest_3,,,NYU_2,,corr
+25058,Baseline,11.24,,NYU_2,Male,corr
+25058,Retest_1,,,NYU_2,,corr
+25058,Retest_2,,,NYU_2,,corr
+25058,Retest_3,,,NYU_2,,corr
+25059,Baseline,7.26,,NYU_2,Male,corr
+25059,Retest_1,,,NYU_2,,corr
+25059,Retest_2,,,NYU_2,,corr
+25059,Retest_3,,,NYU_2,,corr
+25060,Baseline,11.03,,NYU_2,Male,corr
+25060,Retest_1,,,NYU_2,,corr
+25060,Retest_2,,,NYU_2,,corr
+25060,Retest_3,,,NYU_2,,corr
+25061,Baseline,22.33,,NYU_2,Male,corr
+25061,Retest_1,,,NYU_2,,corr
+25061,Retest_2,,,NYU_2,,corr
+25061,Retest_3,,,NYU_2,,corr
+25062,Baseline,13.22,,NYU_2,Female,corr
+25062,Retest_1,,,NYU_2,,corr
+25063,Baseline,12.24,,NYU_2,Female,corr
+25063,Retest_1,,,NYU_2,,corr
+25064,Baseline,12.1,,NYU_2,Male,corr
+25064,Retest_1,,,NYU_2,,corr
+25065,Baseline,11.32,,NYU_2,Male,corr
+25065,Retest_1,,,NYU_2,,corr
+25066,Baseline,9.23,,NYU_2,Male,corr
+25066,Retest_1,,,NYU_2,,corr
+25067,Baseline,8.26,,NYU_2,Female,corr
+25067,Retest_1,,,NYU_2,,corr
+25068,Baseline,9.81,,NYU_2,Male,corr
+25068,Retest_1,,,NYU_2,,corr
+25069,Baseline,10.52,,NYU_2,Male,corr
+25069,Retest_1,,,NYU_2,,corr
+25070,Baseline,13.58,,NYU_2,Male,corr
+25070,Retest_1,,,NYU_2,,corr
+25071,Baseline,13.63,,NYU_2,Male,corr
+25071,Retest_1,,,NYU_2,,corr
+25072,Baseline,14.65,,NYU_2,Male,corr
+25072,Retest_1,,,NYU_2,,corr
+25073,Baseline,11.98,,NYU_2,Male,corr
+25073,Retest_1,,,NYU_2,,corr
+25074,Baseline,8.49,,NYU_2,Female,corr
+25074,Retest_1,,,NYU_2,,corr
+25075,Baseline,15.71,,NYU_2,Male,corr
+25075,Retest_1,,,NYU_2,,corr
+25076,Baseline,15.28,,NYU_2,Male,corr
+25076,Retest_1,,,NYU_2,,corr
+25077,Baseline,17.43,,NYU_2,Male,corr
+25077,Retest_1,,,NYU_2,,corr
+25078,Baseline,15.4,,NYU_2,Male,corr
+25078,Retest_1,,,NYU_2,,corr
+25079,Baseline,16.31,,NYU_2,Male,corr
+25079,Retest_1,,,NYU_2,,corr
+25080,Baseline,15.28,,NYU_2,Female,corr
+25080,Retest_1,,,NYU_2,,corr
+25081,Baseline,17.7,,NYU_2,Male,corr
+25081,Retest_1,,,NYU_2,,corr
+25082,Baseline,17.31,,NYU_2,Female,corr
+25082,Retest_1,,,NYU_2,,corr
+25083,Baseline,17.83,,NYU_2,Male,corr
+25083,Retest_1,,,NYU_2,,corr
+25084,Baseline,10.86,,NYU_2,Male,corr
+25084,Retest_1,,,NYU_2,,corr
+25085,Baseline,14.19,,NYU_2,Female,corr
+25085,Retest_1,,,NYU_2,,corr
+25086,Baseline,13.9,,NYU_2,Female,corr
+25086,Retest_1,,,NYU_2,,corr
+25087,Baseline,16.93,,NYU_2,Male,corr
+25087,Retest_1,,,NYU_2,,corr
+25088,Baseline,8.45,,NYU_2,Female,corr
+25088,Retest_1,,,NYU_2,,corr
+25089,Baseline,32.26,,NYU_2,Male,corr
+25089,Retest_1,,,NYU_2,,corr
+25090,Baseline,38.84,,NYU_2,Female,corr
+25090,Retest_1,,,NYU_2,,corr
+25091,Baseline,16.08,,NYU_2,Female,corr
+25091,Retest_1,,,NYU_2,,corr
+25092,Baseline,11.91,,NYU_2,Male,corr
+25092,Retest_1,,,NYU_2,,corr
+25093,Baseline,14.79,,NYU_2,Male,corr
+25093,Retest_1,,,NYU_2,,corr
+25094,Baseline,46.25,,NYU_2,Female,corr
+25094,Retest_1,,,NYU_2,,corr
+25095,Baseline,20.92,,NYU_2,Male,corr
+25095,Retest_1,,,NYU_2,,corr
+25096,Baseline,8.03,,NYU_2,Female,corr
+25096,Retest_1,,,NYU_2,,corr
+25097,Baseline,7.29,,NYU_2,Male,corr
+25097,Retest_1,,,NYU_2,,corr
+25098,Baseline,7.68,,NYU_2,Female,corr
+25098,Retest_1,,,NYU_2,,corr
+25099,Baseline,17.86,,NYU_2,Female,corr
+25099,Retest_1,,,NYU_2,,corr
+25100,Baseline,14.48,,NYU_2,Female,corr
+25100,Retest_1,,,NYU_2,,corr
+25101,Baseline,45.83,,NYU_2,Male,corr
+25101,Retest_1,,,NYU_2,,corr
+25102,Baseline,14.87,,NYU_2,Female,corr
+25102,Retest_1,,,NYU_2,,corr
+25103,Baseline,17.3,,NYU_2,Male,corr
+25103,Retest_1,,,NYU_2,,corr
+25104,Baseline,15.21,,NYU_2,Female,corr
+25104,Retest_1,,,NYU_2,,corr
+25105,Baseline,7.67,,NYU_2,Female,corr
+25105,Retest_1,,,NYU_2,,corr
+25106,Baseline,10.74,,NYU_2,Male,corr
+25106,Retest_1,,,NYU_2,,corr
+25107,Baseline,14.38,,NYU_2,Female,corr
+25107,Retest_1,,,NYU_2,,corr
+25108,Baseline,9.96,,NYU_2,Female,corr
+25108,Retest_1,,,NYU_2,,corr
+25109,Baseline,16.88,,NYU_2,Male,corr
+25109,Retest_1,,,NYU_2,,corr
+25110,Baseline,16.55,,NYU_2,Male,corr
+25110,Retest_1,,,NYU_2,,corr
+25111,Baseline,47.61,,NYU_2,Female,corr
+25111,Retest_1,,,NYU_2,,corr
+25112,Baseline,14.91,,NYU_2,Female,corr
+25112,Retest_1,,,NYU_2,,corr
+25113,Baseline,16.73,,NYU_2,Male,corr
+25113,Retest_1,,,NYU_2,,corr
+25114,Baseline,48,,NYU_2,Male,corr
+25114,Retest_1,,,NYU_2,,corr
+25115,Baseline,11.56,,NYU_2,Female,corr
+25115,Retest_1,,,NYU_2,,corr
+25116,Baseline,12.99,,NYU_2,Female,corr
+25116,Retest_1,,,NYU_2,,corr
+25117,Baseline,9.35,,NYU_2,Male,corr
+25117,Retest_1,,,NYU_2,,corr
+25118,Baseline,46.84,,NYU_2,Male,corr
+25118,Retest_1,,,NYU_2,,corr
+25119,Baseline,14.18,,NYU_2,Female,corr
+25119,Retest_1,,,NYU_2,,corr
+25120,Baseline,16.28,,NYU_2,Male,corr
+25120,Retest_1,,,NYU_2,,corr
+25121,Baseline,16.13,,NYU_2,Male,corr
+25121,Retest_1,,,NYU_2,,corr
+25122,Baseline,11.4,,NYU_2,Male,corr
+25122,Retest_1,,,NYU_2,,corr
+25123,Baseline,15.95,,NYU_2,Female,corr
+25123,Retest_1,,,NYU_2,,corr
+25124,Baseline,22.1,,NYU_2,Female,corr
+25124,Retest_1,,,NYU_2,,corr
+25125,Baseline,47.18,,NYU_2,Female,corr
+25125,Retest_1,,,NYU_2,,corr
+25126,Baseline,14.42,,NYU_2,Female,corr
+25126,Retest_1,,,NYU_2,,corr
+25127,Baseline,17.96,,NYU_2,Female,corr
+25127,Retest_1,,,NYU_2,,corr
+25128,Baseline,22.76,,NYU_2,Male,corr
+25128,Retest_1,,,NYU_2,,corr
+25129,Baseline,16.55,,NYU_2,Male,corr
+25129,Retest_1,,,NYU_2,,corr
+25130,Baseline,10.52,,NYU_2,Male,corr
+25130,Retest_1,,,NYU_2,,corr
+25131,Baseline,14.66,,NYU_2,Male,corr
+25131,Retest_1,,,NYU_2,,corr
+25132,Baseline,14.06,,NYU_2,Female,corr
+25132,Retest_1,,,NYU_2,,corr
+25133,Baseline,38.56,,NYU_2,Female,corr
+25133,Retest_1,,,NYU_2,,corr
+25134,Baseline,53.96,,NYU_2,Male,corr
+25134,Retest_1,,,NYU_2,,corr
+25135,Baseline,55.03,,NYU_2,Male,corr
+25135,Retest_1,,,NYU_2,,corr
+25136,Baseline,52.63,,NYU_2,Male,corr
+25136,Retest_1,,,NYU_2,,corr
+25137,Baseline,33.75,,NYU_2,Male,corr
+25137,Retest_1,,,NYU_2,,corr
+25138,Baseline,31.51,,NYU_2,Male,corr
+25138,Retest_1,,,NYU_2,,corr
+25139,Baseline,25.34,,NYU_2,Male,corr
+25139,Retest_1,,,NYU_2,,corr
+25140,Baseline,22.48,,NYU_2,Male,corr
+25140,Retest_1,,,NYU_2,,corr
+25141,Baseline,31.78,,NYU_2,Male,corr
+25141,Retest_1,,,NYU_2,,corr
+25142,Baseline,6.47,,NYU_2,Male,corr
+25142,Retest_1,,,NYU_2,,corr
+25143,Baseline,40.69,,NYU_2,Male,corr
+25143,Retest_1,,,NYU_2,,corr
+25144,Baseline,23.65,,NYU_2,Male,corr
+25144,Retest_1,,,NYU_2,,corr
+25145,Baseline,28.2,,NYU_2,Male,corr
+25145,Retest_1,,,NYU_2,,corr
+25146,Baseline,14.43,,NYU_2,Male,corr
+25146,Retest_1,,,NYU_2,,corr
+25147,Baseline,31.8,,NYU_2,Male,corr
+25147,Retest_1,,,NYU_2,,corr
+25148,Baseline,19.23,,NYU_2,Male,corr
+25148,Retest_1,,,NYU_2,,corr
+25149,Baseline,45.74,,NYU_2,Male,corr
+25149,Retest_1,,,NYU_2,,corr
+25150,Baseline,32.17,,NYU_2,Male,corr
+25150,Retest_1,,,NYU_2,,corr
+25151,Baseline,14.36,,NYU_2,Male,corr
+25151,Retest_1,,,NYU_2,,corr
+25152,Baseline,9,,NYU_2,Male,corr
+25152,Retest_1,,,NYU_2,,corr
+25153,Baseline,11.34,,NYU_2,Male,corr
+25153,Retest_1,,,NYU_2,,corr
+25154,Baseline,23.81,,NYU_2,Female,corr
+25154,Retest_1,,,NYU_2,,corr
+25155,Baseline,30.72,,NYU_2,Male,corr
+25155,Retest_1,,,NYU_2,,corr
+25156,Baseline,27.03,,NYU_2,Male,corr
+25156,Retest_1,,,NYU_2,,corr
+25157,Baseline,33,,NYU_2,Male,corr
+25157,Retest_1,,,NYU_2,,corr
+25158,Baseline,22.11,,NYU_2,Female,corr
+25158,Retest_1,,,NYU_2,,corr
+25159,Baseline,21.58,,NYU_2,Female,corr
+25159,Retest_1,,,NYU_2,,corr
+25160,Baseline,21.59,,NYU_2,Female,corr
+25160,Retest_1,,,NYU_2,,corr
+25161,Baseline,26.66,,NYU_2,Female,corr
+25161,Retest_1,,,NYU_2,,corr
+25162,Baseline,27.89,,NYU_2,Female,corr
+25162,Retest_1,,,NYU_2,,corr
+25163,Baseline,21.15,,NYU_2,Male,corr
+25163,Retest_1,,,NYU_2,,corr
+25164,Baseline,20.56,,NYU_2,Male,corr
+25164,Retest_1,,,NYU_2,,corr
+25165,Baseline,40.91,,NYU_2,Male,corr
+25165,Retest_1,,,NYU_2,,corr
+25166,Baseline,20.3,,NYU_2,Male,corr
+25166,Retest_1,,,NYU_2,,corr
+25167,Baseline,23.08,,NYU_2,Male,corr
+25167,Retest_1,,,NYU_2,,corr
+25168,Baseline,23.35,,NYU_2,Male,corr
+25168,Retest_1,,,NYU_2,,corr
+25169,Baseline,32.82,,NYU_2,Male,corr
+25169,Retest_1,,,NYU_2,,corr
+25170,Baseline,41.21,,NYU_2,Male,corr
+25170,Retest_1,,,NYU_2,,corr
+25171,Baseline,31.69,,NYU_2,Male,corr
+25171,Retest_1,,,NYU_2,,corr
+25172,Baseline,22.77,,NYU_2,Male,corr
+25172,Retest_1,,,NYU_2,,corr
+25173,Baseline,19.73,,NYU_2,Male,corr
+25173,Retest_1,,,NYU_2,,corr
+25174,Baseline,20.04,,NYU_2,Male,corr
+25174,Retest_1,,,NYU_2,,corr
+25175,Baseline,8.16,,NYU_2,Female,corr
+25175,Retest_1,,,NYU_2,,corr
+25176,Baseline,8.52,,NYU_2,Female,corr
+25176,Retest_1,,,NYU_2,,corr
+25177,Baseline,10.73,,NYU_2,Male,corr
+25177,Retest_1,,,NYU_2,,corr
+25178,Baseline,12.1,,NYU_2,Female,corr
+25178,Retest_1,,,NYU_2,,corr
+25179,Baseline,8.91,,NYU_2,Male,corr
+25179,Retest_1,,,NYU_2,,corr
+25180,Baseline,9,,NYU_2,Male,corr
+25180,Retest_1,,,NYU_2,,corr
+25181,Baseline,12.9,,NYU_2,Male,corr
+25181,Retest_1,,,NYU_2,,corr
+25182,Baseline,9.54,,NYU_2,Male,corr
+25182,Retest_1,,,NYU_2,,corr
+25183,Baseline,11.2,,NYU_2,Male,corr
+25183,Retest_1,,,NYU_2,,corr
+25184,Baseline,9.48,,NYU_2,Male,corr
+25184,Retest_1,,,NYU_2,,corr
+25185,Baseline,9.19,,NYU_2,Male,corr
+25185,Retest_1,,,NYU_2,,corr
+25186,Baseline,11.09,,NYU_2,Male,corr
+25186,Retest_1,,,NYU_2,,corr
+27206,Baseline,22,,SWU_1,Female,corr
+27206,Retest_1,,,SWU_1,,corr
+27206,Retest_2,,,SWU_1,,corr
+27206,Retest_3,,,SWU_1,,corr
+27206,Retest_4,,,SWU_1,,corr
+27206,Retest_5,,,SWU_1,,corr
+27207,Baseline,22,,SWU_1,Female,corr
+27207,Retest_1,,,SWU_1,,corr
+27207,Retest_2,,,SWU_1,,corr
+27207,Retest_3,,,SWU_1,,corr
+27207,Retest_4,,,SWU_1,,corr
+27207,Retest_5,,,SWU_1,,corr
+27208,Baseline,21,,SWU_1,Female,corr
+27208,Retest_1,,,SWU_1,,corr
+27208,Retest_2,,,SWU_1,,corr
+27208,Retest_3,,,SWU_1,,corr
+27208,Retest_4,,,SWU_1,,corr
+27208,Retest_5,,,SWU_1,,corr
+27209,Baseline,23,,SWU_1,Female,corr
+27209,Retest_1,,,SWU_1,,corr
+27209,Retest_2,,,SWU_1,,corr
+27209,Retest_3,,,SWU_1,,corr
+27209,Retest_4,,,SWU_1,,corr
+27209,Retest_5,,,SWU_1,,corr
+27210,Baseline,23,,SWU_1,Female,corr
+27210,Retest_1,,,SWU_1,,corr
+27210,Retest_2,,,SWU_1,,corr
+27210,Retest_3,,,SWU_1,,corr
+27210,Retest_4,,,SWU_1,,corr
+27210,Retest_5,,,SWU_1,,corr
+27211,Baseline,19,,SWU_1,Female,corr
+27211,Retest_1,,,SWU_1,,corr
+27211,Retest_2,,,SWU_1,,corr
+27211,Retest_3,,,SWU_1,,corr
+27211,Retest_4,,,SWU_1,,corr
+27211,Retest_5,,,SWU_1,,corr
+27212,Baseline,20,,SWU_1,Female,corr
+27212,Retest_1,,,SWU_1,,corr
+27212,Retest_2,,,SWU_1,,corr
+27212,Retest_3,,,SWU_1,,corr
+27212,Retest_4,,,SWU_1,,corr
+27212,Retest_5,,,SWU_1,,corr
+27203,Baseline,20,,SWU_1,Female,corr
+27203,Retest_1,,,SWU_1,,corr
+27203,Retest_2,,,SWU_1,,corr
+27203,Retest_3,,,SWU_1,,corr
+27203,Retest_4,,,SWU_1,,corr
+27203,Retest_5,,,SWU_1,,corr
+27204,Baseline,20,,SWU_1,Female,corr
+27204,Retest_1,,,SWU_1,,corr
+27204,Retest_2,,,SWU_1,,corr
+27204,Retest_3,,,SWU_1,,corr
+27204,Retest_4,,,SWU_1,,corr
+27204,Retest_5,,,SWU_1,,corr
+27205,Baseline,19,,SWU_1,Female,corr
+27205,Retest_1,,,SWU_1,,corr
+27205,Retest_2,,,SWU_1,,corr
+27205,Retest_3,,,SWU_1,,corr
+27205,Retest_4,,,SWU_1,,corr
+27205,Retest_5,,,SWU_1,,corr
+27213,Baseline,23,,SWU_1,Female,corr
+27213,Retest_1,,,SWU_1,,corr
+27213,Retest_2,,,SWU_1,,corr
+27213,Retest_3,,,SWU_1,,corr
+27213,Retest_4,,,SWU_1,,corr
+27213,Retest_5,,,SWU_1,,corr
+27214,Baseline,23,,SWU_1,Female,corr
+27214,Retest_1,,,SWU_1,,corr
+27214,Retest_2,,,SWU_1,,corr
+27214,Retest_3,,,SWU_1,,corr
+27214,Retest_4,,,SWU_1,,corr
+27214,Retest_5,,,SWU_1,,corr
+27215,Baseline,22,,SWU_1,Female,corr
+27215,Retest_1,,,SWU_1,,corr
+27215,Retest_2,,,SWU_1,,corr
+27215,Retest_3,,,SWU_1,,corr
+27215,Retest_4,,,SWU_1,,corr
+27215,Retest_5,,,SWU_1,,corr
+27216,Baseline,24,,SWU_1,Male,corr
+27216,Retest_1,,,SWU_1,,corr
+27216,Retest_2,,,SWU_1,,corr
+27216,Retest_3,,,SWU_1,,corr
+27216,Retest_4,,,SWU_1,,corr
+27216,Retest_5,,,SWU_1,,corr
+27217,Baseline,19,,SWU_1,Male,corr
+27217,Retest_1,,,SWU_1,,corr
+27217,Retest_2,,,SWU_1,,corr
+27217,Retest_3,,,SWU_1,,corr
+27217,Retest_4,,,SWU_1,,corr
+27217,Retest_5,,,SWU_1,,corr
+27218,Baseline,19,,SWU_1,Male,corr
+27218,Retest_1,,,SWU_1,,corr
+27218,Retest_2,,,SWU_1,,corr
+27218,Retest_3,,,SWU_1,,corr
+27218,Retest_4,,,SWU_1,,corr
+27218,Retest_5,,,SWU_1,,corr
+27219,Baseline,23,,SWU_1,Male,corr
+27219,Retest_1,,,SWU_1,,corr
+27219,Retest_2,,,SWU_1,,corr
+27219,Retest_3,,,SWU_1,,corr
+27219,Retest_4,,,SWU_1,,corr
+27219,Retest_5,,,SWU_1,,corr
+27220,Baseline,23,,SWU_1,Female,corr
+27220,Retest_1,,,SWU_1,,corr
+27220,Retest_2,,,SWU_1,,corr
+27220,Retest_3,,,SWU_1,,corr
+27220,Retest_4,,,SWU_1,,corr
+27220,Retest_5,,,SWU_1,,corr
+27221,Baseline,24,,SWU_1,Male,corr
+27221,Retest_1,,,SWU_1,,corr
+27221,Retest_2,,,SWU_1,,corr
+27221,Retest_3,,,SWU_1,,corr
+27221,Retest_4,,,SWU_1,,corr
+27221,Retest_5,,,SWU_1,,corr
+27222,Baseline,22,,SWU_1,Male,corr
+27222,Retest_1,,,SWU_1,,corr
+27222,Retest_2,,,SWU_1,,corr
+27222,Retest_3,,,SWU_1,,corr
+27222,Retest_4,,,SWU_1,,corr
+27222,Retest_5,,,SWU_1,,corr
+27176,Baseline,21,,SWU_2,Female,corr
+27176,Retest_1,,,SWU_2,,corr
+27177,Baseline,19,,SWU_2,Female,corr
+27177,Retest_1,,,SWU_2,,corr
+27178,Baseline,20,,SWU_2,Female,corr
+27178,Retest_1,,,SWU_2,,corr
+27179,Baseline,20,,SWU_2,Male,corr
+27179,Retest_1,,,SWU_2,,corr
+27180,Baseline,21,,SWU_2,Male,corr
+27180,Retest_1,,,SWU_2,,corr
+27181,Baseline,18,,SWU_2,Female,corr
+27181,Retest_1,,,SWU_2,,corr
+27182,Baseline,22,,SWU_2,Female,corr
+27182,Retest_1,,,SWU_2,,corr
+27183,Baseline,23,,SWU_2,Male,corr
+27183,Retest_1,,,SWU_2,,corr
+27184,Baseline,21,,SWU_2,Male,corr
+27184,Retest_1,,,SWU_2,,corr
+27185,Baseline,20,,SWU_2,Female,corr
+27185,Retest_1,,,SWU_2,,corr
+27186,Baseline,21,,SWU_2,Female,corr
+27186,Retest_1,,,SWU_2,,corr
+27187,Baseline,23,,SWU_2,Female,corr
+27187,Retest_1,,,SWU_2,,corr
+27188,Baseline,19,,SWU_2,Female,corr
+27188,Retest_1,,,SWU_2,,corr
+27189,Baseline,23,,SWU_2,Female,corr
+27189,Retest_1,,,SWU_2,,corr
+27190,Baseline,21,,SWU_2,Female,corr
+27190,Retest_1,,,SWU_2,,corr
+27191,Baseline,23,,SWU_2,Female,corr
+27191,Retest_1,,,SWU_2,,corr
+27192,Baseline,18,,SWU_2,Female,corr
+27192,Retest_1,,,SWU_2,,corr
+27193,Baseline,22,,SWU_2,Male,corr
+27193,Retest_1,,,SWU_2,,corr
+27194,Baseline,23,,SWU_2,Female,corr
+27194,Retest_1,,,SWU_2,,corr
+27195,Baseline,21,,SWU_2,Male,corr
+27195,Retest_1,,,SWU_2,,corr
+27196,Baseline,23,,SWU_2,Male,corr
+27196,Retest_1,,,SWU_2,,corr
+27197,Baseline,20,,SWU_2,Female,corr
+27197,Retest_1,,,SWU_2,,corr
+27198,Baseline,20,,SWU_2,Female,corr
+27198,Retest_1,,,SWU_2,,corr
+27199,Baseline,19,,SWU_2,Male,corr
+27199,Retest_1,,,SWU_2,,corr
+27200,Baseline,24,,SWU_2,Male,corr
+27200,Retest_1,,,SWU_2,,corr
+27201,Baseline,21,,SWU_2,Female,corr
+27201,Retest_1,,,SWU_2,,corr
+27202,Baseline,20,,SWU_2,Female,corr
+27202,Retest_1,,,SWU_2,,corr
+27152,Baseline,21,,SWU_3,Male,corr
+27152,Retest_1,,,SWU_3,,corr
+27153,Baseline,19,,SWU_3,Female,corr
+27153,Retest_1,,,SWU_3,,corr
+27154,Baseline,25,,SWU_3,Female,corr
+27154,Retest_1,,,SWU_3,,corr
+27155,Baseline,19,,SWU_3,Female,corr
+27155,Retest_1,,,SWU_3,,corr
+27156,Baseline,20,,SWU_3,Male,corr
+27156,Retest_1,,,SWU_3,,corr
+27157,Baseline,20,,SWU_3,Male,corr
+27157,Retest_1,,,SWU_3,,corr
+27158,Baseline,20,,SWU_3,Female,corr
+27158,Retest_1,,,SWU_3,,corr
+27159,Baseline,18,,SWU_3,Female,corr
+27159,Retest_1,,,SWU_3,,corr
+27160,Baseline,20,,SWU_3,Female,corr
+27160,Retest_1,,,SWU_3,,corr
+27161,Baseline,21,,SWU_3,Male,corr
+27161,Retest_1,,,SWU_3,,corr
+27162,Baseline,21,,SWU_3,Male,corr
+27162,Retest_1,,,SWU_3,,corr
+27163,Baseline,18,,SWU_3,Female,corr
+27163,Retest_1,,,SWU_3,,corr
+27164,Baseline,20,,SWU_3,Female,corr
+27164,Retest_1,,,SWU_3,,corr
+27165,Baseline,20,,SWU_3,Female,corr
+27165,Retest_1,,,SWU_3,,corr
+27166,Baseline,21,,SWU_3,Female,corr
+27166,Retest_1,,,SWU_3,,corr
+27167,Baseline,19,,SWU_3,Female,corr
+27167,Retest_1,,,SWU_3,,corr
+27168,Baseline,19,,SWU_3,Male,corr
+27168,Retest_1,,,SWU_3,,corr
+27169,Baseline,22,,SWU_3,Male,corr
+27169,Retest_1,,,SWU_3,,corr
+27170,Baseline,23,,SWU_3,Female,corr
+27170,Retest_1,,,SWU_3,,corr
+27171,Baseline,23,,SWU_3,Female,corr
+27171,Retest_1,,,SWU_3,,corr
+27172,Baseline,20,,SWU_3,Female,corr
+27172,Retest_1,,,SWU_3,,corr
+27173,Baseline,21,,SWU_3,Female,corr
+27173,Retest_1,,,SWU_3,,corr
+27174,Baseline,20,,SWU_3,Male,corr
+27174,Retest_1,,,SWU_3,,corr
+25629,Baseline,18,,SWU_4,Female,corr
+25629,Retest_1,,,SWU_4,,corr
+25630,Baseline,22,,SWU_4,Female,corr
+25630,Retest_1,,,SWU_4,,corr
+25631,Baseline,19,,SWU_4,Male,corr
+25631,Retest_1,,,SWU_4,,corr
+25632,Baseline,20,,SWU_4,Male,corr
+25632,Retest_1,,,SWU_4,,corr
+25633,Baseline,18,,SWU_4,Female,corr
+25633,Retest_1,,,SWU_4,,corr
+25634,Baseline,23,,SWU_4,Female,corr
+25634,Retest_1,,,SWU_4,,corr
+25635,Baseline,20,,SWU_4,Male,corr
+25635,Retest_1,,,SWU_4,,corr
+25636,Baseline,24,,SWU_4,Female,corr
+25636,Retest_1,,,SWU_4,,corr
+25637,Baseline,21,,SWU_4,Female,corr
+25637,Retest_1,,,SWU_4,,corr
+25638,Baseline,21,,SWU_4,Female,corr
+25638,Retest_1,,,SWU_4,,corr
+25739,Baseline,27,,SWU_4,Female,corr
+25739,Retest_1,,,SWU_4,,corr
+25740,Baseline,21,,SWU_4,Female,corr
+25740,Retest_1,,,SWU_4,,corr
+25741,Baseline,20,,SWU_4,Female,corr
+25741,Retest_1,,,SWU_4,,corr
+25742,Baseline,18,,SWU_4,Female,corr
+25742,Retest_1,,,SWU_4,,corr
+25743,Baseline,18,,SWU_4,Female,corr
+25743,Retest_1,,,SWU_4,,corr
+25744,Baseline,18,,SWU_4,Female,corr
+25744,Retest_1,,,SWU_4,,corr
+25745,Baseline,20,,SWU_4,Male,corr
+25745,Retest_1,,,SWU_4,,corr
+25746,Baseline,20,,SWU_4,Female,corr
+25746,Retest_1,,,SWU_4,,corr
+25747,Baseline,17,,SWU_4,Male,corr
+25747,Retest_1,,,SWU_4,,corr
+25748,Baseline,20,,SWU_4,Female,corr
+25748,Retest_1,,,SWU_4,,corr
+25794,Baseline,19,,SWU_4,Female,corr
+25794,Retest_1,,,SWU_4,,corr
+25795,Baseline,19,,SWU_4,Female,corr
+25795,Retest_1,,,SWU_4,,corr
+25796,Baseline,20,,SWU_4,Female,corr
+25796,Retest_1,,,SWU_4,,corr
+25797,Baseline,20,,SWU_4,Female,corr
+25797,Retest_1,,,SWU_4,,corr
+25798,Baseline,19,,SWU_4,Male,corr
+25798,Retest_1,,,SWU_4,,corr
+25799,Baseline,20,,SWU_4,Male,corr
+25799,Retest_1,,,SWU_4,,corr
+25800,Baseline,21,,SWU_4,Male,corr
+25800,Retest_1,,,SWU_4,,corr
+25801,Baseline,20,,SWU_4,Male,corr
+25801,Retest_1,,,SWU_4,,corr
+25802,Baseline,18,,SWU_4,Male,corr
+25802,Retest_1,,,SWU_4,,corr
+25803,Baseline,20,,SWU_4,Female,corr
+25803,Retest_1,,,SWU_4,,corr
+25804,Baseline,18,,SWU_4,Female,corr
+25804,Retest_1,,,SWU_4,,corr
+25805,Baseline,19,,SWU_4,Male,corr
+25805,Retest_1,,,SWU_4,,corr
+25806,Baseline,20,,SWU_4,Male,corr
+25806,Retest_1,,,SWU_4,,corr
+25807,Baseline,19,,SWU_4,Female,corr
+25807,Retest_1,,,SWU_4,,corr
+25808,Baseline,19,,SWU_4,Female,corr
+25808,Retest_1,,,SWU_4,,corr
+25809,Baseline,19,,SWU_4,Male,corr
+25809,Retest_1,,,SWU_4,,corr
+25810,Baseline,20,,SWU_4,Male,corr
+25810,Retest_1,,,SWU_4,,corr
+25811,Baseline,19,,SWU_4,Female,corr
+25811,Retest_1,,,SWU_4,,corr
+25812,Baseline,20,,SWU_4,Female,corr
+25812,Retest_1,,,SWU_4,,corr
+25813,Baseline,18,,SWU_4,Male,corr
+25813,Retest_1,,,SWU_4,,corr
+25814,Baseline,19,,SWU_4,Male,corr
+25814,Retest_1,,,SWU_4,,corr
+25815,Baseline,19,,SWU_4,Male,corr
+25815,Retest_1,,,SWU_4,,corr
+25816,Baseline,19,,SWU_4,Male,corr
+25816,Retest_1,,,SWU_4,,corr
+25817,Baseline,19,,SWU_4,Female,corr
+25817,Retest_1,,,SWU_4,,corr
+25818,Baseline,20,,SWU_4,Male,corr
+25818,Retest_1,,,SWU_4,,corr
+25819,Baseline,19,,SWU_4,Male,corr
+25819,Retest_1,,,SWU_4,,corr
+25820,Baseline,19,,SWU_4,Female,corr
+25820,Retest_1,,,SWU_4,,corr
+25821,Baseline,19,,SWU_4,Female,corr
+25821,Retest_1,,,SWU_4,,corr
+25822,Baseline,19,,SWU_4,Female,corr
+25822,Retest_1,,,SWU_4,,corr
+25823,Baseline,19,,SWU_4,Female,corr
+25823,Retest_1,,,SWU_4,,corr
+25824,Baseline,19,,SWU_4,Male,corr
+25824,Retest_1,,,SWU_4,,corr
+25825,Baseline,18,,SWU_4,Female,corr
+25825,Retest_1,,,SWU_4,,corr
+25826,Baseline,19,,SWU_4,Female,corr
+25826,Retest_1,,,SWU_4,,corr
+25827,Baseline,18,,SWU_4,Female,corr
+25827,Retest_1,,,SWU_4,,corr
+25828,Baseline,19,,SWU_4,Male,corr
+25828,Retest_1,,,SWU_4,,corr
+25829,Baseline,20,,SWU_4,Male,corr
+25829,Retest_1,,,SWU_4,,corr
+25830,Baseline,19,,SWU_4,Male,corr
+25830,Retest_1,,,SWU_4,,corr
+25831,Baseline,21,,SWU_4,Male,corr
+25831,Retest_1,,,SWU_4,,corr
+25832,Baseline,20,,SWU_4,Male,corr
+25832,Retest_1,,,SWU_4,,corr
+25833,Baseline,20,,SWU_4,Male,corr
+25833,Retest_1,,,SWU_4,,corr
+25834,Baseline,20,,SWU_4,Male,corr
+25834,Retest_1,,,SWU_4,,corr
+25835,Baseline,19,,SWU_4,Male,corr
+25835,Retest_1,,,SWU_4,,corr
+25836,Baseline,19,,SWU_4,Female,corr
+25836,Retest_1,,,SWU_4,,corr
+25837,Baseline,19,,SWU_4,Male,corr
+25837,Retest_1,,,SWU_4,,corr
+25838,Baseline,20,,SWU_4,Male,corr
+25838,Retest_1,,,SWU_4,,corr
+25839,Baseline,21,,SWU_4,Female,corr
+25839,Retest_1,,,SWU_4,,corr
+25840,Baseline,19,,SWU_4,Female,corr
+25840,Retest_1,,,SWU_4,,corr
+25841,Baseline,21,,SWU_4,Male,corr
+25841,Retest_1,,,SWU_4,,corr
+25842,Baseline,21,,SWU_4,Female,corr
+25842,Retest_1,,,SWU_4,,corr
+25843,Baseline,21,,SWU_4,Female,corr
+25843,Retest_1,,,SWU_4,,corr
+25844,Baseline,19,,SWU_4,Female,corr
+25844,Retest_1,,,SWU_4,,corr
+25845,Baseline,19,,SWU_4,Female,corr
+25845,Retest_1,,,SWU_4,,corr
+25846,Baseline,20,,SWU_4,Female,corr
+25846,Retest_1,,,SWU_4,,corr
+25847,Baseline,20,,SWU_4,Female,corr
+25847,Retest_1,,,SWU_4,,corr
+25848,Baseline,21,,SWU_4,Male,corr
+25848,Retest_1,,,SWU_4,,corr
+25849,Baseline,20,,SWU_4,Female,corr
+25849,Retest_1,,,SWU_4,,corr
+25850,Baseline,20,,SWU_4,Female,corr
+25850,Retest_1,,,SWU_4,,corr
+25851,Baseline,20,,SWU_4,Female,corr
+25851,Retest_1,,,SWU_4,,corr
+25852,Baseline,21,,SWU_4,Male,corr
+25852,Retest_1,,,SWU_4,,corr
+25853,Baseline,19,,SWU_4,Female,corr
+25853,Retest_1,,,SWU_4,,corr
+25854,Baseline,20,,SWU_4,Female,corr
+25854,Retest_1,,,SWU_4,,corr
+25855,Baseline,19,,SWU_4,Male,corr
+25855,Retest_1,,,SWU_4,,corr
+25856,Baseline,21,,SWU_4,Male,corr
+25856,Retest_1,,,SWU_4,,corr
+25857,Baseline,20,,SWU_4,Female,corr
+25857,Retest_1,,,SWU_4,,corr
+25858,Baseline,19,,SWU_4,Male,corr
+25858,Retest_1,,,SWU_4,,corr
+25859,Baseline,20,,SWU_4,Male,corr
+25859,Retest_1,,,SWU_4,,corr
+25860,Baseline,18,,SWU_4,Female,corr
+25860,Retest_1,,,SWU_4,,corr
+25861,Baseline,19,,SWU_4,Female,corr
+25861,Retest_1,,,SWU_4,,corr
+25862,Baseline,20,,SWU_4,Female,corr
+25862,Retest_1,,,SWU_4,,corr
+25863,Baseline,20,,SWU_4,Female,corr
+25863,Retest_1,,,SWU_4,,corr
+25639,Baseline,20,,SWU_4,Male,corr
+25639,Retest_1,,,SWU_4,,corr
+25640,Baseline,21,,SWU_4,Female,corr
+25640,Retest_1,,,SWU_4,,corr
+25641,Baseline,21,,SWU_4,Female,corr
+25641,Retest_1,,,SWU_4,,corr
+25642,Baseline,22,,SWU_4,Female,corr
+25642,Retest_1,,,SWU_4,,corr
+25643,Baseline,20,,SWU_4,Female,corr
+25643,Retest_1,,,SWU_4,,corr
+25644,Baseline,19,,SWU_4,Female,corr
+25644,Retest_1,,,SWU_4,,corr
+25645,Baseline,20,,SWU_4,Male,corr
+25645,Retest_1,,,SWU_4,,corr
+25646,Baseline,20,,SWU_4,Female,corr
+25646,Retest_1,,,SWU_4,,corr
+25647,Baseline,17,,SWU_4,Female,corr
+25647,Retest_1,,,SWU_4,,corr
+25648,Baseline,20,,SWU_4,Female,corr
+25648,Retest_1,,,SWU_4,,corr
+25649,Baseline,20,,SWU_4,Female,corr
+25649,Retest_1,,,SWU_4,,corr
+25650,Baseline,21,,SWU_4,Male,corr
+25650,Retest_1,,,SWU_4,,corr
+25651,Baseline,21,,SWU_4,Male,corr
+25651,Retest_1,,,SWU_4,,corr
+25652,Baseline,19,,SWU_4,Female,corr
+25652,Retest_1,,,SWU_4,,corr
+25653,Baseline,19,,SWU_4,Male,corr
+25653,Retest_1,,,SWU_4,,corr
+25654,Baseline,20,,SWU_4,Female,corr
+25654,Retest_1,,,SWU_4,,corr
+25655,Baseline,20,,SWU_4,Female,corr
+25655,Retest_1,,,SWU_4,,corr
+25656,Baseline,20,,SWU_4,Female,corr
+25656,Retest_1,,,SWU_4,,corr
+25657,Baseline,22,,SWU_4,Male,corr
+25657,Retest_1,,,SWU_4,,corr
+25658,Baseline,20,,SWU_4,Male,corr
+25658,Retest_1,,,SWU_4,,corr
+25659,Baseline,19,,SWU_4,Female,corr
+25659,Retest_1,,,SWU_4,,corr
+25660,Baseline,19,,SWU_4,Female,corr
+25660,Retest_1,,,SWU_4,,corr
+25661,Baseline,20,,SWU_4,Female,corr
+25661,Retest_1,,,SWU_4,,corr
+25662,Baseline,21,,SWU_4,Female,corr
+25662,Retest_1,,,SWU_4,,corr
+25663,Baseline,19,,SWU_4,Male,corr
+25663,Retest_1,,,SWU_4,,corr
+25664,Baseline,20,,SWU_4,Female,corr
+25664,Retest_1,,,SWU_4,,corr
+25665,Baseline,20,,SWU_4,Female,corr
+25665,Retest_1,,,SWU_4,,corr
+25666,Baseline,21,,SWU_4,Female,corr
+25666,Retest_1,,,SWU_4,,corr
+25667,Baseline,19,,SWU_4,Female,corr
+25667,Retest_1,,,SWU_4,,corr
+25668,Baseline,20,,SWU_4,Female,corr
+25668,Retest_1,,,SWU_4,,corr
+25669,Baseline,19,,SWU_4,Male,corr
+25669,Retest_1,,,SWU_4,,corr
+25670,Baseline,19,,SWU_4,Male,corr
+25670,Retest_1,,,SWU_4,,corr
+25671,Baseline,20,,SWU_4,Male,corr
+25671,Retest_1,,,SWU_4,,corr
+25672,Baseline,21,,SWU_4,Female,corr
+25672,Retest_1,,,SWU_4,,corr
+25673,Baseline,20,,SWU_4,Female,corr
+25673,Retest_1,,,SWU_4,,corr
+25674,Baseline,20,,SWU_4,Female,corr
+25674,Retest_1,,,SWU_4,,corr
+25675,Baseline,19,,SWU_4,Female,corr
+25675,Retest_1,,,SWU_4,,corr
+25676,Baseline,19,,SWU_4,Female,corr
+25676,Retest_1,,,SWU_4,,corr
+25677,Baseline,20,,SWU_4,Female,corr
+25677,Retest_1,,,SWU_4,,corr
+25678,Baseline,20,,SWU_4,Female,corr
+25678,Retest_1,,,SWU_4,,corr
+25679,Baseline,19,,SWU_4,Female,corr
+25679,Retest_1,,,SWU_4,,corr
+25680,Baseline,19,,SWU_4,Male,corr
+25680,Retest_1,,,SWU_4,,corr
+25681,Baseline,20,,SWU_4,Female,corr
+25681,Retest_1,,,SWU_4,,corr
+25682,Baseline,20,,SWU_4,Male,corr
+25682,Retest_1,,,SWU_4,,corr
+25683,Baseline,21,,SWU_4,Male,corr
+25683,Retest_1,,,SWU_4,,corr
+25684,Baseline,20,,SWU_4,Male,corr
+25684,Retest_1,,,SWU_4,,corr
+25685,Baseline,20,,SWU_4,Female,corr
+25685,Retest_1,,,SWU_4,,corr
+25686,Baseline,22,,SWU_4,Male,corr
+25686,Retest_1,,,SWU_4,,corr
+25687,Baseline,19,,SWU_4,Male,corr
+25687,Retest_1,,,SWU_4,,corr
+25688,Baseline,20,,SWU_4,Male,corr
+25688,Retest_1,,,SWU_4,,corr
+25689,Baseline,20,,SWU_4,Female,corr
+25689,Retest_1,,,SWU_4,,corr
+25690,Baseline,21,,SWU_4,Male,corr
+25690,Retest_1,,,SWU_4,,corr
+25691,Baseline,19,,SWU_4,Female,corr
+25691,Retest_1,,,SWU_4,,corr
+25692,Baseline,20,,SWU_4,Male,corr
+25692,Retest_1,,,SWU_4,,corr
+25693,Baseline,21,,SWU_4,Male,corr
+25693,Retest_1,,,SWU_4,,corr
+25694,Baseline,20,,SWU_4,Male,corr
+25694,Retest_1,,,SWU_4,,corr
+25695,Baseline,19,,SWU_4,Male,corr
+25695,Retest_1,,,SWU_4,,corr
+25696,Baseline,19,,SWU_4,Male,corr
+25696,Retest_1,,,SWU_4,,corr
+25697,Baseline,21,,SWU_4,Male,corr
+25697,Retest_1,,,SWU_4,,corr
+25698,Baseline,19,,SWU_4,Male,corr
+25698,Retest_1,,,SWU_4,,corr
+25699,Baseline,21,,SWU_4,Male,corr
+25699,Retest_1,,,SWU_4,,corr
+25700,Baseline,20,,SWU_4,Male,corr
+25700,Retest_1,,,SWU_4,,corr
+25701,Baseline,20,,SWU_4,Male,corr
+25701,Retest_1,,,SWU_4,,corr
+25702,Baseline,20,,SWU_4,Male,corr
+25702,Retest_1,,,SWU_4,,corr
+25703,Baseline,19,,SWU_4,Male,corr
+25703,Retest_1,,,SWU_4,,corr
+25704,Baseline,21,,SWU_4,Male,corr
+25704,Retest_1,,,SWU_4,,corr
+25705,Baseline,20,,SWU_4,Male,corr
+25705,Retest_1,,,SWU_4,,corr
+25706,Baseline,20,,SWU_4,Male,corr
+25706,Retest_1,,,SWU_4,,corr
+25707,Baseline,19,,SWU_4,Male,corr
+25707,Retest_1,,,SWU_4,,corr
+25708,Baseline,25,,SWU_4,Male,corr
+25708,Retest_1,,,SWU_4,,corr
+25709,Baseline,20,,SWU_4,Male,corr
+25709,Retest_1,,,SWU_4,,corr
+25710,Baseline,20,,SWU_4,Male,corr
+25710,Retest_1,,,SWU_4,,corr
+25711,Baseline,19,,SWU_4,Male,corr
+25711,Retest_1,,,SWU_4,,corr
+25712,Baseline,20,,SWU_4,Male,corr
+25712,Retest_1,,,SWU_4,,corr
+25713,Baseline,20,,SWU_4,Male,corr
+25713,Retest_1,,,SWU_4,,corr
+25714,Baseline,20,,SWU_4,Male,corr
+25714,Retest_1,,,SWU_4,,corr
+25715,Baseline,20,,SWU_4,Male,corr
+25715,Retest_1,,,SWU_4,,corr
+25716,Baseline,20,,SWU_4,Male,corr
+25716,Retest_1,,,SWU_4,,corr
+25717,Baseline,24,,SWU_4,Female,corr
+25717,Retest_1,,,SWU_4,,corr
+25718,Baseline,19,,SWU_4,Male,corr
+25718,Retest_1,,,SWU_4,,corr
+25719,Baseline,21,,SWU_4,Male,corr
+25719,Retest_1,,,SWU_4,,corr
+25720,Baseline,20,,SWU_4,Male,corr
+25720,Retest_1,,,SWU_4,,corr
+25721,Baseline,21,,SWU_4,Female,corr
+25721,Retest_1,,,SWU_4,,corr
+25722,Baseline,22,,SWU_4,Female,corr
+25722,Retest_1,,,SWU_4,,corr
+25723,Baseline,21,,SWU_4,Female,corr
+25723,Retest_1,,,SWU_4,,corr
+25724,Baseline,19,,SWU_4,Female,corr
+25724,Retest_1,,,SWU_4,,corr
+25725,Baseline,20,,SWU_4,Male,corr
+25725,Retest_1,,,SWU_4,,corr
+25726,Baseline,21,,SWU_4,Female,corr
+25726,Retest_1,,,SWU_4,,corr
+25727,Baseline,20,,SWU_4,Female,corr
+25727,Retest_1,,,SWU_4,,corr
+25728,Baseline,20,,SWU_4,Male,corr
+25728,Retest_1,,,SWU_4,,corr
+25729,Baseline,21,,SWU_4,Male,corr
+25729,Retest_1,,,SWU_4,,corr
+25730,Baseline,19,,SWU_4,Male,corr
+25730,Retest_1,,,SWU_4,,corr
+25731,Baseline,20,,SWU_4,Male,corr
+25731,Retest_1,,,SWU_4,,corr
+25732,Baseline,22,,SWU_4,Female,corr
+25732,Retest_1,,,SWU_4,,corr
+25733,Baseline,20,,SWU_4,Female,corr
+25733,Retest_1,,,SWU_4,,corr
+25734,Baseline,21,,SWU_4,Female,corr
+25734,Retest_1,,,SWU_4,,corr
+25735,Baseline,20,,SWU_4,Male,corr
+25735,Retest_1,,,SWU_4,,corr
+25736,Baseline,20,,SWU_4,Female,corr
+25736,Retest_1,,,SWU_4,,corr
+25737,Baseline,22,,SWU_4,Male,corr
+25737,Retest_1,,,SWU_4,,corr
+25738,Baseline,21,,SWU_4,Male,corr
+25738,Retest_1,,,SWU_4,,corr
+25749,Baseline,22,,SWU_4,Male,corr
+25749,Retest_1,,,SWU_4,,corr
+25750,Baseline,19,,SWU_4,Female,corr
+25750,Retest_1,,,SWU_4,,corr
+25751,Baseline,20,,SWU_4,Female,corr
+25751,Retest_1,,,SWU_4,,corr
+25752,Baseline,21,,SWU_4,Male,corr
+25752,Retest_1,,,SWU_4,,corr
+25753,Baseline,21,,SWU_4,Male,corr
+25753,Retest_1,,,SWU_4,,corr
+25754,Baseline,20,,SWU_4,Female,corr
+25754,Retest_1,,,SWU_4,,corr
+25756,Baseline,19,,SWU_4,Male,corr
+25756,Retest_1,,,SWU_4,,corr
+25757,Baseline,20,,SWU_4,Male,corr
+25757,Retest_1,,,SWU_4,,corr
+25758,Baseline,20,,SWU_4,Female,corr
+25758,Retest_1,,,SWU_4,,corr
+25759,Baseline,21,,SWU_4,Male,corr
+25759,Retest_1,,,SWU_4,,corr
+25760,Baseline,20,,SWU_4,Female,corr
+25760,Retest_1,,,SWU_4,,corr
+25761,Baseline,19,,SWU_4,Male,corr
+25761,Retest_1,,,SWU_4,,corr
+25762,Baseline,20,,SWU_4,Male,corr
+25762,Retest_1,,,SWU_4,,corr
+25763,Baseline,20,,SWU_4,Female,corr
+25763,Retest_1,,,SWU_4,,corr
+25764,Baseline,20,,SWU_4,Male,corr
+25764,Retest_1,,,SWU_4,,corr
+25765,Baseline,19,,SWU_4,Female,corr
+25765,Retest_1,,,SWU_4,,corr
+25766,Baseline,20,,SWU_4,Male,corr
+25766,Retest_1,,,SWU_4,,corr
+25767,Baseline,20,,SWU_4,Male,corr
+25767,Retest_1,,,SWU_4,,corr
+25768,Baseline,20,,SWU_4,Male,corr
+25768,Retest_1,,,SWU_4,,corr
+25769,Baseline,19,,SWU_4,Female,corr
+25769,Retest_1,,,SWU_4,,corr
+25770,Baseline,19,,SWU_4,Male,corr
+25770,Retest_1,,,SWU_4,,corr
+25771,Baseline,21,,SWU_4,Male,corr
+25771,Retest_1,,,SWU_4,,corr
+25772,Baseline,20,,SWU_4,Male,corr
+25772,Retest_1,,,SWU_4,,corr
+25773,Baseline,20,,SWU_4,Male,corr
+25773,Retest_1,,,SWU_4,,corr
+25774,Baseline,21,,SWU_4,Female,corr
+25774,Retest_1,,,SWU_4,,corr
+25775,Baseline,21,,SWU_4,Male,corr
+25775,Retest_1,,,SWU_4,,corr
+25776,Baseline,21,,SWU_4,Male,corr
+25776,Retest_1,,,SWU_4,,corr
+25777,Baseline,22,,SWU_4,Male,corr
+25777,Retest_1,,,SWU_4,,corr
+25778,Baseline,20,,SWU_4,Female,corr
+25778,Retest_1,,,SWU_4,,corr
+25779,Baseline,20,,SWU_4,Female,corr
+25779,Retest_1,,,SWU_4,,corr
+25780,Baseline,20,,SWU_4,Male,corr
+25780,Retest_1,,,SWU_4,,corr
+25781,Baseline,20,,SWU_4,Female,corr
+25781,Retest_1,,,SWU_4,,corr
+25782,Baseline,21,,SWU_4,Male,corr
+25782,Retest_1,,,SWU_4,,corr
+25783,Baseline,19,,SWU_4,Male,corr
+25783,Retest_1,,,SWU_4,,corr
+25784,Baseline,21,,SWU_4,Female,corr
+25784,Retest_1,,,SWU_4,,corr
+25785,Baseline,19,,SWU_4,Female,corr
+25785,Retest_1,,,SWU_4,,corr
+25786,Baseline,20,,SWU_4,Female,corr
+25786,Retest_1,,,SWU_4,,corr
+25787,Baseline,20,,SWU_4,Female,corr
+25787,Retest_1,,,SWU_4,,corr
+25788,Baseline,22,,SWU_4,Female,corr
+25788,Retest_1,,,SWU_4,,corr
+25789,Baseline,24,,SWU_4,Female,corr
+25789,Retest_1,,,SWU_4,,corr
+25790,Baseline,22,,SWU_4,Male,corr
+25790,Retest_1,,,SWU_4,,corr
+25791,Baseline,25,,SWU_4,Male,corr
+25791,Retest_1,,,SWU_4,,corr
+25792,Baseline,23,,SWU_4,Male,corr
+25792,Retest_1,,,SWU_4,,corr
+25793,Baseline,23,,SWU_4,Male,corr
+25793,Retest_1,,,SWU_4,,corr
+26007,Baseline,75,right handed,UM,Female,corr
+26007,Retest_1,,,UM,,corr
+26007,Retest_2,,,UM,,corr
+26007,Retest_3,,,UM,,corr
+26008,Baseline,64,right handed,UM,Female,corr
+26008,Retest_1,,,UM,,corr
+26008,Retest_2,,,UM,,corr
+26008,Retest_3,,,UM,,corr
+26009,Baseline,69,right handed,UM,Female,corr
+26009,Retest_1,,,UM,,corr
+26009,Retest_2,,,UM,,corr
+26009,Retest_3,,,UM,,corr
+26010,Baseline,62,right handed,UM,Female,corr
+26010,Retest_1,,,UM,,corr
+26010,Retest_2,,,UM,,corr
+26010,Retest_3,,,UM,,corr
+26011,Baseline,62,right handed,UM,Female,corr
+26011,Retest_1,,,UM,,corr
+26011,Retest_2,,,UM,,corr
+26011,Retest_3,,,UM,,corr
+26012,Baseline,60,right handed,UM,Female,corr
+26012,Retest_1,,,UM,,corr
+26012,Retest_2,,,UM,,corr
+26012,Retest_3,,,UM,,corr
+26013,Baseline,67,right handed,UM,Male,corr
+26013,Retest_1,,,UM,,corr
+26013,Retest_2,,,UM,,corr
+26013,Retest_3,,,UM,,corr
+26014,Baseline,66,right handed,UM,Female,corr
+26014,Retest_1,,,UM,,corr
+26014,Retest_2,,,UM,,corr
+26014,Retest_3,,,UM,,corr
+26015,Baseline,74,right handed,UM,Female,corr
+26015,Retest_1,,,UM,,corr
+26015,Retest_2,,,UM,,corr
+26015,Retest_3,,,UM,,corr
+26016,Baseline,57,,UM,Female,corr
+26016,Retest_1,,,UM,,corr
+26016,Retest_2,,,UM,,corr
+26016,Retest_3,,,UM,,corr
+26120,Baseline,62,left handed,UM,Female,corr
+26120,Retest_1,,,UM,,corr
+26120,Retest_2,,,UM,,corr
+26120,Retest_3,,,UM,,corr
+26121,Baseline,66,right handed,UM,Female,corr
+26121,Retest_1,,,UM,,corr
+26121,Retest_2,,,UM,,corr
+26121,Retest_3,,,UM,,corr
+26122,Baseline,65,right handed,UM,Male,corr
+26122,Retest_1,,,UM,,corr
+26122,Retest_2,,,UM,,corr
+26122,Retest_3,,,UM,,corr
+26123,Baseline,58,right handed,UM,Female,corr
+26123,Retest_1,,,UM,,corr
+26123,Retest_2,,,UM,,corr
+26123,Retest_3,,,UM,,corr
+26124,Baseline,65,right handed,UM,Female,corr
+26124,Retest_1,,,UM,,corr
+26124,Retest_2,,,UM,,corr
+26124,Retest_3,,,UM,,corr
+26125,Baseline,63,right handed,UM,Male,corr
+26125,Retest_1,,,UM,,corr
+26125,Retest_2,,,UM,,corr
+26125,Retest_3,,,UM,,corr
+26126,Baseline,65,left handed,UM,Male,corr
+26126,Retest_1,,,UM,,corr
+26126,Retest_2,,,UM,,corr
+26126,Retest_3,,,UM,,corr
+26127,Baseline,83,right handed,UM,Female,corr
+26127,Retest_1,,,UM,,corr
+26127,Retest_2,,,UM,,corr
+26127,Retest_3,,,UM,,corr
+26128,Baseline,64,right handed,UM,Female,corr
+26128,Retest_1,,,UM,,corr
+26128,Retest_2,,,UM,,corr
+26128,Retest_3,,,UM,,corr
+26129,Baseline,71,right handed,UM,Female,corr
+26129,Retest_1,,,UM,,corr
+26129,Retest_2,,,UM,,corr
+26129,Retest_3,,,UM,,corr
+26130,Baseline,79,right handed,UM,Male,corr
+26130,Retest_1,,,UM,,corr
+26130,Retest_2,,,UM,,corr
+26130,Retest_3,,,UM,,corr
+26131,Baseline,73,right handed,UM,Female,corr
+26131,Retest_1,,,UM,,corr
+26131,Retest_2,,,UM,,corr
+26131,Retest_3,,,UM,,corr
+26132,Baseline,67,right handed,UM,Female,corr
+26132,Retest_1,,,UM,,corr
+26132,Retest_2,,,UM,,corr
+26132,Retest_3,,,UM,,corr
+26133,Baseline,61,right handed,UM,Male,corr
+26133,Retest_1,,,UM,,corr
+26133,Retest_2,,,UM,,corr
+26133,Retest_3,,,UM,,corr
+26134,Baseline,72,right handed,UM,Female,corr
+26134,Retest_1,,,UM,,corr
+26134,Retest_2,,,UM,,corr
+26134,Retest_3,,,UM,,corr
+26135,Baseline,62,right handed,UM,Female,corr
+26135,Retest_1,,,UM,,corr
+26135,Retest_2,,,UM,,corr
+26135,Retest_3,,,UM,,corr
+26136,Baseline,71,right handed,UM,Female,corr
+26136,Retest_1,,,UM,,corr
+26136,Retest_2,,,UM,,corr
+26136,Retest_3,,,UM,,corr
+26137,Baseline,61,right handed,UM,Female,corr
+26137,Retest_1,,,UM,,corr
+26137,Retest_2,,,UM,,corr
+26137,Retest_3,,,UM,,corr
+26138,Baseline,62,right handed,UM,Female,corr
+26138,Retest_1,,,UM,,corr
+26138,Retest_2,,,UM,,corr
+26138,Retest_3,,,UM,,corr
+26139,Baseline,67,right handed,UM,Female,corr
+26139,Retest_1,,,UM,,corr
+26139,Retest_2,,,UM,,corr
+26139,Retest_3,,,UM,,corr
+26140,Baseline,58,right handed,UM,Female,corr
+26140,Retest_1,,,UM,,corr
+26140,Retest_2,,,UM,,corr
+26140,Retest_3,,,UM,,corr
+26141,Baseline,58,right handed,UM,Female,corr
+26141,Retest_1,,,UM,,corr
+26141,Retest_2,,,UM,,corr
+26141,Retest_3,,,UM,,corr
+26142,Baseline,62,right handed,UM,Male,corr
+26142,Retest_1,,,UM,,corr
+26142,Retest_2,,,UM,,corr
+26142,Retest_3,,,UM,,corr
+26143,Baseline,77,right handed,UM,Female,corr
+26143,Retest_1,,,UM,,corr
+26143,Retest_2,,,UM,,corr
+26143,Retest_3,,,UM,,corr
+26144,Baseline,72,right handed,UM,Female,corr
+26144,Retest_1,,,UM,,corr
+26144,Retest_2,,,UM,,corr
+26144,Retest_3,,,UM,,corr
+26145,Baseline,61,right handed,UM,Male,corr
+26145,Retest_1,,,UM,,corr
+26145,Retest_2,,,UM,,corr
+26145,Retest_3,,,UM,,corr
+26146,Baseline,62,right handed,UM,Male,corr
+26146,Retest_1,,,UM,,corr
+26146,Retest_2,,,UM,,corr
+26146,Retest_3,,,UM,,corr
+26147,Baseline,60,right handed,UM,Female,corr
+26147,Retest_1,,,UM,,corr
+26147,Retest_2,,,UM,,corr
+26147,Retest_3,,,UM,,corr
+26148,Baseline,61,right handed,UM,Male,corr
+26148,Retest_1,,,UM,,corr
+26148,Retest_2,,,UM,,corr
+26148,Retest_3,,,UM,,corr
+26149,Baseline,61,left handed,UM,Female,corr
+26149,Retest_1,,,UM,,corr
+26149,Retest_2,,,UM,,corr
+26149,Retest_3,,,UM,,corr
+26150,Baseline,82,right handed,UM,Male,corr
+26150,Retest_1,,,UM,,corr
+26150,Retest_2,,,UM,,corr
+26150,Retest_3,,,UM,,corr
+26151,Baseline,64,right handed,UM,Female,corr
+26151,Retest_1,,,UM,,corr
+26151,Retest_2,,,UM,,corr
+26151,Retest_3,,,UM,,corr
+26152,Baseline,70,right handed,UM,Female,corr
+26152,Retest_1,,,UM,,corr
+26152,Retest_2,,,UM,,corr
+26152,Retest_3,,,UM,,corr
+26153,Baseline,73,right handed,UM,Male,corr
+26153,Retest_1,,,UM,,corr
+26153,Retest_2,,,UM,,corr
+26153,Retest_3,,,UM,,corr
+26154,Baseline,62,right handed,UM,Female,corr
+26154,Retest_1,,,UM,,corr
+26154,Retest_2,,,UM,,corr
+26154,Retest_3,,,UM,,corr
+26155,Baseline,84,right handed,UM,Female,corr
+26155,Retest_1,,,UM,,corr
+26155,Retest_2,,,UM,,corr
+26155,Retest_3,,,UM,,corr
+26156,Baseline,63,right handed,UM,Female,corr
+26156,Retest_1,,,UM,,corr
+26156,Retest_2,,,UM,,corr
+26156,Retest_3,,,UM,,corr
+26157,Baseline,75,right handed,UM,Female,corr
+26157,Retest_1,,,UM,,corr
+26157,Retest_2,,,UM,,corr
+26157,Retest_3,,,UM,,corr
+26158,Baseline,61,right handed,UM,Female,corr
+26158,Retest_1,,,UM,,corr
+26158,Retest_2,,,UM,,corr
+26158,Retest_3,,,UM,,corr
+26159,Baseline,61,right handed,UM,Female,corr
+26159,Retest_1,,,UM,,corr
+26159,Retest_2,,,UM,,corr
+26159,Retest_3,,,UM,,corr
+26160,Baseline,63,right handed,UM,Female,corr
+26160,Retest_1,,,UM,,corr
+26160,Retest_2,,,UM,,corr
+26160,Retest_3,,,UM,,corr
+26161,Baseline,61,,UM,Male,corr
+26161,Retest_1,,,UM,,corr
+26161,Retest_2,,,UM,,corr
+26161,Retest_3,,,UM,,corr
+26162,Baseline,61,right handed,UM,Female,corr
+26162,Retest_1,,,UM,,corr
+26162,Retest_2,,,UM,,corr
+26162,Retest_3,,,UM,,corr
+26163,Baseline,67,right handed,UM,Female,corr
+26163,Retest_1,,,UM,,corr
+26163,Retest_2,,,UM,,corr
+26163,Retest_3,,,UM,,corr
+26164,Baseline,63,right handed,UM,Female,corr
+26164,Retest_1,,,UM,,corr
+26164,Retest_2,,,UM,,corr
+26164,Retest_3,,,UM,,corr
+26165,Baseline,58,right handed,UM,Male,corr
+26165,Retest_1,,,UM,,corr
+26165,Retest_2,,,UM,,corr
+26165,Retest_3,,,UM,,corr
+26166,Baseline,60,right handed,UM,Female,corr
+26166,Retest_1,,,UM,,corr
+26166,Retest_2,,,UM,,corr
+26166,Retest_3,,,UM,,corr
+26167,Baseline,67,right handed,UM,Male,corr
+26167,Retest_1,,,UM,,corr
+26167,Retest_2,,,UM,,corr
+26167,Retest_3,,,UM,,corr
+26168,Baseline,64,right handed,UM,Female,corr
+26168,Retest_1,,,UM,,corr
+26168,Retest_2,,,UM,,corr
+26168,Retest_3,,,UM,,corr
+26169,Baseline,66,right handed,UM,Male,corr
+26169,Retest_1,,,UM,,corr
+26169,Retest_2,,,UM,,corr
+26169,Retest_3,,,UM,,corr
+26170,Baseline,62,right handed,UM,Female,corr
+26170,Retest_1,,,UM,,corr
+26170,Retest_2,,,UM,,corr
+26170,Retest_3,,,UM,,corr
+26171,Baseline,73,right handed,UM,Female,corr
+26171,Retest_1,,,UM,,corr
+26171,Retest_2,,,UM,,corr
+26171,Retest_3,,,UM,,corr
+26172,Baseline,57,right handed,UM,Female,corr
+26172,Retest_1,,,UM,,corr
+26172,Retest_2,,,UM,,corr
+26172,Retest_3,,,UM,,corr
+26173,Baseline,62,right handed,UM,Female,corr
+26173,Retest_1,,,UM,,corr
+26173,Retest_2,,,UM,,corr
+26173,Retest_3,,,UM,,corr
+26174,Baseline,59,right handed,UM,Male,corr
+26174,Retest_1,,,UM,,corr
+26174,Retest_2,,,UM,,corr
+26174,Retest_3,,,UM,,corr
+26175,Baseline,58,right handed,UM,Female,corr
+26175,Retest_1,,,UM,,corr
+26175,Retest_2,,,UM,,corr
+26175,Retest_3,,,UM,,corr
+26176,Baseline,71,right handed,UM,Male,corr
+26176,Retest_1,,,UM,,corr
+26176,Retest_2,,,UM,,corr
+26176,Retest_3,,,UM,,corr
+26177,Baseline,65,right handed,UM,Female,corr
+26177,Retest_1,,,UM,,corr
+26177,Retest_2,,,UM,,corr
+26177,Retest_3,,,UM,,corr
+26178,Baseline,64,right handed,UM,Female,corr
+26178,Retest_1,,,UM,,corr
+26178,Retest_2,,,UM,,corr
+26178,Retest_3,,,UM,,corr
+26179,Baseline,72,right handed,UM,Male,corr
+26179,Retest_1,,,UM,,corr
+26179,Retest_2,,,UM,,corr
+26179,Retest_3,,,UM,,corr
+26180,Baseline,55,right handed,UM,Female,corr
+26180,Retest_1,,,UM,,corr
+26180,Retest_2,,,UM,,corr
+26180,Retest_3,,,UM,,corr
+26181,Baseline,71,right handed,UM,Female,corr
+26181,Retest_1,,,UM,,corr
+26181,Retest_2,,,UM,,corr
+26181,Retest_3,,,UM,,corr
+26182,Baseline,61,right handed,UM,Female,corr
+26182,Retest_1,,,UM,,corr
+26182,Retest_2,,,UM,,corr
+26182,Retest_3,,,UM,,corr
+26183,Baseline,61,right handed,UM,Female,corr
+26183,Retest_1,,,UM,,corr
+26183,Retest_2,,,UM,,corr
+26183,Retest_3,,,UM,,corr
+26184,Baseline,70,right handed,UM,Female,corr
+26184,Retest_1,,,UM,,corr
+26184,Retest_2,,,UM,,corr
+26184,Retest_3,,,UM,,corr
+26185,Baseline,70,right handed,UM,Male,corr
+26185,Retest_1,,,UM,,corr
+26185,Retest_2,,,UM,,corr
+26185,Retest_3,,,UM,,corr
+26186,Baseline,64,right handed,UM,Male,corr
+26186,Retest_1,,,UM,,corr
+26186,Retest_2,,,UM,,corr
+26186,Retest_3,,,UM,,corr
+26187,Baseline,60,right handed,UM,Female,corr
+26187,Retest_1,,,UM,,corr
+26187,Retest_2,,,UM,,corr
+26187,Retest_3,,,UM,,corr
+26188,Baseline,62,right handed,UM,Female,corr
+26188,Retest_1,,,UM,,corr
+26188,Retest_2,,,UM,,corr
+26188,Retest_3,,,UM,,corr
+26189,Baseline,62,right handed,UM,Male,corr
+26189,Retest_1,,,UM,,corr
+26189,Retest_2,,,UM,,corr
+26189,Retest_3,,,UM,,corr
+25234,Baseline,17,right handed,UPSM_1,Female,corr
+25234,Retest_1,17,right handed,UPSM_1,Female,corr
+25235,Baseline,15,right handed,UPSM_1,Female,corr
+25235,Retest_1,15,right handed,UPSM_1,Female,corr
+25236,Baseline,17.2,right handed,UPSM_1,Male,corr
+25236,Retest_1,17.2,right handed,UPSM_1,Male,corr
+25237,Baseline,17.6,right handed,UPSM_1,Female,corr
+25237,Retest_1,17.6,right handed,UPSM_1,Female,corr
+25238,Baseline,15.6,right handed,UPSM_1,Male,corr
+25238,Retest_1,15.6,right handed,UPSM_1,Male,corr
+25238,Retest_2,15.6,right handed,UPSM_1,Male,corr
+25239,Baseline,13.1,right handed,UPSM_1,Male,corr
+25239,Retest_1,13.1,right handed,UPSM_1,Male,corr
+25239,Retest_2,13.1,right handed,UPSM_1,Male,corr
+25240,Baseline,15.6,right handed,UPSM_1,Male,corr
+25240,Retest_1,15.6,right handed,UPSM_1,Male,corr
+25240,Retest_2,15.6,right handed,UPSM_1,Male,corr
+25241,Baseline,10.5,right handed,UPSM_1,Male,corr
+25241,Retest_1,10.5,right handed,UPSM_1,Male,corr
+25242,Baseline,19.2,right handed,UPSM_1,Male,corr
+25242,Retest_1,19.2,right handed,UPSM_1,Male,corr
+25243,Baseline,18.7,right handed,UPSM_1,Male,corr
+25243,Retest_1,18.7,right handed,UPSM_1,Male,corr
+25244,Baseline,18.5,right handed,UPSM_1,Male,corr
+25244,Retest_1,18.5,right handed,UPSM_1,Male,corr
+25244,Retest_2,18.5,right handed,UPSM_1,Male,corr
+25245,Baseline,18.9,right handed,UPSM_1,Male,corr
+25245,Retest_1,18.9,right handed,UPSM_1,Male,corr
+25245,Retest_2,18.9,right handed,UPSM_1,Male,corr
+25246,Baseline,18.4,right handed,UPSM_1,Male,corr
+25246,Retest_1,18.4,right handed,UPSM_1,Male,corr
+25247,Baseline,19.7,right handed,UPSM_1,Female,corr
+25247,Retest_1,19.7,right handed,UPSM_1,Female,corr
+25248,Baseline,11.4,right handed,UPSM_1,Male,corr
+25248,Retest_1,11.4,right handed,UPSM_1,Male,corr
+25249,Baseline,18.5,right handed,UPSM_1,Female,corr
+25249,Retest_1,18.5,right handed,UPSM_1,Female,corr
+25250,Baseline,19.2,right handed,UPSM_1,Male,corr
+25250,Retest_1,19.2,right handed,UPSM_1,Male,corr
+25251,Baseline,14.8,right handed,UPSM_1,Female,corr
+25251,Retest_1,14.8,right handed,UPSM_1,Female,corr
+25252,Baseline,18.8,right handed,UPSM_1,Female,corr
+25252,Retest_1,18.8,right handed,UPSM_1,Female,corr
+25252,Retest_2,18.8,right handed,UPSM_1,Female,corr
+25253,Baseline,12.7,right handed,UPSM_1,Female,corr
+25253,Retest_1,12.7,right handed,UPSM_1,Female,corr
+25253,Retest_2,12.7,right handed,UPSM_1,Female,corr
+25254,Baseline,14.9,right handed,UPSM_1,Female,corr
+25254,Retest_1,14.9,right handed,UPSM_1,Female,corr
+25254,Retest_2,14.9,right handed,UPSM_1,Female,corr
+25255,Baseline,18.9,right handed,UPSM_1,Male,corr
+25255,Retest_1,18.9,right handed,UPSM_1,Male,corr
+25256,Baseline,13.9,right handed,UPSM_1,Female,corr
+25256,Retest_1,13.9,right handed,UPSM_1,Female,corr
+25257,Baseline,11.7,right handed,UPSM_1,Male,corr
+25257,Retest_1,11.7,right handed,UPSM_1,Male,corr
+25257,Retest_2,11.7,right handed,UPSM_1,Male,corr
+25258,Baseline,12.5,left handed,UPSM_1,Male,corr
+25258,Retest_1,12.5,left handed,UPSM_1,Male,corr
+25259,Baseline,10.6,right handed,UPSM_1,Female,corr
+25259,Retest_1,10.6,right handed,UPSM_1,Female,corr
+25259,Retest_2,10.6,right handed,UPSM_1,Female,corr
+25260,Baseline,12.9,right handed,UPSM_1,Male,corr
+25260,Retest_1,12.9,right handed,UPSM_1,Male,corr
+25261,Baseline,14.1,right handed,UPSM_1,Male,corr
+25261,Retest_1,14.1,right handed,UPSM_1,Male,corr
+25261,Retest_2,14.1,right handed,UPSM_1,Male,corr
+25262,Baseline,15.9,right handed,UPSM_1,Male,corr
+25262,Retest_1,15.9,right handed,UPSM_1,Male,corr
+25263,Baseline,14.6,right handed,UPSM_1,Male,corr
+25263,Retest_1,16.5,right handed,UPSM_1,Male,corr
+25263,Retest_2,17.5,right handed,UPSM_1,Male,corr
+25264,Baseline,11.5,right handed,UPSM_1,Male,corr
+25264,Retest_1,13.1,right handed,UPSM_1,Male,corr
+25264,Retest_2,14.4,right handed,UPSM_1,Male,corr
+25265,Baseline,13.5,right handed,UPSM_1,Male,corr
+25265,Retest_1,15.2,right handed,UPSM_1,Male,corr
+25265,Retest_2,16.7,right handed,UPSM_1,Male,corr
+25266,Baseline,14,right handed,UPSM_1,Male,corr
+25266,Retest_1,15.7,right handed,UPSM_1,Male,corr
+25267,Baseline,17.5,right handed,UPSM_1,Male,corr
+25267,Retest_1,19.2,right handed,UPSM_1,Male,corr
+25267,Retest_2,20.6,right handed,UPSM_1,Male,corr
+25268,Baseline,12.5,right handed,UPSM_1,Female,corr
+25268,Retest_1,14.1,right handed,UPSM_1,Female,corr
+25269,Baseline,19.2,right handed,UPSM_1,Male,corr
+25269,Retest_1,19.2,right handed,UPSM_1,Male,corr
+25270,Baseline,14.8,right handed,UPSM_1,Female,corr
+25270,Retest_1,14.8,right handed,UPSM_1,Female,corr
+25270,Retest_2,14.8,right handed,UPSM_1,Female,corr
+25271,Baseline,16.2,right handed,UPSM_1,Male,corr
+25271,Retest_1,16.2,right handed,UPSM_1,Male,corr
+25271,Retest_2,16.2,right handed,UPSM_1,Male,corr
+25272,Baseline,15.7,right handed,UPSM_1,Female,corr
+25272,Retest_1,15.7,right handed,UPSM_1,Female,corr
+25272,Retest_2,15.7,right handed,UPSM_1,Female,corr
+25273,Baseline,18.2,right handed,UPSM_1,Male,corr
+25273,Retest_1,18.2,right handed,UPSM_1,Male,corr
+25273,Retest_2,18.2,right handed,UPSM_1,Male,corr
+25274,Baseline,17.1,right handed,UPSM_1,Female,corr
+25274,Retest_1,17.1,right handed,UPSM_1,Female,corr
+25274,Retest_2,17.1,right handed,UPSM_1,Female,corr
+25275,Baseline,15.4,right handed,UPSM_1,Female,corr
+25275,Retest_1,15.4,right handed,UPSM_1,Female,corr
+25275,Retest_2,15.4,right handed,UPSM_1,Female,corr
+25276,Baseline,14.9,right handed,UPSM_1,Female,corr
+25276,Retest_1,14.9,right handed,UPSM_1,Female,corr
+25276,Retest_2,14.9,right handed,UPSM_1,Female,corr
+25277,Baseline,11.2,right handed,UPSM_1,Male,corr
+25277,Retest_1,11.2,right handed,UPSM_1,Male,corr
+25277,Retest_2,11.2,right handed,UPSM_1,Male,corr
+25278,Baseline,15.2,right handed,UPSM_1,Female,corr
+25278,Retest_1,15.2,right handed,UPSM_1,Female,corr
+25278,Retest_2,15.2,right handed,UPSM_1,Female,corr
+25279,Baseline,18.1,right handed,UPSM_1,Female,corr
+25279,Retest_1,18.1,right handed,UPSM_1,Female,corr
+25280,Baseline,17.9,right handed,UPSM_1,Female,corr
+25280,Retest_1,17.9,right handed,UPSM_1,Female,corr
+25281,Baseline,14.7,left handed,UPSM_1,Male,corr
+25281,Retest_1,14.7,left handed,UPSM_1,Male,corr
+25282,Baseline,12.3,right handed,UPSM_1,Female,corr
+25282,Retest_1,12.3,right handed,UPSM_1,Female,corr
+25283,Baseline,12.9,right handed,UPSM_1,Male,corr
+25283,Retest_1,12.9,right handed,UPSM_1,Male,corr
+25283,Retest_2,12.9,right handed,UPSM_1,Male,corr
+25284,Baseline,11.1,right handed,UPSM_1,Male,corr
+25284,Retest_1,11.1,right handed,UPSM_1,Male,corr
+25285,Baseline,16.4,right handed,UPSM_1,Female,corr
+25285,Retest_1,16.4,right handed,UPSM_1,Female,corr
+25285,Retest_2,16.4,right handed,UPSM_1,Female,corr
+25286,Baseline,18,right handed,UPSM_1,Female,corr
+25286,Retest_1,18,right handed,UPSM_1,Female,corr
+25286,Retest_2,18,right handed,UPSM_1,Female,corr
+25287,Baseline,12.1,right handed,UPSM_1,Female,corr
+25287,Retest_1,12.1,right handed,UPSM_1,Female,corr
+25287,Retest_2,12.1,right handed,UPSM_1,Female,corr
+25288,Baseline,18.4,right handed,UPSM_1,Female,corr
+25288,Retest_1,18.4,right handed,UPSM_1,Female,corr
+25288,Retest_2,18.4,right handed,UPSM_1,Female,corr
+25289,Baseline,18.6,right handed,UPSM_1,Female,corr
+25289,Retest_1,18.6,right handed,UPSM_1,Female,corr
+25290,Baseline,18.5,right handed,UPSM_1,Female,corr
+25290,Retest_1,18.5,right handed,UPSM_1,Female,corr
+25290,Retest_2,18.5,right handed,UPSM_1,Female,corr
+25291,Baseline,18.9,right handed,UPSM_1,Female,corr
+25291,Retest_1,18.9,right handed,UPSM_1,Female,corr
+25291,Retest_2,18.9,right handed,UPSM_1,Female,corr
+25292,Baseline,18.3,right handed,UPSM_1,Female,corr
+25292,Retest_1,18.3,right handed,UPSM_1,Female,corr
+25293,Baseline,11,right handed,UPSM_1,Male,corr
+25293,Retest_1,11,right handed,UPSM_1,Male,corr
+25294,Baseline,12.7,right handed,UPSM_1,Male,corr
+25294,Retest_1,12.7,right handed,UPSM_1,Male,corr
+25295,Baseline,13.7,right handed,UPSM_1,Male,corr
+25295,Retest_1,13.7,right handed,UPSM_1,Male,corr
+25307,Baseline,12.4,right handed,UPSM_1,Male,corr
+25307,Retest_1,12.4,right handed,UPSM_1,Male,corr
+25308,Baseline,18.9,right handed,UPSM_1,Male,corr
+25308,Retest_1,18.9,right handed,UPSM_1,Male,corr
+25296,Baseline,18.7,left handed,UPSM_1,Male,corr
+25296,Retest_1,18.7,left handed,UPSM_1,Male,corr
+25297,Baseline,15.9,right handed,UPSM_1,Female,corr
+25297,Retest_1,15.9,right handed,UPSM_1,Female,corr
+25298,Baseline,14.6,right handed,UPSM_1,Female,corr
+25298,Retest_1,14.6,right handed,UPSM_1,Female,corr
+25299,Baseline,12.2,right handed,UPSM_1,Female,corr
+25299,Retest_1,12.2,right handed,UPSM_1,Female,corr
+25300,Baseline,13.6,left handed,UPSM_1,Female,corr
+25300,Retest_1,13.6,left handed,UPSM_1,Female,corr
+25301,Baseline,18.9,right handed,UPSM_1,Male,corr
+25301,Retest_1,18.9,right handed,UPSM_1,Male,corr
+25302,Baseline,10.5,right handed,UPSM_1,Male,corr
+25302,Retest_1,10.5,right handed,UPSM_1,Male,corr
+25303,Baseline,16.7,right handed,UPSM_1,Female,corr
+25303,Retest_1,16.7,right handed,UPSM_1,Female,corr
+25304,Baseline,11,right handed,UPSM_1,Male,corr
+25304,Retest_1,11,right handed,UPSM_1,Male,corr
+25305,Baseline,11.7,right handed,UPSM_1,Male,corr
+25305,Retest_1,11.7,right handed,UPSM_1,Male,corr
+25306,Baseline,13.9,right handed,UPSM_1,Male,corr
+25306,Retest_1,13.9,right handed,UPSM_1,Male,corr
+25309,Baseline,12.5,left handed,UPSM_1,Female,corr
+25309,Retest_1,12.5,left handed,UPSM_1,Female,corr
+25310,Baseline,12.2,right handed,UPSM_1,Female,corr
+25310,Retest_1,12.2,right handed,UPSM_1,Female,corr
+25311,Baseline,16.1,right handed,UPSM_1,Male,corr
+25311,Retest_1,16.1,right handed,UPSM_1,Male,corr
+25312,Baseline,10.9,right handed,UPSM_1,Female,corr
+25312,Retest_1,10.9,right handed,UPSM_1,Female,corr
+25313,Baseline,13.9,right handed,UPSM_1,Female,corr
+25313,Retest_1,13.9,right handed,UPSM_1,Female,corr
+25314,Baseline,10.2,right handed,UPSM_1,Female,corr
+25314,Retest_1,10.2,right handed,UPSM_1,Female,corr
+25315,Baseline,10.1,right handed,UPSM_1,Female,corr
+25315,Retest_1,10.1,right handed,UPSM_1,Female,corr
+25316,Baseline,12.3,right handed,UPSM_1,Male,corr
+25316,Retest_1,12.3,right handed,UPSM_1,Male,corr
+25317,Baseline,13,right handed,UPSM_1,Female,corr
+25317,Retest_1,13,right handed,UPSM_1,Female,corr
+25318,Baseline,16.7,right handed,UPSM_1,Male,corr
+25318,Retest_1,16.7,right handed,UPSM_1,Male,corr
+25319,Baseline,15.1,right handed,UPSM_1,Male,corr
+25319,Retest_1,15.1,right handed,UPSM_1,Male,corr
+25320,Baseline,18.7,right handed,UPSM_1,Male,corr
+25320,Retest_1,18.7,right handed,UPSM_1,Male,corr
+25321,Baseline,10.9,right handed,UPSM_1,Female,corr
+25321,Retest_1,10.9,right handed,UPSM_1,Female,corr
+25322,Baseline,13.8,right handed,UPSM_1,Female,corr
+25322,Retest_1,13.8,right handed,UPSM_1,Female,corr
+25323,Baseline,14.8,right handed,UPSM_1,Female,corr
+25323,Retest_1,14.8,right handed,UPSM_1,Female,corr
+25324,Baseline,16.9,left handed,UPSM_1,Male,corr
+25324,Retest_1,16.9,left handed,UPSM_1,Male,corr
+25325,Baseline,18.1,right handed,UPSM_1,Female,corr
+25325,Retest_1,18.1,right handed,UPSM_1,Female,corr
+25326,Baseline,18.9,right handed,UPSM_1,Female,corr
+25326,Retest_1,18.9,right handed,UPSM_1,Female,corr
+25327,Baseline,15.6,right handed,UPSM_1,Female,corr
+25327,Retest_1,15.6,right handed,UPSM_1,Female,corr
+25328,Baseline,12,right handed,UPSM_1,Male,corr
+25328,Retest_1,12,right handed,UPSM_1,Male,corr
+25329,Baseline,18.9,right handed,UPSM_1,Male,corr
+25329,Retest_1,18.9,right handed,UPSM_1,Male,corr
+25330,Baseline,14.2,right handed,UPSM_1,Male,corr
+25330,Retest_1,14.2,right handed,UPSM_1,Male,corr
+25331,Baseline,16.3,right handed,UPSM_1,Male,corr
+25331,Retest_1,16.3,right handed,UPSM_1,Male,corr
+25332,Baseline,16.8,right handed,UPSM_1,Female,corr
+25332,Retest_1,16.8,right handed,UPSM_1,Female,corr
+25333,Baseline,15.3,right handed,UPSM_1,Male,corr
+25333,Retest_1,15.3,right handed,UPSM_1,Male,corr
+27259,Baseline,22,,UWM,Male,corr
+27259,retest_1,,,UWM,,corr
+27259,retest_2,,,UWM,,corr
+27260,Baseline,30,,UWM,Female,corr
+27260,retest_1,,,UWM,,corr
+27260,retest_2,,,UWM,,corr
+27261,Baseline,25,,UWM,Female,corr
+27261,retest_1,,,UWM,,corr
+27261,retest_2,,,UWM,,corr
+27262,Baseline,23,,UWM,Male,corr
+27262,retest_1,,,UWM,,corr
+27262,retest_2,,,UWM,,corr
+27263,Baseline,27,,UWM,Female,corr
+27263,retest_1,,,UWM,,corr
+27263,retest_2,,,UWM,,corr
+27264,Baseline,22,,UWM,Male,corr
+27264,retest_1,,,UWM,,corr
+27264,retest_2,,,UWM,,corr
+27265,Baseline,23,,UWM,Male,corr
+27265,retest_1,,,UWM,,corr
+27265,retest_2,,,UWM,,corr
+27266,Baseline,29,,UWM,Female,corr
+27266,retest_1,,,UWM,,corr
+27266,retest_2,,,UWM,,corr
+27267,Baseline,21,,UWM,Female,corr
+27267,retest_1,,,UWM,,corr
+27267,retest_2,,,UWM,,corr
+27268,Baseline,24,,UWM,Male,corr
+27268,retest_1,,,UWM,,corr
+27268,retest_2,,,UWM,,corr
+27269,Baseline,23,,UWM,Female,corr
+27269,retest_1,,,UWM,,corr
+27269,retest_2,,,UWM,,corr
+27270,Baseline,31,,UWM,Female,corr
+27270,retest_1,,,UWM,,corr
+27270,retest_2,,,UWM,,corr
+27271,Baseline,29,,UWM,Female,corr
+27271,retest_1,,,UWM,,corr
+27271,retest_2,,,UWM,,corr
+27272,Baseline,25,,UWM,Male,corr
+27272,retest_1,,,UWM,,corr
+27272,retest_2,,,UWM,,corr
+27273,Baseline,24,,UWM,Female,corr
+27273,retest_1,,,UWM,,corr
+27273,retest_2,,,UWM,,corr
+27274,Baseline,22,,UWM,Male,corr
+27274,retest_1,,,UWM,,corr
+27274,retest_2,,,UWM,,corr
+27275,Baseline,29,,UWM,Male,corr
+27275,retest_1,,,UWM,,corr
+27275,retest_2,,,UWM,,corr
+27276,Baseline,25,,UWM,Male,corr
+27276,retest_1,,,UWM,,corr
+27276,retest_2,,,UWM,,corr
+27277,Baseline,21,,UWM,Female,corr
+27277,retest_1,,,UWM,,corr
+27277,retest_2,,,UWM,,corr
+27278,Baseline,32,,UWM,Male,corr
+27278,retest_1,,,UWM,,corr
+27278,retest_2,,,UWM,,corr
+27279,Baseline,24,,UWM,Male,corr
+27279,retest_1,,,UWM,,corr
+27279,retest_2,,,UWM,,corr
+27280,Baseline,22,,UWM,Male,corr
+27280,retest_1,,,UWM,,corr
+27280,retest_2,,,UWM,,corr
+27281,Baseline,24,,UWM,Male,corr
+27281,retest_1,,,UWM,,corr
+27281,retest_2,,,UWM,,corr
+27282,Baseline,24,,UWM,Male,corr
+27282,retest_1,,,UWM,,corr
+27282,retest_2,,,UWM,,corr
+27283,Baseline,23,,UWM,Female,corr
+27283,retest_1,,,UWM,,corr
+27283,retest_2,,,UWM,,corr
+26018,Baseline,18,left handed,Utah_1,Male,corr
+26018,Retest_1,18,,Utah_1,Male,corr
+26018,Retest_2,18,,Utah_1,Male,corr
+26019,Baseline,18,right handed,Utah_1,Male,corr
+26019,Retest_1,18,,Utah_1,Male,corr
+26019,Retest_2,18,,Utah_1,Male,corr
+26020,Baseline,16,right handed,Utah_1,Male,corr
+26020,Retest_1,16,,Utah_1,Male,corr
+26020,Retest_2,16,,Utah_1,Male,corr
+26021,Baseline,13,right handed,Utah_1,Male,corr
+26021,Retest_1,13,,Utah_1,Male,corr
+26021,Retest_2,13,,Utah_1,Male,corr
+26022,Baseline,15,right handed,Utah_1,Male,corr
+26022,Retest_1,15,,Utah_1,Male,corr
+26022,Retest_2,15,,Utah_1,Male,corr
+26023,Baseline,23,right handed,Utah_1,Male,corr
+26023,Retest_1,23,,Utah_1,Male,corr
+26023,Retest_2,23,,Utah_1,Male,corr
+26024,Baseline,27,right handed,Utah_1,Male,corr
+26024,Retest_1,27,,Utah_1,Male,corr
+26024,Retest_2,27,,Utah_1,Male,corr
+26025,Baseline,26,right handed,Utah_1,Male,corr
+26025,Retest_1,26,,Utah_1,Male,corr
+26025,Retest_2,26,,Utah_1,Male,corr
+26026,Baseline,27,right handed,Utah_1,Male,corr
+26026,Retest_1,27,,Utah_1,Male,corr
+26026,Retest_2,27,,Utah_1,Male,corr
+26027,Baseline,12,right handed,Utah_1,Male,corr
+26027,Retest_1,12,,Utah_1,Male,corr
+26027,Retest_2,12,,Utah_1,Male,corr
+26028,Baseline,10,right handed,Utah_1,Male,corr
+26028,Retest_1,10,,Utah_1,Male,corr
+26028,Retest_2,10,,Utah_1,Male,corr
+26029,Baseline,21,right handed,Utah_1,Male,corr
+26029,Retest_1,21,,Utah_1,Male,corr
+26029,Retest_2,21,,Utah_1,Male,corr
+26030,Baseline,12,right handed,Utah_1,Male,corr
+26030,Retest_1,12,,Utah_1,Male,corr
+26030,Retest_2,12,,Utah_1,Male,corr
+26031,Baseline,8,right handed,Utah_1,Male,corr
+26031,Retest_1,8,,Utah_1,Male,corr
+26031,Retest_2,8,,Utah_1,Male,corr
+26032,Baseline,31,right handed,Utah_1,Male,corr
+26032,Retest_1,31,,Utah_1,Male,corr
+26032,Retest_2,31,,Utah_1,Male,corr
+26033,Baseline,26,right handed,Utah_1,Male,corr
+26033,Retest_1,26,,Utah_1,Male,corr
+26033,Retest_2,26,,Utah_1,Male,corr
+26034,Baseline,14,right handed,Utah_1,Male,corr
+26034,Retest_1,14,,Utah_1,Male,corr
+26034,Retest_2,14,,Utah_1,Male,corr
+26035,Baseline,24,right handed,Utah_1,Male,corr
+26035,Retest_1,24,,Utah_1,Male,corr
+26035,Retest_2,24,,Utah_1,Male,corr
+26036,Baseline,9,right handed,Utah_1,Male,corr
+26036,Retest_1,9,,Utah_1,Male,corr
+26036,Retest_2,9,,Utah_1,Male,corr
+26037,Baseline,34,right handed,Utah_1,Male,corr
+26037,Retest_1,34,,Utah_1,Male,corr
+26037,Retest_2,34,,Utah_1,Male,corr
+26038,Baseline,19,right handed,Utah_1,Male,corr
+26038,Retest_1,19,,Utah_1,Male,corr
+26038,Retest_2,19,,Utah_1,Male,corr
+26039,Baseline,39,,Utah_1,Male,corr
+26039,Retest_1,39,,Utah_1,Male,corr
+26039,Retest_2,39,,Utah_1,Male,corr
+26040,Baseline,28,right handed,Utah_1,Male,corr
+26040,Retest_1,28,,Utah_1,Male,corr
+26040,Retest_2,28,,Utah_1,Male,corr
+26041,Baseline,9,right handed,Utah_1,Male,corr
+26041,Retest_1,9,,Utah_1,Male,corr
+26041,Retest_2,9,,Utah_1,Male,corr
+26042,Baseline,25,right handed,Utah_1,Male,corr
+26042,Retest_1,25,,Utah_1,Male,corr
+26042,Retest_2,25,,Utah_1,Male,corr
+26043,Baseline,22,right handed,Utah_1,Male,corr
+26043,Retest_1,22,,Utah_1,Male,corr
+26043,Retest_2,22,,Utah_1,Male,corr
+26017,Baseline,39,right handed,Utah_2,Male,corr
+26017,Retest_1,39,right handed,Utah_2,Male,corr
+26017,Retest_2,39,right handed,Utah_2,Male,corr
+26017,Retest_3,39,right handed,Utah_2,Male,corr
+26017,Retest_4,39,right handed,Utah_2,Male,corr
+26017,Retest_5,39,right handed,Utah_2,Male,corr
+26017,Retest_6,39,right handed,Utah_2,Male,corr
+26017,Retest_7,39,right handed,Utah_2,Male,corr
+26017,Retest_8,39,right handed,Utah_2,Male,corr
+26017,Retest_9,39,right handed,Utah_2,Male,corr
+25982,NoPhenotypicData,NoPhenotypicData,,XHCUMS,,corr
+25983,Baseline,62,,XHCUMS,Male,corr
+25983,Retest_1,62,,XHCUMS,Male,corr
+25983,Retest_2,62,,XHCUMS,Male,corr
+25983,Retest_3,62,,XHCUMS,Male,corr
+25983,Retest_4,62,,XHCUMS,Male,corr
+25984,Baseline,60,,XHCUMS,Female,corr
+25984,Retest_1,60,,XHCUMS,Female,corr
+25984,Retest_2,60,,XHCUMS,Female,corr
+25984,Retest_3,60,,XHCUMS,Female,corr
+25984,Retest_4,60,,XHCUMS,Female,corr
+25985,Baseline,61,,XHCUMS,Female,corr
+25985,Retest_1,61,,XHCUMS,Female,corr
+25985,Retest_2,61,,XHCUMS,Female,corr
+25985,Retest_3,61,,XHCUMS,Female,corr
+25985,Retest_4,61,,XHCUMS,Female,corr
+25986,Baseline,57,,XHCUMS,Female,corr
+25986,Retest_1,57,,XHCUMS,Female,corr
+25986,Retest_2,57,,XHCUMS,Female,corr
+25986,Retest_3,57,,XHCUMS,Female,corr
+25986,Retest_4,57,,XHCUMS,Female,corr
+25987,Baseline,58,,XHCUMS,Female,corr
+25987,Retest_1,58,,XHCUMS,Female,corr
+25987,Retest_2,58,,XHCUMS,Female,corr
+25987,Retest_3,58,,XHCUMS,Female,corr
+25987,Retest_4,58,,XHCUMS,Female,corr
+25988,Baseline,48,,XHCUMS,Male,corr
+25988,Retest_1,48,,XHCUMS,Male,corr
+25988,Retest_2,48,,XHCUMS,Male,corr
+25988,Retest_3,48,,XHCUMS,Male,corr
+25988,Retest_4,48,,XHCUMS,Male,corr
+25989,Baseline,56,,XHCUMS,Female,corr
+25989,Retest_1,56,,XHCUMS,Female,corr
+25989,Retest_2,56,,XHCUMS,Female,corr
+25989,Retest_3,56,,XHCUMS,Female,corr
+25989,Retest_4,56,,XHCUMS,Female,corr
+25990,Baseline,49,,XHCUMS,Female,corr
+25990,Retest_1,49,,XHCUMS,Female,corr
+25990,Retest_2,49,,XHCUMS,Female,corr
+25990,Retest_3,49,,XHCUMS,Female,corr
+25990,Retest_4,49,,XHCUMS,Female,corr
+25991,Baseline,52,,XHCUMS,Female,corr
+25991,Retest_1,53,,XHCUMS,Female,corr
+25991,Retest_2,52,,XHCUMS,Female,corr
+25991,Retest_3,52,,XHCUMS,Female,corr
+25991,Retest_4,52,,XHCUMS,Female,corr
+25992,Baseline,47,,XHCUMS,Female,corr
+25992,Retest_1,47,,XHCUMS,Female,corr
+25992,Retest_2,47,,XHCUMS,Female,corr
+25992,Retest_3,47,,XHCUMS,Female,corr
+25992,Retest_4,47,,XHCUMS,Female,corr
+25993,Baseline,50,,XHCUMS,Female,corr
+25993,Retest_1,50,,XHCUMS,Female,corr
+25993,Retest_2,50,,XHCUMS,Female,corr
+25993,Retest_3,50,,XHCUMS,Female,corr
+25993,Retest_4,50,,XHCUMS,Female,corr
+25994,Baseline,54,,XHCUMS,Male,corr
+25994,Retest_1,54,,XHCUMS,Male,corr
+25994,Retest_2,54,,XHCUMS,Male,corr
+25994,Retest_3,54,,XHCUMS,Male,corr
+25994,Retest_4,54,,XHCUMS,Male,corr
+25995,Baseline,49,,XHCUMS,Female,corr
+25995,Retest_1,49,,XHCUMS,Female,corr
+25995,Retest_2,49,,XHCUMS,Female,corr
+25995,Retest_3,49,,XHCUMS,Female,corr
+25995,Retest_4,49,,XHCUMS,Female,corr
+25996,Baseline,52,,XHCUMS,Male,corr
+25996,Retest_1,52,,XHCUMS,Male,corr
+25996,Retest_2,52,,XHCUMS,Male,corr
+25996,Retest_3,52,,XHCUMS,Male,corr
+25996,Retest_4,52,,XHCUMS,Male,corr
+25997,Baseline,45,,XHCUMS,Male,corr
+25997,Retest_1,45,,XHCUMS,Male,corr
+25997,Retest_2,45,,XHCUMS,Male,corr
+25997,Retest_3,45,,XHCUMS,Male,corr
+25997,Retest_4,45,,XHCUMS,Male,corr
+25998,Baseline,53,,XHCUMS,Male,corr
+25998,Retest_1,53,,XHCUMS,Male,corr
+25998,Retest_2,53,,XHCUMS,Male,corr
+25998,Retest_3,53,,XHCUMS,Male,corr
+25998,Retest_4,53,,XHCUMS,Male,corr
+25999,Baseline,56,,XHCUMS,Male,corr
+25999,Retest_1,56,,XHCUMS,Male,corr
+25999,Retest_2,56,,XHCUMS,Male,corr
+25999,Retest_3,56,,XHCUMS,Male,corr
+25999,Retest_4,56,,XHCUMS,Male,corr
+26000,Baseline,54,,XHCUMS,Male,corr
+26000,Retest_1,54,,XHCUMS,Male,corr
+26000,Retest_2,54,,XHCUMS,Male,corr
+26000,Retest_3,54,,XHCUMS,Male,corr
+26000,Retest_4,54,,XHCUMS,Male,corr
+26001,Baseline,54,,XHCUMS,Male,corr
+26001,Retest_1,54,,XHCUMS,Male,corr
+26001,Retest_2,54,,XHCUMS,Male,corr
+26001,Retest_3,54,,XHCUMS,Male,corr
+26001,Retest_4,54,,XHCUMS,Male,corr
+26002,Baseline,54,,XHCUMS,Male,corr
+26002,Retest_1,54,,XHCUMS,Male,corr
+26002,Retest_2,54,,XHCUMS,Male,corr
+26002,Retest_3,54,,XHCUMS,Male,corr
+26002,Retest_4,54,,XHCUMS,Male,corr
+26003,Baseline,52,,XHCUMS,Male,corr
+26003,Retest_1,52,,XHCUMS,Male,corr
+26003,Retest_2,52,,XHCUMS,Male,corr
+26003,Retest_3,52,,XHCUMS,Male,corr
+26003,Retest_4,52,,XHCUMS,Male,corr
+26004,Baseline,36,,XHCUMS,Male,corr
+26004,Retest_1,36,,XHCUMS,Male,corr
+26004,Retest_2,36,,XHCUMS,Male,corr
+26004,Retest_3,36,,XHCUMS,Male,corr
+26004,Retest_4,36,,XHCUMS,Male,corr
+26005,Baseline,38,,XHCUMS,Male,corr
+26005,Retest_1,38,,XHCUMS,Male,corr
+26005,Retest_2,38,,XHCUMS,Male,corr
+26005,Retest_3,38,,XHCUMS,Male,corr
+26005,Retest_4,38,,XHCUMS,Male,corr
+26006,Baseline,52,,XHCUMS,Male,corr
+26006,Retest_1,52,,XHCUMS,Male,corr
+26006,Retest_2,52,,XHCUMS,Male,corr
+26006,Retest_3,52,,XHCUMS,Male,corr
+26006,Retest_4,52,,XHCUMS,Male,corr

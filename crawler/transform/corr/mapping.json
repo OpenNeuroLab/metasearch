@@ -106,7 +106,7 @@
     "1.0": "Female",
     "#": null
   },
-  "Handedness":
+  "HANDEDNESS":
   {
     "element": "handedness",
     "type": "category",

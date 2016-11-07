@@ -3,11 +3,6 @@
     "element": "participant_id",
     "type": "identifier"
   },
-  "site_id": {
-    "element": "site_id",
-    "type": "category",
-    "CMI": "cmi"
-  },
   "visit": {
     "Visit 01": 1,
     "Visit 02": 2,
