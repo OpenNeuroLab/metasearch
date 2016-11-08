@@ -67,7 +67,7 @@
     d3.csv('data/phenotype.csv', function (data) {
         // slickgrid needs each data element to have an id
         data.forEach(function (d, i) {
-            d.id = d.participant_id || i;
+            d.id = d.id || i;
         });
 
         parcoords

@@ -6,6 +6,7 @@
   "SITE": {
     "element": "site_id",
     "type": "category",
+    "BMB_1": "BMB_1",
     "BNU_1": "BNU_1",
     "BNU_2": "BNU_2",
     "BNU_3": "BNU_3",
