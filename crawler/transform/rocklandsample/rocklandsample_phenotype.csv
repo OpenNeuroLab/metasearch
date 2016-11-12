@@ -55,7 +55,7 @@ age,handedness,participant_id,sex,project,site_id
 70.0,right handed,155677,Female,rocklandsample,
 59.0,right handed,156730,Female,rocklandsample,
 60.0,left handed,156928,Female,rocklandsample,
-999.0,,157580,,rocklandsample,
+,,157580,,rocklandsample,
 52.0,right handed,160620,Female,rocklandsample,
 24.0,right handed,164993,Female,rocklandsample,
 48.0,right handed,166210,Female,rocklandsample,

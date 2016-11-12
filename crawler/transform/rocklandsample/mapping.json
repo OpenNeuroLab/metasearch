@@ -6,7 +6,9 @@
   "Age":
   {
     "element": "age",
-    "type": "number"
+    "type": "number",
+    "999.0": null,
+    "999": null
   },
   "Sex":
   {
