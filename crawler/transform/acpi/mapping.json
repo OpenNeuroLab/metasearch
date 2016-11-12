@@ -8,8 +8,8 @@
   {
     "element": "site_id",
     "type": "category",
-    "MTA_1": "mta 1",
-    "NYU_1": "nyu 1"
+    "MTA_1": "MTA",
+    "NYU_1": "NYU"
   },
   "AGE_AT_SCAN_1":
   {

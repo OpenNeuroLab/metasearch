@@ -8,14 +8,14 @@
   {
     "element": "site_id",
     "type": "category",
-    "1": "peking university",
-    "2": "brown university",
-    "3": "kennedy krieger institute",
-    "4": "neuroimage sample",
-    "5": "nyu child study center",
-    "6": "ohsu",
-    "7": "university of pittsburg",
-    "8": "washu in st louis"
+    "1": "Peking",
+    "2": "BU",
+    "3": "KKI",
+    "4": "NeuroImange",
+    "5": "NYU",
+    "6": "OHSU",
+    "7": "PITT",
+    "8": "WashU"
   },
   "DX":
   {

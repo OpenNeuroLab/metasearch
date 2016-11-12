@@ -1,804 +1,804 @@
 age,handedness,participant_id,sex,site_id,project
-25.13,right handed,3001,Male,BMB_1,corr
-25.13,right handed,3001,Male,BMB_1,corr
-23.96,right handed,3002,Female,BMB_1,corr
-23.96,right handed,3002,Female,BMB_1,corr
-31.15,right handed,3004,Male,BMB_1,corr
-31.15,right handed,3004,Male,BMB_1,corr
-23,right handed,3006,Female,BMB_1,corr
-23,right handed,3006,Female,BMB_1,corr
-43.53,right handed,3007,Male,BMB_1,corr
-43.53,right handed,3007,Male,BMB_1,corr
-26.87,right handed,3008,Female,BMB_1,corr
-26.87,right handed,3008,Female,BMB_1,corr
-33.82,right handed,3009,Male,BMB_1,corr
-33.82,right handed,3009,Male,BMB_1,corr
-27.02,right handed,3010,Female,BMB_1,corr
-27.02,right handed,3010,Female,BMB_1,corr
-24.37,right handed,3011,Female,BMB_1,corr
-24.37,right handed,3011,Female,BMB_1,corr
-33.59,right handed,3012,Male,BMB_1,corr
-33.59,right handed,3012,Male,BMB_1,corr
-26.06,right handed,3013,Female,BMB_1,corr
-26.06,right handed,3013,Female,BMB_1,corr
-28.27,right handed,3014,Male,BMB_1,corr
-28.27,right handed,3014,Male,BMB_1,corr
-26.64,right handed,3015,Female,BMB_1,corr
-26.64,right handed,3015,Female,BMB_1,corr
-28.46,right handed,3016,Male,BMB_1,corr
-28.46,right handed,3016,Male,BMB_1,corr
-26.58,right handed,3017,Male,BMB_1,corr
-26.58,right handed,3017,Male,BMB_1,corr
-26.78,right handed,3018,Female,BMB_1,corr
-26.78,right handed,3018,Female,BMB_1,corr
-31.25,right handed,3020,Male,BMB_1,corr
-31.25,right handed,3020,Male,BMB_1,corr
-37.42,right handed,3021,Female,BMB_1,corr
-37.42,right handed,3021,Female,BMB_1,corr
-38.01,right handed,3022,Male,BMB_1,corr
-38.01,right handed,3022,Male,BMB_1,corr
-32.3,right handed,3023,Female,BMB_1,corr
-32.3,right handed,3023,Female,BMB_1,corr
-39.04,right handed,3024,Male,BMB_1,corr
-39.04,right handed,3024,Male,BMB_1,corr
-28.44,right handed,3025,Female,BMB_1,corr
-28.44,right handed,3025,Female,BMB_1,corr
-29.34,right handed,3026,Female,BMB_1,corr
-29.34,right handed,3026,Female,BMB_1,corr
-33.28,right handed,3032,Female,BMB_1,corr
-33.28,right handed,3032,Female,BMB_1,corr
-32.52,right handed,3033,Male,BMB_1,corr
-32.52,right handed,3033,Male,BMB_1,corr
-31.59,right handed,3034,Female,BMB_1,corr
-31.59,right handed,3034,Female,BMB_1,corr
-30.3,right handed,3036,Female,BMB_1,corr
-30.3,right handed,3036,Female,BMB_1,corr
-59.73,right handed,3037,Female,BMB_1,corr
-59.73,right handed,3037,Female,BMB_1,corr
-34.72,right handed,3038,Male,BMB_1,corr
-34.72,right handed,3038,Male,BMB_1,corr
-22.99,right handed,3039,Female,BMB_1,corr
-22.99,right handed,3039,Female,BMB_1,corr
-36.25,left handed,3040,Male,BMB_1,corr
-36.25,left handed,3040,Male,BMB_1,corr
-23.96,right handed,3041,Female,BMB_1,corr
-23.96,right handed,3041,Female,BMB_1,corr
-35.18,right handed,3042,Male,BMB_1,corr
-35.18,right handed,3042,Male,BMB_1,corr
-30.95,right handed,3044,Male,BMB_1,corr
-30.95,right handed,3044,Male,BMB_1,corr
-42.63,right handed,3045,Female,BMB_1,corr
-42.63,right handed,3045,Female,BMB_1,corr
-32.63,right handed,3047,Male,BMB_1,corr
-32.63,right handed,3047,Male,BMB_1,corr
-30.31,right handed,3049,Male,BMB_1,corr
-30.31,right handed,3049,Male,BMB_1,corr
-49.37,right handed,3050,Female,BMB_1,corr
-49.37,right handed,3050,Female,BMB_1,corr
-23.62,right handed,3051,Male,BMB_1,corr
-23.62,right handed,3051,Male,BMB_1,corr
-23.62,right handed,3051,Male,BMB_1,corr
-23.62,right handed,3051,Male,BMB_1,corr
-28.57,right handed,3052,Female,BMB_1,corr
-28.57,right handed,3052,Female,BMB_1,corr
-28.57,right handed,3052,Female,BMB_1,corr
-28.57,right handed,3052,Female,BMB_1,corr
-27.71,right handed,3054,Male,BMB_1,corr
-27.71,right handed,3054,Male,BMB_1,corr
-27.71,right handed,3054,Male,BMB_1,corr
-27.71,right handed,3054,Male,BMB_1,corr
-29.95,right handed,3055,Male,BMB_1,corr
-29.95,right handed,3055,Male,BMB_1,corr
-29.95,right handed,3055,Male,BMB_1,corr
-29.95,right handed,3055,Male,BMB_1,corr
-29.78,right handed,3056,Male,BMB_1,corr
-29.78,right handed,3056,Male,BMB_1,corr
-29.78,right handed,3056,Male,BMB_1,corr
-29.78,right handed,3056,Male,BMB_1,corr
-19.96,right handed,3057,Male,BMB_1,corr
-19.96,right handed,3057,Male,BMB_1,corr
-19.96,right handed,3057,Male,BMB_1,corr
-19.96,right handed,3057,Male,BMB_1,corr
-30.66,right handed,3059,Female,BMB_1,corr
-30.66,right handed,3059,Female,BMB_1,corr
-30.66,right handed,3059,Female,BMB_1,corr
-30.66,right handed,3059,Female,BMB_1,corr
-30.44,left handed,3060,Female,BMB_1,corr
-30.44,left handed,3060,Female,BMB_1,corr
-24.88,right handed,3061,Female,BMB_1,corr
-24.88,right handed,3061,Female,BMB_1,corr
-27.1,right handed,3062,Male,BMB_1,corr
-27.1,right handed,3062,Male,BMB_1,corr
-27.1,right handed,3062,Male,BMB_1,corr
-27.1,right handed,3062,Male,BMB_1,corr
-22.34,right handed,3063,Female,BMB_1,corr
-22.34,right handed,3063,Female,BMB_1,corr
-22.34,right handed,3063,Female,BMB_1,corr
-22.34,right handed,3063,Female,BMB_1,corr
-28.85,right handed,3064,Female,BMB_1,corr
-28.85,right handed,3064,Female,BMB_1,corr
-28.85,right handed,3064,Female,BMB_1,corr
-28.85,right handed,3064,Female,BMB_1,corr
-22,,25864,Male,BNU_1,corr
-,,25864,,BNU_1,corr
-24,,25865,Male,BNU_1,corr
-,,25865,,BNU_1,corr
-27,,25866,Male,BNU_1,corr
-,,25866,,BNU_1,corr
-22,,25867,Male,BNU_1,corr
-,,25867,,BNU_1,corr
-27,,25868,Male,BNU_1,corr
-,,25868,,BNU_1,corr
-22,,25869,Female,BNU_1,corr
-,,25869,,BNU_1,corr
-23,,25870,Male,BNU_1,corr
-,,25870,,BNU_1,corr
-22,,25871,Male,BNU_1,corr
-,,25871,,BNU_1,corr
-22,,25872,Male,BNU_1,corr
-,,25872,,BNU_1,corr
-26,,25873,Female,BNU_1,corr
-,,25873,,BNU_1,corr
-24,,25874,Female,BNU_1,corr
-,,25874,,BNU_1,corr
-30,,25875,Female,BNU_1,corr
-,,25875,,BNU_1,corr
-25,,25876,Male,BNU_1,corr
-,,25876,,BNU_1,corr
-20,,25877,Male,BNU_1,corr
-,,25877,,BNU_1,corr
-23,,25878,Male,BNU_1,corr
-,,25878,,BNU_1,corr
-23,,25879,Male,BNU_1,corr
-,,25879,,BNU_1,corr
-24,,25880,Male,BNU_1,corr
-,,25880,,BNU_1,corr
-21,,25881,Male,BNU_1,corr
-,,25881,,BNU_1,corr
-22,,25882,Female,BNU_1,corr
-,,25882,,BNU_1,corr
-21,,25883,Male,BNU_1,corr
-,,25883,,BNU_1,corr
-24,,25884,Male,BNU_1,corr
-,,25884,,BNU_1,corr
-22,,25885,Female,BNU_1,corr
-,,25885,,BNU_1,corr
-24,,25886,Female,BNU_1,corr
-,,25886,,BNU_1,corr
-27,,25887,Male,BNU_1,corr
-,,25887,,BNU_1,corr
-25,,25888,Male,BNU_1,corr
-,,25888,,BNU_1,corr
-26,,25889,Female,BNU_1,corr
-,,25889,,BNU_1,corr
-21,,25890,Male,BNU_1,corr
-,,25890,,BNU_1,corr
-19,,25891,Female,BNU_1,corr
-,,25891,,BNU_1,corr
-23,,25892,Female,BNU_1,corr
-,,25892,,BNU_1,corr
-26,,25893,Male,BNU_1,corr
-,,25893,,BNU_1,corr
-21,,25894,Female,BNU_1,corr
-,,25894,,BNU_1,corr
-24,,25895,Male,BNU_1,corr
-,,25895,,BNU_1,corr
-21,,25896,Female,BNU_1,corr
-,,25896,,BNU_1,corr
-23,,25897,Female,BNU_1,corr
-,,25897,,BNU_1,corr
-22,,25898,Female,BNU_1,corr
-,,25898,,BNU_1,corr
-21,,25899,Male,BNU_1,corr
-,,25899,,BNU_1,corr
-20,,25900,Female,BNU_1,corr
-,,25900,,BNU_1,corr
-22,,25901,Female,BNU_1,corr
-,,25901,,BNU_1,corr
-22,,25902,Female,BNU_1,corr
-,,25902,,BNU_1,corr
-22,,25903,Female,BNU_1,corr
-,,25903,,BNU_1,corr
-19,,25904,Female,BNU_1,corr
-,,25904,,BNU_1,corr
-27,,25905,Male,BNU_1,corr
-,,25905,,BNU_1,corr
-24,,25906,Female,BNU_1,corr
-,,25906,,BNU_1,corr
-24,,25907,Male,BNU_1,corr
-,,25907,,BNU_1,corr
-23,,25908,Male,BNU_1,corr
-,,25908,,BNU_1,corr
-25,,25909,Female,BNU_1,corr
-,,25909,,BNU_1,corr
-23,,25910,Female,BNU_1,corr
-,,25910,,BNU_1,corr
-19,,25911,Female,BNU_1,corr
-,,25911,,BNU_1,corr
-21,,25912,Male,BNU_1,corr
-,,25912,,BNU_1,corr
-21,,25913,Female,BNU_1,corr
-,,25913,,BNU_1,corr
-27,,25914,Female,BNU_1,corr
-,,25914,,BNU_1,corr
-22,,25915,Male,BNU_1,corr
-,,25915,,BNU_1,corr
-23,,25916,Male,BNU_1,corr
-,,25916,,BNU_1,corr
-22,,25917,Female,BNU_1,corr
-,,25917,,BNU_1,corr
-23,,25918,Male,BNU_1,corr
-,,25918,,BNU_1,corr
-25,,25919,Male,BNU_1,corr
-,,25919,,BNU_1,corr
-21,,25920,Female,BNU_1,corr
-,,25920,,BNU_1,corr
-20.7,,25921,Female,BNU_2,corr
-,,25921,,BNU_2,corr
-21.7,,25922,Female,BNU_2,corr
-,,25922,,BNU_2,corr
-22.5,,25923,Female,BNU_2,corr
-,,25923,,BNU_2,corr
-21,,25924,Female,BNU_2,corr
-,,25924,,BNU_2,corr
-21.2,,25925,Female,BNU_2,corr
-,,25925,,BNU_2,corr
-22.2,,25926,Male,BNU_2,corr
-,,25926,,BNU_2,corr
-20.8,,25927,Male,BNU_2,corr
-,,25927,,BNU_2,corr
-20.2,,25928,Male,BNU_2,corr
-,,25928,,BNU_2,corr
-20.1,,25929,Male,BNU_2,corr
-,,25929,,BNU_2,corr
-22.3,,25930,Male,BNU_2,corr
-,,25930,,BNU_2,corr
-21.3,,25931,Male,BNU_2,corr
-,,25931,,BNU_2,corr
-20.9,,25932,Male,BNU_2,corr
-,,25932,,BNU_2,corr
-21.6,,25933,Female,BNU_2,corr
-,,25933,,BNU_2,corr
-20.9,,25934,Male,BNU_2,corr
-,,25934,,BNU_2,corr
-22,,25935,Male,BNU_2,corr
-,,25935,,BNU_2,corr
-22.5,,25936,Male,BNU_2,corr
-,,25936,,BNU_2,corr
-21.7,,25937,Male,BNU_2,corr
-,,25937,,BNU_2,corr
-21.8,,25938,Male,BNU_2,corr
-,,25938,,BNU_2,corr
-20.4,,25939,Male,BNU_2,corr
-,,25939,,BNU_2,corr
-20.8,,25940,Male,BNU_2,corr
-,,25940,,BNU_2,corr
-23.3,,25941,Female,BNU_2,corr
-,,25941,,BNU_2,corr
-21,,25942,Female,BNU_2,corr
-,,25942,,BNU_2,corr
-22.9,,25943,Female,BNU_2,corr
-,,25943,,BNU_2,corr
-21.3,,25944,Female,BNU_2,corr
-,,25944,,BNU_2,corr
-19.3,,25945,Female,BNU_2,corr
-,,25945,,BNU_2,corr
-19.8,,25946,Male,BNU_2,corr
-,,25946,,BNU_2,corr
-21.3,,25947,Male,BNU_2,corr
-,,25947,,BNU_2,corr
-21.5,,25948,Female,BNU_2,corr
-,,25948,,BNU_2,corr
-20.4,,25949,Female,BNU_2,corr
-,,25949,,BNU_2,corr
-21.7,,25950,Female,BNU_2,corr
-,,25950,,BNU_2,corr
-21.5,,25951,Female,BNU_2,corr
-,,25951,,BNU_2,corr
-19.8,,25952,Female,BNU_2,corr
-,,25952,,BNU_2,corr
-21.1,,25953,Female,BNU_2,corr
-,,25953,,BNU_2,corr
-22.7,,25954,Female,BNU_2,corr
-,,25954,,BNU_2,corr
-19.5,,25955,Male,BNU_2,corr
-,,25955,,BNU_2,corr
-21.4,,25956,Male,BNU_2,corr
-,,25956,,BNU_2,corr
-21.1,,25957,Male,BNU_2,corr
-,,25957,,BNU_2,corr
-20.1,,25958,Male,BNU_2,corr
-,,25958,,BNU_2,corr
-21.3,,25959,Male,BNU_2,corr
-,,25959,,BNU_2,corr
-21.1,,25960,Male,BNU_2,corr
-,,25960,,BNU_2,corr
-21.8,,25961,Male,BNU_2,corr
-,,25961,,BNU_2,corr
-21.8,,25962,Male,BNU_2,corr
-,,25962,,BNU_2,corr
-21.6,,25963,Male,BNU_2,corr
-,,25963,,BNU_2,corr
-22,,25964,Male,BNU_2,corr
-,,25964,,BNU_2,corr
-21.4,,25965,Male,BNU_2,corr
-,,25965,,BNU_2,corr
-22,,25966,Male,BNU_2,corr
-,,25966,,BNU_2,corr
-21.6,,25967,Female,BNU_2,corr
-,,25967,,BNU_2,corr
-21.3,,25968,Male,BNU_2,corr
-,,25968,,BNU_2,corr
-21.8,,25969,Male,BNU_2,corr
-,,25969,,BNU_2,corr
-21.2,,25970,Female,BNU_2,corr
-,,25970,,BNU_2,corr
-20.5,,25971,Female,BNU_2,corr
-,,25971,,BNU_2,corr
-21.4,,25972,Female,BNU_2,corr
-,,25972,,BNU_2,corr
-22.2,,25973,Female,BNU_2,corr
-,,25973,,BNU_2,corr
-21.7,,25974,Male,BNU_2,corr
-,,25974,,BNU_2,corr
-21.6,,25975,Female,BNU_2,corr
-,,25975,,BNU_2,corr
-21.3,,25976,Female,BNU_2,corr
-,,25976,,BNU_2,corr
-23.1,,25977,Female,BNU_2,corr
-,,25977,,BNU_2,corr
-21.8,,25978,Female,BNU_2,corr
-,,25978,,BNU_2,corr
-21.1,,25979,Male,BNU_2,corr
-,,25979,,BNU_2,corr
-19.5,,25980,Male,BNU_2,corr
-,,25980,,BNU_2,corr
-21.3,,25981,Female,BNU_2,corr
-,,25981,,BNU_2,corr
-23,,27065,Female,BNU_3,corr
-23,,27065,Female,BNU_3,corr
-23,,27065,Female,BNU_3,corr
-18,,27069,Male,BNU_3,corr
-18,,27069,Male,BNU_3,corr
-18,,27069,Male,BNU_3,corr
-23,,27082,Female,BNU_3,corr
-23,,27082,Female,BNU_3,corr
-23,,27082,Female,BNU_3,corr
-22,,27086,Male,BNU_3,corr
-22,,27086,Male,BNU_3,corr
-22,,27086,Male,BNU_3,corr
-23,,27096,Male,BNU_3,corr
-23,,27096,Male,BNU_3,corr
-23,,27096,Male,BNU_3,corr
-21,,27064,Female,BNU_3,corr
-21,,27064,Female,BNU_3,corr
-21,,27064,Female,BNU_3,corr
-24,,27067,Male,BNU_3,corr
-24,,27067,Male,BNU_3,corr
-24,,27067,Male,BNU_3,corr
-24,,27074,Female,BNU_3,corr
-24,,27074,Female,BNU_3,corr
-24,,27074,Female,BNU_3,corr
-23,,27073,Male,BNU_3,corr
-23,,27073,Male,BNU_3,corr
-23,,27073,Male,BNU_3,corr
-20,,27062,Female,BNU_3,corr
-20,,27062,Female,BNU_3,corr
-20,,27062,Female,BNU_3,corr
-20,,27088,Female,BNU_3,corr
-20,,27088,Female,BNU_3,corr
-20,,27088,Female,BNU_3,corr
-24,,27058,Female,BNU_3,corr
-24,,27058,Female,BNU_3,corr
-24,,27058,Female,BNU_3,corr
-21,,27071,Female,BNU_3,corr
-21,,27071,Female,BNU_3,corr
-21,,27071,Female,BNU_3,corr
-23,,27100,Female,BNU_3,corr
-23,,27100,Female,BNU_3,corr
-23,,27100,Female,BNU_3,corr
-23,,27093,Female,BNU_3,corr
-23,,27093,Female,BNU_3,corr
-23,,27093,Female,BNU_3,corr
-23,,27059,Female,BNU_3,corr
-23,,27059,Female,BNU_3,corr
-23,,27059,Female,BNU_3,corr
-23,,27090,Female,BNU_3,corr
-23,,27090,Female,BNU_3,corr
-23,,27090,Female,BNU_3,corr
-23,,27068,Female,BNU_3,corr
-23,,27068,Female,BNU_3,corr
-23,,27068,Female,BNU_3,corr
-23,,27081,Female,BNU_3,corr
-23,,27081,Female,BNU_3,corr
-23,,27081,Female,BNU_3,corr
-20,,27056,Female,BNU_3,corr
-20,,27056,Female,BNU_3,corr
-20,,27056,Female,BNU_3,corr
-23,,27066,Female,BNU_3,corr
-23,,27066,Female,BNU_3,corr
-23,,27066,Female,BNU_3,corr
-20,,27060,Female,BNU_3,corr
-20,,27060,Female,BNU_3,corr
-20,,27060,Female,BNU_3,corr
-25,,27089,Male,BNU_3,corr
-25,,27089,Male,BNU_3,corr
-25,,27089,Male,BNU_3,corr
-24,,27083,Male,BNU_3,corr
-24,,27083,Male,BNU_3,corr
-24,,27083,Male,BNU_3,corr
-30,,27061,Male,BNU_3,corr
-30,,27061,Male,BNU_3,corr
-30,,27061,Male,BNU_3,corr
-23,,27078,Female,BNU_3,corr
-23,,27078,Female,BNU_3,corr
-23,,27078,Female,BNU_3,corr
-21,,27079,Female,BNU_3,corr
-21,,27079,Female,BNU_3,corr
-21,,27079,Female,BNU_3,corr
-23,,27101,Male,BNU_3,corr
-23,,27101,Male,BNU_3,corr
-23,,27101,Male,BNU_3,corr
-24,,27063,Male,BNU_3,corr
-24,,27063,Male,BNU_3,corr
-24,,27063,Male,BNU_3,corr
-23,,27085,Male,BNU_3,corr
-23,,27085,Male,BNU_3,corr
-23,,27085,Male,BNU_3,corr
-23,,27075,Male,BNU_3,corr
-23,,27075,Male,BNU_3,corr
-23,,27075,Male,BNU_3,corr
-21,,27095,Male,BNU_3,corr
-21,,27095,Male,BNU_3,corr
-21,,27095,Male,BNU_3,corr
-29,,27076,Female,BNU_3,corr
-29,,27076,Female,BNU_3,corr
-29,,27076,Female,BNU_3,corr
-22,,27055,Male,BNU_3,corr
-22,,27055,Male,BNU_3,corr
-22,,27055,Male,BNU_3,corr
-24,,27098,Male,BNU_3,corr
-24,,27098,Male,BNU_3,corr
-24,,27098,Male,BNU_3,corr
-22,,27077,Male,BNU_3,corr
-22,,27077,Male,BNU_3,corr
-22,,27077,Male,BNU_3,corr
-22,,27094,Male,BNU_3,corr
-22,,27094,Male,BNU_3,corr
-22,,27094,Male,BNU_3,corr
-23,,27087,Male,BNU_3,corr
-23,,27087,Male,BNU_3,corr
-23,,27087,Male,BNU_3,corr
-24,,27097,Male,BNU_3,corr
-24,,27097,Male,BNU_3,corr
-24,,27097,Male,BNU_3,corr
-23,,27091,Male,BNU_3,corr
-23,,27091,Male,BNU_3,corr
-23,,27091,Male,BNU_3,corr
-21,,27099,Female,BNU_3,corr
-21,,27099,Female,BNU_3,corr
-21,,27099,Female,BNU_3,corr
-20,,27102,Male,BNU_3,corr
-20,,27102,Male,BNU_3,corr
-20,,27102,Male,BNU_3,corr
-22,,27080,Male,BNU_3,corr
-22,,27080,Male,BNU_3,corr
-22,,27080,Male,BNU_3,corr
-20,,27057,Female,BNU_3,corr
-20,,27057,Female,BNU_3,corr
-20,,27057,Female,BNU_3,corr
-19,,27092,Male,BNU_3,corr
-19,,27092,Male,BNU_3,corr
-19,,27092,Male,BNU_3,corr
-25,,27084,Female,BNU_3,corr
-25,,27084,Female,BNU_3,corr
-25,,27084,Female,BNU_3,corr
-21,,27072,Female,BNU_3,corr
-21,,27072,Female,BNU_3,corr
-21,,27072,Female,BNU_3,corr
-21,,27070,Male,BNU_3,corr
-21,,27070,Male,BNU_3,corr
-21,,27070,Male,BNU_3,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-23,,25427,Male,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-28,,25428,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-24,,25441,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-27,,25442,Female,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-25,,25443,Male,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-27,,25444,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-23,,25445,Female,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-30,,25446,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-26,,25447,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-23,,25448,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-22,,25449,Male,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-25,,25450,Female,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25451,Male,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-22,,25452,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25453,Female,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-26,,25454,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-25,,25455,Male,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-22,,25456,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-23,,25429,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-20,,25430,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-25,,25431,Female,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-21,,25432,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-22,,25433,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-24,,25434,Male,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-30,,25435,Female,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-25,,25436,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-24,,25437,Male,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-23,,25438,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25439,Female,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
-24,,25440,Male,HNU_1,corr
+25.13,right handed,3001,Male,BMB,corr
+25.13,right handed,3001,Male,BMB,corr
+23.96,right handed,3002,Female,BMB,corr
+23.96,right handed,3002,Female,BMB,corr
+31.15,right handed,3004,Male,BMB,corr
+31.15,right handed,3004,Male,BMB,corr
+23,right handed,3006,Female,BMB,corr
+23,right handed,3006,Female,BMB,corr
+43.53,right handed,3007,Male,BMB,corr
+43.53,right handed,3007,Male,BMB,corr
+26.87,right handed,3008,Female,BMB,corr
+26.87,right handed,3008,Female,BMB,corr
+33.82,right handed,3009,Male,BMB,corr
+33.82,right handed,3009,Male,BMB,corr
+27.02,right handed,3010,Female,BMB,corr
+27.02,right handed,3010,Female,BMB,corr
+24.37,right handed,3011,Female,BMB,corr
+24.37,right handed,3011,Female,BMB,corr
+33.59,right handed,3012,Male,BMB,corr
+33.59,right handed,3012,Male,BMB,corr
+26.06,right handed,3013,Female,BMB,corr
+26.06,right handed,3013,Female,BMB,corr
+28.27,right handed,3014,Male,BMB,corr
+28.27,right handed,3014,Male,BMB,corr
+26.64,right handed,3015,Female,BMB,corr
+26.64,right handed,3015,Female,BMB,corr
+28.46,right handed,3016,Male,BMB,corr
+28.46,right handed,3016,Male,BMB,corr
+26.58,right handed,3017,Male,BMB,corr
+26.58,right handed,3017,Male,BMB,corr
+26.78,right handed,3018,Female,BMB,corr
+26.78,right handed,3018,Female,BMB,corr
+31.25,right handed,3020,Male,BMB,corr
+31.25,right handed,3020,Male,BMB,corr
+37.42,right handed,3021,Female,BMB,corr
+37.42,right handed,3021,Female,BMB,corr
+38.01,right handed,3022,Male,BMB,corr
+38.01,right handed,3022,Male,BMB,corr
+32.3,right handed,3023,Female,BMB,corr
+32.3,right handed,3023,Female,BMB,corr
+39.04,right handed,3024,Male,BMB,corr
+39.04,right handed,3024,Male,BMB,corr
+28.44,right handed,3025,Female,BMB,corr
+28.44,right handed,3025,Female,BMB,corr
+29.34,right handed,3026,Female,BMB,corr
+29.34,right handed,3026,Female,BMB,corr
+33.28,right handed,3032,Female,BMB,corr
+33.28,right handed,3032,Female,BMB,corr
+32.52,right handed,3033,Male,BMB,corr
+32.52,right handed,3033,Male,BMB,corr
+31.59,right handed,3034,Female,BMB,corr
+31.59,right handed,3034,Female,BMB,corr
+30.3,right handed,3036,Female,BMB,corr
+30.3,right handed,3036,Female,BMB,corr
+59.73,right handed,3037,Female,BMB,corr
+59.73,right handed,3037,Female,BMB,corr
+34.72,right handed,3038,Male,BMB,corr
+34.72,right handed,3038,Male,BMB,corr
+22.99,right handed,3039,Female,BMB,corr
+22.99,right handed,3039,Female,BMB,corr
+36.25,left handed,3040,Male,BMB,corr
+36.25,left handed,3040,Male,BMB,corr
+23.96,right handed,3041,Female,BMB,corr
+23.96,right handed,3041,Female,BMB,corr
+35.18,right handed,3042,Male,BMB,corr
+35.18,right handed,3042,Male,BMB,corr
+30.95,right handed,3044,Male,BMB,corr
+30.95,right handed,3044,Male,BMB,corr
+42.63,right handed,3045,Female,BMB,corr
+42.63,right handed,3045,Female,BMB,corr
+32.63,right handed,3047,Male,BMB,corr
+32.63,right handed,3047,Male,BMB,corr
+30.31,right handed,3049,Male,BMB,corr
+30.31,right handed,3049,Male,BMB,corr
+49.37,right handed,3050,Female,BMB,corr
+49.37,right handed,3050,Female,BMB,corr
+23.62,right handed,3051,Male,BMB,corr
+23.62,right handed,3051,Male,BMB,corr
+23.62,right handed,3051,Male,BMB,corr
+23.62,right handed,3051,Male,BMB,corr
+28.57,right handed,3052,Female,BMB,corr
+28.57,right handed,3052,Female,BMB,corr
+28.57,right handed,3052,Female,BMB,corr
+28.57,right handed,3052,Female,BMB,corr
+27.71,right handed,3054,Male,BMB,corr
+27.71,right handed,3054,Male,BMB,corr
+27.71,right handed,3054,Male,BMB,corr
+27.71,right handed,3054,Male,BMB,corr
+29.95,right handed,3055,Male,BMB,corr
+29.95,right handed,3055,Male,BMB,corr
+29.95,right handed,3055,Male,BMB,corr
+29.95,right handed,3055,Male,BMB,corr
+29.78,right handed,3056,Male,BMB,corr
+29.78,right handed,3056,Male,BMB,corr
+29.78,right handed,3056,Male,BMB,corr
+29.78,right handed,3056,Male,BMB,corr
+19.96,right handed,3057,Male,BMB,corr
+19.96,right handed,3057,Male,BMB,corr
+19.96,right handed,3057,Male,BMB,corr
+19.96,right handed,3057,Male,BMB,corr
+30.66,right handed,3059,Female,BMB,corr
+30.66,right handed,3059,Female,BMB,corr
+30.66,right handed,3059,Female,BMB,corr
+30.66,right handed,3059,Female,BMB,corr
+30.44,left handed,3060,Female,BMB,corr
+30.44,left handed,3060,Female,BMB,corr
+24.88,right handed,3061,Female,BMB,corr
+24.88,right handed,3061,Female,BMB,corr
+27.1,right handed,3062,Male,BMB,corr
+27.1,right handed,3062,Male,BMB,corr
+27.1,right handed,3062,Male,BMB,corr
+27.1,right handed,3062,Male,BMB,corr
+22.34,right handed,3063,Female,BMB,corr
+22.34,right handed,3063,Female,BMB,corr
+22.34,right handed,3063,Female,BMB,corr
+22.34,right handed,3063,Female,BMB,corr
+28.85,right handed,3064,Female,BMB,corr
+28.85,right handed,3064,Female,BMB,corr
+28.85,right handed,3064,Female,BMB,corr
+28.85,right handed,3064,Female,BMB,corr
+22,,25864,Male,BNU,corr
+,,25864,,BNU,corr
+24,,25865,Male,BNU,corr
+,,25865,,BNU,corr
+27,,25866,Male,BNU,corr
+,,25866,,BNU,corr
+22,,25867,Male,BNU,corr
+,,25867,,BNU,corr
+27,,25868,Male,BNU,corr
+,,25868,,BNU,corr
+22,,25869,Female,BNU,corr
+,,25869,,BNU,corr
+23,,25870,Male,BNU,corr
+,,25870,,BNU,corr
+22,,25871,Male,BNU,corr
+,,25871,,BNU,corr
+22,,25872,Male,BNU,corr
+,,25872,,BNU,corr
+26,,25873,Female,BNU,corr
+,,25873,,BNU,corr
+24,,25874,Female,BNU,corr
+,,25874,,BNU,corr
+30,,25875,Female,BNU,corr
+,,25875,,BNU,corr
+25,,25876,Male,BNU,corr
+,,25876,,BNU,corr
+20,,25877,Male,BNU,corr
+,,25877,,BNU,corr
+23,,25878,Male,BNU,corr
+,,25878,,BNU,corr
+23,,25879,Male,BNU,corr
+,,25879,,BNU,corr
+24,,25880,Male,BNU,corr
+,,25880,,BNU,corr
+21,,25881,Male,BNU,corr
+,,25881,,BNU,corr
+22,,25882,Female,BNU,corr
+,,25882,,BNU,corr
+21,,25883,Male,BNU,corr
+,,25883,,BNU,corr
+24,,25884,Male,BNU,corr
+,,25884,,BNU,corr
+22,,25885,Female,BNU,corr
+,,25885,,BNU,corr
+24,,25886,Female,BNU,corr
+,,25886,,BNU,corr
+27,,25887,Male,BNU,corr
+,,25887,,BNU,corr
+25,,25888,Male,BNU,corr
+,,25888,,BNU,corr
+26,,25889,Female,BNU,corr
+,,25889,,BNU,corr
+21,,25890,Male,BNU,corr
+,,25890,,BNU,corr
+19,,25891,Female,BNU,corr
+,,25891,,BNU,corr
+23,,25892,Female,BNU,corr
+,,25892,,BNU,corr
+26,,25893,Male,BNU,corr
+,,25893,,BNU,corr
+21,,25894,Female,BNU,corr
+,,25894,,BNU,corr
+24,,25895,Male,BNU,corr
+,,25895,,BNU,corr
+21,,25896,Female,BNU,corr
+,,25896,,BNU,corr
+23,,25897,Female,BNU,corr
+,,25897,,BNU,corr
+22,,25898,Female,BNU,corr
+,,25898,,BNU,corr
+21,,25899,Male,BNU,corr
+,,25899,,BNU,corr
+20,,25900,Female,BNU,corr
+,,25900,,BNU,corr
+22,,25901,Female,BNU,corr
+,,25901,,BNU,corr
+22,,25902,Female,BNU,corr
+,,25902,,BNU,corr
+22,,25903,Female,BNU,corr
+,,25903,,BNU,corr
+19,,25904,Female,BNU,corr
+,,25904,,BNU,corr
+27,,25905,Male,BNU,corr
+,,25905,,BNU,corr
+24,,25906,Female,BNU,corr
+,,25906,,BNU,corr
+24,,25907,Male,BNU,corr
+,,25907,,BNU,corr
+23,,25908,Male,BNU,corr
+,,25908,,BNU,corr
+25,,25909,Female,BNU,corr
+,,25909,,BNU,corr
+23,,25910,Female,BNU,corr
+,,25910,,BNU,corr
+19,,25911,Female,BNU,corr
+,,25911,,BNU,corr
+21,,25912,Male,BNU,corr
+,,25912,,BNU,corr
+21,,25913,Female,BNU,corr
+,,25913,,BNU,corr
+27,,25914,Female,BNU,corr
+,,25914,,BNU,corr
+22,,25915,Male,BNU,corr
+,,25915,,BNU,corr
+23,,25916,Male,BNU,corr
+,,25916,,BNU,corr
+22,,25917,Female,BNU,corr
+,,25917,,BNU,corr
+23,,25918,Male,BNU,corr
+,,25918,,BNU,corr
+25,,25919,Male,BNU,corr
+,,25919,,BNU,corr
+21,,25920,Female,BNU,corr
+,,25920,,BNU,corr
+20.7,,25921,Female,BNU,corr
+,,25921,,BNU,corr
+21.7,,25922,Female,BNU,corr
+,,25922,,BNU,corr
+22.5,,25923,Female,BNU,corr
+,,25923,,BNU,corr
+21,,25924,Female,BNU,corr
+,,25924,,BNU,corr
+21.2,,25925,Female,BNU,corr
+,,25925,,BNU,corr
+22.2,,25926,Male,BNU,corr
+,,25926,,BNU,corr
+20.8,,25927,Male,BNU,corr
+,,25927,,BNU,corr
+20.2,,25928,Male,BNU,corr
+,,25928,,BNU,corr
+20.1,,25929,Male,BNU,corr
+,,25929,,BNU,corr
+22.3,,25930,Male,BNU,corr
+,,25930,,BNU,corr
+21.3,,25931,Male,BNU,corr
+,,25931,,BNU,corr
+20.9,,25932,Male,BNU,corr
+,,25932,,BNU,corr
+21.6,,25933,Female,BNU,corr
+,,25933,,BNU,corr
+20.9,,25934,Male,BNU,corr
+,,25934,,BNU,corr
+22,,25935,Male,BNU,corr
+,,25935,,BNU,corr
+22.5,,25936,Male,BNU,corr
+,,25936,,BNU,corr
+21.7,,25937,Male,BNU,corr
+,,25937,,BNU,corr
+21.8,,25938,Male,BNU,corr
+,,25938,,BNU,corr
+20.4,,25939,Male,BNU,corr
+,,25939,,BNU,corr
+20.8,,25940,Male,BNU,corr
+,,25940,,BNU,corr
+23.3,,25941,Female,BNU,corr
+,,25941,,BNU,corr
+21,,25942,Female,BNU,corr
+,,25942,,BNU,corr
+22.9,,25943,Female,BNU,corr
+,,25943,,BNU,corr
+21.3,,25944,Female,BNU,corr
+,,25944,,BNU,corr
+19.3,,25945,Female,BNU,corr
+,,25945,,BNU,corr
+19.8,,25946,Male,BNU,corr
+,,25946,,BNU,corr
+21.3,,25947,Male,BNU,corr
+,,25947,,BNU,corr
+21.5,,25948,Female,BNU,corr
+,,25948,,BNU,corr
+20.4,,25949,Female,BNU,corr
+,,25949,,BNU,corr
+21.7,,25950,Female,BNU,corr
+,,25950,,BNU,corr
+21.5,,25951,Female,BNU,corr
+,,25951,,BNU,corr
+19.8,,25952,Female,BNU,corr
+,,25952,,BNU,corr
+21.1,,25953,Female,BNU,corr
+,,25953,,BNU,corr
+22.7,,25954,Female,BNU,corr
+,,25954,,BNU,corr
+19.5,,25955,Male,BNU,corr
+,,25955,,BNU,corr
+21.4,,25956,Male,BNU,corr
+,,25956,,BNU,corr
+21.1,,25957,Male,BNU,corr
+,,25957,,BNU,corr
+20.1,,25958,Male,BNU,corr
+,,25958,,BNU,corr
+21.3,,25959,Male,BNU,corr
+,,25959,,BNU,corr
+21.1,,25960,Male,BNU,corr
+,,25960,,BNU,corr
+21.8,,25961,Male,BNU,corr
+,,25961,,BNU,corr
+21.8,,25962,Male,BNU,corr
+,,25962,,BNU,corr
+21.6,,25963,Male,BNU,corr
+,,25963,,BNU,corr
+22,,25964,Male,BNU,corr
+,,25964,,BNU,corr
+21.4,,25965,Male,BNU,corr
+,,25965,,BNU,corr
+22,,25966,Male,BNU,corr
+,,25966,,BNU,corr
+21.6,,25967,Female,BNU,corr
+,,25967,,BNU,corr
+21.3,,25968,Male,BNU,corr
+,,25968,,BNU,corr
+21.8,,25969,Male,BNU,corr
+,,25969,,BNU,corr
+21.2,,25970,Female,BNU,corr
+,,25970,,BNU,corr
+20.5,,25971,Female,BNU,corr
+,,25971,,BNU,corr
+21.4,,25972,Female,BNU,corr
+,,25972,,BNU,corr
+22.2,,25973,Female,BNU,corr
+,,25973,,BNU,corr
+21.7,,25974,Male,BNU,corr
+,,25974,,BNU,corr
+21.6,,25975,Female,BNU,corr
+,,25975,,BNU,corr
+21.3,,25976,Female,BNU,corr
+,,25976,,BNU,corr
+23.1,,25977,Female,BNU,corr
+,,25977,,BNU,corr
+21.8,,25978,Female,BNU,corr
+,,25978,,BNU,corr
+21.1,,25979,Male,BNU,corr
+,,25979,,BNU,corr
+19.5,,25980,Male,BNU,corr
+,,25980,,BNU,corr
+21.3,,25981,Female,BNU,corr
+,,25981,,BNU,corr
+23,,27065,Female,BNU,corr
+23,,27065,Female,BNU,corr
+23,,27065,Female,BNU,corr
+18,,27069,Male,BNU,corr
+18,,27069,Male,BNU,corr
+18,,27069,Male,BNU,corr
+23,,27082,Female,BNU,corr
+23,,27082,Female,BNU,corr
+23,,27082,Female,BNU,corr
+22,,27086,Male,BNU,corr
+22,,27086,Male,BNU,corr
+22,,27086,Male,BNU,corr
+23,,27096,Male,BNU,corr
+23,,27096,Male,BNU,corr
+23,,27096,Male,BNU,corr
+21,,27064,Female,BNU,corr
+21,,27064,Female,BNU,corr
+21,,27064,Female,BNU,corr
+24,,27067,Male,BNU,corr
+24,,27067,Male,BNU,corr
+24,,27067,Male,BNU,corr
+24,,27074,Female,BNU,corr
+24,,27074,Female,BNU,corr
+24,,27074,Female,BNU,corr
+23,,27073,Male,BNU,corr
+23,,27073,Male,BNU,corr
+23,,27073,Male,BNU,corr
+20,,27062,Female,BNU,corr
+20,,27062,Female,BNU,corr
+20,,27062,Female,BNU,corr
+20,,27088,Female,BNU,corr
+20,,27088,Female,BNU,corr
+20,,27088,Female,BNU,corr
+24,,27058,Female,BNU,corr
+24,,27058,Female,BNU,corr
+24,,27058,Female,BNU,corr
+21,,27071,Female,BNU,corr
+21,,27071,Female,BNU,corr
+21,,27071,Female,BNU,corr
+23,,27100,Female,BNU,corr
+23,,27100,Female,BNU,corr
+23,,27100,Female,BNU,corr
+23,,27093,Female,BNU,corr
+23,,27093,Female,BNU,corr
+23,,27093,Female,BNU,corr
+23,,27059,Female,BNU,corr
+23,,27059,Female,BNU,corr
+23,,27059,Female,BNU,corr
+23,,27090,Female,BNU,corr
+23,,27090,Female,BNU,corr
+23,,27090,Female,BNU,corr
+23,,27068,Female,BNU,corr
+23,,27068,Female,BNU,corr
+23,,27068,Female,BNU,corr
+23,,27081,Female,BNU,corr
+23,,27081,Female,BNU,corr
+23,,27081,Female,BNU,corr
+20,,27056,Female,BNU,corr
+20,,27056,Female,BNU,corr
+20,,27056,Female,BNU,corr
+23,,27066,Female,BNU,corr
+23,,27066,Female,BNU,corr
+23,,27066,Female,BNU,corr
+20,,27060,Female,BNU,corr
+20,,27060,Female,BNU,corr
+20,,27060,Female,BNU,corr
+25,,27089,Male,BNU,corr
+25,,27089,Male,BNU,corr
+25,,27089,Male,BNU,corr
+24,,27083,Male,BNU,corr
+24,,27083,Male,BNU,corr
+24,,27083,Male,BNU,corr
+30,,27061,Male,BNU,corr
+30,,27061,Male,BNU,corr
+30,,27061,Male,BNU,corr
+23,,27078,Female,BNU,corr
+23,,27078,Female,BNU,corr
+23,,27078,Female,BNU,corr
+21,,27079,Female,BNU,corr
+21,,27079,Female,BNU,corr
+21,,27079,Female,BNU,corr
+23,,27101,Male,BNU,corr
+23,,27101,Male,BNU,corr
+23,,27101,Male,BNU,corr
+24,,27063,Male,BNU,corr
+24,,27063,Male,BNU,corr
+24,,27063,Male,BNU,corr
+23,,27085,Male,BNU,corr
+23,,27085,Male,BNU,corr
+23,,27085,Male,BNU,corr
+23,,27075,Male,BNU,corr
+23,,27075,Male,BNU,corr
+23,,27075,Male,BNU,corr
+21,,27095,Male,BNU,corr
+21,,27095,Male,BNU,corr
+21,,27095,Male,BNU,corr
+29,,27076,Female,BNU,corr
+29,,27076,Female,BNU,corr
+29,,27076,Female,BNU,corr
+22,,27055,Male,BNU,corr
+22,,27055,Male,BNU,corr
+22,,27055,Male,BNU,corr
+24,,27098,Male,BNU,corr
+24,,27098,Male,BNU,corr
+24,,27098,Male,BNU,corr
+22,,27077,Male,BNU,corr
+22,,27077,Male,BNU,corr
+22,,27077,Male,BNU,corr
+22,,27094,Male,BNU,corr
+22,,27094,Male,BNU,corr
+22,,27094,Male,BNU,corr
+23,,27087,Male,BNU,corr
+23,,27087,Male,BNU,corr
+23,,27087,Male,BNU,corr
+24,,27097,Male,BNU,corr
+24,,27097,Male,BNU,corr
+24,,27097,Male,BNU,corr
+23,,27091,Male,BNU,corr
+23,,27091,Male,BNU,corr
+23,,27091,Male,BNU,corr
+21,,27099,Female,BNU,corr
+21,,27099,Female,BNU,corr
+21,,27099,Female,BNU,corr
+20,,27102,Male,BNU,corr
+20,,27102,Male,BNU,corr
+20,,27102,Male,BNU,corr
+22,,27080,Male,BNU,corr
+22,,27080,Male,BNU,corr
+22,,27080,Male,BNU,corr
+20,,27057,Female,BNU,corr
+20,,27057,Female,BNU,corr
+20,,27057,Female,BNU,corr
+19,,27092,Male,BNU,corr
+19,,27092,Male,BNU,corr
+19,,27092,Male,BNU,corr
+25,,27084,Female,BNU,corr
+25,,27084,Female,BNU,corr
+25,,27084,Female,BNU,corr
+21,,27072,Female,BNU,corr
+21,,27072,Female,BNU,corr
+21,,27072,Female,BNU,corr
+21,,27070,Male,BNU,corr
+21,,27070,Male,BNU,corr
+21,,27070,Male,BNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+23,,25427,Male,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+28,,25428,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+24,,25441,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+27,,25442,Female,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+25,,25443,Male,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+27,,25444,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+23,,25445,Female,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+30,,25446,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+26,,25447,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+23,,25448,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+22,,25449,Male,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+25,,25450,Female,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25451,Male,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+22,,25452,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25453,Female,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+26,,25454,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+25,,25455,Male,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+22,,25456,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+23,,25429,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+20,,25430,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+25,,25431,Female,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+21,,25432,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+22,,25433,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+24,,25434,Male,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+30,,25435,Female,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+25,,25436,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+24,,25437,Male,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+23,,25438,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25439,Female,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
+24,,25440,Male,HNU,corr
 24,,25457,Female,IACAS,corr
 24,,25457,Female,IACAS,corr
 24,,25458,Male,IACAS,corr
@@ -905,2550 +905,2550 @@ age,handedness,participant_id,sex,site_id,project
 ,,27256,Male,IBATRT,corr
 40,,27257,Female,IBATRT,corr
 21,,27258,Male,IBATRT,corr
-23,,25485,Female,IPCAS_1,corr
-,,25485,,IPCAS_1,corr
-,,25485,,IPCAS_1,corr
-,,25485,,IPCAS_1,corr
-22,,25486,Male,IPCAS_1,corr
-,,25486,,IPCAS_1,corr
-,,25486,,IPCAS_1,corr
-,,25486,,IPCAS_1,corr
-18,,25487,Female,IPCAS_1,corr
-,,25487,,IPCAS_1,corr
-,,25487,,IPCAS_1,corr
-,,25487,,IPCAS_1,corr
-21,,25488,Male,IPCAS_1,corr
-,,25488,,IPCAS_1,corr
-,,25488,,IPCAS_1,corr
-,,25488,,IPCAS_1,corr
-23,,25489,Female,IPCAS_1,corr
-,,25489,,IPCAS_1,corr
-,,25489,,IPCAS_1,corr
-,,25489,,IPCAS_1,corr
-24,,25490,Male,IPCAS_1,corr
-,,25490,,IPCAS_1,corr
-,,25490,,IPCAS_1,corr
-,,25490,,IPCAS_1,corr
-20,,25491,Male,IPCAS_1,corr
-,,25491,,IPCAS_1,corr
-,,25491,,IPCAS_1,corr
-,,25491,,IPCAS_1,corr
-22,,25492,Female,IPCAS_1,corr
-,,25492,,IPCAS_1,corr
-,,25492,,IPCAS_1,corr
-,,25492,,IPCAS_1,corr
-18,,25493,Female,IPCAS_1,corr
-,,25493,,IPCAS_1,corr
-,,25493,,IPCAS_1,corr
-,,25493,,IPCAS_1,corr
-20,,25494,Female,IPCAS_1,corr
-,,25494,,IPCAS_1,corr
-,,25494,,IPCAS_1,corr
-,,25494,,IPCAS_1,corr
-19,,25495,Female,IPCAS_1,corr
-,,25495,,IPCAS_1,corr
-,,25495,,IPCAS_1,corr
-,,25495,,IPCAS_1,corr
-22,,25496,Female,IPCAS_1,corr
-,,25496,,IPCAS_1,corr
-,,25496,,IPCAS_1,corr
-,,25496,,IPCAS_1,corr
-19,,25497,Female,IPCAS_1,corr
-,,25497,,IPCAS_1,corr
-,,25497,,IPCAS_1,corr
-,,25497,,IPCAS_1,corr
-23,,25498,Male,IPCAS_1,corr
-,,25498,,IPCAS_1,corr
-,,25498,,IPCAS_1,corr
-,,25498,,IPCAS_1,corr
-20,,25499,Female,IPCAS_1,corr
-,,25499,,IPCAS_1,corr
-,,25499,,IPCAS_1,corr
-,,25499,,IPCAS_1,corr
-18,,25500,Female,IPCAS_1,corr
-,,25500,,IPCAS_1,corr
-,,25500,,IPCAS_1,corr
-,,25500,,IPCAS_1,corr
-22,,25501,Male,IPCAS_1,corr
-,,25501,,IPCAS_1,corr
-,,25501,,IPCAS_1,corr
-,,25501,,IPCAS_1,corr
-21,,25502,Female,IPCAS_1,corr
-,,25502,,IPCAS_1,corr
-,,25502,,IPCAS_1,corr
-,,25502,,IPCAS_1,corr
-20,,25503,Female,IPCAS_1,corr
-,,25503,,IPCAS_1,corr
-,,25503,,IPCAS_1,corr
-,,25503,,IPCAS_1,corr
-20,,25504,Female,IPCAS_1,corr
-,,25504,,IPCAS_1,corr
-,,25504,,IPCAS_1,corr
-,,25504,,IPCAS_1,corr
-21,,25505,Female,IPCAS_1,corr
-,,25505,,IPCAS_1,corr
-,,25505,,IPCAS_1,corr
-,,25505,,IPCAS_1,corr
-22,,25506,Male,IPCAS_1,corr
-,,25506,,IPCAS_1,corr
-,,25506,,IPCAS_1,corr
-,,25506,,IPCAS_1,corr
-23,,25507,Female,IPCAS_1,corr
-,,25507,,IPCAS_1,corr
-,,25507,,IPCAS_1,corr
-,,25507,,IPCAS_1,corr
-20,,25508,Female,IPCAS_1,corr
-,,25508,,IPCAS_1,corr
-,,25508,,IPCAS_1,corr
-,,25508,,IPCAS_1,corr
-23,,25509,Male,IPCAS_1,corr
-,,25509,,IPCAS_1,corr
-,,25509,,IPCAS_1,corr
-,,25509,,IPCAS_1,corr
-20,,25510,Female,IPCAS_1,corr
-,,25510,,IPCAS_1,corr
-,,25510,,IPCAS_1,corr
-,,25510,,IPCAS_1,corr
-20,,25511,Female,IPCAS_1,corr
-,,25511,,IPCAS_1,corr
-,,25511,,IPCAS_1,corr
-,,25511,,IPCAS_1,corr
-20,,25512,Female,IPCAS_1,corr
-,,25512,,IPCAS_1,corr
-,,25512,,IPCAS_1,corr
-,,25512,,IPCAS_1,corr
-19,,25513,Male,IPCAS_1,corr
-,,25513,,IPCAS_1,corr
-,,25513,,IPCAS_1,corr
-,,25513,,IPCAS_1,corr
-24,,25514,Female,IPCAS_1,corr
-,,25514,,IPCAS_1,corr
-,,25514,,IPCAS_1,corr
-,,25514,,IPCAS_1,corr
-12,,25515,Female,IPCAS_2,corr
-12,,25515,Female,IPCAS_2,corr
-13,,25516,Male,IPCAS_2,corr
-14,,25516,Male,IPCAS_2,corr
-13,,25517,Female,IPCAS_2,corr
-13,,25517,Female,IPCAS_2,corr
-12,,25518,Male,IPCAS_2,corr
-12,,25518,Male,IPCAS_2,corr
-13,,25519,Female,IPCAS_2,corr
-13,,25519,Female,IPCAS_2,corr
-13,,25520,Female,IPCAS_2,corr
-13,,25520,Female,IPCAS_2,corr
-14,,25521,Female,IPCAS_2,corr
-14,,25521,Female,IPCAS_2,corr
-12,,25522,Female,IPCAS_2,corr
-13,,25522,Female,IPCAS_2,corr
-13,,25523,Male,IPCAS_2,corr
-13,,25523,Male,IPCAS_2,corr
-12,,25524,Female,IPCAS_2,corr
-12,,25524,Female,IPCAS_2,corr
-13,,25525,Female,IPCAS_2,corr
-13,,25525,Female,IPCAS_2,corr
-15,,25526,Male,IPCAS_2,corr
-15,,25526,Male,IPCAS_2,corr
-14,,25527,Male,IPCAS_2,corr
-14,,25527,Male,IPCAS_2,corr
-12,,25528,Female,IPCAS_2,corr
-12,,25528,Female,IPCAS_2,corr
-13,,25529,Female,IPCAS_2,corr
-13,,25529,Female,IPCAS_2,corr
-13,,25530,Female,IPCAS_2,corr
-13,,25530,Female,IPCAS_2,corr
-13,,25531,Male,IPCAS_2,corr
-13,,25531,Male,IPCAS_2,corr
-13,,25532,Female,IPCAS_2,corr
-13,,25532,Female,IPCAS_2,corr
-12,,25533,Female,IPCAS_2,corr
-12,,25533,Female,IPCAS_2,corr
-13,,25534,Male,IPCAS_2,corr
-13,,25534,Male,IPCAS_2,corr
-11,,25535,Female,IPCAS_2,corr
-11,,25535,Female,IPCAS_2,corr
-13,,25536,Male,IPCAS_2,corr
-13,,25536,Male,IPCAS_2,corr
-15,,25537,Female,IPCAS_2,corr
-15,,25537,Female,IPCAS_2,corr
-14,,25538,Female,IPCAS_2,corr
-14,,25538,Female,IPCAS_2,corr
-14,,25539,Female,IPCAS_2,corr
-14,,25539,Female,IPCAS_2,corr
-14,,25540,Female,IPCAS_2,corr
-14,,25540,Female,IPCAS_2,corr
-14,,25541,Female,IPCAS_2,corr
-14,,25541,Female,IPCAS_2,corr
-14,,25542,Female,IPCAS_2,corr
-14,,25542,Female,IPCAS_2,corr
-13,,25543,Female,IPCAS_2,corr
-13,,25543,Female,IPCAS_2,corr
-15,,25544,Female,IPCAS_2,corr
-15,,25544,Female,IPCAS_2,corr
-14,,25546,Male,IPCAS_2,corr
-14,,25546,Male,IPCAS_2,corr
-14,,25547,Male,IPCAS_2,corr
-14,,25547,Male,IPCAS_2,corr
-15,,25548,Male,IPCAS_2,corr
-15,,25548,Male,IPCAS_2,corr
-14,,25549,Male,IPCAS_2,corr
-14,,25549,Male,IPCAS_2,corr
-20,,25550,Female,IPCAS_3,corr
-,,25550,,IPCAS_3,corr
-21,,25551,Female,IPCAS_3,corr
-,,25551,,IPCAS_3,corr
-22,,25552,Female,IPCAS_3,corr
-,,25552,,IPCAS_3,corr
-24,,25553,Male,IPCAS_3,corr
-,,25553,,IPCAS_3,corr
-20,,25554,Female,IPCAS_3,corr
-,,25554,,IPCAS_3,corr
-21,,25555,Male,IPCAS_3,corr
-,,25555,,IPCAS_3,corr
-18,,25556,Female,IPCAS_3,corr
-,,25556,,IPCAS_3,corr
-19,,25557,Female,IPCAS_3,corr
-,,25557,,IPCAS_3,corr
-,,25557,,IPCAS_3,corr
-,,25557,,IPCAS_3,corr
-22,,25558,Male,IPCAS_3,corr
-,,25558,,IPCAS_3,corr
-18,,25559,Female,IPCAS_3,corr
-,,25559,,IPCAS_3,corr
-20,,25560,Female,IPCAS_3,corr
-,,25560,,IPCAS_3,corr
-25,,25561,Male,IPCAS_3,corr
-,,25561,,IPCAS_3,corr
-,,25561,,IPCAS_3,corr
-,,25561,,IPCAS_3,corr
-24,,25562,Male,IPCAS_3,corr
-,,25562,,IPCAS_3,corr
-,,25562,,IPCAS_3,corr
-,,25562,,IPCAS_3,corr
-22,,25563,Male,IPCAS_3,corr
-,,25563,,IPCAS_3,corr
-20,,25564,Female,IPCAS_3,corr
-,,25564,,IPCAS_3,corr
-22,,25565,Male,IPCAS_3,corr
-,,25565,,IPCAS_3,corr
-,,25566,,IPCAS_3,corr
-,,25566,,IPCAS_3,corr
-21,,25567,Female,IPCAS_3,corr
-,,25567,,IPCAS_3,corr
-,,25567,,IPCAS_3,corr
-,,25567,,IPCAS_3,corr
-20,,25568,Female,IPCAS_3,corr
-,,25568,,IPCAS_3,corr
-22,,25569,Male,IPCAS_3,corr
-,,25569,,IPCAS_3,corr
-22,,25570,Male,IPCAS_3,corr
-,,25570,,IPCAS_3,corr
-21,,25571,Female,IPCAS_3,corr
-,,25571,,IPCAS_3,corr
-20,,25572,Female,IPCAS_3,corr
-,,25572,,IPCAS_3,corr
-21,,25573,Male,IPCAS_3,corr
-,,25573,,IPCAS_3,corr
-22,,25574,Female,IPCAS_3,corr
-,,25574,,IPCAS_3,corr
-23,,25575,Female,IPCAS_3,corr
-,,25575,,IPCAS_3,corr
-20,,25576,Female,IPCAS_3,corr
-,,25576,,IPCAS_3,corr
-23,,25577,Female,IPCAS_3,corr
-,,25577,,IPCAS_3,corr
-17,,25578,Female,IPCAS_3,corr
-,,25578,,IPCAS_3,corr
-20,,25579,Female,IPCAS_3,corr
-,,25579,,IPCAS_3,corr
-20,,25580,Male,IPCAS_3,corr
-,,25580,,IPCAS_3,corr
-22,,25581,Male,IPCAS_3,corr
-,,25581,,IPCAS_3,corr
-23,,25582,Female,IPCAS_3,corr
-,,25582,,IPCAS_3,corr
-22,,25583,Female,IPCAS_3,corr
-,,25583,,IPCAS_3,corr
-21,,25584,Female,IPCAS_3,corr
-,,25584,,IPCAS_3,corr
-20,,25585,Female,IPCAS_3,corr
-,,25585,,IPCAS_3,corr
-23,,26190,Female,IPCAS_4,corr
-,,26190,,IPCAS_4,corr
-24,,26191,Male,IPCAS_4,corr
-,,26191,,IPCAS_4,corr
-22,,26192,Male,IPCAS_4,corr
-,,26192,,IPCAS_4,corr
-23,,26193,Male,IPCAS_4,corr
-,,26193,,IPCAS_4,corr
-28,,26194,Male,IPCAS_4,corr
-,,26194,,IPCAS_4,corr
-22,,26195,Male,IPCAS_4,corr
-,,26195,,IPCAS_4,corr
-22,,26196,Female,IPCAS_4,corr
-,,26196,,IPCAS_4,corr
-23,,26197,Male,IPCAS_4,corr
-,,26197,,IPCAS_4,corr
-23,,26198,Male,IPCAS_4,corr
-,,26198,,IPCAS_4,corr
-24,,26199,Female,IPCAS_4,corr
-,,26199,,IPCAS_4,corr
-22,,26200,Male,IPCAS_4,corr
-,,26200,,IPCAS_4,corr
-25,,26201,Female,IPCAS_4,corr
-,,26201,,IPCAS_4,corr
-21,,26202,Female,IPCAS_4,corr
-,,26202,,IPCAS_4,corr
-21,,26203,Female,IPCAS_4,corr
-,,26203,,IPCAS_4,corr
-23,,26204,Female,IPCAS_4,corr
-,,26204,,IPCAS_4,corr
-23,,26205,Male,IPCAS_4,corr
-,,26205,,IPCAS_4,corr
-24,,26206,Female,IPCAS_4,corr
-,,26206,,IPCAS_4,corr
-23,,26207,Female,IPCAS_4,corr
-,,26207,,IPCAS_4,corr
-25,,26208,Female,IPCAS_4,corr
-,,26208,,IPCAS_4,corr
-22,,26209,Male,IPCAS_4,corr
-,,26209,,IPCAS_4,corr
-18,,27284,Male,IPCAS_5,corr
-,,27284,,IPCAS_5,corr
-,,27284,,IPCAS_5,corr
-18,,27285,Male,IPCAS_5,corr
-,,27285,,IPCAS_5,corr
-,,27285,,IPCAS_5,corr
-18,,27286,Male,IPCAS_5,corr
-,,27286,,IPCAS_5,corr
-18,,27287,Male,IPCAS_5,corr
-,,27287,,IPCAS_5,corr
-,,27287,,IPCAS_5,corr
-19,,27288,Male,IPCAS_5,corr
-,,27288,,IPCAS_5,corr
-19,,27289,Male,IPCAS_5,corr
-,,27289,,IPCAS_5,corr
-,,27289,,IPCAS_5,corr
-19,,27290,Male,IPCAS_5,corr
-,,27290,,IPCAS_5,corr
-,,27290,,IPCAS_5,corr
-18,,27291,Male,IPCAS_5,corr
-,,27291,,IPCAS_5,corr
-19,,27292,Male,IPCAS_5,corr
-,,27292,,IPCAS_5,corr
-,,27292,,IPCAS_5,corr
-19,,27293,Male,IPCAS_5,corr
-,,27293,,IPCAS_5,corr
-18,,27294,Male,IPCAS_5,corr
-,,27294,,IPCAS_5,corr
-,,27294,,IPCAS_5,corr
-19,,27295,Male,IPCAS_5,corr
-,,27295,,IPCAS_5,corr
-,,27295,,IPCAS_5,corr
-18,,27296,Male,IPCAS_5,corr
-,,27296,,IPCAS_5,corr
-,,27296,,IPCAS_5,corr
-18,,27297,Male,IPCAS_5,corr
-,,27297,,IPCAS_5,corr
-18,,27298,Male,IPCAS_5,corr
-,,27298,,IPCAS_5,corr
-,,27298,,IPCAS_5,corr
-18,,27299,Male,IPCAS_5,corr
-,,27299,,IPCAS_5,corr
-18,,27300,Male,IPCAS_5,corr
-,,27300,,IPCAS_5,corr
-18,,27301,Male,IPCAS_5,corr
-,,27301,,IPCAS_5,corr
-18,,27302,Male,IPCAS_5,corr
-,,27302,,IPCAS_5,corr
-,,27302,,IPCAS_5,corr
-18,,27303,Male,IPCAS_5,corr
-,,27303,,IPCAS_5,corr
-18,,27304,Male,IPCAS_5,corr
-,,27304,,IPCAS_5,corr
-19,,27305,Male,IPCAS_5,corr
-,,27305,,IPCAS_5,corr
-25,,26044,Male,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-,,26044,,IPCAS_6,corr
-21,,26045,Female,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-,,26045,,IPCAS_6,corr
-11,,26046,Male,IPCAS_7,corr
-11,,26046,Male,IPCAS_7,corr
-11,,26047,Male,IPCAS_7,corr
-11,,26047,Male,IPCAS_7,corr
-11,,26048,Male,IPCAS_7,corr
-11,,26048,Male,IPCAS_7,corr
-12,,26049,Male,IPCAS_7,corr
-12,,26049,Male,IPCAS_7,corr
-12,,26050,Male,IPCAS_7,corr
-12,,26050,Male,IPCAS_7,corr
-11,,26051,Female,IPCAS_7,corr
-11,,26051,Female,IPCAS_7,corr
-11,,26052,Male,IPCAS_7,corr
-11,,26052,Male,IPCAS_7,corr
-11,,26053,Female,IPCAS_7,corr
-11,,26053,Female,IPCAS_7,corr
-12,,26054,Female,IPCAS_7,corr
-12,,26054,Female,IPCAS_7,corr
-11,,26055,Female,IPCAS_7,corr
-11,,26055,Female,IPCAS_7,corr
-11,,26056,Female,IPCAS_7,corr
-11,,26056,Female,IPCAS_7,corr
-9,,26057,Female,IPCAS_7,corr
-9,,26057,Female,IPCAS_7,corr
-10,,26058,Male,IPCAS_7,corr
-10,,26058,Male,IPCAS_7,corr
-9,,26059,Female,IPCAS_7,corr
-9,,26059,Female,IPCAS_7,corr
-9,,26060,Male,IPCAS_7,corr
-9,,26060,Male,IPCAS_7,corr
-9,,26061,Male,IPCAS_7,corr
-9,,26061,Male,IPCAS_7,corr
-10,,26062,Male,IPCAS_7,corr
-10,,26062,Male,IPCAS_7,corr
-9,,26063,Male,IPCAS_7,corr
-9,,26063,Male,IPCAS_7,corr
-10,,26064,Female,IPCAS_7,corr
-10,,26064,Female,IPCAS_7,corr
-10,,26065,Male,IPCAS_7,corr
-10,,26065,Male,IPCAS_7,corr
-9,,26066,Male,IPCAS_7,corr
-9,,26066,Male,IPCAS_7,corr
-9,,26067,Male,IPCAS_7,corr
-9,,26067,Male,IPCAS_7,corr
-12,,26068,Female,IPCAS_7,corr
-12,,26068,Female,IPCAS_7,corr
-11,,26069,Female,IPCAS_7,corr
-11,,26069,Female,IPCAS_7,corr
-11,,26070,Male,IPCAS_7,corr
-11,,26070,Male,IPCAS_7,corr
-11,,26071,Female,IPCAS_7,corr
-11,,26071,Female,IPCAS_7,corr
-8,,26072,Male,IPCAS_7,corr
-8,,26072,Male,IPCAS_7,corr
-9,,26073,Female,IPCAS_7,corr
-9,,26073,Female,IPCAS_7,corr
-10,,26074,Male,IPCAS_7,corr
-10,,26074,Male,IPCAS_7,corr
-7,,26075,Female,IPCAS_7,corr
-7,,26075,Female,IPCAS_7,corr
-6,,26076,Male,IPCAS_7,corr
-6,,26076,Male,IPCAS_7,corr
-6,,26077,Male,IPCAS_7,corr
-6,,26077,Male,IPCAS_7,corr
-6,,26078,Male,IPCAS_7,corr
-6,,26078,Male,IPCAS_7,corr
-6,,26079,Female,IPCAS_7,corr
-6,,26079,Female,IPCAS_7,corr
-7,,26080,Male,IPCAS_7,corr
-7,,26080,Male,IPCAS_7,corr
-6,,26081,Male,IPCAS_7,corr
-6,,26081,Male,IPCAS_7,corr
-6,,26082,Female,IPCAS_7,corr
-6,,26082,Female,IPCAS_7,corr
-7,,26083,Male,IPCAS_7,corr
-7,,26083,Male,IPCAS_7,corr
-7,,26084,Female,IPCAS_7,corr
-7,,26084,Female,IPCAS_7,corr
-13,,26085,Female,IPCAS_7,corr
-13,,26085,Female,IPCAS_7,corr
-12,,26086,Female,IPCAS_7,corr
-12,,26086,Female,IPCAS_7,corr
-13,,26087,Female,IPCAS_7,corr
-13,,26087,Female,IPCAS_7,corr
-12,,26088,Female,IPCAS_7,corr
-12,,26088,Female,IPCAS_7,corr
-14,,26089,Male,IPCAS_7,corr
-14,,26089,Male,IPCAS_7,corr
-15,,26090,Female,IPCAS_7,corr
-15,,26090,Female,IPCAS_7,corr
-14,,26091,Female,IPCAS_7,corr
-14,,26091,Female,IPCAS_7,corr
-13,,26092,Female,IPCAS_7,corr
-13,,26092,Female,IPCAS_7,corr
-13,,26093,Female,IPCAS_7,corr
-13,,26093,Female,IPCAS_7,corr
-13,,26094,Male,IPCAS_7,corr
-13,,26094,Male,IPCAS_7,corr
-14,,26095,Male,IPCAS_7,corr
-14,,26095,Male,IPCAS_7,corr
-16,,26096,Female,IPCAS_7,corr
-16,,26096,Female,IPCAS_7,corr
-15,,26097,Female,IPCAS_7,corr
-15,,26097,Female,IPCAS_7,corr
-16,,26098,Male,IPCAS_7,corr
-16,,26098,Male,IPCAS_7,corr
-15,,26099,Female,IPCAS_7,corr
-15,,26099,Female,IPCAS_7,corr
-15,,26100,Female,IPCAS_7,corr
-15,,26100,Female,IPCAS_7,corr
-13,,26102,Female,IPCAS_7,corr
-13,,26102,Female,IPCAS_7,corr
-13,,26103,Male,IPCAS_7,corr
-13,,26103,Male,IPCAS_7,corr
-15,,26104,Female,IPCAS_7,corr
-15,,26104,Female,IPCAS_7,corr
-16,,26105,Female,IPCAS_7,corr
-16,,26105,Female,IPCAS_7,corr
-15,,26106,Female,IPCAS_7,corr
-15,,26106,Female,IPCAS_7,corr
-14,,26107,Male,IPCAS_7,corr
-14,,26107,Male,IPCAS_7,corr
-15,,26108,Female,IPCAS_7,corr
-15,,26108,Female,IPCAS_7,corr
-16,,26109,Female,IPCAS_7,corr
-16,,26109,Female,IPCAS_7,corr
-15,,26110,Female,IPCAS_7,corr
-15,,26110,Female,IPCAS_7,corr
-13,,26111,Female,IPCAS_7,corr
-13,,26111,Female,IPCAS_7,corr
-13,,26112,Female,IPCAS_7,corr
-13,,26112,Female,IPCAS_7,corr
-13,,26113,Female,IPCAS_7,corr
-13,,26113,Female,IPCAS_7,corr
-16,,26114,Male,IPCAS_7,corr
-16,,26114,Male,IPCAS_7,corr
-14,,26115,Male,IPCAS_7,corr
-14,,26115,Male,IPCAS_7,corr
-16,,26116,Female,IPCAS_7,corr
-16,,26116,Female,IPCAS_7,corr
-16,,26118,Female,IPCAS_7,corr
-16,,26118,Female,IPCAS_7,corr
-17,,26119,Female,IPCAS_7,corr
-17,,26119,Female,IPCAS_7,corr
-51,,25586,Female,IPCAS_8,corr
-,,25586,,IPCAS_8,corr
-54,,25587,Female,IPCAS_8,corr
-,,25587,,IPCAS_8,corr
-57,,25588,Female,IPCAS_8,corr
-,,25588,,IPCAS_8,corr
-50,,25589,Female,IPCAS_8,corr
-,,25589,,IPCAS_8,corr
-60,,25590,Male,IPCAS_8,corr
-,,25590,,IPCAS_8,corr
-61,,25591,Male,IPCAS_8,corr
-,,25591,,IPCAS_8,corr
-58,,25592,Female,IPCAS_8,corr
-,,25592,,IPCAS_8,corr
-58,,25593,Male,IPCAS_8,corr
-,,25593,,IPCAS_8,corr
-62,,25594,Male,IPCAS_8,corr
-,,25594,,IPCAS_8,corr
-59,,25595,Male,IPCAS_8,corr
-,,25595,,IPCAS_8,corr
-58,,25596,Female,IPCAS_8,corr
-,,25596,,IPCAS_8,corr
-61,,25597,Male,IPCAS_8,corr
-,,25597,,IPCAS_8,corr
-60,,25598,Female,IPCAS_8,corr
-,,25598,,IPCAS_8,corr
-24,,25599,Male,JHNU_1,corr
-,,25599,,JHNU_1,corr
-21,,25600,Male,JHNU_1,corr
-,,25600,,JHNU_1,corr
-40,,25601,Male,JHNU_1,corr
-,,25601,,JHNU_1,corr
-20,,25602,Female,JHNU_1,corr
-,,25602,,JHNU_1,corr
-23,,25603,Male,JHNU_1,corr
-,,25603,,JHNU_1,corr
-24,,25604,Male,JHNU_1,corr
-,,25604,,JHNU_1,corr
-23,,25605,Male,JHNU_1,corr
-,,25605,,JHNU_1,corr
-20,,25606,Male,JHNU_1,corr
-,,25606,,JHNU_1,corr
-22,,25607,Male,JHNU_1,corr
-,,25607,,JHNU_1,corr
-21,,25608,Male,JHNU_1,corr
-,,25608,,JHNU_1,corr
-22,,25609,Female,JHNU_1,corr
-,,25609,,JHNU_1,corr
-21,,25610,Male,JHNU_1,corr
-,,25610,,JHNU_1,corr
-24,,25611,Male,JHNU_1,corr
-,,25611,,JHNU_1,corr
-20,,25612,Female,JHNU_1,corr
-,,25612,,JHNU_1,corr
-22,,25613,Male,JHNU_1,corr
-,,25613,,JHNU_1,corr
-22,,25614,Male,JHNU_1,corr
-,,25614,,JHNU_1,corr
-22,,25615,Female,JHNU_1,corr
-,,25615,,JHNU_1,corr
-22,,25616,Female,JHNU_1,corr
-,,25616,,JHNU_1,corr
-24,,25617,Male,JHNU_1,corr
-,,25617,,JHNU_1,corr
-24,,25618,Female,JHNU_1,corr
-,,25618,,JHNU_1,corr
-24,,25619,Female,JHNU_1,corr
-,,25619,,JHNU_1,corr
-23,,25620,Male,JHNU_1,corr
-,,25620,,JHNU_1,corr
-20,,25621,Female,JHNU_1,corr
-,,25621,,JHNU_1,corr
-24,,25622,Male,JHNU_1,corr
-,,25622,,JHNU_1,corr
-22,,25623,Male,JHNU_1,corr
-,,25623,,JHNU_1,corr
-26,,25624,Male,JHNU_1,corr
-,,25624,,JHNU_1,corr
-21,,25625,Female,JHNU_1,corr
-,,25625,,JHNU_1,corr
-26,,25626,Male,JHNU_1,corr
-,,25626,,JHNU_1,corr
-23,,25627,Male,JHNU_1,corr
-,,25627,,JHNU_1,corr
-28,,25628,Male,JHNU_1,corr
-,,25628,,JHNU_1,corr
-24,,25335,Female,LMU_1,corr
-,,25335,,LMU_1,corr
-,,25335,,LMU_1,corr
-,,25335,,LMU_1,corr
-,,25335,,LMU_1,corr
-24,,25336,Female,LMU_1,corr
-,,25336,,LMU_1,corr
-,,25336,,LMU_1,corr
-,,25336,,LMU_1,corr
-,,25336,,LMU_1,corr
-,,25336,,LMU_1,corr
-23,,25337,Male,LMU_1,corr
-,,25337,,LMU_1,corr
-,,25337,,LMU_1,corr
-,,25337,,LMU_1,corr
-,,25337,,LMU_1,corr
-24,,25338,Female,LMU_1,corr
-,,25338,,LMU_1,corr
-,,25338,,LMU_1,corr
-,,25338,,LMU_1,corr
-,,25338,,LMU_1,corr
-,,25338,,LMU_1,corr
-22,,25339,Female,LMU_1,corr
-,,25339,,LMU_1,corr
-,,25339,,LMU_1,corr
-,,25339,,LMU_1,corr
-,,25339,,LMU_1,corr
-,,25339,,LMU_1,corr
-26,,25340,Male,LMU_1,corr
-,,25340,,LMU_1,corr
-,,25340,,LMU_1,corr
-,,25340,,LMU_1,corr
-,,25340,,LMU_1,corr
-,,25340,,LMU_1,corr
-23,,25341,Male,LMU_1,corr
-,,25341,,LMU_1,corr
-,,25341,,LMU_1,corr
-,,25341,,LMU_1,corr
-,,25341,,LMU_1,corr
-23,,25342,Male,LMU_1,corr
-,,25342,,LMU_1,corr
-,,25342,,LMU_1,corr
-,,25342,,LMU_1,corr
-,,25342,,LMU_1,corr
-24,,25343,Male,LMU_1,corr
-,,25343,,LMU_1,corr
-,,25343,,LMU_1,corr
-,,25343,,LMU_1,corr
-,,25343,,LMU_1,corr
-,,25343,,LMU_1,corr
-24,,25344,Female,LMU_1,corr
-,,25344,,LMU_1,corr
-,,25344,,LMU_1,corr
-,,25344,,LMU_1,corr
-,,25344,,LMU_1,corr
-,,25344,,LMU_1,corr
-20,,25345,Female,LMU_1,corr
-,,25345,,LMU_1,corr
-,,25345,,LMU_1,corr
-,,25345,,LMU_1,corr
-,,25345,,LMU_1,corr
-,,25345,,LMU_1,corr
-24,,25346,Female,LMU_1,corr
-,,25346,,LMU_1,corr
-,,25346,,LMU_1,corr
-,,25346,,LMU_1,corr
-,,25346,,LMU_1,corr
-,,25346,,LMU_1,corr
-22,,25347,Female,LMU_1,corr
-,,25347,,LMU_1,corr
-,,25347,,LMU_1,corr
-,,25347,,LMU_1,corr
-,,25347,,LMU_1,corr
-,,25347,,LMU_1,corr
-23,,25348,Male,LMU_1,corr
-,,25348,,LMU_1,corr
-,,25348,,LMU_1,corr
-,,25348,,LMU_1,corr
-,,25348,,LMU_1,corr
-25,,25349,Male,LMU_1,corr
-,,25349,,LMU_1,corr
-,,25349,,LMU_1,corr
-,,25349,,LMU_1,corr
-,,25349,,LMU_1,corr
-,,25349,,LMU_1,corr
-24,,25350,Male,LMU_1,corr
-,,25350,,LMU_1,corr
-,,25350,,LMU_1,corr
-,,25350,,LMU_1,corr
-,,25350,,LMU_1,corr
-,,25350,,LMU_1,corr
-26,,25351,Male,LMU_1,corr
-,,25351,,LMU_1,corr
-,,25351,,LMU_1,corr
-,,25351,,LMU_1,corr
-,,25351,,LMU_1,corr
-,,25351,,LMU_1,corr
-24,,25352,Female,LMU_1,corr
-,,25352,,LMU_1,corr
-,,25352,,LMU_1,corr
-,,25352,,LMU_1,corr
-,,25352,,LMU_1,corr
-,,25352,,LMU_1,corr
-24,,25353,Female,LMU_1,corr
-,,25353,,LMU_1,corr
-,,25353,,LMU_1,corr
-,,25353,,LMU_1,corr
-,,25353,,LMU_1,corr
-,,25353,,LMU_1,corr
-23,,25354,Male,LMU_1,corr
-,,25354,,LMU_1,corr
-,,25354,,LMU_1,corr
-,,25354,,LMU_1,corr
-,,25354,,LMU_1,corr
-,,25354,,LMU_1,corr
-27,,25355,Male,LMU_1,corr
-,,25355,,LMU_1,corr
-,,25355,,LMU_1,corr
-,,25355,,LMU_1,corr
-,,25355,,LMU_1,corr
-27,,25356,Female,LMU_1,corr
-,,25356,,LMU_1,corr
-,,25356,,LMU_1,corr
-,,25356,,LMU_1,corr
-,,25356,,LMU_1,corr
-,,25356,,LMU_1,corr
-24,,25357,Female,LMU_1,corr
-,,25357,,LMU_1,corr
-,,25357,,LMU_1,corr
-,,25357,,LMU_1,corr
-,,25357,,LMU_1,corr
-,,25357,,LMU_1,corr
-29,,25358,Female,LMU_1,corr
-,,25358,,LMU_1,corr
-,,25358,,LMU_1,corr
-,,25358,,LMU_1,corr
-,,25358,,LMU_1,corr
-25,,25359,Female,LMU_1,corr
-,,25359,,LMU_1,corr
-,,25359,,LMU_1,corr
-,,25359,,LMU_1,corr
-,,25359,,LMU_1,corr
-,,25359,,LMU_1,corr
-25,,25360,Male,LMU_1,corr
-,,25360,,LMU_1,corr
-,,25360,,LMU_1,corr
-,,25360,,LMU_1,corr
-,,25360,,LMU_1,corr
-,,25360,,LMU_1,corr
-27,,25361,Male,LMU_1,corr
-,,25361,,LMU_1,corr
-,,25361,,LMU_1,corr
-,,25361,,LMU_1,corr
-,,25361,,LMU_1,corr
-,,25361,,LMU_1,corr
-60,,25362,Male,LMU_2,corr
-,,25362,,LMU_2,corr
-,,25362,,LMU_2,corr
-,,25362,,LMU_2,corr
-71,,25363,Female,LMU_2,corr
-,,25363,,LMU_2,corr
-,,25363,,LMU_2,corr
-,,25363,,LMU_2,corr
-72,,25364,Male,LMU_2,corr
-,,25364,,LMU_2,corr
-,,25364,,LMU_2,corr
-,,25364,,LMU_2,corr
-73,,25365,Female,LMU_2,corr
-,,25365,,LMU_2,corr
-,,25365,,LMU_2,corr
-,,25365,,LMU_2,corr
-74,,25366,Female,LMU_2,corr
-,,25366,,LMU_2,corr
-,,25366,,LMU_2,corr
-,,25366,,LMU_2,corr
-68,,25367,Female,LMU_2,corr
-,,25367,,LMU_2,corr
-,,25367,,LMU_2,corr
-,,25367,,LMU_2,corr
-72,,25368,Male,LMU_2,corr
-,,25368,,LMU_2,corr
-,,25368,,LMU_2,corr
-,,25368,,LMU_2,corr
-67,,25369,Male,LMU_2,corr
-,,25369,,LMU_2,corr
-,,25369,,LMU_2,corr
-,,25369,,LMU_2,corr
-71,,25370,Male,LMU_2,corr
-,,25370,,LMU_2,corr
-,,25370,,LMU_2,corr
-,,25370,,LMU_2,corr
-69,,25371,Male,LMU_2,corr
-,,25371,,LMU_2,corr
-,,25371,,LMU_2,corr
-,,25371,,LMU_2,corr
-70,,25372,Male,LMU_2,corr
-,,25372,,LMU_2,corr
-,,25372,,LMU_2,corr
-,,25372,,LMU_2,corr
-67,,25373,Female,LMU_2,corr
-,,25373,,LMU_2,corr
-,,25373,,LMU_2,corr
-,,25373,,LMU_2,corr
-69,,25374,Male,LMU_2,corr
-,,25374,,LMU_2,corr
-,,25374,,LMU_2,corr
-,,25374,,LMU_2,corr
-69,,25375,Female,LMU_2,corr
-,,25375,,LMU_2,corr
-,,25375,,LMU_2,corr
-,,25375,,LMU_2,corr
-59,,25376,Male,LMU_2,corr
-,,25376,,LMU_2,corr
-,,25376,,LMU_2,corr
-,,25376,,LMU_2,corr
-55,,25377,Female,LMU_2,corr
-,,25377,,LMU_2,corr
-,,25377,,LMU_2,corr
-,,25377,,LMU_2,corr
-61,,25378,Female,LMU_2,corr
-,,25378,,LMU_2,corr
-,,25378,,LMU_2,corr
-,,25378,,LMU_2,corr
-69,,25379,Female,LMU_2,corr
-,,25379,,LMU_2,corr
-,,25379,,LMU_2,corr
-,,25379,,LMU_2,corr
-55,,25380,Male,LMU_2,corr
-,,25380,,LMU_2,corr
-,,25380,,LMU_2,corr
-,,25380,,LMU_2,corr
-70,,25381,Female,LMU_2,corr
-,,25381,,LMU_2,corr
-,,25381,,LMU_2,corr
-,,25381,,LMU_2,corr
-69,,25382,Female,LMU_2,corr
-,,25382,,LMU_2,corr
-,,25382,,LMU_2,corr
-,,25382,,LMU_2,corr
-55,,25383,Male,LMU_2,corr
-,,25383,,LMU_2,corr
-,,25383,,LMU_2,corr
-,,25383,,LMU_2,corr
-75,,25384,Female,LMU_2,corr
-,,25384,,LMU_2,corr
-,,25384,,LMU_2,corr
-,,25384,,LMU_2,corr
-69,,25385,Male,LMU_2,corr
-,,25385,,LMU_2,corr
-,,25385,,LMU_2,corr
-,,25385,,LMU_2,corr
-79,,25386,Female,LMU_2,corr
-,,25386,,LMU_2,corr
-,,25386,,LMU_2,corr
-,,25386,,LMU_2,corr
-28,,25387,Male,LMU_2,corr
-,,25387,,LMU_2,corr
-,,25387,,LMU_2,corr
-,,25387,,LMU_2,corr
-20,,25388,Female,LMU_2,corr
-,,25388,,LMU_2,corr
-,,25388,,LMU_2,corr
-,,25388,,LMU_2,corr
-26,,25389,Female,LMU_2,corr
-,,25389,,LMU_2,corr
-,,25389,,LMU_2,corr
-,,25389,,LMU_2,corr
-25,,25390,Male,LMU_2,corr
-,,25390,,LMU_2,corr
-,,25390,,LMU_2,corr
-,,25390,,LMU_2,corr
-22,,25391,Female,LMU_2,corr
-,,25391,,LMU_2,corr
-,,25391,,LMU_2,corr
-,,25391,,LMU_2,corr
-24,,25392,Female,LMU_2,corr
-,,25392,,LMU_2,corr
-,,25392,,LMU_2,corr
-,,25392,,LMU_2,corr
-22,,25393,Male,LMU_2,corr
-,,25393,,LMU_2,corr
-,,25393,,LMU_2,corr
-,,25393,,LMU_2,corr
-23,,25394,Male,LMU_2,corr
-,,25394,,LMU_2,corr
-,,25394,,LMU_2,corr
-,,25394,,LMU_2,corr
-27,,25395,Female,LMU_2,corr
-,,25395,,LMU_2,corr
-,,25395,,LMU_2,corr
-,,25395,,LMU_2,corr
-21,,25396,Female,LMU_2,corr
-,,25396,,LMU_2,corr
-,,25396,,LMU_2,corr
-,,25396,,LMU_2,corr
-21,,25397,Male,LMU_2,corr
-,,25397,,LMU_2,corr
-,,25397,,LMU_2,corr
-,,25397,,LMU_2,corr
-24,,25398,Female,LMU_2,corr
-,,25398,,LMU_2,corr
-,,25398,,LMU_2,corr
-,,25398,,LMU_2,corr
-20,,25399,Female,LMU_2,corr
-,,25399,,LMU_2,corr
-,,25399,,LMU_2,corr
-,,25399,,LMU_2,corr
-21,,25400,Male,LMU_2,corr
-,,25400,,LMU_2,corr
-,,25400,,LMU_2,corr
-,,25400,,LMU_2,corr
-21,,25401,Female,LMU_2,corr
-,,25401,,LMU_2,corr
-,,25401,,LMU_2,corr
-,,25401,,LMU_2,corr
-76,,25402,Male,LMU_3,corr
-,,25402,,LMU_3,corr
-72,,25403,Male,LMU_3,corr
-,,25403,,LMU_3,corr
-65,,25404,Female,LMU_3,corr
-,,25404,,LMU_3,corr
-60,,25405,Male,LMU_3,corr
-,,25405,,LMU_3,corr
-59,,25406,Male,LMU_3,corr
-,,25406,,LMU_3,corr
-69,,25407,Male,LMU_3,corr
-,,25407,,LMU_3,corr
-60,,25408,Female,LMU_3,corr
-,,25408,,LMU_3,corr
-59,,25409,Female,LMU_3,corr
-,,25409,,LMU_3,corr
-64,,25410,Male,LMU_3,corr
-,,25410,,LMU_3,corr
-83,,25411,Male,LMU_3,corr
-,,25411,,LMU_3,corr
-63,,25412,Male,LMU_3,corr
-,,25412,,LMU_3,corr
-71,,25413,Female,LMU_3,corr
-,,25413,,LMU_3,corr
-79,,25414,Male,LMU_3,corr
-,,25414,,LMU_3,corr
-73,,25415,Female,LMU_3,corr
-,,25415,,LMU_3,corr
-74,,25416,Male,LMU_3,corr
-,,25416,,LMU_3,corr
-73,,25417,Male,LMU_3,corr
-,,25417,,LMU_3,corr
-79,,25418,Female,LMU_3,corr
-,,25418,,LMU_3,corr
-88,,25419,Female,LMU_3,corr
-,,25419,,LMU_3,corr
-60,,25420,Female,LMU_3,corr
-,,25420,,LMU_3,corr
-62,,25421,Male,LMU_3,corr
-,,25421,,LMU_3,corr
-71,,25422,Male,LMU_3,corr
-,,25422,,LMU_3,corr
-68,,25423,Male,LMU_3,corr
-,,25423,,LMU_3,corr
-72,,25424,Male,LMU_3,corr
-,,25424,,LMU_3,corr
-68,,25425,Female,LMU_3,corr
-,,25425,,LMU_3,corr
-77,,25426,Male,LMU_3,corr
-,,25426,,LMU_3,corr
-29,right handed,27430,Female,MPG_1,corr
-29,,27430,Female,MPG_1,corr
-29,,27430,Female,MPG_1,corr
-29,,27430,Female,MPG_1,corr
-23,right handed,27431,Female,MPG_1,corr
-23,,27431,Female,MPG_1,corr
-23,,27431,Female,MPG_1,corr
-23,,27431,Female,MPG_1,corr
-25,right handed,27432,Male,MPG_1,corr
-25,,27432,Male,MPG_1,corr
-25,,27432,Male,MPG_1,corr
-25,,27432,Male,MPG_1,corr
-26,right handed,27433,Male,MPG_1,corr
-26,,27433,Male,MPG_1,corr
-26,,27433,Male,MPG_1,corr
-26,,27433,Male,MPG_1,corr
-27,left handed,27434,Male,MPG_1,corr
-27,,27434,Male,MPG_1,corr
-27,,27434,Male,MPG_1,corr
-27,,27434,Male,MPG_1,corr
-23,right handed,27435,Female,MPG_1,corr
-23,,27435,Female,MPG_1,corr
-23,,27435,Female,MPG_1,corr
-23,,27435,Female,MPG_1,corr
-29,right handed,27436,Male,MPG_1,corr
-29,,27436,Male,MPG_1,corr
-29,,27436,Male,MPG_1,corr
-29,,27436,Male,MPG_1,corr
-25,right handed,27437,Male,MPG_1,corr
-25,,27437,Male,MPG_1,corr
-25,,27437,Male,MPG_1,corr
-25,,27437,Male,MPG_1,corr
-25,right handed,27438,Male,MPG_1,corr
-25,,27438,Male,MPG_1,corr
-25,,27438,Male,MPG_1,corr
-25,,27438,Male,MPG_1,corr
-24,right handed,27439,Male,MPG_1,corr
-24,,27439,Male,MPG_1,corr
-24,,27439,Male,MPG_1,corr
-24,,27439,Male,MPG_1,corr
-30,right handed,27440,Male,MPG_1,corr
-30,,27440,Male,MPG_1,corr
-30,,27440,Male,MPG_1,corr
-30,,27440,Male,MPG_1,corr
-24,right handed,27441,Male,MPG_1,corr
-24,,27441,Male,MPG_1,corr
-24,,27441,Male,MPG_1,corr
-24,,27441,Male,MPG_1,corr
-26,right handed,27442,Female,MPG_1,corr
-26,,27442,Female,MPG_1,corr
-26,,27442,Female,MPG_1,corr
-26,,27442,Female,MPG_1,corr
-24,right handed,27443,Female,MPG_1,corr
-24,,27443,Female,MPG_1,corr
-24,,27443,Female,MPG_1,corr
-24,,27443,Female,MPG_1,corr
-22,right handed,27444,Female,MPG_1,corr
-22,,27444,Female,MPG_1,corr
-22,,27444,Female,MPG_1,corr
-22,,27444,Female,MPG_1,corr
-23,right handed,27445,Female,MPG_1,corr
-23,,27445,Female,MPG_1,corr
-23,,27445,Female,MPG_1,corr
-23,,27445,Female,MPG_1,corr
-25,right handed,27446,Female,MPG_1,corr
-25,,27446,Female,MPG_1,corr
-25,,27446,Female,MPG_1,corr
-25,,27446,Female,MPG_1,corr
-27,right handed,27447,Male,MPG_1,corr
-27,,27447,Male,MPG_1,corr
-27,,27447,Male,MPG_1,corr
-27,,27447,Male,MPG_1,corr
-25,right handed,27448,Male,MPG_1,corr
-25,,27448,Male,MPG_1,corr
-25,,27448,Male,MPG_1,corr
-25,,27448,Male,MPG_1,corr
-22,right handed,27449,Female,MPG_1,corr
-22,,27449,Female,MPG_1,corr
-22,,27449,Female,MPG_1,corr
-22,,27449,Female,MPG_1,corr
-24,right handed,27450,Female,MPG_1,corr
-24,,27450,Female,MPG_1,corr
-24,,27450,Female,MPG_1,corr
-24,,27450,Female,MPG_1,corr
-25,right handed,27451,Male,MPG_1,corr
-25,,27451,Male,MPG_1,corr
-25,,27451,Male,MPG_1,corr
-25,,27451,Male,MPG_1,corr
-11,,27010,Male,MRN_1,corr
-,,27010,,MRN_1,corr
-10,,27011,Female,MRN_1,corr
-,,27011,,MRN_1,corr
-12,,27012,Male,MRN_1,corr
-,,27012,,MRN_1,corr
-14,,27013,Female,MRN_1,corr
-,,27013,,MRN_1,corr
-13,,27014,Male,MRN_1,corr
-,,27014,,MRN_1,corr
-12,,27015,Male,MRN_1,corr
-,,27015,,MRN_1,corr
-11,,27016,Male,MRN_1,corr
-,,27016,,MRN_1,corr
-15,,27017,Male,MRN_1,corr
-16,,27017,,MRN_1,corr
-15,,27018,Male,MRN_1,corr
-,,27018,,MRN_1,corr
-13,,27019,Female,MRN_1,corr
-,,27019,,MRN_1,corr
-16,,27020,Female,MRN_1,corr
-,,27020,,MRN_1,corr
-17,,27021,Male,MRN_1,corr
-,,27021,,MRN_1,corr
-14,,27022,Male,MRN_1,corr
-,,27022,,MRN_1,corr
-22,,27024,Female,MRN_1,corr
-,,27024,,MRN_1,corr
-29,,27025,Male,MRN_1,corr
-,,27025,,MRN_1,corr
-24,,27026,Male,MRN_1,corr
-,,27026,,MRN_1,corr
-22,,27027,Female,MRN_1,corr
-,,27027,,MRN_1,corr
-21,,27028,Female,MRN_1,corr
-,,27028,,MRN_1,corr
-20,,27029,Female,MRN_1,corr
-,,27029,,MRN_1,corr
-23,,27030,Male,MRN_1,corr
-,,27030,,MRN_1,corr
-19,,27031,Female,MRN_1,corr
-,,27031,,MRN_1,corr
-41,,27032,Female,MRN_1,corr
-,,27032,,MRN_1,corr
-41,,27033,Male,MRN_1,corr
-,,27033,,MRN_1,corr
-32,,27034,Male,MRN_1,corr
-,,27034,,MRN_1,corr
-25,,27035,Female,MRN_1,corr
-,,27035,,MRN_1,corr
-47,,27036,Female,MRN_1,corr
-,,27036,,MRN_1,corr
-35,,27037,Female,MRN_1,corr
-,,27037,,MRN_1,corr
-27,,27038,Female,MRN_1,corr
-,,27038,,MRN_1,corr
-49,,27039,Male,MRN_1,corr
-,,27039,,MRN_1,corr
-21,,27040,Male,MRN_1,corr
-,,27040,,MRN_1,corr
-20,,27041,Female,MRN_1,corr
-,,27041,,MRN_1,corr
-53,,27042,Male,MRN_1,corr
-,,27042,,MRN_1,corr
-47,,27043,Female,MRN_1,corr
-,,27043,,MRN_1,corr
-26,,27044,Female,MRN_1,corr
-,,27044,,MRN_1,corr
-28,,27045,Male,MRN_1,corr
-,,27045,,MRN_1,corr
-20,,27046,Male,MRN_1,corr
-,,27046,,MRN_1,corr
-18,,27047,Female,MRN_1,corr
-,,27047,,MRN_1,corr
-22,,27048,Female,MRN_1,corr
-,,27048,,MRN_1,corr
-51,,27049,Male,MRN_1,corr
-,,27049,,MRN_1,corr
-46,,27050,Male,MRN_1,corr
-,,27050,,MRN_1,corr
-30,,27051,Male,MRN_1,corr
-,,27051,,MRN_1,corr
-23,,27052,Female,MRN_1,corr
-,,27052,,MRN_1,corr
-20,,27053,Female,MRN_1,corr
-,,27053,,MRN_1,corr
-24,,27054,Female,MRN_1,corr
-,,27054,,MRN_1,corr
-21,,27410,Male,MRN_1,corr
-,,27410,,MRN_1,corr
-20,,27411,Male,MRN_1,corr
-,,27411,,MRN_1,corr
-19,,27412,Male,MRN_1,corr
-,,27412,,MRN_1,corr
-26,,27413,Female,MRN_1,corr
-,,27413,,MRN_1,corr
-24,,27414,Female,MRN_1,corr
-,,27414,,MRN_1,corr
-33,,27415,Male,MRN_1,corr
-,,27415,,MRN_1,corr
-30,,27416,Female,MRN_1,corr
-,,27416,,MRN_1,corr
-21,,27417,Female,MRN_1,corr
-,,27417,,MRN_1,corr
-24,,27418,Male,MRN_1,corr
-,,27418,,MRN_1,corr
-26,,27419,Female,MRN_1,corr
-,,27419,,MRN_1,corr
-21,left handed,2475376,Female,NKI_1,corr
-21,left handed,2475376,Female,NKI_1,corr
-38,right handed,3893245,Female,NKI_1,corr
-38,right handed,3893245,Female,NKI_1,corr
-22,right handed,3313349,Female,NKI_1,corr
-22,right handed,3313349,Female,NKI_1,corr
-36,right handed,9630905,Female,NKI_1,corr
-36,right handed,9630905,Female,NKI_1,corr
-27,,2842950,Female,NKI_1,corr
-27,,2842950,Female,NKI_1,corr
-30,right handed,2799329,Female,NKI_1,corr
-30,right handed,2799329,Female,NKI_1,corr
-31,left handed,8735778,Female,NKI_1,corr
-31,left handed,8735778,Female,NKI_1,corr
-25,right handed,3808535,Female,NKI_1,corr
-25,right handed,3808535,Female,NKI_1,corr
-22,right handed,7055197,Female,NKI_1,corr
-22,right handed,7055197,Female,NKI_1,corr
-27,right handed,1427581,Female,NKI_1,corr
-27,right handed,1427581,Female,NKI_1,corr
-48,,3201815,Female,NKI_1,corr
-48,,3201815,Female,NKI_1,corr
-21,right handed,1961098,Female,NKI_1,corr
-21,right handed,1961098,Female,NKI_1,corr
-32,right handed,21006,Female,NKI_1,corr
-32,right handed,21006,Female,NKI_1,corr
-42,right handed,8574662,Female,NKI_1,corr
-42,right handed,8574662,Female,NKI_1,corr
-22,right handed,21024,Female,NKI_1,corr
-22,right handed,21024,Female,NKI_1,corr
-57,right handed,21001,Female,NKI_1,corr
-57,right handed,21001,Female,NKI_1,corr
-36,right handed,21018,Female,NKI_1,corr
-36,right handed,21018,Female,NKI_1,corr
-57,right handed,3795193,Female,NKI_1,corr
-57,right handed,3795193,Female,NKI_1,corr
-60,right handed,1793622,Female,NKI_1,corr
-60,right handed,1793622,Female,NKI_1,corr
-22,right handed,4288245,Female,NKI_1,corr
-22,right handed,4288245,Female,NKI_1,corr
-46,right handed,4176156,Female,NKI_1,corr
-46,right handed,4176156,Female,NKI_1,corr
-19,right handed,3315657,Female,NKI_1,corr
-19,right handed,3315657,Female,NKI_1,corr
-32,left handed,6471972,Female,NKI_1,corr
-32,left handed,6471972,Female,NKI_1,corr
-52,right handed,21002,Female,NKI_1,corr
-52,right handed,21002,Female,NKI_1,corr
-27,right handed,27103,Female,NYU_1,corr
-27,right handed,27103,Female,NYU_1,corr
-27,right handed,27103,Female,NYU_1,corr
-21,right handed,27104,Female,NYU_1,corr
-21,right handed,27104,Female,NYU_1,corr
-21,right handed,27104,Female,NYU_1,corr
-26,right handed,27105,Female,NYU_1,corr
-26,right handed,27105,Female,NYU_1,corr
-26,right handed,27105,Female,NYU_1,corr
-23,right handed,27106,Female,NYU_1,corr
-23,right handed,27106,Female,NYU_1,corr
-23,right handed,27106,Female,NYU_1,corr
-22,right handed,27107,Female,NYU_1,corr
-22,right handed,27107,Female,NYU_1,corr
-22,right handed,27107,Female,NYU_1,corr
-28,right handed,27108,Female,NYU_1,corr
-28,right handed,27108,Female,NYU_1,corr
-28,right handed,27108,Female,NYU_1,corr
-49,right handed,27109,Male,NYU_1,corr
-49,right handed,27109,Male,NYU_1,corr
-49,right handed,27109,Male,NYU_1,corr
-23,right handed,27110,Female,NYU_1,corr
-23,right handed,27110,Female,NYU_1,corr
-23,right handed,27110,Female,NYU_1,corr
-31,right handed,27111,Male,NYU_1,corr
-31,right handed,27111,Male,NYU_1,corr
-31,right handed,27111,Male,NYU_1,corr
-25,right handed,27112,Male,NYU_1,corr
-25,right handed,27112,Male,NYU_1,corr
-25,right handed,27112,Male,NYU_1,corr
-27,right handed,27113,Female,NYU_1,corr
-27,right handed,27113,Female,NYU_1,corr
-27,right handed,27113,Female,NYU_1,corr
-35,right handed,27114,Female,NYU_1,corr
-35,right handed,27114,Female,NYU_1,corr
-35,right handed,27114,Female,NYU_1,corr
-22,right handed,27115,Male,NYU_1,corr
-22,right handed,27115,Male,NYU_1,corr
-22,right handed,27115,Male,NYU_1,corr
-49,right handed,27116,Female,NYU_1,corr
-49,right handed,27116,Female,NYU_1,corr
-49,right handed,27116,Female,NYU_1,corr
-24,right handed,27117,Female,NYU_1,corr
-24,right handed,27117,Female,NYU_1,corr
-24,right handed,27117,Female,NYU_1,corr
-27,right handed,27118,Female,NYU_1,corr
-27,right handed,27118,Female,NYU_1,corr
-27,right handed,27118,Female,NYU_1,corr
-27,right handed,27119,Male,NYU_1,corr
-27,right handed,27119,Male,NYU_1,corr
-27,right handed,27119,Male,NYU_1,corr
-22,right handed,27120,Female,NYU_1,corr
-22,right handed,27120,Female,NYU_1,corr
-22,right handed,27120,Female,NYU_1,corr
-23,right handed,27121,Male,NYU_1,corr
-23,right handed,27121,Male,NYU_1,corr
-23,right handed,27121,Male,NYU_1,corr
-49,right handed,27122,Male,NYU_1,corr
-49,right handed,27122,Male,NYU_1,corr
-49,right handed,27122,Male,NYU_1,corr
-32,right handed,27123,Male,NYU_1,corr
-32,right handed,27123,Male,NYU_1,corr
-32,right handed,27123,Male,NYU_1,corr
-41,right handed,27124,Male,NYU_1,corr
-41,right handed,27124,Male,NYU_1,corr
-41,right handed,27124,Male,NYU_1,corr
-30,right handed,27125,Female,NYU_1,corr
-30,right handed,27125,Female,NYU_1,corr
-30,right handed,27125,Female,NYU_1,corr
-25,right handed,27126,Male,NYU_1,corr
-25,right handed,27126,Male,NYU_1,corr
-25,right handed,27126,Male,NYU_1,corr
-28,right handed,27127,Female,NYU_1,corr
-28,right handed,27127,Female,NYU_1,corr
-28,right handed,27127,Female,NYU_1,corr
-13.25,,25000,Female,NYU_2,corr
-,,25000,,NYU_2,corr
-,,25000,,NYU_2,corr
-10.76,,25001,Male,NYU_2,corr
-,,25001,,NYU_2,corr
-,,25001,,NYU_2,corr
-8.91,,25002,Female,NYU_2,corr
-,,25002,,NYU_2,corr
-,,25002,,NYU_2,corr
-11.38,,25003,Female,NYU_2,corr
-,,25003,,NYU_2,corr
-,,25003,,NYU_2,corr
-,,25003,,NYU_2,corr
-12.44,,25004,Female,NYU_2,corr
-,,25004,,NYU_2,corr
-,,25004,,NYU_2,corr
-,,25004,,NYU_2,corr
-11.31,,25005,Female,NYU_2,corr
-,,25005,,NYU_2,corr
-,,25005,,NYU_2,corr
-,,25005,,NYU_2,corr
-8.91,,25006,Male,NYU_2,corr
-,,25006,,NYU_2,corr
-,,25006,,NYU_2,corr
-12.59,,25007,Male,NYU_2,corr
-,,25007,,NYU_2,corr
-,,25007,,NYU_2,corr
-,,25007,,NYU_2,corr
-8.04,,25008,Female,NYU_2,corr
-,,25008,,NYU_2,corr
-,,25008,,NYU_2,corr
-,,25008,,NYU_2,corr
-11.92,,25009,Male,NYU_2,corr
-,,25009,,NYU_2,corr
-,,25009,,NYU_2,corr
-,,25009,,NYU_2,corr
-7.55,,25010,Female,NYU_2,corr
-,,25010,,NYU_2,corr
-,,25010,,NYU_2,corr
-10.21,,25011,Female,NYU_2,corr
-,,25011,,NYU_2,corr
-,,25011,,NYU_2,corr
-,,25011,,NYU_2,corr
-8.01,,25012,Male,NYU_2,corr
-,,25012,,NYU_2,corr
-,,25012,,NYU_2,corr
-,,25012,,NYU_2,corr
-8.15,,25013,Male,NYU_2,corr
-,,25013,,NYU_2,corr
-,,25013,,NYU_2,corr
-,,25013,,NYU_2,corr
-8.59,,25014,Male,NYU_2,corr
-,,25014,,NYU_2,corr
-,,25014,,NYU_2,corr
-,,25014,,NYU_2,corr
-11.69,,25015,Male,NYU_2,corr
-,,25015,,NYU_2,corr
-,,25015,,NYU_2,corr
-,,25015,,NYU_2,corr
-10.82,,25016,Female,NYU_2,corr
-,,25016,,NYU_2,corr
-,,25016,,NYU_2,corr
-,,25016,,NYU_2,corr
-7.63,,25017,Female,NYU_2,corr
-,,25017,,NYU_2,corr
-,,25017,,NYU_2,corr
-,,25017,,NYU_2,corr
-13.28,,25018,Male,NYU_2,corr
-,,25018,,NYU_2,corr
-,,25018,,NYU_2,corr
-,,25018,,NYU_2,corr
-8.56,,25019,Female,NYU_2,corr
-,,25019,,NYU_2,corr
-,,25019,,NYU_2,corr
-,,25019,,NYU_2,corr
-10.46,,25020,Male,NYU_2,corr
-,,25020,,NYU_2,corr
-,,25020,,NYU_2,corr
-7.91,,25021,Female,NYU_2,corr
-,,25021,,NYU_2,corr
-,,25021,,NYU_2,corr
-12.49,,25022,Male,NYU_2,corr
-,,25022,,NYU_2,corr
-,,25022,,NYU_2,corr
-,,25022,,NYU_2,corr
-12.25,,25023,Male,NYU_2,corr
-,,25023,,NYU_2,corr
-,,25023,,NYU_2,corr
-,,25023,,NYU_2,corr
-,,25023,,NYU_2,corr
-,,25023,,NYU_2,corr
-9.75,,25024,Male,NYU_2,corr
-,,25024,,NYU_2,corr
-,,25024,,NYU_2,corr
-,,25024,,NYU_2,corr
-12.45,,25025,Female,NYU_2,corr
-,,25025,,NYU_2,corr
-,,25025,,NYU_2,corr
-,,25025,,NYU_2,corr
-,,25025,,NYU_2,corr
-,,25025,,NYU_2,corr
-9.54,,25026,Female,NYU_2,corr
-,,25026,,NYU_2,corr
-,,25026,,NYU_2,corr
-39.95,,25027,Male,NYU_2,corr
-,,25027,,NYU_2,corr
-,,25027,,NYU_2,corr
-,,25027,,NYU_2,corr
-42.94,,25028,Male,NYU_2,corr
-,,25028,,NYU_2,corr
-,,25028,,NYU_2,corr
-,,25028,,NYU_2,corr
-20.02,,25029,Male,NYU_2,corr
-,,25029,,NYU_2,corr
-,,25029,,NYU_2,corr
-,,25029,,NYU_2,corr
-26.91,,25030,Female,NYU_2,corr
-,,25030,,NYU_2,corr
-,,25030,,NYU_2,corr
-,,25030,,NYU_2,corr
-33.52,,25031,Female,NYU_2,corr
-,,25031,,NYU_2,corr
-,,25031,,NYU_2,corr
-,,25031,,NYU_2,corr
-33.45,,25032,Male,NYU_2,corr
-,,25032,,NYU_2,corr
-,,25032,,NYU_2,corr
-30.78,,25033,Male,NYU_2,corr
-,,25033,,NYU_2,corr
-,,25033,,NYU_2,corr
-,,25033,,NYU_2,corr
-26.17,,25034,Male,NYU_2,corr
-,,25034,,NYU_2,corr
-,,25034,,NYU_2,corr
-,,25034,,NYU_2,corr
-26.62,,25035,Male,NYU_2,corr
-,,25035,,NYU_2,corr
-,,25035,,NYU_2,corr
-27.03,,25036,Female,NYU_2,corr
-,,25036,,NYU_2,corr
-,,25036,,NYU_2,corr
-,,25036,,NYU_2,corr
-18.77,,25037,Male,NYU_2,corr
-,,25037,,NYU_2,corr
-,,25037,,NYU_2,corr
-,,25037,,NYU_2,corr
-22.39,,25038,Female,NYU_2,corr
-,,25038,,NYU_2,corr
-,,25038,,NYU_2,corr
-,,25038,,NYU_2,corr
-19.78,,25039,Female,NYU_2,corr
-,,25039,,NYU_2,corr
-,,25039,,NYU_2,corr
-43.45,,25040,Female,NYU_2,corr
-,,25040,,NYU_2,corr
-,,25040,,NYU_2,corr
-24.71,,25041,Female,NYU_2,corr
-,,25041,,NYU_2,corr
-,,25041,,NYU_2,corr
-,,25041,,NYU_2,corr
-22.76,,25042,Female,NYU_2,corr
-,,25042,,NYU_2,corr
-,,25042,,NYU_2,corr
-,,25042,,NYU_2,corr
-26.19,,25043,Female,NYU_2,corr
-,,25043,,NYU_2,corr
-,,25043,,NYU_2,corr
-35.73,,25044,Male,NYU_2,corr
-,,25044,,NYU_2,corr
-,,25044,,NYU_2,corr
-,,25044,,NYU_2,corr
-21.26,,25045,Female,NYU_2,corr
-,,25045,,NYU_2,corr
-,,25045,,NYU_2,corr
-,,25045,,NYU_2,corr
-23.22,,25046,Female,NYU_2,corr
-,,25046,,NYU_2,corr
-,,25046,,NYU_2,corr
-,,25046,,NYU_2,corr
-40.09,,25047,Male,NYU_2,corr
-,,25047,,NYU_2,corr
-,,25047,,NYU_2,corr
-,,25047,,NYU_2,corr
-,,25047,,NYU_2,corr
-22.95,,25048,Female,NYU_2,corr
-,,25048,,NYU_2,corr
-,,25048,,NYU_2,corr
-,,25048,,NYU_2,corr
-30.08,,25049,Male,NYU_2,corr
-,,25049,,NYU_2,corr
-,,25049,,NYU_2,corr
-,,25049,,NYU_2,corr
-32.57,,25050,Male,NYU_2,corr
-,,25050,,NYU_2,corr
-,,25050,,NYU_2,corr
-,,25050,,NYU_2,corr
-33.22,,25051,Female,NYU_2,corr
-,,25051,,NYU_2,corr
-,,25051,,NYU_2,corr
-,,25051,,NYU_2,corr
-40.05,,25052,Male,NYU_2,corr
-,,25052,,NYU_2,corr
-,,25052,,NYU_2,corr
-34.9,,25053,Male,NYU_2,corr
-,,25053,,NYU_2,corr
-,,25053,,NYU_2,corr
-,,25053,,NYU_2,corr
-45.49,,25054,Male,NYU_2,corr
-,,25054,,NYU_2,corr
-,,25054,,NYU_2,corr
-,,25054,,NYU_2,corr
-20.16,,25055,Male,NYU_2,corr
-,,25055,,NYU_2,corr
-,,25055,,NYU_2,corr
-,,25055,,NYU_2,corr
-21.48,,25056,Female,NYU_2,corr
-,,25056,,NYU_2,corr
-,,25056,,NYU_2,corr
-,,25056,,NYU_2,corr
-27.27,,25057,Female,NYU_2,corr
-,,25057,,NYU_2,corr
-,,25057,,NYU_2,corr
-,,25057,,NYU_2,corr
-11.24,,25058,Male,NYU_2,corr
-,,25058,,NYU_2,corr
-,,25058,,NYU_2,corr
-,,25058,,NYU_2,corr
-7.26,,25059,Male,NYU_2,corr
-,,25059,,NYU_2,corr
-,,25059,,NYU_2,corr
-,,25059,,NYU_2,corr
-11.03,,25060,Male,NYU_2,corr
-,,25060,,NYU_2,corr
-,,25060,,NYU_2,corr
-,,25060,,NYU_2,corr
-22.33,,25061,Male,NYU_2,corr
-,,25061,,NYU_2,corr
-,,25061,,NYU_2,corr
-,,25061,,NYU_2,corr
-13.22,,25062,Female,NYU_2,corr
-,,25062,,NYU_2,corr
-12.24,,25063,Female,NYU_2,corr
-,,25063,,NYU_2,corr
-12.1,,25064,Male,NYU_2,corr
-,,25064,,NYU_2,corr
-11.32,,25065,Male,NYU_2,corr
-,,25065,,NYU_2,corr
-9.23,,25066,Male,NYU_2,corr
-,,25066,,NYU_2,corr
-8.26,,25067,Female,NYU_2,corr
-,,25067,,NYU_2,corr
-9.81,,25068,Male,NYU_2,corr
-,,25068,,NYU_2,corr
-10.52,,25069,Male,NYU_2,corr
-,,25069,,NYU_2,corr
-13.58,,25070,Male,NYU_2,corr
-,,25070,,NYU_2,corr
-13.63,,25071,Male,NYU_2,corr
-,,25071,,NYU_2,corr
-14.65,,25072,Male,NYU_2,corr
-,,25072,,NYU_2,corr
-11.98,,25073,Male,NYU_2,corr
-,,25073,,NYU_2,corr
-8.49,,25074,Female,NYU_2,corr
-,,25074,,NYU_2,corr
-15.71,,25075,Male,NYU_2,corr
-,,25075,,NYU_2,corr
-15.28,,25076,Male,NYU_2,corr
-,,25076,,NYU_2,corr
-17.43,,25077,Male,NYU_2,corr
-,,25077,,NYU_2,corr
-15.4,,25078,Male,NYU_2,corr
-,,25078,,NYU_2,corr
-16.31,,25079,Male,NYU_2,corr
-,,25079,,NYU_2,corr
-15.28,,25080,Female,NYU_2,corr
-,,25080,,NYU_2,corr
-17.7,,25081,Male,NYU_2,corr
-,,25081,,NYU_2,corr
-17.31,,25082,Female,NYU_2,corr
-,,25082,,NYU_2,corr
-17.83,,25083,Male,NYU_2,corr
-,,25083,,NYU_2,corr
-10.86,,25084,Male,NYU_2,corr
-,,25084,,NYU_2,corr
-14.19,,25085,Female,NYU_2,corr
-,,25085,,NYU_2,corr
-13.9,,25086,Female,NYU_2,corr
-,,25086,,NYU_2,corr
-16.93,,25087,Male,NYU_2,corr
-,,25087,,NYU_2,corr
-8.45,,25088,Female,NYU_2,corr
-,,25088,,NYU_2,corr
-32.26,,25089,Male,NYU_2,corr
-,,25089,,NYU_2,corr
-38.84,,25090,Female,NYU_2,corr
-,,25090,,NYU_2,corr
-16.08,,25091,Female,NYU_2,corr
-,,25091,,NYU_2,corr
-11.91,,25092,Male,NYU_2,corr
-,,25092,,NYU_2,corr
-14.79,,25093,Male,NYU_2,corr
-,,25093,,NYU_2,corr
-46.25,,25094,Female,NYU_2,corr
-,,25094,,NYU_2,corr
-20.92,,25095,Male,NYU_2,corr
-,,25095,,NYU_2,corr
-8.03,,25096,Female,NYU_2,corr
-,,25096,,NYU_2,corr
-7.29,,25097,Male,NYU_2,corr
-,,25097,,NYU_2,corr
-7.68,,25098,Female,NYU_2,corr
-,,25098,,NYU_2,corr
-17.86,,25099,Female,NYU_2,corr
-,,25099,,NYU_2,corr
-14.48,,25100,Female,NYU_2,corr
-,,25100,,NYU_2,corr
-45.83,,25101,Male,NYU_2,corr
-,,25101,,NYU_2,corr
-14.87,,25102,Female,NYU_2,corr
-,,25102,,NYU_2,corr
-17.3,,25103,Male,NYU_2,corr
-,,25103,,NYU_2,corr
-15.21,,25104,Female,NYU_2,corr
-,,25104,,NYU_2,corr
-7.67,,25105,Female,NYU_2,corr
-,,25105,,NYU_2,corr
-10.74,,25106,Male,NYU_2,corr
-,,25106,,NYU_2,corr
-14.38,,25107,Female,NYU_2,corr
-,,25107,,NYU_2,corr
-9.96,,25108,Female,NYU_2,corr
-,,25108,,NYU_2,corr
-16.88,,25109,Male,NYU_2,corr
-,,25109,,NYU_2,corr
-16.55,,25110,Male,NYU_2,corr
-,,25110,,NYU_2,corr
-47.61,,25111,Female,NYU_2,corr
-,,25111,,NYU_2,corr
-14.91,,25112,Female,NYU_2,corr
-,,25112,,NYU_2,corr
-16.73,,25113,Male,NYU_2,corr
-,,25113,,NYU_2,corr
-48,,25114,Male,NYU_2,corr
-,,25114,,NYU_2,corr
-11.56,,25115,Female,NYU_2,corr
-,,25115,,NYU_2,corr
-12.99,,25116,Female,NYU_2,corr
-,,25116,,NYU_2,corr
-9.35,,25117,Male,NYU_2,corr
-,,25117,,NYU_2,corr
-46.84,,25118,Male,NYU_2,corr
-,,25118,,NYU_2,corr
-14.18,,25119,Female,NYU_2,corr
-,,25119,,NYU_2,corr
-16.28,,25120,Male,NYU_2,corr
-,,25120,,NYU_2,corr
-16.13,,25121,Male,NYU_2,corr
-,,25121,,NYU_2,corr
-11.4,,25122,Male,NYU_2,corr
-,,25122,,NYU_2,corr
-15.95,,25123,Female,NYU_2,corr
-,,25123,,NYU_2,corr
-22.1,,25124,Female,NYU_2,corr
-,,25124,,NYU_2,corr
-47.18,,25125,Female,NYU_2,corr
-,,25125,,NYU_2,corr
-14.42,,25126,Female,NYU_2,corr
-,,25126,,NYU_2,corr
-17.96,,25127,Female,NYU_2,corr
-,,25127,,NYU_2,corr
-22.76,,25128,Male,NYU_2,corr
-,,25128,,NYU_2,corr
-16.55,,25129,Male,NYU_2,corr
-,,25129,,NYU_2,corr
-10.52,,25130,Male,NYU_2,corr
-,,25130,,NYU_2,corr
-14.66,,25131,Male,NYU_2,corr
-,,25131,,NYU_2,corr
-14.06,,25132,Female,NYU_2,corr
-,,25132,,NYU_2,corr
-38.56,,25133,Female,NYU_2,corr
-,,25133,,NYU_2,corr
-53.96,,25134,Male,NYU_2,corr
-,,25134,,NYU_2,corr
-55.03,,25135,Male,NYU_2,corr
-,,25135,,NYU_2,corr
-52.63,,25136,Male,NYU_2,corr
-,,25136,,NYU_2,corr
-33.75,,25137,Male,NYU_2,corr
-,,25137,,NYU_2,corr
-31.51,,25138,Male,NYU_2,corr
-,,25138,,NYU_2,corr
-25.34,,25139,Male,NYU_2,corr
-,,25139,,NYU_2,corr
-22.48,,25140,Male,NYU_2,corr
-,,25140,,NYU_2,corr
-31.78,,25141,Male,NYU_2,corr
-,,25141,,NYU_2,corr
-6.47,,25142,Male,NYU_2,corr
-,,25142,,NYU_2,corr
-40.69,,25143,Male,NYU_2,corr
-,,25143,,NYU_2,corr
-23.65,,25144,Male,NYU_2,corr
-,,25144,,NYU_2,corr
-28.2,,25145,Male,NYU_2,corr
-,,25145,,NYU_2,corr
-14.43,,25146,Male,NYU_2,corr
-,,25146,,NYU_2,corr
-31.8,,25147,Male,NYU_2,corr
-,,25147,,NYU_2,corr
-19.23,,25148,Male,NYU_2,corr
-,,25148,,NYU_2,corr
-45.74,,25149,Male,NYU_2,corr
-,,25149,,NYU_2,corr
-32.17,,25150,Male,NYU_2,corr
-,,25150,,NYU_2,corr
-14.36,,25151,Male,NYU_2,corr
-,,25151,,NYU_2,corr
-9,,25152,Male,NYU_2,corr
-,,25152,,NYU_2,corr
-11.34,,25153,Male,NYU_2,corr
-,,25153,,NYU_2,corr
-23.81,,25154,Female,NYU_2,corr
-,,25154,,NYU_2,corr
-30.72,,25155,Male,NYU_2,corr
-,,25155,,NYU_2,corr
-27.03,,25156,Male,NYU_2,corr
-,,25156,,NYU_2,corr
-33,,25157,Male,NYU_2,corr
-,,25157,,NYU_2,corr
-22.11,,25158,Female,NYU_2,corr
-,,25158,,NYU_2,corr
-21.58,,25159,Female,NYU_2,corr
-,,25159,,NYU_2,corr
-21.59,,25160,Female,NYU_2,corr
-,,25160,,NYU_2,corr
-26.66,,25161,Female,NYU_2,corr
-,,25161,,NYU_2,corr
-27.89,,25162,Female,NYU_2,corr
-,,25162,,NYU_2,corr
-21.15,,25163,Male,NYU_2,corr
-,,25163,,NYU_2,corr
-20.56,,25164,Male,NYU_2,corr
-,,25164,,NYU_2,corr
-40.91,,25165,Male,NYU_2,corr
-,,25165,,NYU_2,corr
-20.3,,25166,Male,NYU_2,corr
-,,25166,,NYU_2,corr
-23.08,,25167,Male,NYU_2,corr
-,,25167,,NYU_2,corr
-23.35,,25168,Male,NYU_2,corr
-,,25168,,NYU_2,corr
-32.82,,25169,Male,NYU_2,corr
-,,25169,,NYU_2,corr
-41.21,,25170,Male,NYU_2,corr
-,,25170,,NYU_2,corr
-31.69,,25171,Male,NYU_2,corr
-,,25171,,NYU_2,corr
-22.77,,25172,Male,NYU_2,corr
-,,25172,,NYU_2,corr
-19.73,,25173,Male,NYU_2,corr
-,,25173,,NYU_2,corr
-20.04,,25174,Male,NYU_2,corr
-,,25174,,NYU_2,corr
-8.16,,25175,Female,NYU_2,corr
-,,25175,,NYU_2,corr
-8.52,,25176,Female,NYU_2,corr
-,,25176,,NYU_2,corr
-10.73,,25177,Male,NYU_2,corr
-,,25177,,NYU_2,corr
-12.1,,25178,Female,NYU_2,corr
-,,25178,,NYU_2,corr
-8.91,,25179,Male,NYU_2,corr
-,,25179,,NYU_2,corr
-9,,25180,Male,NYU_2,corr
-,,25180,,NYU_2,corr
-12.9,,25181,Male,NYU_2,corr
-,,25181,,NYU_2,corr
-9.54,,25182,Male,NYU_2,corr
-,,25182,,NYU_2,corr
-11.2,,25183,Male,NYU_2,corr
-,,25183,,NYU_2,corr
-9.48,,25184,Male,NYU_2,corr
-,,25184,,NYU_2,corr
-9.19,,25185,Male,NYU_2,corr
-,,25185,,NYU_2,corr
-11.09,,25186,Male,NYU_2,corr
-,,25186,,NYU_2,corr
-22,,27206,Female,SWU_1,corr
-,,27206,,SWU_1,corr
-,,27206,,SWU_1,corr
-,,27206,,SWU_1,corr
-,,27206,,SWU_1,corr
-,,27206,,SWU_1,corr
-22,,27207,Female,SWU_1,corr
-,,27207,,SWU_1,corr
-,,27207,,SWU_1,corr
-,,27207,,SWU_1,corr
-,,27207,,SWU_1,corr
-,,27207,,SWU_1,corr
-21,,27208,Female,SWU_1,corr
-,,27208,,SWU_1,corr
-,,27208,,SWU_1,corr
-,,27208,,SWU_1,corr
-,,27208,,SWU_1,corr
-,,27208,,SWU_1,corr
-23,,27209,Female,SWU_1,corr
-,,27209,,SWU_1,corr
-,,27209,,SWU_1,corr
-,,27209,,SWU_1,corr
-,,27209,,SWU_1,corr
-,,27209,,SWU_1,corr
-23,,27210,Female,SWU_1,corr
-,,27210,,SWU_1,corr
-,,27210,,SWU_1,corr
-,,27210,,SWU_1,corr
-,,27210,,SWU_1,corr
-,,27210,,SWU_1,corr
-19,,27211,Female,SWU_1,corr
-,,27211,,SWU_1,corr
-,,27211,,SWU_1,corr
-,,27211,,SWU_1,corr
-,,27211,,SWU_1,corr
-,,27211,,SWU_1,corr
-20,,27212,Female,SWU_1,corr
-,,27212,,SWU_1,corr
-,,27212,,SWU_1,corr
-,,27212,,SWU_1,corr
-,,27212,,SWU_1,corr
-,,27212,,SWU_1,corr
-20,,27203,Female,SWU_1,corr
-,,27203,,SWU_1,corr
-,,27203,,SWU_1,corr
-,,27203,,SWU_1,corr
-,,27203,,SWU_1,corr
-,,27203,,SWU_1,corr
-20,,27204,Female,SWU_1,corr
-,,27204,,SWU_1,corr
-,,27204,,SWU_1,corr
-,,27204,,SWU_1,corr
-,,27204,,SWU_1,corr
-,,27204,,SWU_1,corr
-19,,27205,Female,SWU_1,corr
-,,27205,,SWU_1,corr
-,,27205,,SWU_1,corr
-,,27205,,SWU_1,corr
-,,27205,,SWU_1,corr
-,,27205,,SWU_1,corr
-23,,27213,Female,SWU_1,corr
-,,27213,,SWU_1,corr
-,,27213,,SWU_1,corr
-,,27213,,SWU_1,corr
-,,27213,,SWU_1,corr
-,,27213,,SWU_1,corr
-23,,27214,Female,SWU_1,corr
-,,27214,,SWU_1,corr
-,,27214,,SWU_1,corr
-,,27214,,SWU_1,corr
-,,27214,,SWU_1,corr
-,,27214,,SWU_1,corr
-22,,27215,Female,SWU_1,corr
-,,27215,,SWU_1,corr
-,,27215,,SWU_1,corr
-,,27215,,SWU_1,corr
-,,27215,,SWU_1,corr
-,,27215,,SWU_1,corr
-24,,27216,Male,SWU_1,corr
-,,27216,,SWU_1,corr
-,,27216,,SWU_1,corr
-,,27216,,SWU_1,corr
-,,27216,,SWU_1,corr
-,,27216,,SWU_1,corr
-19,,27217,Male,SWU_1,corr
-,,27217,,SWU_1,corr
-,,27217,,SWU_1,corr
-,,27217,,SWU_1,corr
-,,27217,,SWU_1,corr
-,,27217,,SWU_1,corr
-19,,27218,Male,SWU_1,corr
-,,27218,,SWU_1,corr
-,,27218,,SWU_1,corr
-,,27218,,SWU_1,corr
-,,27218,,SWU_1,corr
-,,27218,,SWU_1,corr
-23,,27219,Male,SWU_1,corr
-,,27219,,SWU_1,corr
-,,27219,,SWU_1,corr
-,,27219,,SWU_1,corr
-,,27219,,SWU_1,corr
-,,27219,,SWU_1,corr
-23,,27220,Female,SWU_1,corr
-,,27220,,SWU_1,corr
-,,27220,,SWU_1,corr
-,,27220,,SWU_1,corr
-,,27220,,SWU_1,corr
-,,27220,,SWU_1,corr
-24,,27221,Male,SWU_1,corr
-,,27221,,SWU_1,corr
-,,27221,,SWU_1,corr
-,,27221,,SWU_1,corr
-,,27221,,SWU_1,corr
-,,27221,,SWU_1,corr
-22,,27222,Male,SWU_1,corr
-,,27222,,SWU_1,corr
-,,27222,,SWU_1,corr
-,,27222,,SWU_1,corr
-,,27222,,SWU_1,corr
-,,27222,,SWU_1,corr
-21,,27176,Female,SWU_2,corr
-,,27176,,SWU_2,corr
-19,,27177,Female,SWU_2,corr
-,,27177,,SWU_2,corr
-20,,27178,Female,SWU_2,corr
-,,27178,,SWU_2,corr
-20,,27179,Male,SWU_2,corr
-,,27179,,SWU_2,corr
-21,,27180,Male,SWU_2,corr
-,,27180,,SWU_2,corr
-18,,27181,Female,SWU_2,corr
-,,27181,,SWU_2,corr
-22,,27182,Female,SWU_2,corr
-,,27182,,SWU_2,corr
-23,,27183,Male,SWU_2,corr
-,,27183,,SWU_2,corr
-21,,27184,Male,SWU_2,corr
-,,27184,,SWU_2,corr
-20,,27185,Female,SWU_2,corr
-,,27185,,SWU_2,corr
-21,,27186,Female,SWU_2,corr
-,,27186,,SWU_2,corr
-23,,27187,Female,SWU_2,corr
-,,27187,,SWU_2,corr
-19,,27188,Female,SWU_2,corr
-,,27188,,SWU_2,corr
-23,,27189,Female,SWU_2,corr
-,,27189,,SWU_2,corr
-21,,27190,Female,SWU_2,corr
-,,27190,,SWU_2,corr
-23,,27191,Female,SWU_2,corr
-,,27191,,SWU_2,corr
-18,,27192,Female,SWU_2,corr
-,,27192,,SWU_2,corr
-22,,27193,Male,SWU_2,corr
-,,27193,,SWU_2,corr
-23,,27194,Female,SWU_2,corr
-,,27194,,SWU_2,corr
-21,,27195,Male,SWU_2,corr
-,,27195,,SWU_2,corr
-23,,27196,Male,SWU_2,corr
-,,27196,,SWU_2,corr
-20,,27197,Female,SWU_2,corr
-,,27197,,SWU_2,corr
-20,,27198,Female,SWU_2,corr
-,,27198,,SWU_2,corr
-19,,27199,Male,SWU_2,corr
-,,27199,,SWU_2,corr
-24,,27200,Male,SWU_2,corr
-,,27200,,SWU_2,corr
-21,,27201,Female,SWU_2,corr
-,,27201,,SWU_2,corr
-20,,27202,Female,SWU_2,corr
-,,27202,,SWU_2,corr
-21,,27152,Male,SWU_3,corr
-,,27152,,SWU_3,corr
-19,,27153,Female,SWU_3,corr
-,,27153,,SWU_3,corr
-25,,27154,Female,SWU_3,corr
-,,27154,,SWU_3,corr
-19,,27155,Female,SWU_3,corr
-,,27155,,SWU_3,corr
-20,,27156,Male,SWU_3,corr
-,,27156,,SWU_3,corr
-20,,27157,Male,SWU_3,corr
-,,27157,,SWU_3,corr
-20,,27158,Female,SWU_3,corr
-,,27158,,SWU_3,corr
-18,,27159,Female,SWU_3,corr
-,,27159,,SWU_3,corr
-20,,27160,Female,SWU_3,corr
-,,27160,,SWU_3,corr
-21,,27161,Male,SWU_3,corr
-,,27161,,SWU_3,corr
-21,,27162,Male,SWU_3,corr
-,,27162,,SWU_3,corr
-18,,27163,Female,SWU_3,corr
-,,27163,,SWU_3,corr
-20,,27164,Female,SWU_3,corr
-,,27164,,SWU_3,corr
-20,,27165,Female,SWU_3,corr
-,,27165,,SWU_3,corr
-21,,27166,Female,SWU_3,corr
-,,27166,,SWU_3,corr
-19,,27167,Female,SWU_3,corr
-,,27167,,SWU_3,corr
-19,,27168,Male,SWU_3,corr
-,,27168,,SWU_3,corr
-22,,27169,Male,SWU_3,corr
-,,27169,,SWU_3,corr
-23,,27170,Female,SWU_3,corr
-,,27170,,SWU_3,corr
-23,,27171,Female,SWU_3,corr
-,,27171,,SWU_3,corr
-20,,27172,Female,SWU_3,corr
-,,27172,,SWU_3,corr
-21,,27173,Female,SWU_3,corr
-,,27173,,SWU_3,corr
-20,,27174,Male,SWU_3,corr
-,,27174,,SWU_3,corr
-18,,25629,Female,SWU_4,corr
-,,25629,,SWU_4,corr
-22,,25630,Female,SWU_4,corr
-,,25630,,SWU_4,corr
-19,,25631,Male,SWU_4,corr
-,,25631,,SWU_4,corr
-20,,25632,Male,SWU_4,corr
-,,25632,,SWU_4,corr
-18,,25633,Female,SWU_4,corr
-,,25633,,SWU_4,corr
-23,,25634,Female,SWU_4,corr
-,,25634,,SWU_4,corr
-20,,25635,Male,SWU_4,corr
-,,25635,,SWU_4,corr
-24,,25636,Female,SWU_4,corr
-,,25636,,SWU_4,corr
-21,,25637,Female,SWU_4,corr
-,,25637,,SWU_4,corr
-21,,25638,Female,SWU_4,corr
-,,25638,,SWU_4,corr
-27,,25739,Female,SWU_4,corr
-,,25739,,SWU_4,corr
-21,,25740,Female,SWU_4,corr
-,,25740,,SWU_4,corr
-20,,25741,Female,SWU_4,corr
-,,25741,,SWU_4,corr
-18,,25742,Female,SWU_4,corr
-,,25742,,SWU_4,corr
-18,,25743,Female,SWU_4,corr
-,,25743,,SWU_4,corr
-18,,25744,Female,SWU_4,corr
-,,25744,,SWU_4,corr
-20,,25745,Male,SWU_4,corr
-,,25745,,SWU_4,corr
-20,,25746,Female,SWU_4,corr
-,,25746,,SWU_4,corr
-17,,25747,Male,SWU_4,corr
-,,25747,,SWU_4,corr
-20,,25748,Female,SWU_4,corr
-,,25748,,SWU_4,corr
-19,,25794,Female,SWU_4,corr
-,,25794,,SWU_4,corr
-19,,25795,Female,SWU_4,corr
-,,25795,,SWU_4,corr
-20,,25796,Female,SWU_4,corr
-,,25796,,SWU_4,corr
-20,,25797,Female,SWU_4,corr
-,,25797,,SWU_4,corr
-19,,25798,Male,SWU_4,corr
-,,25798,,SWU_4,corr
-20,,25799,Male,SWU_4,corr
-,,25799,,SWU_4,corr
-21,,25800,Male,SWU_4,corr
-,,25800,,SWU_4,corr
-20,,25801,Male,SWU_4,corr
-,,25801,,SWU_4,corr
-18,,25802,Male,SWU_4,corr
-,,25802,,SWU_4,corr
-20,,25803,Female,SWU_4,corr
-,,25803,,SWU_4,corr
-18,,25804,Female,SWU_4,corr
-,,25804,,SWU_4,corr
-19,,25805,Male,SWU_4,corr
-,,25805,,SWU_4,corr
-20,,25806,Male,SWU_4,corr
-,,25806,,SWU_4,corr
-19,,25807,Female,SWU_4,corr
-,,25807,,SWU_4,corr
-19,,25808,Female,SWU_4,corr
-,,25808,,SWU_4,corr
-19,,25809,Male,SWU_4,corr
-,,25809,,SWU_4,corr
-20,,25810,Male,SWU_4,corr
-,,25810,,SWU_4,corr
-19,,25811,Female,SWU_4,corr
-,,25811,,SWU_4,corr
-20,,25812,Female,SWU_4,corr
-,,25812,,SWU_4,corr
-18,,25813,Male,SWU_4,corr
-,,25813,,SWU_4,corr
-19,,25814,Male,SWU_4,corr
-,,25814,,SWU_4,corr
-19,,25815,Male,SWU_4,corr
-,,25815,,SWU_4,corr
-19,,25816,Male,SWU_4,corr
-,,25816,,SWU_4,corr
-19,,25817,Female,SWU_4,corr
-,,25817,,SWU_4,corr
-20,,25818,Male,SWU_4,corr
-,,25818,,SWU_4,corr
-19,,25819,Male,SWU_4,corr
-,,25819,,SWU_4,corr
-19,,25820,Female,SWU_4,corr
-,,25820,,SWU_4,corr
-19,,25821,Female,SWU_4,corr
-,,25821,,SWU_4,corr
-19,,25822,Female,SWU_4,corr
-,,25822,,SWU_4,corr
-19,,25823,Female,SWU_4,corr
-,,25823,,SWU_4,corr
-19,,25824,Male,SWU_4,corr
-,,25824,,SWU_4,corr
-18,,25825,Female,SWU_4,corr
-,,25825,,SWU_4,corr
-19,,25826,Female,SWU_4,corr
-,,25826,,SWU_4,corr
-18,,25827,Female,SWU_4,corr
-,,25827,,SWU_4,corr
-19,,25828,Male,SWU_4,corr
-,,25828,,SWU_4,corr
-20,,25829,Male,SWU_4,corr
-,,25829,,SWU_4,corr
-19,,25830,Male,SWU_4,corr
-,,25830,,SWU_4,corr
-21,,25831,Male,SWU_4,corr
-,,25831,,SWU_4,corr
-20,,25832,Male,SWU_4,corr
-,,25832,,SWU_4,corr
-20,,25833,Male,SWU_4,corr
-,,25833,,SWU_4,corr
-20,,25834,Male,SWU_4,corr
-,,25834,,SWU_4,corr
-19,,25835,Male,SWU_4,corr
-,,25835,,SWU_4,corr
-19,,25836,Female,SWU_4,corr
-,,25836,,SWU_4,corr
-19,,25837,Male,SWU_4,corr
-,,25837,,SWU_4,corr
-20,,25838,Male,SWU_4,corr
-,,25838,,SWU_4,corr
-21,,25839,Female,SWU_4,corr
-,,25839,,SWU_4,corr
-19,,25840,Female,SWU_4,corr
-,,25840,,SWU_4,corr
-21,,25841,Male,SWU_4,corr
-,,25841,,SWU_4,corr
-21,,25842,Female,SWU_4,corr
-,,25842,,SWU_4,corr
-21,,25843,Female,SWU_4,corr
-,,25843,,SWU_4,corr
-19,,25844,Female,SWU_4,corr
-,,25844,,SWU_4,corr
-19,,25845,Female,SWU_4,corr
-,,25845,,SWU_4,corr
-20,,25846,Female,SWU_4,corr
-,,25846,,SWU_4,corr
-20,,25847,Female,SWU_4,corr
-,,25847,,SWU_4,corr
-21,,25848,Male,SWU_4,corr
-,,25848,,SWU_4,corr
-20,,25849,Female,SWU_4,corr
-,,25849,,SWU_4,corr
-20,,25850,Female,SWU_4,corr
-,,25850,,SWU_4,corr
-20,,25851,Female,SWU_4,corr
-,,25851,,SWU_4,corr
-21,,25852,Male,SWU_4,corr
-,,25852,,SWU_4,corr
-19,,25853,Female,SWU_4,corr
-,,25853,,SWU_4,corr
-20,,25854,Female,SWU_4,corr
-,,25854,,SWU_4,corr
-19,,25855,Male,SWU_4,corr
-,,25855,,SWU_4,corr
-21,,25856,Male,SWU_4,corr
-,,25856,,SWU_4,corr
-20,,25857,Female,SWU_4,corr
-,,25857,,SWU_4,corr
-19,,25858,Male,SWU_4,corr
-,,25858,,SWU_4,corr
-20,,25859,Male,SWU_4,corr
-,,25859,,SWU_4,corr
-18,,25860,Female,SWU_4,corr
-,,25860,,SWU_4,corr
-19,,25861,Female,SWU_4,corr
-,,25861,,SWU_4,corr
-20,,25862,Female,SWU_4,corr
-,,25862,,SWU_4,corr
-20,,25863,Female,SWU_4,corr
-,,25863,,SWU_4,corr
-20,,25639,Male,SWU_4,corr
-,,25639,,SWU_4,corr
-21,,25640,Female,SWU_4,corr
-,,25640,,SWU_4,corr
-21,,25641,Female,SWU_4,corr
-,,25641,,SWU_4,corr
-22,,25642,Female,SWU_4,corr
-,,25642,,SWU_4,corr
-20,,25643,Female,SWU_4,corr
-,,25643,,SWU_4,corr
-19,,25644,Female,SWU_4,corr
-,,25644,,SWU_4,corr
-20,,25645,Male,SWU_4,corr
-,,25645,,SWU_4,corr
-20,,25646,Female,SWU_4,corr
-,,25646,,SWU_4,corr
-17,,25647,Female,SWU_4,corr
-,,25647,,SWU_4,corr
-20,,25648,Female,SWU_4,corr
-,,25648,,SWU_4,corr
-20,,25649,Female,SWU_4,corr
-,,25649,,SWU_4,corr
-21,,25650,Male,SWU_4,corr
-,,25650,,SWU_4,corr
-21,,25651,Male,SWU_4,corr
-,,25651,,SWU_4,corr
-19,,25652,Female,SWU_4,corr
-,,25652,,SWU_4,corr
-19,,25653,Male,SWU_4,corr
-,,25653,,SWU_4,corr
-20,,25654,Female,SWU_4,corr
-,,25654,,SWU_4,corr
-20,,25655,Female,SWU_4,corr
-,,25655,,SWU_4,corr
-20,,25656,Female,SWU_4,corr
-,,25656,,SWU_4,corr
-22,,25657,Male,SWU_4,corr
-,,25657,,SWU_4,corr
-20,,25658,Male,SWU_4,corr
-,,25658,,SWU_4,corr
-19,,25659,Female,SWU_4,corr
-,,25659,,SWU_4,corr
-19,,25660,Female,SWU_4,corr
-,,25660,,SWU_4,corr
-20,,25661,Female,SWU_4,corr
-,,25661,,SWU_4,corr
-21,,25662,Female,SWU_4,corr
-,,25662,,SWU_4,corr
-19,,25663,Male,SWU_4,corr
-,,25663,,SWU_4,corr
-20,,25664,Female,SWU_4,corr
-,,25664,,SWU_4,corr
-20,,25665,Female,SWU_4,corr
-,,25665,,SWU_4,corr
-21,,25666,Female,SWU_4,corr
-,,25666,,SWU_4,corr
-19,,25667,Female,SWU_4,corr
-,,25667,,SWU_4,corr
-20,,25668,Female,SWU_4,corr
-,,25668,,SWU_4,corr
-19,,25669,Male,SWU_4,corr
-,,25669,,SWU_4,corr
-19,,25670,Male,SWU_4,corr
-,,25670,,SWU_4,corr
-20,,25671,Male,SWU_4,corr
-,,25671,,SWU_4,corr
-21,,25672,Female,SWU_4,corr
-,,25672,,SWU_4,corr
-20,,25673,Female,SWU_4,corr
-,,25673,,SWU_4,corr
-20,,25674,Female,SWU_4,corr
-,,25674,,SWU_4,corr
-19,,25675,Female,SWU_4,corr
-,,25675,,SWU_4,corr
-19,,25676,Female,SWU_4,corr
-,,25676,,SWU_4,corr
-20,,25677,Female,SWU_4,corr
-,,25677,,SWU_4,corr
-20,,25678,Female,SWU_4,corr
-,,25678,,SWU_4,corr
-19,,25679,Female,SWU_4,corr
-,,25679,,SWU_4,corr
-19,,25680,Male,SWU_4,corr
-,,25680,,SWU_4,corr
-20,,25681,Female,SWU_4,corr
-,,25681,,SWU_4,corr
-20,,25682,Male,SWU_4,corr
-,,25682,,SWU_4,corr
-21,,25683,Male,SWU_4,corr
-,,25683,,SWU_4,corr
-20,,25684,Male,SWU_4,corr
-,,25684,,SWU_4,corr
-20,,25685,Female,SWU_4,corr
-,,25685,,SWU_4,corr
-22,,25686,Male,SWU_4,corr
-,,25686,,SWU_4,corr
-19,,25687,Male,SWU_4,corr
-,,25687,,SWU_4,corr
-20,,25688,Male,SWU_4,corr
-,,25688,,SWU_4,corr
-20,,25689,Female,SWU_4,corr
-,,25689,,SWU_4,corr
-21,,25690,Male,SWU_4,corr
-,,25690,,SWU_4,corr
-19,,25691,Female,SWU_4,corr
-,,25691,,SWU_4,corr
-20,,25692,Male,SWU_4,corr
-,,25692,,SWU_4,corr
-21,,25693,Male,SWU_4,corr
-,,25693,,SWU_4,corr
-20,,25694,Male,SWU_4,corr
-,,25694,,SWU_4,corr
-19,,25695,Male,SWU_4,corr
-,,25695,,SWU_4,corr
-19,,25696,Male,SWU_4,corr
-,,25696,,SWU_4,corr
-21,,25697,Male,SWU_4,corr
-,,25697,,SWU_4,corr
-19,,25698,Male,SWU_4,corr
-,,25698,,SWU_4,corr
-21,,25699,Male,SWU_4,corr
-,,25699,,SWU_4,corr
-20,,25700,Male,SWU_4,corr
-,,25700,,SWU_4,corr
-20,,25701,Male,SWU_4,corr
-,,25701,,SWU_4,corr
-20,,25702,Male,SWU_4,corr
-,,25702,,SWU_4,corr
-19,,25703,Male,SWU_4,corr
-,,25703,,SWU_4,corr
-21,,25704,Male,SWU_4,corr
-,,25704,,SWU_4,corr
-20,,25705,Male,SWU_4,corr
-,,25705,,SWU_4,corr
-20,,25706,Male,SWU_4,corr
-,,25706,,SWU_4,corr
-19,,25707,Male,SWU_4,corr
-,,25707,,SWU_4,corr
-25,,25708,Male,SWU_4,corr
-,,25708,,SWU_4,corr
-20,,25709,Male,SWU_4,corr
-,,25709,,SWU_4,corr
-20,,25710,Male,SWU_4,corr
-,,25710,,SWU_4,corr
-19,,25711,Male,SWU_4,corr
-,,25711,,SWU_4,corr
-20,,25712,Male,SWU_4,corr
-,,25712,,SWU_4,corr
-20,,25713,Male,SWU_4,corr
-,,25713,,SWU_4,corr
-20,,25714,Male,SWU_4,corr
-,,25714,,SWU_4,corr
-20,,25715,Male,SWU_4,corr
-,,25715,,SWU_4,corr
-20,,25716,Male,SWU_4,corr
-,,25716,,SWU_4,corr
-24,,25717,Female,SWU_4,corr
-,,25717,,SWU_4,corr
-19,,25718,Male,SWU_4,corr
-,,25718,,SWU_4,corr
-21,,25719,Male,SWU_4,corr
-,,25719,,SWU_4,corr
-20,,25720,Male,SWU_4,corr
-,,25720,,SWU_4,corr
-21,,25721,Female,SWU_4,corr
-,,25721,,SWU_4,corr
-22,,25722,Female,SWU_4,corr
-,,25722,,SWU_4,corr
-21,,25723,Female,SWU_4,corr
-,,25723,,SWU_4,corr
-19,,25724,Female,SWU_4,corr
-,,25724,,SWU_4,corr
-20,,25725,Male,SWU_4,corr
-,,25725,,SWU_4,corr
-21,,25726,Female,SWU_4,corr
-,,25726,,SWU_4,corr
-20,,25727,Female,SWU_4,corr
-,,25727,,SWU_4,corr
-20,,25728,Male,SWU_4,corr
-,,25728,,SWU_4,corr
-21,,25729,Male,SWU_4,corr
-,,25729,,SWU_4,corr
-19,,25730,Male,SWU_4,corr
-,,25730,,SWU_4,corr
-20,,25731,Male,SWU_4,corr
-,,25731,,SWU_4,corr
-22,,25732,Female,SWU_4,corr
-,,25732,,SWU_4,corr
-20,,25733,Female,SWU_4,corr
-,,25733,,SWU_4,corr
-21,,25734,Female,SWU_4,corr
-,,25734,,SWU_4,corr
-20,,25735,Male,SWU_4,corr
-,,25735,,SWU_4,corr
-20,,25736,Female,SWU_4,corr
-,,25736,,SWU_4,corr
-22,,25737,Male,SWU_4,corr
-,,25737,,SWU_4,corr
-21,,25738,Male,SWU_4,corr
-,,25738,,SWU_4,corr
-22,,25749,Male,SWU_4,corr
-,,25749,,SWU_4,corr
-19,,25750,Female,SWU_4,corr
-,,25750,,SWU_4,corr
-20,,25751,Female,SWU_4,corr
-,,25751,,SWU_4,corr
-21,,25752,Male,SWU_4,corr
-,,25752,,SWU_4,corr
-21,,25753,Male,SWU_4,corr
-,,25753,,SWU_4,corr
-20,,25754,Female,SWU_4,corr
-,,25754,,SWU_4,corr
-19,,25756,Male,SWU_4,corr
-,,25756,,SWU_4,corr
-20,,25757,Male,SWU_4,corr
-,,25757,,SWU_4,corr
-20,,25758,Female,SWU_4,corr
-,,25758,,SWU_4,corr
-21,,25759,Male,SWU_4,corr
-,,25759,,SWU_4,corr
-20,,25760,Female,SWU_4,corr
-,,25760,,SWU_4,corr
-19,,25761,Male,SWU_4,corr
-,,25761,,SWU_4,corr
-20,,25762,Male,SWU_4,corr
-,,25762,,SWU_4,corr
-20,,25763,Female,SWU_4,corr
-,,25763,,SWU_4,corr
-20,,25764,Male,SWU_4,corr
-,,25764,,SWU_4,corr
-19,,25765,Female,SWU_4,corr
-,,25765,,SWU_4,corr
-20,,25766,Male,SWU_4,corr
-,,25766,,SWU_4,corr
-20,,25767,Male,SWU_4,corr
-,,25767,,SWU_4,corr
-20,,25768,Male,SWU_4,corr
-,,25768,,SWU_4,corr
-19,,25769,Female,SWU_4,corr
-,,25769,,SWU_4,corr
-19,,25770,Male,SWU_4,corr
-,,25770,,SWU_4,corr
-21,,25771,Male,SWU_4,corr
-,,25771,,SWU_4,corr
-20,,25772,Male,SWU_4,corr
-,,25772,,SWU_4,corr
-20,,25773,Male,SWU_4,corr
-,,25773,,SWU_4,corr
-21,,25774,Female,SWU_4,corr
-,,25774,,SWU_4,corr
-21,,25775,Male,SWU_4,corr
-,,25775,,SWU_4,corr
-21,,25776,Male,SWU_4,corr
-,,25776,,SWU_4,corr
-22,,25777,Male,SWU_4,corr
-,,25777,,SWU_4,corr
-20,,25778,Female,SWU_4,corr
-,,25778,,SWU_4,corr
-20,,25779,Female,SWU_4,corr
-,,25779,,SWU_4,corr
-20,,25780,Male,SWU_4,corr
-,,25780,,SWU_4,corr
-20,,25781,Female,SWU_4,corr
-,,25781,,SWU_4,corr
-21,,25782,Male,SWU_4,corr
-,,25782,,SWU_4,corr
-19,,25783,Male,SWU_4,corr
-,,25783,,SWU_4,corr
-21,,25784,Female,SWU_4,corr
-,,25784,,SWU_4,corr
-19,,25785,Female,SWU_4,corr
-,,25785,,SWU_4,corr
-20,,25786,Female,SWU_4,corr
-,,25786,,SWU_4,corr
-20,,25787,Female,SWU_4,corr
-,,25787,,SWU_4,corr
-22,,25788,Female,SWU_4,corr
-,,25788,,SWU_4,corr
-24,,25789,Female,SWU_4,corr
-,,25789,,SWU_4,corr
-22,,25790,Male,SWU_4,corr
-,,25790,,SWU_4,corr
-25,,25791,Male,SWU_4,corr
-,,25791,,SWU_4,corr
-23,,25792,Male,SWU_4,corr
-,,25792,,SWU_4,corr
-23,,25793,Male,SWU_4,corr
-,,25793,,SWU_4,corr
+23,,25485,Female,IPCAS,corr
+,,25485,,IPCAS,corr
+,,25485,,IPCAS,corr
+,,25485,,IPCAS,corr
+22,,25486,Male,IPCAS,corr
+,,25486,,IPCAS,corr
+,,25486,,IPCAS,corr
+,,25486,,IPCAS,corr
+18,,25487,Female,IPCAS,corr
+,,25487,,IPCAS,corr
+,,25487,,IPCAS,corr
+,,25487,,IPCAS,corr
+21,,25488,Male,IPCAS,corr
+,,25488,,IPCAS,corr
+,,25488,,IPCAS,corr
+,,25488,,IPCAS,corr
+23,,25489,Female,IPCAS,corr
+,,25489,,IPCAS,corr
+,,25489,,IPCAS,corr
+,,25489,,IPCAS,corr
+24,,25490,Male,IPCAS,corr
+,,25490,,IPCAS,corr
+,,25490,,IPCAS,corr
+,,25490,,IPCAS,corr
+20,,25491,Male,IPCAS,corr
+,,25491,,IPCAS,corr
+,,25491,,IPCAS,corr
+,,25491,,IPCAS,corr
+22,,25492,Female,IPCAS,corr
+,,25492,,IPCAS,corr
+,,25492,,IPCAS,corr
+,,25492,,IPCAS,corr
+18,,25493,Female,IPCAS,corr
+,,25493,,IPCAS,corr
+,,25493,,IPCAS,corr
+,,25493,,IPCAS,corr
+20,,25494,Female,IPCAS,corr
+,,25494,,IPCAS,corr
+,,25494,,IPCAS,corr
+,,25494,,IPCAS,corr
+19,,25495,Female,IPCAS,corr
+,,25495,,IPCAS,corr
+,,25495,,IPCAS,corr
+,,25495,,IPCAS,corr
+22,,25496,Female,IPCAS,corr
+,,25496,,IPCAS,corr
+,,25496,,IPCAS,corr
+,,25496,,IPCAS,corr
+19,,25497,Female,IPCAS,corr
+,,25497,,IPCAS,corr
+,,25497,,IPCAS,corr
+,,25497,,IPCAS,corr
+23,,25498,Male,IPCAS,corr
+,,25498,,IPCAS,corr
+,,25498,,IPCAS,corr
+,,25498,,IPCAS,corr
+20,,25499,Female,IPCAS,corr
+,,25499,,IPCAS,corr
+,,25499,,IPCAS,corr
+,,25499,,IPCAS,corr
+18,,25500,Female,IPCAS,corr
+,,25500,,IPCAS,corr
+,,25500,,IPCAS,corr
+,,25500,,IPCAS,corr
+22,,25501,Male,IPCAS,corr
+,,25501,,IPCAS,corr
+,,25501,,IPCAS,corr
+,,25501,,IPCAS,corr
+21,,25502,Female,IPCAS,corr
+,,25502,,IPCAS,corr
+,,25502,,IPCAS,corr
+,,25502,,IPCAS,corr
+20,,25503,Female,IPCAS,corr
+,,25503,,IPCAS,corr
+,,25503,,IPCAS,corr
+,,25503,,IPCAS,corr
+20,,25504,Female,IPCAS,corr
+,,25504,,IPCAS,corr
+,,25504,,IPCAS,corr
+,,25504,,IPCAS,corr
+21,,25505,Female,IPCAS,corr
+,,25505,,IPCAS,corr
+,,25505,,IPCAS,corr
+,,25505,,IPCAS,corr
+22,,25506,Male,IPCAS,corr
+,,25506,,IPCAS,corr
+,,25506,,IPCAS,corr
+,,25506,,IPCAS,corr
+23,,25507,Female,IPCAS,corr
+,,25507,,IPCAS,corr
+,,25507,,IPCAS,corr
+,,25507,,IPCAS,corr
+20,,25508,Female,IPCAS,corr
+,,25508,,IPCAS,corr
+,,25508,,IPCAS,corr
+,,25508,,IPCAS,corr
+23,,25509,Male,IPCAS,corr
+,,25509,,IPCAS,corr
+,,25509,,IPCAS,corr
+,,25509,,IPCAS,corr
+20,,25510,Female,IPCAS,corr
+,,25510,,IPCAS,corr
+,,25510,,IPCAS,corr
+,,25510,,IPCAS,corr
+20,,25511,Female,IPCAS,corr
+,,25511,,IPCAS,corr
+,,25511,,IPCAS,corr
+,,25511,,IPCAS,corr
+20,,25512,Female,IPCAS,corr
+,,25512,,IPCAS,corr
+,,25512,,IPCAS,corr
+,,25512,,IPCAS,corr
+19,,25513,Male,IPCAS,corr
+,,25513,,IPCAS,corr
+,,25513,,IPCAS,corr
+,,25513,,IPCAS,corr
+24,,25514,Female,IPCAS,corr
+,,25514,,IPCAS,corr
+,,25514,,IPCAS,corr
+,,25514,,IPCAS,corr
+12,,25515,Female,IPCAS,corr
+12,,25515,Female,IPCAS,corr
+13,,25516,Male,IPCAS,corr
+14,,25516,Male,IPCAS,corr
+13,,25517,Female,IPCAS,corr
+13,,25517,Female,IPCAS,corr
+12,,25518,Male,IPCAS,corr
+12,,25518,Male,IPCAS,corr
+13,,25519,Female,IPCAS,corr
+13,,25519,Female,IPCAS,corr
+13,,25520,Female,IPCAS,corr
+13,,25520,Female,IPCAS,corr
+14,,25521,Female,IPCAS,corr
+14,,25521,Female,IPCAS,corr
+12,,25522,Female,IPCAS,corr
+13,,25522,Female,IPCAS,corr
+13,,25523,Male,IPCAS,corr
+13,,25523,Male,IPCAS,corr
+12,,25524,Female,IPCAS,corr
+12,,25524,Female,IPCAS,corr
+13,,25525,Female,IPCAS,corr
+13,,25525,Female,IPCAS,corr
+15,,25526,Male,IPCAS,corr
+15,,25526,Male,IPCAS,corr
+14,,25527,Male,IPCAS,corr
+14,,25527,Male,IPCAS,corr
+12,,25528,Female,IPCAS,corr
+12,,25528,Female,IPCAS,corr
+13,,25529,Female,IPCAS,corr
+13,,25529,Female,IPCAS,corr
+13,,25530,Female,IPCAS,corr
+13,,25530,Female,IPCAS,corr
+13,,25531,Male,IPCAS,corr
+13,,25531,Male,IPCAS,corr
+13,,25532,Female,IPCAS,corr
+13,,25532,Female,IPCAS,corr
+12,,25533,Female,IPCAS,corr
+12,,25533,Female,IPCAS,corr
+13,,25534,Male,IPCAS,corr
+13,,25534,Male,IPCAS,corr
+11,,25535,Female,IPCAS,corr
+11,,25535,Female,IPCAS,corr
+13,,25536,Male,IPCAS,corr
+13,,25536,Male,IPCAS,corr
+15,,25537,Female,IPCAS,corr
+15,,25537,Female,IPCAS,corr
+14,,25538,Female,IPCAS,corr
+14,,25538,Female,IPCAS,corr
+14,,25539,Female,IPCAS,corr
+14,,25539,Female,IPCAS,corr
+14,,25540,Female,IPCAS,corr
+14,,25540,Female,IPCAS,corr
+14,,25541,Female,IPCAS,corr
+14,,25541,Female,IPCAS,corr
+14,,25542,Female,IPCAS,corr
+14,,25542,Female,IPCAS,corr
+13,,25543,Female,IPCAS,corr
+13,,25543,Female,IPCAS,corr
+15,,25544,Female,IPCAS,corr
+15,,25544,Female,IPCAS,corr
+14,,25546,Male,IPCAS,corr
+14,,25546,Male,IPCAS,corr
+14,,25547,Male,IPCAS,corr
+14,,25547,Male,IPCAS,corr
+15,,25548,Male,IPCAS,corr
+15,,25548,Male,IPCAS,corr
+14,,25549,Male,IPCAS,corr
+14,,25549,Male,IPCAS,corr
+20,,25550,Female,IPCAS,corr
+,,25550,,IPCAS,corr
+21,,25551,Female,IPCAS,corr
+,,25551,,IPCAS,corr
+22,,25552,Female,IPCAS,corr
+,,25552,,IPCAS,corr
+24,,25553,Male,IPCAS,corr
+,,25553,,IPCAS,corr
+20,,25554,Female,IPCAS,corr
+,,25554,,IPCAS,corr
+21,,25555,Male,IPCAS,corr
+,,25555,,IPCAS,corr
+18,,25556,Female,IPCAS,corr
+,,25556,,IPCAS,corr
+19,,25557,Female,IPCAS,corr
+,,25557,,IPCAS,corr
+,,25557,,IPCAS,corr
+,,25557,,IPCAS,corr
+22,,25558,Male,IPCAS,corr
+,,25558,,IPCAS,corr
+18,,25559,Female,IPCAS,corr
+,,25559,,IPCAS,corr
+20,,25560,Female,IPCAS,corr
+,,25560,,IPCAS,corr
+25,,25561,Male,IPCAS,corr
+,,25561,,IPCAS,corr
+,,25561,,IPCAS,corr
+,,25561,,IPCAS,corr
+24,,25562,Male,IPCAS,corr
+,,25562,,IPCAS,corr
+,,25562,,IPCAS,corr
+,,25562,,IPCAS,corr
+22,,25563,Male,IPCAS,corr
+,,25563,,IPCAS,corr
+20,,25564,Female,IPCAS,corr
+,,25564,,IPCAS,corr
+22,,25565,Male,IPCAS,corr
+,,25565,,IPCAS,corr
+,,25566,,IPCAS,corr
+,,25566,,IPCAS,corr
+21,,25567,Female,IPCAS,corr
+,,25567,,IPCAS,corr
+,,25567,,IPCAS,corr
+,,25567,,IPCAS,corr
+20,,25568,Female,IPCAS,corr
+,,25568,,IPCAS,corr
+22,,25569,Male,IPCAS,corr
+,,25569,,IPCAS,corr
+22,,25570,Male,IPCAS,corr
+,,25570,,IPCAS,corr
+21,,25571,Female,IPCAS,corr
+,,25571,,IPCAS,corr
+20,,25572,Female,IPCAS,corr
+,,25572,,IPCAS,corr
+21,,25573,Male,IPCAS,corr
+,,25573,,IPCAS,corr
+22,,25574,Female,IPCAS,corr
+,,25574,,IPCAS,corr
+23,,25575,Female,IPCAS,corr
+,,25575,,IPCAS,corr
+20,,25576,Female,IPCAS,corr
+,,25576,,IPCAS,corr
+23,,25577,Female,IPCAS,corr
+,,25577,,IPCAS,corr
+17,,25578,Female,IPCAS,corr
+,,25578,,IPCAS,corr
+20,,25579,Female,IPCAS,corr
+,,25579,,IPCAS,corr
+20,,25580,Male,IPCAS,corr
+,,25580,,IPCAS,corr
+22,,25581,Male,IPCAS,corr
+,,25581,,IPCAS,corr
+23,,25582,Female,IPCAS,corr
+,,25582,,IPCAS,corr
+22,,25583,Female,IPCAS,corr
+,,25583,,IPCAS,corr
+21,,25584,Female,IPCAS,corr
+,,25584,,IPCAS,corr
+20,,25585,Female,IPCAS,corr
+,,25585,,IPCAS,corr
+23,,26190,Female,IPCAS,corr
+,,26190,,IPCAS,corr
+24,,26191,Male,IPCAS,corr
+,,26191,,IPCAS,corr
+22,,26192,Male,IPCAS,corr
+,,26192,,IPCAS,corr
+23,,26193,Male,IPCAS,corr
+,,26193,,IPCAS,corr
+28,,26194,Male,IPCAS,corr
+,,26194,,IPCAS,corr
+22,,26195,Male,IPCAS,corr
+,,26195,,IPCAS,corr
+22,,26196,Female,IPCAS,corr
+,,26196,,IPCAS,corr
+23,,26197,Male,IPCAS,corr
+,,26197,,IPCAS,corr
+23,,26198,Male,IPCAS,corr
+,,26198,,IPCAS,corr
+24,,26199,Female,IPCAS,corr
+,,26199,,IPCAS,corr
+22,,26200,Male,IPCAS,corr
+,,26200,,IPCAS,corr
+25,,26201,Female,IPCAS,corr
+,,26201,,IPCAS,corr
+21,,26202,Female,IPCAS,corr
+,,26202,,IPCAS,corr
+21,,26203,Female,IPCAS,corr
+,,26203,,IPCAS,corr
+23,,26204,Female,IPCAS,corr
+,,26204,,IPCAS,corr
+23,,26205,Male,IPCAS,corr
+,,26205,,IPCAS,corr
+24,,26206,Female,IPCAS,corr
+,,26206,,IPCAS,corr
+23,,26207,Female,IPCAS,corr
+,,26207,,IPCAS,corr
+25,,26208,Female,IPCAS,corr
+,,26208,,IPCAS,corr
+22,,26209,Male,IPCAS,corr
+,,26209,,IPCAS,corr
+18,,27284,Male,IPCAS,corr
+,,27284,,IPCAS,corr
+,,27284,,IPCAS,corr
+18,,27285,Male,IPCAS,corr
+,,27285,,IPCAS,corr
+,,27285,,IPCAS,corr
+18,,27286,Male,IPCAS,corr
+,,27286,,IPCAS,corr
+18,,27287,Male,IPCAS,corr
+,,27287,,IPCAS,corr
+,,27287,,IPCAS,corr
+19,,27288,Male,IPCAS,corr
+,,27288,,IPCAS,corr
+19,,27289,Male,IPCAS,corr
+,,27289,,IPCAS,corr
+,,27289,,IPCAS,corr
+19,,27290,Male,IPCAS,corr
+,,27290,,IPCAS,corr
+,,27290,,IPCAS,corr
+18,,27291,Male,IPCAS,corr
+,,27291,,IPCAS,corr
+19,,27292,Male,IPCAS,corr
+,,27292,,IPCAS,corr
+,,27292,,IPCAS,corr
+19,,27293,Male,IPCAS,corr
+,,27293,,IPCAS,corr
+18,,27294,Male,IPCAS,corr
+,,27294,,IPCAS,corr
+,,27294,,IPCAS,corr
+19,,27295,Male,IPCAS,corr
+,,27295,,IPCAS,corr
+,,27295,,IPCAS,corr
+18,,27296,Male,IPCAS,corr
+,,27296,,IPCAS,corr
+,,27296,,IPCAS,corr
+18,,27297,Male,IPCAS,corr
+,,27297,,IPCAS,corr
+18,,27298,Male,IPCAS,corr
+,,27298,,IPCAS,corr
+,,27298,,IPCAS,corr
+18,,27299,Male,IPCAS,corr
+,,27299,,IPCAS,corr
+18,,27300,Male,IPCAS,corr
+,,27300,,IPCAS,corr
+18,,27301,Male,IPCAS,corr
+,,27301,,IPCAS,corr
+18,,27302,Male,IPCAS,corr
+,,27302,,IPCAS,corr
+,,27302,,IPCAS,corr
+18,,27303,Male,IPCAS,corr
+,,27303,,IPCAS,corr
+18,,27304,Male,IPCAS,corr
+,,27304,,IPCAS,corr
+19,,27305,Male,IPCAS,corr
+,,27305,,IPCAS,corr
+25,,26044,Male,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+,,26044,,IPCAS,corr
+21,,26045,Female,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+,,26045,,IPCAS,corr
+11,,26046,Male,IPCAS,corr
+11,,26046,Male,IPCAS,corr
+11,,26047,Male,IPCAS,corr
+11,,26047,Male,IPCAS,corr
+11,,26048,Male,IPCAS,corr
+11,,26048,Male,IPCAS,corr
+12,,26049,Male,IPCAS,corr
+12,,26049,Male,IPCAS,corr
+12,,26050,Male,IPCAS,corr
+12,,26050,Male,IPCAS,corr
+11,,26051,Female,IPCAS,corr
+11,,26051,Female,IPCAS,corr
+11,,26052,Male,IPCAS,corr
+11,,26052,Male,IPCAS,corr
+11,,26053,Female,IPCAS,corr
+11,,26053,Female,IPCAS,corr
+12,,26054,Female,IPCAS,corr
+12,,26054,Female,IPCAS,corr
+11,,26055,Female,IPCAS,corr
+11,,26055,Female,IPCAS,corr
+11,,26056,Female,IPCAS,corr
+11,,26056,Female,IPCAS,corr
+9,,26057,Female,IPCAS,corr
+9,,26057,Female,IPCAS,corr
+10,,26058,Male,IPCAS,corr
+10,,26058,Male,IPCAS,corr
+9,,26059,Female,IPCAS,corr
+9,,26059,Female,IPCAS,corr
+9,,26060,Male,IPCAS,corr
+9,,26060,Male,IPCAS,corr
+9,,26061,Male,IPCAS,corr
+9,,26061,Male,IPCAS,corr
+10,,26062,Male,IPCAS,corr
+10,,26062,Male,IPCAS,corr
+9,,26063,Male,IPCAS,corr
+9,,26063,Male,IPCAS,corr
+10,,26064,Female,IPCAS,corr
+10,,26064,Female,IPCAS,corr
+10,,26065,Male,IPCAS,corr
+10,,26065,Male,IPCAS,corr
+9,,26066,Male,IPCAS,corr
+9,,26066,Male,IPCAS,corr
+9,,26067,Male,IPCAS,corr
+9,,26067,Male,IPCAS,corr
+12,,26068,Female,IPCAS,corr
+12,,26068,Female,IPCAS,corr
+11,,26069,Female,IPCAS,corr
+11,,26069,Female,IPCAS,corr
+11,,26070,Male,IPCAS,corr
+11,,26070,Male,IPCAS,corr
+11,,26071,Female,IPCAS,corr
+11,,26071,Female,IPCAS,corr
+8,,26072,Male,IPCAS,corr
+8,,26072,Male,IPCAS,corr
+9,,26073,Female,IPCAS,corr
+9,,26073,Female,IPCAS,corr
+10,,26074,Male,IPCAS,corr
+10,,26074,Male,IPCAS,corr
+7,,26075,Female,IPCAS,corr
+7,,26075,Female,IPCAS,corr
+6,,26076,Male,IPCAS,corr
+6,,26076,Male,IPCAS,corr
+6,,26077,Male,IPCAS,corr
+6,,26077,Male,IPCAS,corr
+6,,26078,Male,IPCAS,corr
+6,,26078,Male,IPCAS,corr
+6,,26079,Female,IPCAS,corr
+6,,26079,Female,IPCAS,corr
+7,,26080,Male,IPCAS,corr
+7,,26080,Male,IPCAS,corr
+6,,26081,Male,IPCAS,corr
+6,,26081,Male,IPCAS,corr
+6,,26082,Female,IPCAS,corr
+6,,26082,Female,IPCAS,corr
+7,,26083,Male,IPCAS,corr
+7,,26083,Male,IPCAS,corr
+7,,26084,Female,IPCAS,corr
+7,,26084,Female,IPCAS,corr
+13,,26085,Female,IPCAS,corr
+13,,26085,Female,IPCAS,corr
+12,,26086,Female,IPCAS,corr
+12,,26086,Female,IPCAS,corr
+13,,26087,Female,IPCAS,corr
+13,,26087,Female,IPCAS,corr
+12,,26088,Female,IPCAS,corr
+12,,26088,Female,IPCAS,corr
+14,,26089,Male,IPCAS,corr
+14,,26089,Male,IPCAS,corr
+15,,26090,Female,IPCAS,corr
+15,,26090,Female,IPCAS,corr
+14,,26091,Female,IPCAS,corr
+14,,26091,Female,IPCAS,corr
+13,,26092,Female,IPCAS,corr
+13,,26092,Female,IPCAS,corr
+13,,26093,Female,IPCAS,corr
+13,,26093,Female,IPCAS,corr
+13,,26094,Male,IPCAS,corr
+13,,26094,Male,IPCAS,corr
+14,,26095,Male,IPCAS,corr
+14,,26095,Male,IPCAS,corr
+16,,26096,Female,IPCAS,corr
+16,,26096,Female,IPCAS,corr
+15,,26097,Female,IPCAS,corr
+15,,26097,Female,IPCAS,corr
+16,,26098,Male,IPCAS,corr
+16,,26098,Male,IPCAS,corr
+15,,26099,Female,IPCAS,corr
+15,,26099,Female,IPCAS,corr
+15,,26100,Female,IPCAS,corr
+15,,26100,Female,IPCAS,corr
+13,,26102,Female,IPCAS,corr
+13,,26102,Female,IPCAS,corr
+13,,26103,Male,IPCAS,corr
+13,,26103,Male,IPCAS,corr
+15,,26104,Female,IPCAS,corr
+15,,26104,Female,IPCAS,corr
+16,,26105,Female,IPCAS,corr
+16,,26105,Female,IPCAS,corr
+15,,26106,Female,IPCAS,corr
+15,,26106,Female,IPCAS,corr
+14,,26107,Male,IPCAS,corr
+14,,26107,Male,IPCAS,corr
+15,,26108,Female,IPCAS,corr
+15,,26108,Female,IPCAS,corr
+16,,26109,Female,IPCAS,corr
+16,,26109,Female,IPCAS,corr
+15,,26110,Female,IPCAS,corr
+15,,26110,Female,IPCAS,corr
+13,,26111,Female,IPCAS,corr
+13,,26111,Female,IPCAS,corr
+13,,26112,Female,IPCAS,corr
+13,,26112,Female,IPCAS,corr
+13,,26113,Female,IPCAS,corr
+13,,26113,Female,IPCAS,corr
+16,,26114,Male,IPCAS,corr
+16,,26114,Male,IPCAS,corr
+14,,26115,Male,IPCAS,corr
+14,,26115,Male,IPCAS,corr
+16,,26116,Female,IPCAS,corr
+16,,26116,Female,IPCAS,corr
+16,,26118,Female,IPCAS,corr
+16,,26118,Female,IPCAS,corr
+17,,26119,Female,IPCAS,corr
+17,,26119,Female,IPCAS,corr
+51,,25586,Female,IPCAS,corr
+,,25586,,IPCAS,corr
+54,,25587,Female,IPCAS,corr
+,,25587,,IPCAS,corr
+57,,25588,Female,IPCAS,corr
+,,25588,,IPCAS,corr
+50,,25589,Female,IPCAS,corr
+,,25589,,IPCAS,corr
+60,,25590,Male,IPCAS,corr
+,,25590,,IPCAS,corr
+61,,25591,Male,IPCAS,corr
+,,25591,,IPCAS,corr
+58,,25592,Female,IPCAS,corr
+,,25592,,IPCAS,corr
+58,,25593,Male,IPCAS,corr
+,,25593,,IPCAS,corr
+62,,25594,Male,IPCAS,corr
+,,25594,,IPCAS,corr
+59,,25595,Male,IPCAS,corr
+,,25595,,IPCAS,corr
+58,,25596,Female,IPCAS,corr
+,,25596,,IPCAS,corr
+61,,25597,Male,IPCAS,corr
+,,25597,,IPCAS,corr
+60,,25598,Female,IPCAS,corr
+,,25598,,IPCAS,corr
+24,,25599,Male,JHNU,corr
+,,25599,,JHNU,corr
+21,,25600,Male,JHNU,corr
+,,25600,,JHNU,corr
+40,,25601,Male,JHNU,corr
+,,25601,,JHNU,corr
+20,,25602,Female,JHNU,corr
+,,25602,,JHNU,corr
+23,,25603,Male,JHNU,corr
+,,25603,,JHNU,corr
+24,,25604,Male,JHNU,corr
+,,25604,,JHNU,corr
+23,,25605,Male,JHNU,corr
+,,25605,,JHNU,corr
+20,,25606,Male,JHNU,corr
+,,25606,,JHNU,corr
+22,,25607,Male,JHNU,corr
+,,25607,,JHNU,corr
+21,,25608,Male,JHNU,corr
+,,25608,,JHNU,corr
+22,,25609,Female,JHNU,corr
+,,25609,,JHNU,corr
+21,,25610,Male,JHNU,corr
+,,25610,,JHNU,corr
+24,,25611,Male,JHNU,corr
+,,25611,,JHNU,corr
+20,,25612,Female,JHNU,corr
+,,25612,,JHNU,corr
+22,,25613,Male,JHNU,corr
+,,25613,,JHNU,corr
+22,,25614,Male,JHNU,corr
+,,25614,,JHNU,corr
+22,,25615,Female,JHNU,corr
+,,25615,,JHNU,corr
+22,,25616,Female,JHNU,corr
+,,25616,,JHNU,corr
+24,,25617,Male,JHNU,corr
+,,25617,,JHNU,corr
+24,,25618,Female,JHNU,corr
+,,25618,,JHNU,corr
+24,,25619,Female,JHNU,corr
+,,25619,,JHNU,corr
+23,,25620,Male,JHNU,corr
+,,25620,,JHNU,corr
+20,,25621,Female,JHNU,corr
+,,25621,,JHNU,corr
+24,,25622,Male,JHNU,corr
+,,25622,,JHNU,corr
+22,,25623,Male,JHNU,corr
+,,25623,,JHNU,corr
+26,,25624,Male,JHNU,corr
+,,25624,,JHNU,corr
+21,,25625,Female,JHNU,corr
+,,25625,,JHNU,corr
+26,,25626,Male,JHNU,corr
+,,25626,,JHNU,corr
+23,,25627,Male,JHNU,corr
+,,25627,,JHNU,corr
+28,,25628,Male,JHNU,corr
+,,25628,,JHNU,corr
+24,,25335,Female,LMU,corr
+,,25335,,LMU,corr
+,,25335,,LMU,corr
+,,25335,,LMU,corr
+,,25335,,LMU,corr
+24,,25336,Female,LMU,corr
+,,25336,,LMU,corr
+,,25336,,LMU,corr
+,,25336,,LMU,corr
+,,25336,,LMU,corr
+,,25336,,LMU,corr
+23,,25337,Male,LMU,corr
+,,25337,,LMU,corr
+,,25337,,LMU,corr
+,,25337,,LMU,corr
+,,25337,,LMU,corr
+24,,25338,Female,LMU,corr
+,,25338,,LMU,corr
+,,25338,,LMU,corr
+,,25338,,LMU,corr
+,,25338,,LMU,corr
+,,25338,,LMU,corr
+22,,25339,Female,LMU,corr
+,,25339,,LMU,corr
+,,25339,,LMU,corr
+,,25339,,LMU,corr
+,,25339,,LMU,corr
+,,25339,,LMU,corr
+26,,25340,Male,LMU,corr
+,,25340,,LMU,corr
+,,25340,,LMU,corr
+,,25340,,LMU,corr
+,,25340,,LMU,corr
+,,25340,,LMU,corr
+23,,25341,Male,LMU,corr
+,,25341,,LMU,corr
+,,25341,,LMU,corr
+,,25341,,LMU,corr
+,,25341,,LMU,corr
+23,,25342,Male,LMU,corr
+,,25342,,LMU,corr
+,,25342,,LMU,corr
+,,25342,,LMU,corr
+,,25342,,LMU,corr
+24,,25343,Male,LMU,corr
+,,25343,,LMU,corr
+,,25343,,LMU,corr
+,,25343,,LMU,corr
+,,25343,,LMU,corr
+,,25343,,LMU,corr
+24,,25344,Female,LMU,corr
+,,25344,,LMU,corr
+,,25344,,LMU,corr
+,,25344,,LMU,corr
+,,25344,,LMU,corr
+,,25344,,LMU,corr
+20,,25345,Female,LMU,corr
+,,25345,,LMU,corr
+,,25345,,LMU,corr
+,,25345,,LMU,corr
+,,25345,,LMU,corr
+,,25345,,LMU,corr
+24,,25346,Female,LMU,corr
+,,25346,,LMU,corr
+,,25346,,LMU,corr
+,,25346,,LMU,corr
+,,25346,,LMU,corr
+,,25346,,LMU,corr
+22,,25347,Female,LMU,corr
+,,25347,,LMU,corr
+,,25347,,LMU,corr
+,,25347,,LMU,corr
+,,25347,,LMU,corr
+,,25347,,LMU,corr
+23,,25348,Male,LMU,corr
+,,25348,,LMU,corr
+,,25348,,LMU,corr
+,,25348,,LMU,corr
+,,25348,,LMU,corr
+25,,25349,Male,LMU,corr
+,,25349,,LMU,corr
+,,25349,,LMU,corr
+,,25349,,LMU,corr
+,,25349,,LMU,corr
+,,25349,,LMU,corr
+24,,25350,Male,LMU,corr
+,,25350,,LMU,corr
+,,25350,,LMU,corr
+,,25350,,LMU,corr
+,,25350,,LMU,corr
+,,25350,,LMU,corr
+26,,25351,Male,LMU,corr
+,,25351,,LMU,corr
+,,25351,,LMU,corr
+,,25351,,LMU,corr
+,,25351,,LMU,corr
+,,25351,,LMU,corr
+24,,25352,Female,LMU,corr
+,,25352,,LMU,corr
+,,25352,,LMU,corr
+,,25352,,LMU,corr
+,,25352,,LMU,corr
+,,25352,,LMU,corr
+24,,25353,Female,LMU,corr
+,,25353,,LMU,corr
+,,25353,,LMU,corr
+,,25353,,LMU,corr
+,,25353,,LMU,corr
+,,25353,,LMU,corr
+23,,25354,Male,LMU,corr
+,,25354,,LMU,corr
+,,25354,,LMU,corr
+,,25354,,LMU,corr
+,,25354,,LMU,corr
+,,25354,,LMU,corr
+27,,25355,Male,LMU,corr
+,,25355,,LMU,corr
+,,25355,,LMU,corr
+,,25355,,LMU,corr
+,,25355,,LMU,corr
+27,,25356,Female,LMU,corr
+,,25356,,LMU,corr
+,,25356,,LMU,corr
+,,25356,,LMU,corr
+,,25356,,LMU,corr
+,,25356,,LMU,corr
+24,,25357,Female,LMU,corr
+,,25357,,LMU,corr
+,,25357,,LMU,corr
+,,25357,,LMU,corr
+,,25357,,LMU,corr
+,,25357,,LMU,corr
+29,,25358,Female,LMU,corr
+,,25358,,LMU,corr
+,,25358,,LMU,corr
+,,25358,,LMU,corr
+,,25358,,LMU,corr
+25,,25359,Female,LMU,corr
+,,25359,,LMU,corr
+,,25359,,LMU,corr
+,,25359,,LMU,corr
+,,25359,,LMU,corr
+,,25359,,LMU,corr
+25,,25360,Male,LMU,corr
+,,25360,,LMU,corr
+,,25360,,LMU,corr
+,,25360,,LMU,corr
+,,25360,,LMU,corr
+,,25360,,LMU,corr
+27,,25361,Male,LMU,corr
+,,25361,,LMU,corr
+,,25361,,LMU,corr
+,,25361,,LMU,corr
+,,25361,,LMU,corr
+,,25361,,LMU,corr
+60,,25362,Male,LMU,corr
+,,25362,,LMU,corr
+,,25362,,LMU,corr
+,,25362,,LMU,corr
+71,,25363,Female,LMU,corr
+,,25363,,LMU,corr
+,,25363,,LMU,corr
+,,25363,,LMU,corr
+72,,25364,Male,LMU,corr
+,,25364,,LMU,corr
+,,25364,,LMU,corr
+,,25364,,LMU,corr
+73,,25365,Female,LMU,corr
+,,25365,,LMU,corr
+,,25365,,LMU,corr
+,,25365,,LMU,corr
+74,,25366,Female,LMU,corr
+,,25366,,LMU,corr
+,,25366,,LMU,corr
+,,25366,,LMU,corr
+68,,25367,Female,LMU,corr
+,,25367,,LMU,corr
+,,25367,,LMU,corr
+,,25367,,LMU,corr
+72,,25368,Male,LMU,corr
+,,25368,,LMU,corr
+,,25368,,LMU,corr
+,,25368,,LMU,corr
+67,,25369,Male,LMU,corr
+,,25369,,LMU,corr
+,,25369,,LMU,corr
+,,25369,,LMU,corr
+71,,25370,Male,LMU,corr
+,,25370,,LMU,corr
+,,25370,,LMU,corr
+,,25370,,LMU,corr
+69,,25371,Male,LMU,corr
+,,25371,,LMU,corr
+,,25371,,LMU,corr
+,,25371,,LMU,corr
+70,,25372,Male,LMU,corr
+,,25372,,LMU,corr
+,,25372,,LMU,corr
+,,25372,,LMU,corr
+67,,25373,Female,LMU,corr
+,,25373,,LMU,corr
+,,25373,,LMU,corr
+,,25373,,LMU,corr
+69,,25374,Male,LMU,corr
+,,25374,,LMU,corr
+,,25374,,LMU,corr
+,,25374,,LMU,corr
+69,,25375,Female,LMU,corr
+,,25375,,LMU,corr
+,,25375,,LMU,corr
+,,25375,,LMU,corr
+59,,25376,Male,LMU,corr
+,,25376,,LMU,corr
+,,25376,,LMU,corr
+,,25376,,LMU,corr
+55,,25377,Female,LMU,corr
+,,25377,,LMU,corr
+,,25377,,LMU,corr
+,,25377,,LMU,corr
+61,,25378,Female,LMU,corr
+,,25378,,LMU,corr
+,,25378,,LMU,corr
+,,25378,,LMU,corr
+69,,25379,Female,LMU,corr
+,,25379,,LMU,corr
+,,25379,,LMU,corr
+,,25379,,LMU,corr
+55,,25380,Male,LMU,corr
+,,25380,,LMU,corr
+,,25380,,LMU,corr
+,,25380,,LMU,corr
+70,,25381,Female,LMU,corr
+,,25381,,LMU,corr
+,,25381,,LMU,corr
+,,25381,,LMU,corr
+69,,25382,Female,LMU,corr
+,,25382,,LMU,corr
+,,25382,,LMU,corr
+,,25382,,LMU,corr
+55,,25383,Male,LMU,corr
+,,25383,,LMU,corr
+,,25383,,LMU,corr
+,,25383,,LMU,corr
+75,,25384,Female,LMU,corr
+,,25384,,LMU,corr
+,,25384,,LMU,corr
+,,25384,,LMU,corr
+69,,25385,Male,LMU,corr
+,,25385,,LMU,corr
+,,25385,,LMU,corr
+,,25385,,LMU,corr
+79,,25386,Female,LMU,corr
+,,25386,,LMU,corr
+,,25386,,LMU,corr
+,,25386,,LMU,corr
+28,,25387,Male,LMU,corr
+,,25387,,LMU,corr
+,,25387,,LMU,corr
+,,25387,,LMU,corr
+20,,25388,Female,LMU,corr
+,,25388,,LMU,corr
+,,25388,,LMU,corr
+,,25388,,LMU,corr
+26,,25389,Female,LMU,corr
+,,25389,,LMU,corr
+,,25389,,LMU,corr
+,,25389,,LMU,corr
+25,,25390,Male,LMU,corr
+,,25390,,LMU,corr
+,,25390,,LMU,corr
+,,25390,,LMU,corr
+22,,25391,Female,LMU,corr
+,,25391,,LMU,corr
+,,25391,,LMU,corr
+,,25391,,LMU,corr
+24,,25392,Female,LMU,corr
+,,25392,,LMU,corr
+,,25392,,LMU,corr
+,,25392,,LMU,corr
+22,,25393,Male,LMU,corr
+,,25393,,LMU,corr
+,,25393,,LMU,corr
+,,25393,,LMU,corr
+23,,25394,Male,LMU,corr
+,,25394,,LMU,corr
+,,25394,,LMU,corr
+,,25394,,LMU,corr
+27,,25395,Female,LMU,corr
+,,25395,,LMU,corr
+,,25395,,LMU,corr
+,,25395,,LMU,corr
+21,,25396,Female,LMU,corr
+,,25396,,LMU,corr
+,,25396,,LMU,corr
+,,25396,,LMU,corr
+21,,25397,Male,LMU,corr
+,,25397,,LMU,corr
+,,25397,,LMU,corr
+,,25397,,LMU,corr
+24,,25398,Female,LMU,corr
+,,25398,,LMU,corr
+,,25398,,LMU,corr
+,,25398,,LMU,corr
+20,,25399,Female,LMU,corr
+,,25399,,LMU,corr
+,,25399,,LMU,corr
+,,25399,,LMU,corr
+21,,25400,Male,LMU,corr
+,,25400,,LMU,corr
+,,25400,,LMU,corr
+,,25400,,LMU,corr
+21,,25401,Female,LMU,corr
+,,25401,,LMU,corr
+,,25401,,LMU,corr
+,,25401,,LMU,corr
+76,,25402,Male,LMU,corr
+,,25402,,LMU,corr
+72,,25403,Male,LMU,corr
+,,25403,,LMU,corr
+65,,25404,Female,LMU,corr
+,,25404,,LMU,corr
+60,,25405,Male,LMU,corr
+,,25405,,LMU,corr
+59,,25406,Male,LMU,corr
+,,25406,,LMU,corr
+69,,25407,Male,LMU,corr
+,,25407,,LMU,corr
+60,,25408,Female,LMU,corr
+,,25408,,LMU,corr
+59,,25409,Female,LMU,corr
+,,25409,,LMU,corr
+64,,25410,Male,LMU,corr
+,,25410,,LMU,corr
+83,,25411,Male,LMU,corr
+,,25411,,LMU,corr
+63,,25412,Male,LMU,corr
+,,25412,,LMU,corr
+71,,25413,Female,LMU,corr
+,,25413,,LMU,corr
+79,,25414,Male,LMU,corr
+,,25414,,LMU,corr
+73,,25415,Female,LMU,corr
+,,25415,,LMU,corr
+74,,25416,Male,LMU,corr
+,,25416,,LMU,corr
+73,,25417,Male,LMU,corr
+,,25417,,LMU,corr
+79,,25418,Female,LMU,corr
+,,25418,,LMU,corr
+88,,25419,Female,LMU,corr
+,,25419,,LMU,corr
+60,,25420,Female,LMU,corr
+,,25420,,LMU,corr
+62,,25421,Male,LMU,corr
+,,25421,,LMU,corr
+71,,25422,Male,LMU,corr
+,,25422,,LMU,corr
+68,,25423,Male,LMU,corr
+,,25423,,LMU,corr
+72,,25424,Male,LMU,corr
+,,25424,,LMU,corr
+68,,25425,Female,LMU,corr
+,,25425,,LMU,corr
+77,,25426,Male,LMU,corr
+,,25426,,LMU,corr
+29,right handed,27430,Female,MPG,corr
+29,,27430,Female,MPG,corr
+29,,27430,Female,MPG,corr
+29,,27430,Female,MPG,corr
+23,right handed,27431,Female,MPG,corr
+23,,27431,Female,MPG,corr
+23,,27431,Female,MPG,corr
+23,,27431,Female,MPG,corr
+25,right handed,27432,Male,MPG,corr
+25,,27432,Male,MPG,corr
+25,,27432,Male,MPG,corr
+25,,27432,Male,MPG,corr
+26,right handed,27433,Male,MPG,corr
+26,,27433,Male,MPG,corr
+26,,27433,Male,MPG,corr
+26,,27433,Male,MPG,corr
+27,left handed,27434,Male,MPG,corr
+27,,27434,Male,MPG,corr
+27,,27434,Male,MPG,corr
+27,,27434,Male,MPG,corr
+23,right handed,27435,Female,MPG,corr
+23,,27435,Female,MPG,corr
+23,,27435,Female,MPG,corr
+23,,27435,Female,MPG,corr
+29,right handed,27436,Male,MPG,corr
+29,,27436,Male,MPG,corr
+29,,27436,Male,MPG,corr
+29,,27436,Male,MPG,corr
+25,right handed,27437,Male,MPG,corr
+25,,27437,Male,MPG,corr
+25,,27437,Male,MPG,corr
+25,,27437,Male,MPG,corr
+25,right handed,27438,Male,MPG,corr
+25,,27438,Male,MPG,corr
+25,,27438,Male,MPG,corr
+25,,27438,Male,MPG,corr
+24,right handed,27439,Male,MPG,corr
+24,,27439,Male,MPG,corr
+24,,27439,Male,MPG,corr
+24,,27439,Male,MPG,corr
+30,right handed,27440,Male,MPG,corr
+30,,27440,Male,MPG,corr
+30,,27440,Male,MPG,corr
+30,,27440,Male,MPG,corr
+24,right handed,27441,Male,MPG,corr
+24,,27441,Male,MPG,corr
+24,,27441,Male,MPG,corr
+24,,27441,Male,MPG,corr
+26,right handed,27442,Female,MPG,corr
+26,,27442,Female,MPG,corr
+26,,27442,Female,MPG,corr
+26,,27442,Female,MPG,corr
+24,right handed,27443,Female,MPG,corr
+24,,27443,Female,MPG,corr
+24,,27443,Female,MPG,corr
+24,,27443,Female,MPG,corr
+22,right handed,27444,Female,MPG,corr
+22,,27444,Female,MPG,corr
+22,,27444,Female,MPG,corr
+22,,27444,Female,MPG,corr
+23,right handed,27445,Female,MPG,corr
+23,,27445,Female,MPG,corr
+23,,27445,Female,MPG,corr
+23,,27445,Female,MPG,corr
+25,right handed,27446,Female,MPG,corr
+25,,27446,Female,MPG,corr
+25,,27446,Female,MPG,corr
+25,,27446,Female,MPG,corr
+27,right handed,27447,Male,MPG,corr
+27,,27447,Male,MPG,corr
+27,,27447,Male,MPG,corr
+27,,27447,Male,MPG,corr
+25,right handed,27448,Male,MPG,corr
+25,,27448,Male,MPG,corr
+25,,27448,Male,MPG,corr
+25,,27448,Male,MPG,corr
+22,right handed,27449,Female,MPG,corr
+22,,27449,Female,MPG,corr
+22,,27449,Female,MPG,corr
+22,,27449,Female,MPG,corr
+24,right handed,27450,Female,MPG,corr
+24,,27450,Female,MPG,corr
+24,,27450,Female,MPG,corr
+24,,27450,Female,MPG,corr
+25,right handed,27451,Male,MPG,corr
+25,,27451,Male,MPG,corr
+25,,27451,Male,MPG,corr
+25,,27451,Male,MPG,corr
+11,,27010,Male,MRN,corr
+,,27010,,MRN,corr
+10,,27011,Female,MRN,corr
+,,27011,,MRN,corr
+12,,27012,Male,MRN,corr
+,,27012,,MRN,corr
+14,,27013,Female,MRN,corr
+,,27013,,MRN,corr
+13,,27014,Male,MRN,corr
+,,27014,,MRN,corr
+12,,27015,Male,MRN,corr
+,,27015,,MRN,corr
+11,,27016,Male,MRN,corr
+,,27016,,MRN,corr
+15,,27017,Male,MRN,corr
+16,,27017,,MRN,corr
+15,,27018,Male,MRN,corr
+,,27018,,MRN,corr
+13,,27019,Female,MRN,corr
+,,27019,,MRN,corr
+16,,27020,Female,MRN,corr
+,,27020,,MRN,corr
+17,,27021,Male,MRN,corr
+,,27021,,MRN,corr
+14,,27022,Male,MRN,corr
+,,27022,,MRN,corr
+22,,27024,Female,MRN,corr
+,,27024,,MRN,corr
+29,,27025,Male,MRN,corr
+,,27025,,MRN,corr
+24,,27026,Male,MRN,corr
+,,27026,,MRN,corr
+22,,27027,Female,MRN,corr
+,,27027,,MRN,corr
+21,,27028,Female,MRN,corr
+,,27028,,MRN,corr
+20,,27029,Female,MRN,corr
+,,27029,,MRN,corr
+23,,27030,Male,MRN,corr
+,,27030,,MRN,corr
+19,,27031,Female,MRN,corr
+,,27031,,MRN,corr
+41,,27032,Female,MRN,corr
+,,27032,,MRN,corr
+41,,27033,Male,MRN,corr
+,,27033,,MRN,corr
+32,,27034,Male,MRN,corr
+,,27034,,MRN,corr
+25,,27035,Female,MRN,corr
+,,27035,,MRN,corr
+47,,27036,Female,MRN,corr
+,,27036,,MRN,corr
+35,,27037,Female,MRN,corr
+,,27037,,MRN,corr
+27,,27038,Female,MRN,corr
+,,27038,,MRN,corr
+49,,27039,Male,MRN,corr
+,,27039,,MRN,corr
+21,,27040,Male,MRN,corr
+,,27040,,MRN,corr
+20,,27041,Female,MRN,corr
+,,27041,,MRN,corr
+53,,27042,Male,MRN,corr
+,,27042,,MRN,corr
+47,,27043,Female,MRN,corr
+,,27043,,MRN,corr
+26,,27044,Female,MRN,corr
+,,27044,,MRN,corr
+28,,27045,Male,MRN,corr
+,,27045,,MRN,corr
+20,,27046,Male,MRN,corr
+,,27046,,MRN,corr
+18,,27047,Female,MRN,corr
+,,27047,,MRN,corr
+22,,27048,Female,MRN,corr
+,,27048,,MRN,corr
+51,,27049,Male,MRN,corr
+,,27049,,MRN,corr
+46,,27050,Male,MRN,corr
+,,27050,,MRN,corr
+30,,27051,Male,MRN,corr
+,,27051,,MRN,corr
+23,,27052,Female,MRN,corr
+,,27052,,MRN,corr
+20,,27053,Female,MRN,corr
+,,27053,,MRN,corr
+24,,27054,Female,MRN,corr
+,,27054,,MRN,corr
+21,,27410,Male,MRN,corr
+,,27410,,MRN,corr
+20,,27411,Male,MRN,corr
+,,27411,,MRN,corr
+19,,27412,Male,MRN,corr
+,,27412,,MRN,corr
+26,,27413,Female,MRN,corr
+,,27413,,MRN,corr
+24,,27414,Female,MRN,corr
+,,27414,,MRN,corr
+33,,27415,Male,MRN,corr
+,,27415,,MRN,corr
+30,,27416,Female,MRN,corr
+,,27416,,MRN,corr
+21,,27417,Female,MRN,corr
+,,27417,,MRN,corr
+24,,27418,Male,MRN,corr
+,,27418,,MRN,corr
+26,,27419,Female,MRN,corr
+,,27419,,MRN,corr
+21,left handed,2475376,Female,NKI,corr
+21,left handed,2475376,Female,NKI,corr
+38,right handed,3893245,Female,NKI,corr
+38,right handed,3893245,Female,NKI,corr
+22,right handed,3313349,Female,NKI,corr
+22,right handed,3313349,Female,NKI,corr
+36,right handed,9630905,Female,NKI,corr
+36,right handed,9630905,Female,NKI,corr
+27,,2842950,Female,NKI,corr
+27,,2842950,Female,NKI,corr
+30,right handed,2799329,Female,NKI,corr
+30,right handed,2799329,Female,NKI,corr
+31,left handed,8735778,Female,NKI,corr
+31,left handed,8735778,Female,NKI,corr
+25,right handed,3808535,Female,NKI,corr
+25,right handed,3808535,Female,NKI,corr
+22,right handed,7055197,Female,NKI,corr
+22,right handed,7055197,Female,NKI,corr
+27,right handed,1427581,Female,NKI,corr
+27,right handed,1427581,Female,NKI,corr
+48,,3201815,Female,NKI,corr
+48,,3201815,Female,NKI,corr
+21,right handed,1961098,Female,NKI,corr
+21,right handed,1961098,Female,NKI,corr
+32,right handed,21006,Female,NKI,corr
+32,right handed,21006,Female,NKI,corr
+42,right handed,8574662,Female,NKI,corr
+42,right handed,8574662,Female,NKI,corr
+22,right handed,21024,Female,NKI,corr
+22,right handed,21024,Female,NKI,corr
+57,right handed,21001,Female,NKI,corr
+57,right handed,21001,Female,NKI,corr
+36,right handed,21018,Female,NKI,corr
+36,right handed,21018,Female,NKI,corr
+57,right handed,3795193,Female,NKI,corr
+57,right handed,3795193,Female,NKI,corr
+60,right handed,1793622,Female,NKI,corr
+60,right handed,1793622,Female,NKI,corr
+22,right handed,4288245,Female,NKI,corr
+22,right handed,4288245,Female,NKI,corr
+46,right handed,4176156,Female,NKI,corr
+46,right handed,4176156,Female,NKI,corr
+19,right handed,3315657,Female,NKI,corr
+19,right handed,3315657,Female,NKI,corr
+32,left handed,6471972,Female,NKI,corr
+32,left handed,6471972,Female,NKI,corr
+52,right handed,21002,Female,NKI,corr
+52,right handed,21002,Female,NKI,corr
+27,right handed,27103,Female,NYU,corr
+27,right handed,27103,Female,NYU,corr
+27,right handed,27103,Female,NYU,corr
+21,right handed,27104,Female,NYU,corr
+21,right handed,27104,Female,NYU,corr
+21,right handed,27104,Female,NYU,corr
+26,right handed,27105,Female,NYU,corr
+26,right handed,27105,Female,NYU,corr
+26,right handed,27105,Female,NYU,corr
+23,right handed,27106,Female,NYU,corr
+23,right handed,27106,Female,NYU,corr
+23,right handed,27106,Female,NYU,corr
+22,right handed,27107,Female,NYU,corr
+22,right handed,27107,Female,NYU,corr
+22,right handed,27107,Female,NYU,corr
+28,right handed,27108,Female,NYU,corr
+28,right handed,27108,Female,NYU,corr
+28,right handed,27108,Female,NYU,corr
+49,right handed,27109,Male,NYU,corr
+49,right handed,27109,Male,NYU,corr
+49,right handed,27109,Male,NYU,corr
+23,right handed,27110,Female,NYU,corr
+23,right handed,27110,Female,NYU,corr
+23,right handed,27110,Female,NYU,corr
+31,right handed,27111,Male,NYU,corr
+31,right handed,27111,Male,NYU,corr
+31,right handed,27111,Male,NYU,corr
+25,right handed,27112,Male,NYU,corr
+25,right handed,27112,Male,NYU,corr
+25,right handed,27112,Male,NYU,corr
+27,right handed,27113,Female,NYU,corr
+27,right handed,27113,Female,NYU,corr
+27,right handed,27113,Female,NYU,corr
+35,right handed,27114,Female,NYU,corr
+35,right handed,27114,Female,NYU,corr
+35,right handed,27114,Female,NYU,corr
+22,right handed,27115,Male,NYU,corr
+22,right handed,27115,Male,NYU,corr
+22,right handed,27115,Male,NYU,corr
+49,right handed,27116,Female,NYU,corr
+49,right handed,27116,Female,NYU,corr
+49,right handed,27116,Female,NYU,corr
+24,right handed,27117,Female,NYU,corr
+24,right handed,27117,Female,NYU,corr
+24,right handed,27117,Female,NYU,corr
+27,right handed,27118,Female,NYU,corr
+27,right handed,27118,Female,NYU,corr
+27,right handed,27118,Female,NYU,corr
+27,right handed,27119,Male,NYU,corr
+27,right handed,27119,Male,NYU,corr
+27,right handed,27119,Male,NYU,corr
+22,right handed,27120,Female,NYU,corr
+22,right handed,27120,Female,NYU,corr
+22,right handed,27120,Female,NYU,corr
+23,right handed,27121,Male,NYU,corr
+23,right handed,27121,Male,NYU,corr
+23,right handed,27121,Male,NYU,corr
+49,right handed,27122,Male,NYU,corr
+49,right handed,27122,Male,NYU,corr
+49,right handed,27122,Male,NYU,corr
+32,right handed,27123,Male,NYU,corr
+32,right handed,27123,Male,NYU,corr
+32,right handed,27123,Male,NYU,corr
+41,right handed,27124,Male,NYU,corr
+41,right handed,27124,Male,NYU,corr
+41,right handed,27124,Male,NYU,corr
+30,right handed,27125,Female,NYU,corr
+30,right handed,27125,Female,NYU,corr
+30,right handed,27125,Female,NYU,corr
+25,right handed,27126,Male,NYU,corr
+25,right handed,27126,Male,NYU,corr
+25,right handed,27126,Male,NYU,corr
+28,right handed,27127,Female,NYU,corr
+28,right handed,27127,Female,NYU,corr
+28,right handed,27127,Female,NYU,corr
+13.25,,25000,Female,NYU,corr
+,,25000,,NYU,corr
+,,25000,,NYU,corr
+10.76,,25001,Male,NYU,corr
+,,25001,,NYU,corr
+,,25001,,NYU,corr
+8.91,,25002,Female,NYU,corr
+,,25002,,NYU,corr
+,,25002,,NYU,corr
+11.38,,25003,Female,NYU,corr
+,,25003,,NYU,corr
+,,25003,,NYU,corr
+,,25003,,NYU,corr
+12.44,,25004,Female,NYU,corr
+,,25004,,NYU,corr
+,,25004,,NYU,corr
+,,25004,,NYU,corr
+11.31,,25005,Female,NYU,corr
+,,25005,,NYU,corr
+,,25005,,NYU,corr
+,,25005,,NYU,corr
+8.91,,25006,Male,NYU,corr
+,,25006,,NYU,corr
+,,25006,,NYU,corr
+12.59,,25007,Male,NYU,corr
+,,25007,,NYU,corr
+,,25007,,NYU,corr
+,,25007,,NYU,corr
+8.04,,25008,Female,NYU,corr
+,,25008,,NYU,corr
+,,25008,,NYU,corr
+,,25008,,NYU,corr
+11.92,,25009,Male,NYU,corr
+,,25009,,NYU,corr
+,,25009,,NYU,corr
+,,25009,,NYU,corr
+7.55,,25010,Female,NYU,corr
+,,25010,,NYU,corr
+,,25010,,NYU,corr
+10.21,,25011,Female,NYU,corr
+,,25011,,NYU,corr
+,,25011,,NYU,corr
+,,25011,,NYU,corr
+8.01,,25012,Male,NYU,corr
+,,25012,,NYU,corr
+,,25012,,NYU,corr
+,,25012,,NYU,corr
+8.15,,25013,Male,NYU,corr
+,,25013,,NYU,corr
+,,25013,,NYU,corr
+,,25013,,NYU,corr
+8.59,,25014,Male,NYU,corr
+,,25014,,NYU,corr
+,,25014,,NYU,corr
+,,25014,,NYU,corr
+11.69,,25015,Male,NYU,corr
+,,25015,,NYU,corr
+,,25015,,NYU,corr
+,,25015,,NYU,corr
+10.82,,25016,Female,NYU,corr
+,,25016,,NYU,corr
+,,25016,,NYU,corr
+,,25016,,NYU,corr
+7.63,,25017,Female,NYU,corr
+,,25017,,NYU,corr
+,,25017,,NYU,corr
+,,25017,,NYU,corr
+13.28,,25018,Male,NYU,corr
+,,25018,,NYU,corr
+,,25018,,NYU,corr
+,,25018,,NYU,corr
+8.56,,25019,Female,NYU,corr
+,,25019,,NYU,corr
+,,25019,,NYU,corr
+,,25019,,NYU,corr
+10.46,,25020,Male,NYU,corr
+,,25020,,NYU,corr
+,,25020,,NYU,corr
+7.91,,25021,Female,NYU,corr
+,,25021,,NYU,corr
+,,25021,,NYU,corr
+12.49,,25022,Male,NYU,corr
+,,25022,,NYU,corr
+,,25022,,NYU,corr
+,,25022,,NYU,corr
+12.25,,25023,Male,NYU,corr
+,,25023,,NYU,corr
+,,25023,,NYU,corr
+,,25023,,NYU,corr
+,,25023,,NYU,corr
+,,25023,,NYU,corr
+9.75,,25024,Male,NYU,corr
+,,25024,,NYU,corr
+,,25024,,NYU,corr
+,,25024,,NYU,corr
+12.45,,25025,Female,NYU,corr
+,,25025,,NYU,corr
+,,25025,,NYU,corr
+,,25025,,NYU,corr
+,,25025,,NYU,corr
+,,25025,,NYU,corr
+9.54,,25026,Female,NYU,corr
+,,25026,,NYU,corr
+,,25026,,NYU,corr
+39.95,,25027,Male,NYU,corr
+,,25027,,NYU,corr
+,,25027,,NYU,corr
+,,25027,,NYU,corr
+42.94,,25028,Male,NYU,corr
+,,25028,,NYU,corr
+,,25028,,NYU,corr
+,,25028,,NYU,corr
+20.02,,25029,Male,NYU,corr
+,,25029,,NYU,corr
+,,25029,,NYU,corr
+,,25029,,NYU,corr
+26.91,,25030,Female,NYU,corr
+,,25030,,NYU,corr
+,,25030,,NYU,corr
+,,25030,,NYU,corr
+33.52,,25031,Female,NYU,corr
+,,25031,,NYU,corr
+,,25031,,NYU,corr
+,,25031,,NYU,corr
+33.45,,25032,Male,NYU,corr
+,,25032,,NYU,corr
+,,25032,,NYU,corr
+30.78,,25033,Male,NYU,corr
+,,25033,,NYU,corr
+,,25033,,NYU,corr
+,,25033,,NYU,corr
+26.17,,25034,Male,NYU,corr
+,,25034,,NYU,corr
+,,25034,,NYU,corr
+,,25034,,NYU,corr
+26.62,,25035,Male,NYU,corr
+,,25035,,NYU,corr
+,,25035,,NYU,corr
+27.03,,25036,Female,NYU,corr
+,,25036,,NYU,corr
+,,25036,,NYU,corr
+,,25036,,NYU,corr
+18.77,,25037,Male,NYU,corr
+,,25037,,NYU,corr
+,,25037,,NYU,corr
+,,25037,,NYU,corr
+22.39,,25038,Female,NYU,corr
+,,25038,,NYU,corr
+,,25038,,NYU,corr
+,,25038,,NYU,corr
+19.78,,25039,Female,NYU,corr
+,,25039,,NYU,corr
+,,25039,,NYU,corr
+43.45,,25040,Female,NYU,corr
+,,25040,,NYU,corr
+,,25040,,NYU,corr
+24.71,,25041,Female,NYU,corr
+,,25041,,NYU,corr
+,,25041,,NYU,corr
+,,25041,,NYU,corr
+22.76,,25042,Female,NYU,corr
+,,25042,,NYU,corr
+,,25042,,NYU,corr
+,,25042,,NYU,corr
+26.19,,25043,Female,NYU,corr
+,,25043,,NYU,corr
+,,25043,,NYU,corr
+35.73,,25044,Male,NYU,corr
+,,25044,,NYU,corr
+,,25044,,NYU,corr
+,,25044,,NYU,corr
+21.26,,25045,Female,NYU,corr
+,,25045,,NYU,corr
+,,25045,,NYU,corr
+,,25045,,NYU,corr
+23.22,,25046,Female,NYU,corr
+,,25046,,NYU,corr
+,,25046,,NYU,corr
+,,25046,,NYU,corr
+40.09,,25047,Male,NYU,corr
+,,25047,,NYU,corr
+,,25047,,NYU,corr
+,,25047,,NYU,corr
+,,25047,,NYU,corr
+22.95,,25048,Female,NYU,corr
+,,25048,,NYU,corr
+,,25048,,NYU,corr
+,,25048,,NYU,corr
+30.08,,25049,Male,NYU,corr
+,,25049,,NYU,corr
+,,25049,,NYU,corr
+,,25049,,NYU,corr
+32.57,,25050,Male,NYU,corr
+,,25050,,NYU,corr
+,,25050,,NYU,corr
+,,25050,,NYU,corr
+33.22,,25051,Female,NYU,corr
+,,25051,,NYU,corr
+,,25051,,NYU,corr
+,,25051,,NYU,corr
+40.05,,25052,Male,NYU,corr
+,,25052,,NYU,corr
+,,25052,,NYU,corr
+34.9,,25053,Male,NYU,corr
+,,25053,,NYU,corr
+,,25053,,NYU,corr
+,,25053,,NYU,corr
+45.49,,25054,Male,NYU,corr
+,,25054,,NYU,corr
+,,25054,,NYU,corr
+,,25054,,NYU,corr
+20.16,,25055,Male,NYU,corr
+,,25055,,NYU,corr
+,,25055,,NYU,corr
+,,25055,,NYU,corr
+21.48,,25056,Female,NYU,corr
+,,25056,,NYU,corr
+,,25056,,NYU,corr
+,,25056,,NYU,corr
+27.27,,25057,Female,NYU,corr
+,,25057,,NYU,corr
+,,25057,,NYU,corr
+,,25057,,NYU,corr
+11.24,,25058,Male,NYU,corr
+,,25058,,NYU,corr
+,,25058,,NYU,corr
+,,25058,,NYU,corr
+7.26,,25059,Male,NYU,corr
+,,25059,,NYU,corr
+,,25059,,NYU,corr
+,,25059,,NYU,corr
+11.03,,25060,Male,NYU,corr
+,,25060,,NYU,corr
+,,25060,,NYU,corr
+,,25060,,NYU,corr
+22.33,,25061,Male,NYU,corr
+,,25061,,NYU,corr
+,,25061,,NYU,corr
+,,25061,,NYU,corr
+13.22,,25062,Female,NYU,corr
+,,25062,,NYU,corr
+12.24,,25063,Female,NYU,corr
+,,25063,,NYU,corr
+12.1,,25064,Male,NYU,corr
+,,25064,,NYU,corr
+11.32,,25065,Male,NYU,corr
+,,25065,,NYU,corr
+9.23,,25066,Male,NYU,corr
+,,25066,,NYU,corr
+8.26,,25067,Female,NYU,corr
+,,25067,,NYU,corr
+9.81,,25068,Male,NYU,corr
+,,25068,,NYU,corr
+10.52,,25069,Male,NYU,corr
+,,25069,,NYU,corr
+13.58,,25070,Male,NYU,corr
+,,25070,,NYU,corr
+13.63,,25071,Male,NYU,corr
+,,25071,,NYU,corr
+14.65,,25072,Male,NYU,corr
+,,25072,,NYU,corr
+11.98,,25073,Male,NYU,corr
+,,25073,,NYU,corr
+8.49,,25074,Female,NYU,corr
+,,25074,,NYU,corr
+15.71,,25075,Male,NYU,corr
+,,25075,,NYU,corr
+15.28,,25076,Male,NYU,corr
+,,25076,,NYU,corr
+17.43,,25077,Male,NYU,corr
+,,25077,,NYU,corr
+15.4,,25078,Male,NYU,corr
+,,25078,,NYU,corr
+16.31,,25079,Male,NYU,corr
+,,25079,,NYU,corr
+15.28,,25080,Female,NYU,corr
+,,25080,,NYU,corr
+17.7,,25081,Male,NYU,corr
+,,25081,,NYU,corr
+17.31,,25082,Female,NYU,corr
+,,25082,,NYU,corr
+17.83,,25083,Male,NYU,corr
+,,25083,,NYU,corr
+10.86,,25084,Male,NYU,corr
+,,25084,,NYU,corr
+14.19,,25085,Female,NYU,corr
+,,25085,,NYU,corr
+13.9,,25086,Female,NYU,corr
+,,25086,,NYU,corr
+16.93,,25087,Male,NYU,corr
+,,25087,,NYU,corr
+8.45,,25088,Female,NYU,corr
+,,25088,,NYU,corr
+32.26,,25089,Male,NYU,corr
+,,25089,,NYU,corr
+38.84,,25090,Female,NYU,corr
+,,25090,,NYU,corr
+16.08,,25091,Female,NYU,corr
+,,25091,,NYU,corr
+11.91,,25092,Male,NYU,corr
+,,25092,,NYU,corr
+14.79,,25093,Male,NYU,corr
+,,25093,,NYU,corr
+46.25,,25094,Female,NYU,corr
+,,25094,,NYU,corr
+20.92,,25095,Male,NYU,corr
+,,25095,,NYU,corr
+8.03,,25096,Female,NYU,corr
+,,25096,,NYU,corr
+7.29,,25097,Male,NYU,corr
+,,25097,,NYU,corr
+7.68,,25098,Female,NYU,corr
+,,25098,,NYU,corr
+17.86,,25099,Female,NYU,corr
+,,25099,,NYU,corr
+14.48,,25100,Female,NYU,corr
+,,25100,,NYU,corr
+45.83,,25101,Male,NYU,corr
+,,25101,,NYU,corr
+14.87,,25102,Female,NYU,corr
+,,25102,,NYU,corr
+17.3,,25103,Male,NYU,corr
+,,25103,,NYU,corr
+15.21,,25104,Female,NYU,corr
+,,25104,,NYU,corr
+7.67,,25105,Female,NYU,corr
+,,25105,,NYU,corr
+10.74,,25106,Male,NYU,corr
+,,25106,,NYU,corr
+14.38,,25107,Female,NYU,corr
+,,25107,,NYU,corr
+9.96,,25108,Female,NYU,corr
+,,25108,,NYU,corr
+16.88,,25109,Male,NYU,corr
+,,25109,,NYU,corr
+16.55,,25110,Male,NYU,corr
+,,25110,,NYU,corr
+47.61,,25111,Female,NYU,corr
+,,25111,,NYU,corr
+14.91,,25112,Female,NYU,corr
+,,25112,,NYU,corr
+16.73,,25113,Male,NYU,corr
+,,25113,,NYU,corr
+48,,25114,Male,NYU,corr
+,,25114,,NYU,corr
+11.56,,25115,Female,NYU,corr
+,,25115,,NYU,corr
+12.99,,25116,Female,NYU,corr
+,,25116,,NYU,corr
+9.35,,25117,Male,NYU,corr
+,,25117,,NYU,corr
+46.84,,25118,Male,NYU,corr
+,,25118,,NYU,corr
+14.18,,25119,Female,NYU,corr
+,,25119,,NYU,corr
+16.28,,25120,Male,NYU,corr
+,,25120,,NYU,corr
+16.13,,25121,Male,NYU,corr
+,,25121,,NYU,corr
+11.4,,25122,Male,NYU,corr
+,,25122,,NYU,corr
+15.95,,25123,Female,NYU,corr
+,,25123,,NYU,corr
+22.1,,25124,Female,NYU,corr
+,,25124,,NYU,corr
+47.18,,25125,Female,NYU,corr
+,,25125,,NYU,corr
+14.42,,25126,Female,NYU,corr
+,,25126,,NYU,corr
+17.96,,25127,Female,NYU,corr
+,,25127,,NYU,corr
+22.76,,25128,Male,NYU,corr
+,,25128,,NYU,corr
+16.55,,25129,Male,NYU,corr
+,,25129,,NYU,corr
+10.52,,25130,Male,NYU,corr
+,,25130,,NYU,corr
+14.66,,25131,Male,NYU,corr
+,,25131,,NYU,corr
+14.06,,25132,Female,NYU,corr
+,,25132,,NYU,corr
+38.56,,25133,Female,NYU,corr
+,,25133,,NYU,corr
+53.96,,25134,Male,NYU,corr
+,,25134,,NYU,corr
+55.03,,25135,Male,NYU,corr
+,,25135,,NYU,corr
+52.63,,25136,Male,NYU,corr
+,,25136,,NYU,corr
+33.75,,25137,Male,NYU,corr
+,,25137,,NYU,corr
+31.51,,25138,Male,NYU,corr
+,,25138,,NYU,corr
+25.34,,25139,Male,NYU,corr
+,,25139,,NYU,corr
+22.48,,25140,Male,NYU,corr
+,,25140,,NYU,corr
+31.78,,25141,Male,NYU,corr
+,,25141,,NYU,corr
+6.47,,25142,Male,NYU,corr
+,,25142,,NYU,corr
+40.69,,25143,Male,NYU,corr
+,,25143,,NYU,corr
+23.65,,25144,Male,NYU,corr
+,,25144,,NYU,corr
+28.2,,25145,Male,NYU,corr
+,,25145,,NYU,corr
+14.43,,25146,Male,NYU,corr
+,,25146,,NYU,corr
+31.8,,25147,Male,NYU,corr
+,,25147,,NYU,corr
+19.23,,25148,Male,NYU,corr
+,,25148,,NYU,corr
+45.74,,25149,Male,NYU,corr
+,,25149,,NYU,corr
+32.17,,25150,Male,NYU,corr
+,,25150,,NYU,corr
+14.36,,25151,Male,NYU,corr
+,,25151,,NYU,corr
+9,,25152,Male,NYU,corr
+,,25152,,NYU,corr
+11.34,,25153,Male,NYU,corr
+,,25153,,NYU,corr
+23.81,,25154,Female,NYU,corr
+,,25154,,NYU,corr
+30.72,,25155,Male,NYU,corr
+,,25155,,NYU,corr
+27.03,,25156,Male,NYU,corr
+,,25156,,NYU,corr
+33,,25157,Male,NYU,corr
+,,25157,,NYU,corr
+22.11,,25158,Female,NYU,corr
+,,25158,,NYU,corr
+21.58,,25159,Female,NYU,corr
+,,25159,,NYU,corr
+21.59,,25160,Female,NYU,corr
+,,25160,,NYU,corr
+26.66,,25161,Female,NYU,corr
+,,25161,,NYU,corr
+27.89,,25162,Female,NYU,corr
+,,25162,,NYU,corr
+21.15,,25163,Male,NYU,corr
+,,25163,,NYU,corr
+20.56,,25164,Male,NYU,corr
+,,25164,,NYU,corr
+40.91,,25165,Male,NYU,corr
+,,25165,,NYU,corr
+20.3,,25166,Male,NYU,corr
+,,25166,,NYU,corr
+23.08,,25167,Male,NYU,corr
+,,25167,,NYU,corr
+23.35,,25168,Male,NYU,corr
+,,25168,,NYU,corr
+32.82,,25169,Male,NYU,corr
+,,25169,,NYU,corr
+41.21,,25170,Male,NYU,corr
+,,25170,,NYU,corr
+31.69,,25171,Male,NYU,corr
+,,25171,,NYU,corr
+22.77,,25172,Male,NYU,corr
+,,25172,,NYU,corr
+19.73,,25173,Male,NYU,corr
+,,25173,,NYU,corr
+20.04,,25174,Male,NYU,corr
+,,25174,,NYU,corr
+8.16,,25175,Female,NYU,corr
+,,25175,,NYU,corr
+8.52,,25176,Female,NYU,corr
+,,25176,,NYU,corr
+10.73,,25177,Male,NYU,corr
+,,25177,,NYU,corr
+12.1,,25178,Female,NYU,corr
+,,25178,,NYU,corr
+8.91,,25179,Male,NYU,corr
+,,25179,,NYU,corr
+9,,25180,Male,NYU,corr
+,,25180,,NYU,corr
+12.9,,25181,Male,NYU,corr
+,,25181,,NYU,corr
+9.54,,25182,Male,NYU,corr
+,,25182,,NYU,corr
+11.2,,25183,Male,NYU,corr
+,,25183,,NYU,corr
+9.48,,25184,Male,NYU,corr
+,,25184,,NYU,corr
+9.19,,25185,Male,NYU,corr
+,,25185,,NYU,corr
+11.09,,25186,Male,NYU,corr
+,,25186,,NYU,corr
+22,,27206,Female,SWU,corr
+,,27206,,SWU,corr
+,,27206,,SWU,corr
+,,27206,,SWU,corr
+,,27206,,SWU,corr
+,,27206,,SWU,corr
+22,,27207,Female,SWU,corr
+,,27207,,SWU,corr
+,,27207,,SWU,corr
+,,27207,,SWU,corr
+,,27207,,SWU,corr
+,,27207,,SWU,corr
+21,,27208,Female,SWU,corr
+,,27208,,SWU,corr
+,,27208,,SWU,corr
+,,27208,,SWU,corr
+,,27208,,SWU,corr
+,,27208,,SWU,corr
+23,,27209,Female,SWU,corr
+,,27209,,SWU,corr
+,,27209,,SWU,corr
+,,27209,,SWU,corr
+,,27209,,SWU,corr
+,,27209,,SWU,corr
+23,,27210,Female,SWU,corr
+,,27210,,SWU,corr
+,,27210,,SWU,corr
+,,27210,,SWU,corr
+,,27210,,SWU,corr
+,,27210,,SWU,corr
+19,,27211,Female,SWU,corr
+,,27211,,SWU,corr
+,,27211,,SWU,corr
+,,27211,,SWU,corr
+,,27211,,SWU,corr
+,,27211,,SWU,corr
+20,,27212,Female,SWU,corr
+,,27212,,SWU,corr
+,,27212,,SWU,corr
+,,27212,,SWU,corr
+,,27212,,SWU,corr
+,,27212,,SWU,corr
+20,,27203,Female,SWU,corr
+,,27203,,SWU,corr
+,,27203,,SWU,corr
+,,27203,,SWU,corr
+,,27203,,SWU,corr
+,,27203,,SWU,corr
+20,,27204,Female,SWU,corr
+,,27204,,SWU,corr
+,,27204,,SWU,corr
+,,27204,,SWU,corr
+,,27204,,SWU,corr
+,,27204,,SWU,corr
+19,,27205,Female,SWU,corr
+,,27205,,SWU,corr
+,,27205,,SWU,corr
+,,27205,,SWU,corr
+,,27205,,SWU,corr
+,,27205,,SWU,corr
+23,,27213,Female,SWU,corr
+,,27213,,SWU,corr
+,,27213,,SWU,corr
+,,27213,,SWU,corr
+,,27213,,SWU,corr
+,,27213,,SWU,corr
+23,,27214,Female,SWU,corr
+,,27214,,SWU,corr
+,,27214,,SWU,corr
+,,27214,,SWU,corr
+,,27214,,SWU,corr
+,,27214,,SWU,corr
+22,,27215,Female,SWU,corr
+,,27215,,SWU,corr
+,,27215,,SWU,corr
+,,27215,,SWU,corr
+,,27215,,SWU,corr
+,,27215,,SWU,corr
+24,,27216,Male,SWU,corr
+,,27216,,SWU,corr
+,,27216,,SWU,corr
+,,27216,,SWU,corr
+,,27216,,SWU,corr
+,,27216,,SWU,corr
+19,,27217,Male,SWU,corr
+,,27217,,SWU,corr
+,,27217,,SWU,corr
+,,27217,,SWU,corr
+,,27217,,SWU,corr
+,,27217,,SWU,corr
+19,,27218,Male,SWU,corr
+,,27218,,SWU,corr
+,,27218,,SWU,corr
+,,27218,,SWU,corr
+,,27218,,SWU,corr
+,,27218,,SWU,corr
+23,,27219,Male,SWU,corr
+,,27219,,SWU,corr
+,,27219,,SWU,corr
+,,27219,,SWU,corr
+,,27219,,SWU,corr
+,,27219,,SWU,corr
+23,,27220,Female,SWU,corr
+,,27220,,SWU,corr
+,,27220,,SWU,corr
+,,27220,,SWU,corr
+,,27220,,SWU,corr
+,,27220,,SWU,corr
+24,,27221,Male,SWU,corr
+,,27221,,SWU,corr
+,,27221,,SWU,corr
+,,27221,,SWU,corr
+,,27221,,SWU,corr
+,,27221,,SWU,corr
+22,,27222,Male,SWU,corr
+,,27222,,SWU,corr
+,,27222,,SWU,corr
+,,27222,,SWU,corr
+,,27222,,SWU,corr
+,,27222,,SWU,corr
+21,,27176,Female,SWU,corr
+,,27176,,SWU,corr
+19,,27177,Female,SWU,corr
+,,27177,,SWU,corr
+20,,27178,Female,SWU,corr
+,,27178,,SWU,corr
+20,,27179,Male,SWU,corr
+,,27179,,SWU,corr
+21,,27180,Male,SWU,corr
+,,27180,,SWU,corr
+18,,27181,Female,SWU,corr
+,,27181,,SWU,corr
+22,,27182,Female,SWU,corr
+,,27182,,SWU,corr
+23,,27183,Male,SWU,corr
+,,27183,,SWU,corr
+21,,27184,Male,SWU,corr
+,,27184,,SWU,corr
+20,,27185,Female,SWU,corr
+,,27185,,SWU,corr
+21,,27186,Female,SWU,corr
+,,27186,,SWU,corr
+23,,27187,Female,SWU,corr
+,,27187,,SWU,corr
+19,,27188,Female,SWU,corr
+,,27188,,SWU,corr
+23,,27189,Female,SWU,corr
+,,27189,,SWU,corr
+21,,27190,Female,SWU,corr
+,,27190,,SWU,corr
+23,,27191,Female,SWU,corr
+,,27191,,SWU,corr
+18,,27192,Female,SWU,corr
+,,27192,,SWU,corr
+22,,27193,Male,SWU,corr
+,,27193,,SWU,corr
+23,,27194,Female,SWU,corr
+,,27194,,SWU,corr
+21,,27195,Male,SWU,corr
+,,27195,,SWU,corr
+23,,27196,Male,SWU,corr
+,,27196,,SWU,corr
+20,,27197,Female,SWU,corr
+,,27197,,SWU,corr
+20,,27198,Female,SWU,corr
+,,27198,,SWU,corr
+19,,27199,Male,SWU,corr
+,,27199,,SWU,corr
+24,,27200,Male,SWU,corr
+,,27200,,SWU,corr
+21,,27201,Female,SWU,corr
+,,27201,,SWU,corr
+20,,27202,Female,SWU,corr
+,,27202,,SWU,corr
+21,,27152,Male,SWU,corr
+,,27152,,SWU,corr
+19,,27153,Female,SWU,corr
+,,27153,,SWU,corr
+25,,27154,Female,SWU,corr
+,,27154,,SWU,corr
+19,,27155,Female,SWU,corr
+,,27155,,SWU,corr
+20,,27156,Male,SWU,corr
+,,27156,,SWU,corr
+20,,27157,Male,SWU,corr
+,,27157,,SWU,corr
+20,,27158,Female,SWU,corr
+,,27158,,SWU,corr
+18,,27159,Female,SWU,corr
+,,27159,,SWU,corr
+20,,27160,Female,SWU,corr
+,,27160,,SWU,corr
+21,,27161,Male,SWU,corr
+,,27161,,SWU,corr
+21,,27162,Male,SWU,corr
+,,27162,,SWU,corr
+18,,27163,Female,SWU,corr
+,,27163,,SWU,corr
+20,,27164,Female,SWU,corr
+,,27164,,SWU,corr
+20,,27165,Female,SWU,corr
+,,27165,,SWU,corr
+21,,27166,Female,SWU,corr
+,,27166,,SWU,corr
+19,,27167,Female,SWU,corr
+,,27167,,SWU,corr
+19,,27168,Male,SWU,corr
+,,27168,,SWU,corr
+22,,27169,Male,SWU,corr
+,,27169,,SWU,corr
+23,,27170,Female,SWU,corr
+,,27170,,SWU,corr
+23,,27171,Female,SWU,corr
+,,27171,,SWU,corr
+20,,27172,Female,SWU,corr
+,,27172,,SWU,corr
+21,,27173,Female,SWU,corr
+,,27173,,SWU,corr
+20,,27174,Male,SWU,corr
+,,27174,,SWU,corr
+18,,25629,Female,SWU,corr
+,,25629,,SWU,corr
+22,,25630,Female,SWU,corr
+,,25630,,SWU,corr
+19,,25631,Male,SWU,corr
+,,25631,,SWU,corr
+20,,25632,Male,SWU,corr
+,,25632,,SWU,corr
+18,,25633,Female,SWU,corr
+,,25633,,SWU,corr
+23,,25634,Female,SWU,corr
+,,25634,,SWU,corr
+20,,25635,Male,SWU,corr
+,,25635,,SWU,corr
+24,,25636,Female,SWU,corr
+,,25636,,SWU,corr
+21,,25637,Female,SWU,corr
+,,25637,,SWU,corr
+21,,25638,Female,SWU,corr
+,,25638,,SWU,corr
+27,,25739,Female,SWU,corr
+,,25739,,SWU,corr
+21,,25740,Female,SWU,corr
+,,25740,,SWU,corr
+20,,25741,Female,SWU,corr
+,,25741,,SWU,corr
+18,,25742,Female,SWU,corr
+,,25742,,SWU,corr
+18,,25743,Female,SWU,corr
+,,25743,,SWU,corr
+18,,25744,Female,SWU,corr
+,,25744,,SWU,corr
+20,,25745,Male,SWU,corr
+,,25745,,SWU,corr
+20,,25746,Female,SWU,corr
+,,25746,,SWU,corr
+17,,25747,Male,SWU,corr
+,,25747,,SWU,corr
+20,,25748,Female,SWU,corr
+,,25748,,SWU,corr
+19,,25794,Female,SWU,corr
+,,25794,,SWU,corr
+19,,25795,Female,SWU,corr
+,,25795,,SWU,corr
+20,,25796,Female,SWU,corr
+,,25796,,SWU,corr
+20,,25797,Female,SWU,corr
+,,25797,,SWU,corr
+19,,25798,Male,SWU,corr
+,,25798,,SWU,corr
+20,,25799,Male,SWU,corr
+,,25799,,SWU,corr
+21,,25800,Male,SWU,corr
+,,25800,,SWU,corr
+20,,25801,Male,SWU,corr
+,,25801,,SWU,corr
+18,,25802,Male,SWU,corr
+,,25802,,SWU,corr
+20,,25803,Female,SWU,corr
+,,25803,,SWU,corr
+18,,25804,Female,SWU,corr
+,,25804,,SWU,corr
+19,,25805,Male,SWU,corr
+,,25805,,SWU,corr
+20,,25806,Male,SWU,corr
+,,25806,,SWU,corr
+19,,25807,Female,SWU,corr
+,,25807,,SWU,corr
+19,,25808,Female,SWU,corr
+,,25808,,SWU,corr
+19,,25809,Male,SWU,corr
+,,25809,,SWU,corr
+20,,25810,Male,SWU,corr
+,,25810,,SWU,corr
+19,,25811,Female,SWU,corr
+,,25811,,SWU,corr
+20,,25812,Female,SWU,corr
+,,25812,,SWU,corr
+18,,25813,Male,SWU,corr
+,,25813,,SWU,corr
+19,,25814,Male,SWU,corr
+,,25814,,SWU,corr
+19,,25815,Male,SWU,corr
+,,25815,,SWU,corr
+19,,25816,Male,SWU,corr
+,,25816,,SWU,corr
+19,,25817,Female,SWU,corr
+,,25817,,SWU,corr
+20,,25818,Male,SWU,corr
+,,25818,,SWU,corr
+19,,25819,Male,SWU,corr
+,,25819,,SWU,corr
+19,,25820,Female,SWU,corr
+,,25820,,SWU,corr
+19,,25821,Female,SWU,corr
+,,25821,,SWU,corr
+19,,25822,Female,SWU,corr
+,,25822,,SWU,corr
+19,,25823,Female,SWU,corr
+,,25823,,SWU,corr
+19,,25824,Male,SWU,corr
+,,25824,,SWU,corr
+18,,25825,Female,SWU,corr
+,,25825,,SWU,corr
+19,,25826,Female,SWU,corr
+,,25826,,SWU,corr
+18,,25827,Female,SWU,corr
+,,25827,,SWU,corr
+19,,25828,Male,SWU,corr
+,,25828,,SWU,corr
+20,,25829,Male,SWU,corr
+,,25829,,SWU,corr
+19,,25830,Male,SWU,corr
+,,25830,,SWU,corr
+21,,25831,Male,SWU,corr
+,,25831,,SWU,corr
+20,,25832,Male,SWU,corr
+,,25832,,SWU,corr
+20,,25833,Male,SWU,corr
+,,25833,,SWU,corr
+20,,25834,Male,SWU,corr
+,,25834,,SWU,corr
+19,,25835,Male,SWU,corr
+,,25835,,SWU,corr
+19,,25836,Female,SWU,corr
+,,25836,,SWU,corr
+19,,25837,Male,SWU,corr
+,,25837,,SWU,corr
+20,,25838,Male,SWU,corr
+,,25838,,SWU,corr
+21,,25839,Female,SWU,corr
+,,25839,,SWU,corr
+19,,25840,Female,SWU,corr
+,,25840,,SWU,corr
+21,,25841,Male,SWU,corr
+,,25841,,SWU,corr
+21,,25842,Female,SWU,corr
+,,25842,,SWU,corr
+21,,25843,Female,SWU,corr
+,,25843,,SWU,corr
+19,,25844,Female,SWU,corr
+,,25844,,SWU,corr
+19,,25845,Female,SWU,corr
+,,25845,,SWU,corr
+20,,25846,Female,SWU,corr
+,,25846,,SWU,corr
+20,,25847,Female,SWU,corr
+,,25847,,SWU,corr
+21,,25848,Male,SWU,corr
+,,25848,,SWU,corr
+20,,25849,Female,SWU,corr
+,,25849,,SWU,corr
+20,,25850,Female,SWU,corr
+,,25850,,SWU,corr
+20,,25851,Female,SWU,corr
+,,25851,,SWU,corr
+21,,25852,Male,SWU,corr
+,,25852,,SWU,corr
+19,,25853,Female,SWU,corr
+,,25853,,SWU,corr
+20,,25854,Female,SWU,corr
+,,25854,,SWU,corr
+19,,25855,Male,SWU,corr
+,,25855,,SWU,corr
+21,,25856,Male,SWU,corr
+,,25856,,SWU,corr
+20,,25857,Female,SWU,corr
+,,25857,,SWU,corr
+19,,25858,Male,SWU,corr
+,,25858,,SWU,corr
+20,,25859,Male,SWU,corr
+,,25859,,SWU,corr
+18,,25860,Female,SWU,corr
+,,25860,,SWU,corr
+19,,25861,Female,SWU,corr
+,,25861,,SWU,corr
+20,,25862,Female,SWU,corr
+,,25862,,SWU,corr
+20,,25863,Female,SWU,corr
+,,25863,,SWU,corr
+20,,25639,Male,SWU,corr
+,,25639,,SWU,corr
+21,,25640,Female,SWU,corr
+,,25640,,SWU,corr
+21,,25641,Female,SWU,corr
+,,25641,,SWU,corr
+22,,25642,Female,SWU,corr
+,,25642,,SWU,corr
+20,,25643,Female,SWU,corr
+,,25643,,SWU,corr
+19,,25644,Female,SWU,corr
+,,25644,,SWU,corr
+20,,25645,Male,SWU,corr
+,,25645,,SWU,corr
+20,,25646,Female,SWU,corr
+,,25646,,SWU,corr
+17,,25647,Female,SWU,corr
+,,25647,,SWU,corr
+20,,25648,Female,SWU,corr
+,,25648,,SWU,corr
+20,,25649,Female,SWU,corr
+,,25649,,SWU,corr
+21,,25650,Male,SWU,corr
+,,25650,,SWU,corr
+21,,25651,Male,SWU,corr
+,,25651,,SWU,corr
+19,,25652,Female,SWU,corr
+,,25652,,SWU,corr
+19,,25653,Male,SWU,corr
+,,25653,,SWU,corr
+20,,25654,Female,SWU,corr
+,,25654,,SWU,corr
+20,,25655,Female,SWU,corr
+,,25655,,SWU,corr
+20,,25656,Female,SWU,corr
+,,25656,,SWU,corr
+22,,25657,Male,SWU,corr
+,,25657,,SWU,corr
+20,,25658,Male,SWU,corr
+,,25658,,SWU,corr
+19,,25659,Female,SWU,corr
+,,25659,,SWU,corr
+19,,25660,Female,SWU,corr
+,,25660,,SWU,corr
+20,,25661,Female,SWU,corr
+,,25661,,SWU,corr
+21,,25662,Female,SWU,corr
+,,25662,,SWU,corr
+19,,25663,Male,SWU,corr
+,,25663,,SWU,corr
+20,,25664,Female,SWU,corr
+,,25664,,SWU,corr
+20,,25665,Female,SWU,corr
+,,25665,,SWU,corr
+21,,25666,Female,SWU,corr
+,,25666,,SWU,corr
+19,,25667,Female,SWU,corr
+,,25667,,SWU,corr
+20,,25668,Female,SWU,corr
+,,25668,,SWU,corr
+19,,25669,Male,SWU,corr
+,,25669,,SWU,corr
+19,,25670,Male,SWU,corr
+,,25670,,SWU,corr
+20,,25671,Male,SWU,corr
+,,25671,,SWU,corr
+21,,25672,Female,SWU,corr
+,,25672,,SWU,corr
+20,,25673,Female,SWU,corr
+,,25673,,SWU,corr
+20,,25674,Female,SWU,corr
+,,25674,,SWU,corr
+19,,25675,Female,SWU,corr
+,,25675,,SWU,corr
+19,,25676,Female,SWU,corr
+,,25676,,SWU,corr
+20,,25677,Female,SWU,corr
+,,25677,,SWU,corr
+20,,25678,Female,SWU,corr
+,,25678,,SWU,corr
+19,,25679,Female,SWU,corr
+,,25679,,SWU,corr
+19,,25680,Male,SWU,corr
+,,25680,,SWU,corr
+20,,25681,Female,SWU,corr
+,,25681,,SWU,corr
+20,,25682,Male,SWU,corr
+,,25682,,SWU,corr
+21,,25683,Male,SWU,corr
+,,25683,,SWU,corr
+20,,25684,Male,SWU,corr
+,,25684,,SWU,corr
+20,,25685,Female,SWU,corr
+,,25685,,SWU,corr
+22,,25686,Male,SWU,corr
+,,25686,,SWU,corr
+19,,25687,Male,SWU,corr
+,,25687,,SWU,corr
+20,,25688,Male,SWU,corr
+,,25688,,SWU,corr
+20,,25689,Female,SWU,corr
+,,25689,,SWU,corr
+21,,25690,Male,SWU,corr
+,,25690,,SWU,corr
+19,,25691,Female,SWU,corr
+,,25691,,SWU,corr
+20,,25692,Male,SWU,corr
+,,25692,,SWU,corr
+21,,25693,Male,SWU,corr
+,,25693,,SWU,corr
+20,,25694,Male,SWU,corr
+,,25694,,SWU,corr
+19,,25695,Male,SWU,corr
+,,25695,,SWU,corr
+19,,25696,Male,SWU,corr
+,,25696,,SWU,corr
+21,,25697,Male,SWU,corr
+,,25697,,SWU,corr
+19,,25698,Male,SWU,corr
+,,25698,,SWU,corr
+21,,25699,Male,SWU,corr
+,,25699,,SWU,corr
+20,,25700,Male,SWU,corr
+,,25700,,SWU,corr
+20,,25701,Male,SWU,corr
+,,25701,,SWU,corr
+20,,25702,Male,SWU,corr
+,,25702,,SWU,corr
+19,,25703,Male,SWU,corr
+,,25703,,SWU,corr
+21,,25704,Male,SWU,corr
+,,25704,,SWU,corr
+20,,25705,Male,SWU,corr
+,,25705,,SWU,corr
+20,,25706,Male,SWU,corr
+,,25706,,SWU,corr
+19,,25707,Male,SWU,corr
+,,25707,,SWU,corr
+25,,25708,Male,SWU,corr
+,,25708,,SWU,corr
+20,,25709,Male,SWU,corr
+,,25709,,SWU,corr
+20,,25710,Male,SWU,corr
+,,25710,,SWU,corr
+19,,25711,Male,SWU,corr
+,,25711,,SWU,corr
+20,,25712,Male,SWU,corr
+,,25712,,SWU,corr
+20,,25713,Male,SWU,corr
+,,25713,,SWU,corr
+20,,25714,Male,SWU,corr
+,,25714,,SWU,corr
+20,,25715,Male,SWU,corr
+,,25715,,SWU,corr
+20,,25716,Male,SWU,corr
+,,25716,,SWU,corr
+24,,25717,Female,SWU,corr
+,,25717,,SWU,corr
+19,,25718,Male,SWU,corr
+,,25718,,SWU,corr
+21,,25719,Male,SWU,corr
+,,25719,,SWU,corr
+20,,25720,Male,SWU,corr
+,,25720,,SWU,corr
+21,,25721,Female,SWU,corr
+,,25721,,SWU,corr
+22,,25722,Female,SWU,corr
+,,25722,,SWU,corr
+21,,25723,Female,SWU,corr
+,,25723,,SWU,corr
+19,,25724,Female,SWU,corr
+,,25724,,SWU,corr
+20,,25725,Male,SWU,corr
+,,25725,,SWU,corr
+21,,25726,Female,SWU,corr
+,,25726,,SWU,corr
+20,,25727,Female,SWU,corr
+,,25727,,SWU,corr
+20,,25728,Male,SWU,corr
+,,25728,,SWU,corr
+21,,25729,Male,SWU,corr
+,,25729,,SWU,corr
+19,,25730,Male,SWU,corr
+,,25730,,SWU,corr
+20,,25731,Male,SWU,corr
+,,25731,,SWU,corr
+22,,25732,Female,SWU,corr
+,,25732,,SWU,corr
+20,,25733,Female,SWU,corr
+,,25733,,SWU,corr
+21,,25734,Female,SWU,corr
+,,25734,,SWU,corr
+20,,25735,Male,SWU,corr
+,,25735,,SWU,corr
+20,,25736,Female,SWU,corr
+,,25736,,SWU,corr
+22,,25737,Male,SWU,corr
+,,25737,,SWU,corr
+21,,25738,Male,SWU,corr
+,,25738,,SWU,corr
+22,,25749,Male,SWU,corr
+,,25749,,SWU,corr
+19,,25750,Female,SWU,corr
+,,25750,,SWU,corr
+20,,25751,Female,SWU,corr
+,,25751,,SWU,corr
+21,,25752,Male,SWU,corr
+,,25752,,SWU,corr
+21,,25753,Male,SWU,corr
+,,25753,,SWU,corr
+20,,25754,Female,SWU,corr
+,,25754,,SWU,corr
+19,,25756,Male,SWU,corr
+,,25756,,SWU,corr
+20,,25757,Male,SWU,corr
+,,25757,,SWU,corr
+20,,25758,Female,SWU,corr
+,,25758,,SWU,corr
+21,,25759,Male,SWU,corr
+,,25759,,SWU,corr
+20,,25760,Female,SWU,corr
+,,25760,,SWU,corr
+19,,25761,Male,SWU,corr
+,,25761,,SWU,corr
+20,,25762,Male,SWU,corr
+,,25762,,SWU,corr
+20,,25763,Female,SWU,corr
+,,25763,,SWU,corr
+20,,25764,Male,SWU,corr
+,,25764,,SWU,corr
+19,,25765,Female,SWU,corr
+,,25765,,SWU,corr
+20,,25766,Male,SWU,corr
+,,25766,,SWU,corr
+20,,25767,Male,SWU,corr
+,,25767,,SWU,corr
+20,,25768,Male,SWU,corr
+,,25768,,SWU,corr
+19,,25769,Female,SWU,corr
+,,25769,,SWU,corr
+19,,25770,Male,SWU,corr
+,,25770,,SWU,corr
+21,,25771,Male,SWU,corr
+,,25771,,SWU,corr
+20,,25772,Male,SWU,corr
+,,25772,,SWU,corr
+20,,25773,Male,SWU,corr
+,,25773,,SWU,corr
+21,,25774,Female,SWU,corr
+,,25774,,SWU,corr
+21,,25775,Male,SWU,corr
+,,25775,,SWU,corr
+21,,25776,Male,SWU,corr
+,,25776,,SWU,corr
+22,,25777,Male,SWU,corr
+,,25777,,SWU,corr
+20,,25778,Female,SWU,corr
+,,25778,,SWU,corr
+20,,25779,Female,SWU,corr
+,,25779,,SWU,corr
+20,,25780,Male,SWU,corr
+,,25780,,SWU,corr
+20,,25781,Female,SWU,corr
+,,25781,,SWU,corr
+21,,25782,Male,SWU,corr
+,,25782,,SWU,corr
+19,,25783,Male,SWU,corr
+,,25783,,SWU,corr
+21,,25784,Female,SWU,corr
+,,25784,,SWU,corr
+19,,25785,Female,SWU,corr
+,,25785,,SWU,corr
+20,,25786,Female,SWU,corr
+,,25786,,SWU,corr
+20,,25787,Female,SWU,corr
+,,25787,,SWU,corr
+22,,25788,Female,SWU,corr
+,,25788,,SWU,corr
+24,,25789,Female,SWU,corr
+,,25789,,SWU,corr
+22,,25790,Male,SWU,corr
+,,25790,,SWU,corr
+25,,25791,Male,SWU,corr
+,,25791,,SWU,corr
+23,,25792,Male,SWU,corr
+,,25792,,SWU,corr
+23,,25793,Male,SWU,corr
+,,25793,,SWU,corr
 75,right handed,26007,Female,UM,corr
 ,,26007,,UM,corr
 ,,26007,,UM,corr
@@ -3769,237 +3769,237 @@ age,handedness,participant_id,sex,site_id,project
 ,,26189,,UM,corr
 ,,26189,,UM,corr
 ,,26189,,UM,corr
-17,right handed,25234,Female,UPSM_1,corr
-17,right handed,25234,Female,UPSM_1,corr
-15,right handed,25235,Female,UPSM_1,corr
-15,right handed,25235,Female,UPSM_1,corr
-17.2,right handed,25236,Male,UPSM_1,corr
-17.2,right handed,25236,Male,UPSM_1,corr
-17.6,right handed,25237,Female,UPSM_1,corr
-17.6,right handed,25237,Female,UPSM_1,corr
-15.6,right handed,25238,Male,UPSM_1,corr
-15.6,right handed,25238,Male,UPSM_1,corr
-15.6,right handed,25238,Male,UPSM_1,corr
-13.1,right handed,25239,Male,UPSM_1,corr
-13.1,right handed,25239,Male,UPSM_1,corr
-13.1,right handed,25239,Male,UPSM_1,corr
-15.6,right handed,25240,Male,UPSM_1,corr
-15.6,right handed,25240,Male,UPSM_1,corr
-15.6,right handed,25240,Male,UPSM_1,corr
-10.5,right handed,25241,Male,UPSM_1,corr
-10.5,right handed,25241,Male,UPSM_1,corr
-19.2,right handed,25242,Male,UPSM_1,corr
-19.2,right handed,25242,Male,UPSM_1,corr
-18.7,right handed,25243,Male,UPSM_1,corr
-18.7,right handed,25243,Male,UPSM_1,corr
-18.5,right handed,25244,Male,UPSM_1,corr
-18.5,right handed,25244,Male,UPSM_1,corr
-18.5,right handed,25244,Male,UPSM_1,corr
-18.9,right handed,25245,Male,UPSM_1,corr
-18.9,right handed,25245,Male,UPSM_1,corr
-18.9,right handed,25245,Male,UPSM_1,corr
-18.4,right handed,25246,Male,UPSM_1,corr
-18.4,right handed,25246,Male,UPSM_1,corr
-19.7,right handed,25247,Female,UPSM_1,corr
-19.7,right handed,25247,Female,UPSM_1,corr
-11.4,right handed,25248,Male,UPSM_1,corr
-11.4,right handed,25248,Male,UPSM_1,corr
-18.5,right handed,25249,Female,UPSM_1,corr
-18.5,right handed,25249,Female,UPSM_1,corr
-19.2,right handed,25250,Male,UPSM_1,corr
-19.2,right handed,25250,Male,UPSM_1,corr
-14.8,right handed,25251,Female,UPSM_1,corr
-14.8,right handed,25251,Female,UPSM_1,corr
-18.8,right handed,25252,Female,UPSM_1,corr
-18.8,right handed,25252,Female,UPSM_1,corr
-18.8,right handed,25252,Female,UPSM_1,corr
-12.7,right handed,25253,Female,UPSM_1,corr
-12.7,right handed,25253,Female,UPSM_1,corr
-12.7,right handed,25253,Female,UPSM_1,corr
-14.9,right handed,25254,Female,UPSM_1,corr
-14.9,right handed,25254,Female,UPSM_1,corr
-14.9,right handed,25254,Female,UPSM_1,corr
-18.9,right handed,25255,Male,UPSM_1,corr
-18.9,right handed,25255,Male,UPSM_1,corr
-13.9,right handed,25256,Female,UPSM_1,corr
-13.9,right handed,25256,Female,UPSM_1,corr
-11.7,right handed,25257,Male,UPSM_1,corr
-11.7,right handed,25257,Male,UPSM_1,corr
-11.7,right handed,25257,Male,UPSM_1,corr
-12.5,left handed,25258,Male,UPSM_1,corr
-12.5,left handed,25258,Male,UPSM_1,corr
-10.6,right handed,25259,Female,UPSM_1,corr
-10.6,right handed,25259,Female,UPSM_1,corr
-10.6,right handed,25259,Female,UPSM_1,corr
-12.9,right handed,25260,Male,UPSM_1,corr
-12.9,right handed,25260,Male,UPSM_1,corr
-14.1,right handed,25261,Male,UPSM_1,corr
-14.1,right handed,25261,Male,UPSM_1,corr
-14.1,right handed,25261,Male,UPSM_1,corr
-15.9,right handed,25262,Male,UPSM_1,corr
-15.9,right handed,25262,Male,UPSM_1,corr
-14.6,right handed,25263,Male,UPSM_1,corr
-16.5,right handed,25263,Male,UPSM_1,corr
-17.5,right handed,25263,Male,UPSM_1,corr
-11.5,right handed,25264,Male,UPSM_1,corr
-13.1,right handed,25264,Male,UPSM_1,corr
-14.4,right handed,25264,Male,UPSM_1,corr
-13.5,right handed,25265,Male,UPSM_1,corr
-15.2,right handed,25265,Male,UPSM_1,corr
-16.7,right handed,25265,Male,UPSM_1,corr
-14,right handed,25266,Male,UPSM_1,corr
-15.7,right handed,25266,Male,UPSM_1,corr
-17.5,right handed,25267,Male,UPSM_1,corr
-19.2,right handed,25267,Male,UPSM_1,corr
-20.6,right handed,25267,Male,UPSM_1,corr
-12.5,right handed,25268,Female,UPSM_1,corr
-14.1,right handed,25268,Female,UPSM_1,corr
-19.2,right handed,25269,Male,UPSM_1,corr
-19.2,right handed,25269,Male,UPSM_1,corr
-14.8,right handed,25270,Female,UPSM_1,corr
-14.8,right handed,25270,Female,UPSM_1,corr
-14.8,right handed,25270,Female,UPSM_1,corr
-16.2,right handed,25271,Male,UPSM_1,corr
-16.2,right handed,25271,Male,UPSM_1,corr
-16.2,right handed,25271,Male,UPSM_1,corr
-15.7,right handed,25272,Female,UPSM_1,corr
-15.7,right handed,25272,Female,UPSM_1,corr
-15.7,right handed,25272,Female,UPSM_1,corr
-18.2,right handed,25273,Male,UPSM_1,corr
-18.2,right handed,25273,Male,UPSM_1,corr
-18.2,right handed,25273,Male,UPSM_1,corr
-17.1,right handed,25274,Female,UPSM_1,corr
-17.1,right handed,25274,Female,UPSM_1,corr
-17.1,right handed,25274,Female,UPSM_1,corr
-15.4,right handed,25275,Female,UPSM_1,corr
-15.4,right handed,25275,Female,UPSM_1,corr
-15.4,right handed,25275,Female,UPSM_1,corr
-14.9,right handed,25276,Female,UPSM_1,corr
-14.9,right handed,25276,Female,UPSM_1,corr
-14.9,right handed,25276,Female,UPSM_1,corr
-11.2,right handed,25277,Male,UPSM_1,corr
-11.2,right handed,25277,Male,UPSM_1,corr
-11.2,right handed,25277,Male,UPSM_1,corr
-15.2,right handed,25278,Female,UPSM_1,corr
-15.2,right handed,25278,Female,UPSM_1,corr
-15.2,right handed,25278,Female,UPSM_1,corr
-18.1,right handed,25279,Female,UPSM_1,corr
-18.1,right handed,25279,Female,UPSM_1,corr
-17.9,right handed,25280,Female,UPSM_1,corr
-17.9,right handed,25280,Female,UPSM_1,corr
-14.7,left handed,25281,Male,UPSM_1,corr
-14.7,left handed,25281,Male,UPSM_1,corr
-12.3,right handed,25282,Female,UPSM_1,corr
-12.3,right handed,25282,Female,UPSM_1,corr
-12.9,right handed,25283,Male,UPSM_1,corr
-12.9,right handed,25283,Male,UPSM_1,corr
-12.9,right handed,25283,Male,UPSM_1,corr
-11.1,right handed,25284,Male,UPSM_1,corr
-11.1,right handed,25284,Male,UPSM_1,corr
-16.4,right handed,25285,Female,UPSM_1,corr
-16.4,right handed,25285,Female,UPSM_1,corr
-16.4,right handed,25285,Female,UPSM_1,corr
-18,right handed,25286,Female,UPSM_1,corr
-18,right handed,25286,Female,UPSM_1,corr
-18,right handed,25286,Female,UPSM_1,corr
-12.1,right handed,25287,Female,UPSM_1,corr
-12.1,right handed,25287,Female,UPSM_1,corr
-12.1,right handed,25287,Female,UPSM_1,corr
-18.4,right handed,25288,Female,UPSM_1,corr
-18.4,right handed,25288,Female,UPSM_1,corr
-18.4,right handed,25288,Female,UPSM_1,corr
-18.6,right handed,25289,Female,UPSM_1,corr
-18.6,right handed,25289,Female,UPSM_1,corr
-18.5,right handed,25290,Female,UPSM_1,corr
-18.5,right handed,25290,Female,UPSM_1,corr
-18.5,right handed,25290,Female,UPSM_1,corr
-18.9,right handed,25291,Female,UPSM_1,corr
-18.9,right handed,25291,Female,UPSM_1,corr
-18.9,right handed,25291,Female,UPSM_1,corr
-18.3,right handed,25292,Female,UPSM_1,corr
-18.3,right handed,25292,Female,UPSM_1,corr
-11,right handed,25293,Male,UPSM_1,corr
-11,right handed,25293,Male,UPSM_1,corr
-12.7,right handed,25294,Male,UPSM_1,corr
-12.7,right handed,25294,Male,UPSM_1,corr
-13.7,right handed,25295,Male,UPSM_1,corr
-13.7,right handed,25295,Male,UPSM_1,corr
-12.4,right handed,25307,Male,UPSM_1,corr
-12.4,right handed,25307,Male,UPSM_1,corr
-18.9,right handed,25308,Male,UPSM_1,corr
-18.9,right handed,25308,Male,UPSM_1,corr
-18.7,left handed,25296,Male,UPSM_1,corr
-18.7,left handed,25296,Male,UPSM_1,corr
-15.9,right handed,25297,Female,UPSM_1,corr
-15.9,right handed,25297,Female,UPSM_1,corr
-14.6,right handed,25298,Female,UPSM_1,corr
-14.6,right handed,25298,Female,UPSM_1,corr
-12.2,right handed,25299,Female,UPSM_1,corr
-12.2,right handed,25299,Female,UPSM_1,corr
-13.6,left handed,25300,Female,UPSM_1,corr
-13.6,left handed,25300,Female,UPSM_1,corr
-18.9,right handed,25301,Male,UPSM_1,corr
-18.9,right handed,25301,Male,UPSM_1,corr
-10.5,right handed,25302,Male,UPSM_1,corr
-10.5,right handed,25302,Male,UPSM_1,corr
-16.7,right handed,25303,Female,UPSM_1,corr
-16.7,right handed,25303,Female,UPSM_1,corr
-11,right handed,25304,Male,UPSM_1,corr
-11,right handed,25304,Male,UPSM_1,corr
-11.7,right handed,25305,Male,UPSM_1,corr
-11.7,right handed,25305,Male,UPSM_1,corr
-13.9,right handed,25306,Male,UPSM_1,corr
-13.9,right handed,25306,Male,UPSM_1,corr
-12.5,left handed,25309,Female,UPSM_1,corr
-12.5,left handed,25309,Female,UPSM_1,corr
-12.2,right handed,25310,Female,UPSM_1,corr
-12.2,right handed,25310,Female,UPSM_1,corr
-16.1,right handed,25311,Male,UPSM_1,corr
-16.1,right handed,25311,Male,UPSM_1,corr
-10.9,right handed,25312,Female,UPSM_1,corr
-10.9,right handed,25312,Female,UPSM_1,corr
-13.9,right handed,25313,Female,UPSM_1,corr
-13.9,right handed,25313,Female,UPSM_1,corr
-10.2,right handed,25314,Female,UPSM_1,corr
-10.2,right handed,25314,Female,UPSM_1,corr
-10.1,right handed,25315,Female,UPSM_1,corr
-10.1,right handed,25315,Female,UPSM_1,corr
-12.3,right handed,25316,Male,UPSM_1,corr
-12.3,right handed,25316,Male,UPSM_1,corr
-13,right handed,25317,Female,UPSM_1,corr
-13,right handed,25317,Female,UPSM_1,corr
-16.7,right handed,25318,Male,UPSM_1,corr
-16.7,right handed,25318,Male,UPSM_1,corr
-15.1,right handed,25319,Male,UPSM_1,corr
-15.1,right handed,25319,Male,UPSM_1,corr
-18.7,right handed,25320,Male,UPSM_1,corr
-18.7,right handed,25320,Male,UPSM_1,corr
-10.9,right handed,25321,Female,UPSM_1,corr
-10.9,right handed,25321,Female,UPSM_1,corr
-13.8,right handed,25322,Female,UPSM_1,corr
-13.8,right handed,25322,Female,UPSM_1,corr
-14.8,right handed,25323,Female,UPSM_1,corr
-14.8,right handed,25323,Female,UPSM_1,corr
-16.9,left handed,25324,Male,UPSM_1,corr
-16.9,left handed,25324,Male,UPSM_1,corr
-18.1,right handed,25325,Female,UPSM_1,corr
-18.1,right handed,25325,Female,UPSM_1,corr
-18.9,right handed,25326,Female,UPSM_1,corr
-18.9,right handed,25326,Female,UPSM_1,corr
-15.6,right handed,25327,Female,UPSM_1,corr
-15.6,right handed,25327,Female,UPSM_1,corr
-12,right handed,25328,Male,UPSM_1,corr
-12,right handed,25328,Male,UPSM_1,corr
-18.9,right handed,25329,Male,UPSM_1,corr
-18.9,right handed,25329,Male,UPSM_1,corr
-14.2,right handed,25330,Male,UPSM_1,corr
-14.2,right handed,25330,Male,UPSM_1,corr
-16.3,right handed,25331,Male,UPSM_1,corr
-16.3,right handed,25331,Male,UPSM_1,corr
-16.8,right handed,25332,Female,UPSM_1,corr
-16.8,right handed,25332,Female,UPSM_1,corr
-15.3,right handed,25333,Male,UPSM_1,corr
-15.3,right handed,25333,Male,UPSM_1,corr
+17,right handed,25234,Female,UPSM,corr
+17,right handed,25234,Female,UPSM,corr
+15,right handed,25235,Female,UPSM,corr
+15,right handed,25235,Female,UPSM,corr
+17.2,right handed,25236,Male,UPSM,corr
+17.2,right handed,25236,Male,UPSM,corr
+17.6,right handed,25237,Female,UPSM,corr
+17.6,right handed,25237,Female,UPSM,corr
+15.6,right handed,25238,Male,UPSM,corr
+15.6,right handed,25238,Male,UPSM,corr
+15.6,right handed,25238,Male,UPSM,corr
+13.1,right handed,25239,Male,UPSM,corr
+13.1,right handed,25239,Male,UPSM,corr
+13.1,right handed,25239,Male,UPSM,corr
+15.6,right handed,25240,Male,UPSM,corr
+15.6,right handed,25240,Male,UPSM,corr
+15.6,right handed,25240,Male,UPSM,corr
+10.5,right handed,25241,Male,UPSM,corr
+10.5,right handed,25241,Male,UPSM,corr
+19.2,right handed,25242,Male,UPSM,corr
+19.2,right handed,25242,Male,UPSM,corr
+18.7,right handed,25243,Male,UPSM,corr
+18.7,right handed,25243,Male,UPSM,corr
+18.5,right handed,25244,Male,UPSM,corr
+18.5,right handed,25244,Male,UPSM,corr
+18.5,right handed,25244,Male,UPSM,corr
+18.9,right handed,25245,Male,UPSM,corr
+18.9,right handed,25245,Male,UPSM,corr
+18.9,right handed,25245,Male,UPSM,corr
+18.4,right handed,25246,Male,UPSM,corr
+18.4,right handed,25246,Male,UPSM,corr
+19.7,right handed,25247,Female,UPSM,corr
+19.7,right handed,25247,Female,UPSM,corr
+11.4,right handed,25248,Male,UPSM,corr
+11.4,right handed,25248,Male,UPSM,corr
+18.5,right handed,25249,Female,UPSM,corr
+18.5,right handed,25249,Female,UPSM,corr
+19.2,right handed,25250,Male,UPSM,corr
+19.2,right handed,25250,Male,UPSM,corr
+14.8,right handed,25251,Female,UPSM,corr
+14.8,right handed,25251,Female,UPSM,corr
+18.8,right handed,25252,Female,UPSM,corr
+18.8,right handed,25252,Female,UPSM,corr
+18.8,right handed,25252,Female,UPSM,corr
+12.7,right handed,25253,Female,UPSM,corr
+12.7,right handed,25253,Female,UPSM,corr
+12.7,right handed,25253,Female,UPSM,corr
+14.9,right handed,25254,Female,UPSM,corr
+14.9,right handed,25254,Female,UPSM,corr
+14.9,right handed,25254,Female,UPSM,corr
+18.9,right handed,25255,Male,UPSM,corr
+18.9,right handed,25255,Male,UPSM,corr
+13.9,right handed,25256,Female,UPSM,corr
+13.9,right handed,25256,Female,UPSM,corr
+11.7,right handed,25257,Male,UPSM,corr
+11.7,right handed,25257,Male,UPSM,corr
+11.7,right handed,25257,Male,UPSM,corr
+12.5,left handed,25258,Male,UPSM,corr
+12.5,left handed,25258,Male,UPSM,corr
+10.6,right handed,25259,Female,UPSM,corr
+10.6,right handed,25259,Female,UPSM,corr
+10.6,right handed,25259,Female,UPSM,corr
+12.9,right handed,25260,Male,UPSM,corr
+12.9,right handed,25260,Male,UPSM,corr
+14.1,right handed,25261,Male,UPSM,corr
+14.1,right handed,25261,Male,UPSM,corr
+14.1,right handed,25261,Male,UPSM,corr
+15.9,right handed,25262,Male,UPSM,corr
+15.9,right handed,25262,Male,UPSM,corr
+14.6,right handed,25263,Male,UPSM,corr
+16.5,right handed,25263,Male,UPSM,corr
+17.5,right handed,25263,Male,UPSM,corr
+11.5,right handed,25264,Male,UPSM,corr
+13.1,right handed,25264,Male,UPSM,corr
+14.4,right handed,25264,Male,UPSM,corr
+13.5,right handed,25265,Male,UPSM,corr
+15.2,right handed,25265,Male,UPSM,corr
+16.7,right handed,25265,Male,UPSM,corr
+14,right handed,25266,Male,UPSM,corr
+15.7,right handed,25266,Male,UPSM,corr
+17.5,right handed,25267,Male,UPSM,corr
+19.2,right handed,25267,Male,UPSM,corr
+20.6,right handed,25267,Male,UPSM,corr
+12.5,right handed,25268,Female,UPSM,corr
+14.1,right handed,25268,Female,UPSM,corr
+19.2,right handed,25269,Male,UPSM,corr
+19.2,right handed,25269,Male,UPSM,corr
+14.8,right handed,25270,Female,UPSM,corr
+14.8,right handed,25270,Female,UPSM,corr
+14.8,right handed,25270,Female,UPSM,corr
+16.2,right handed,25271,Male,UPSM,corr
+16.2,right handed,25271,Male,UPSM,corr
+16.2,right handed,25271,Male,UPSM,corr
+15.7,right handed,25272,Female,UPSM,corr
+15.7,right handed,25272,Female,UPSM,corr
+15.7,right handed,25272,Female,UPSM,corr
+18.2,right handed,25273,Male,UPSM,corr
+18.2,right handed,25273,Male,UPSM,corr
+18.2,right handed,25273,Male,UPSM,corr
+17.1,right handed,25274,Female,UPSM,corr
+17.1,right handed,25274,Female,UPSM,corr
+17.1,right handed,25274,Female,UPSM,corr
+15.4,right handed,25275,Female,UPSM,corr
+15.4,right handed,25275,Female,UPSM,corr
+15.4,right handed,25275,Female,UPSM,corr
+14.9,right handed,25276,Female,UPSM,corr
+14.9,right handed,25276,Female,UPSM,corr
+14.9,right handed,25276,Female,UPSM,corr
+11.2,right handed,25277,Male,UPSM,corr
+11.2,right handed,25277,Male,UPSM,corr
+11.2,right handed,25277,Male,UPSM,corr
+15.2,right handed,25278,Female,UPSM,corr
+15.2,right handed,25278,Female,UPSM,corr
+15.2,right handed,25278,Female,UPSM,corr
+18.1,right handed,25279,Female,UPSM,corr
+18.1,right handed,25279,Female,UPSM,corr
+17.9,right handed,25280,Female,UPSM,corr
+17.9,right handed,25280,Female,UPSM,corr
+14.7,left handed,25281,Male,UPSM,corr
+14.7,left handed,25281,Male,UPSM,corr
+12.3,right handed,25282,Female,UPSM,corr
+12.3,right handed,25282,Female,UPSM,corr
+12.9,right handed,25283,Male,UPSM,corr
+12.9,right handed,25283,Male,UPSM,corr
+12.9,right handed,25283,Male,UPSM,corr
+11.1,right handed,25284,Male,UPSM,corr
+11.1,right handed,25284,Male,UPSM,corr
+16.4,right handed,25285,Female,UPSM,corr
+16.4,right handed,25285,Female,UPSM,corr
+16.4,right handed,25285,Female,UPSM,corr
+18,right handed,25286,Female,UPSM,corr
+18,right handed,25286,Female,UPSM,corr
+18,right handed,25286,Female,UPSM,corr
+12.1,right handed,25287,Female,UPSM,corr
+12.1,right handed,25287,Female,UPSM,corr
+12.1,right handed,25287,Female,UPSM,corr
+18.4,right handed,25288,Female,UPSM,corr
+18.4,right handed,25288,Female,UPSM,corr
+18.4,right handed,25288,Female,UPSM,corr
+18.6,right handed,25289,Female,UPSM,corr
+18.6,right handed,25289,Female,UPSM,corr
+18.5,right handed,25290,Female,UPSM,corr
+18.5,right handed,25290,Female,UPSM,corr
+18.5,right handed,25290,Female,UPSM,corr
+18.9,right handed,25291,Female,UPSM,corr
+18.9,right handed,25291,Female,UPSM,corr
+18.9,right handed,25291,Female,UPSM,corr
+18.3,right handed,25292,Female,UPSM,corr
+18.3,right handed,25292,Female,UPSM,corr
+11,right handed,25293,Male,UPSM,corr
+11,right handed,25293,Male,UPSM,corr
+12.7,right handed,25294,Male,UPSM,corr
+12.7,right handed,25294,Male,UPSM,corr
+13.7,right handed,25295,Male,UPSM,corr
+13.7,right handed,25295,Male,UPSM,corr
+12.4,right handed,25307,Male,UPSM,corr
+12.4,right handed,25307,Male,UPSM,corr
+18.9,right handed,25308,Male,UPSM,corr
+18.9,right handed,25308,Male,UPSM,corr
+18.7,left handed,25296,Male,UPSM,corr
+18.7,left handed,25296,Male,UPSM,corr
+15.9,right handed,25297,Female,UPSM,corr
+15.9,right handed,25297,Female,UPSM,corr
+14.6,right handed,25298,Female,UPSM,corr
+14.6,right handed,25298,Female,UPSM,corr
+12.2,right handed,25299,Female,UPSM,corr
+12.2,right handed,25299,Female,UPSM,corr
+13.6,left handed,25300,Female,UPSM,corr
+13.6,left handed,25300,Female,UPSM,corr
+18.9,right handed,25301,Male,UPSM,corr
+18.9,right handed,25301,Male,UPSM,corr
+10.5,right handed,25302,Male,UPSM,corr
+10.5,right handed,25302,Male,UPSM,corr
+16.7,right handed,25303,Female,UPSM,corr
+16.7,right handed,25303,Female,UPSM,corr
+11,right handed,25304,Male,UPSM,corr
+11,right handed,25304,Male,UPSM,corr
+11.7,right handed,25305,Male,UPSM,corr
+11.7,right handed,25305,Male,UPSM,corr
+13.9,right handed,25306,Male,UPSM,corr
+13.9,right handed,25306,Male,UPSM,corr
+12.5,left handed,25309,Female,UPSM,corr
+12.5,left handed,25309,Female,UPSM,corr
+12.2,right handed,25310,Female,UPSM,corr
+12.2,right handed,25310,Female,UPSM,corr
+16.1,right handed,25311,Male,UPSM,corr
+16.1,right handed,25311,Male,UPSM,corr
+10.9,right handed,25312,Female,UPSM,corr
+10.9,right handed,25312,Female,UPSM,corr
+13.9,right handed,25313,Female,UPSM,corr
+13.9,right handed,25313,Female,UPSM,corr
+10.2,right handed,25314,Female,UPSM,corr
+10.2,right handed,25314,Female,UPSM,corr
+10.1,right handed,25315,Female,UPSM,corr
+10.1,right handed,25315,Female,UPSM,corr
+12.3,right handed,25316,Male,UPSM,corr
+12.3,right handed,25316,Male,UPSM,corr
+13,right handed,25317,Female,UPSM,corr
+13,right handed,25317,Female,UPSM,corr
+16.7,right handed,25318,Male,UPSM,corr
+16.7,right handed,25318,Male,UPSM,corr
+15.1,right handed,25319,Male,UPSM,corr
+15.1,right handed,25319,Male,UPSM,corr
+18.7,right handed,25320,Male,UPSM,corr
+18.7,right handed,25320,Male,UPSM,corr
+10.9,right handed,25321,Female,UPSM,corr
+10.9,right handed,25321,Female,UPSM,corr
+13.8,right handed,25322,Female,UPSM,corr
+13.8,right handed,25322,Female,UPSM,corr
+14.8,right handed,25323,Female,UPSM,corr
+14.8,right handed,25323,Female,UPSM,corr
+16.9,left handed,25324,Male,UPSM,corr
+16.9,left handed,25324,Male,UPSM,corr
+18.1,right handed,25325,Female,UPSM,corr
+18.1,right handed,25325,Female,UPSM,corr
+18.9,right handed,25326,Female,UPSM,corr
+18.9,right handed,25326,Female,UPSM,corr
+15.6,right handed,25327,Female,UPSM,corr
+15.6,right handed,25327,Female,UPSM,corr
+12,right handed,25328,Male,UPSM,corr
+12,right handed,25328,Male,UPSM,corr
+18.9,right handed,25329,Male,UPSM,corr
+18.9,right handed,25329,Male,UPSM,corr
+14.2,right handed,25330,Male,UPSM,corr
+14.2,right handed,25330,Male,UPSM,corr
+16.3,right handed,25331,Male,UPSM,corr
+16.3,right handed,25331,Male,UPSM,corr
+16.8,right handed,25332,Female,UPSM,corr
+16.8,right handed,25332,Female,UPSM,corr
+15.3,right handed,25333,Male,UPSM,corr
+15.3,right handed,25333,Male,UPSM,corr
 22,,27259,Male,UWM,corr
 ,,27259,,UWM,corr
 ,,27259,,UWM,corr
@@ -4075,94 +4075,94 @@ age,handedness,participant_id,sex,site_id,project
 23,,27283,Female,UWM,corr
 ,,27283,,UWM,corr
 ,,27283,,UWM,corr
-18,left handed,26018,Male,Utah_1,corr
-18,,26018,Male,Utah_1,corr
-18,,26018,Male,Utah_1,corr
-18,right handed,26019,Male,Utah_1,corr
-18,,26019,Male,Utah_1,corr
-18,,26019,Male,Utah_1,corr
-16,right handed,26020,Male,Utah_1,corr
-16,,26020,Male,Utah_1,corr
-16,,26020,Male,Utah_1,corr
-13,right handed,26021,Male,Utah_1,corr
-13,,26021,Male,Utah_1,corr
-13,,26021,Male,Utah_1,corr
-15,right handed,26022,Male,Utah_1,corr
-15,,26022,Male,Utah_1,corr
-15,,26022,Male,Utah_1,corr
-23,right handed,26023,Male,Utah_1,corr
-23,,26023,Male,Utah_1,corr
-23,,26023,Male,Utah_1,corr
-27,right handed,26024,Male,Utah_1,corr
-27,,26024,Male,Utah_1,corr
-27,,26024,Male,Utah_1,corr
-26,right handed,26025,Male,Utah_1,corr
-26,,26025,Male,Utah_1,corr
-26,,26025,Male,Utah_1,corr
-27,right handed,26026,Male,Utah_1,corr
-27,,26026,Male,Utah_1,corr
-27,,26026,Male,Utah_1,corr
-12,right handed,26027,Male,Utah_1,corr
-12,,26027,Male,Utah_1,corr
-12,,26027,Male,Utah_1,corr
-10,right handed,26028,Male,Utah_1,corr
-10,,26028,Male,Utah_1,corr
-10,,26028,Male,Utah_1,corr
-21,right handed,26029,Male,Utah_1,corr
-21,,26029,Male,Utah_1,corr
-21,,26029,Male,Utah_1,corr
-12,right handed,26030,Male,Utah_1,corr
-12,,26030,Male,Utah_1,corr
-12,,26030,Male,Utah_1,corr
-8,right handed,26031,Male,Utah_1,corr
-8,,26031,Male,Utah_1,corr
-8,,26031,Male,Utah_1,corr
-31,right handed,26032,Male,Utah_1,corr
-31,,26032,Male,Utah_1,corr
-31,,26032,Male,Utah_1,corr
-26,right handed,26033,Male,Utah_1,corr
-26,,26033,Male,Utah_1,corr
-26,,26033,Male,Utah_1,corr
-14,right handed,26034,Male,Utah_1,corr
-14,,26034,Male,Utah_1,corr
-14,,26034,Male,Utah_1,corr
-24,right handed,26035,Male,Utah_1,corr
-24,,26035,Male,Utah_1,corr
-24,,26035,Male,Utah_1,corr
-9,right handed,26036,Male,Utah_1,corr
-9,,26036,Male,Utah_1,corr
-9,,26036,Male,Utah_1,corr
-34,right handed,26037,Male,Utah_1,corr
-34,,26037,Male,Utah_1,corr
-34,,26037,Male,Utah_1,corr
-19,right handed,26038,Male,Utah_1,corr
-19,,26038,Male,Utah_1,corr
-19,,26038,Male,Utah_1,corr
-39,,26039,Male,Utah_1,corr
-39,,26039,Male,Utah_1,corr
-39,,26039,Male,Utah_1,corr
-28,right handed,26040,Male,Utah_1,corr
-28,,26040,Male,Utah_1,corr
-28,,26040,Male,Utah_1,corr
-9,right handed,26041,Male,Utah_1,corr
-9,,26041,Male,Utah_1,corr
-9,,26041,Male,Utah_1,corr
-25,right handed,26042,Male,Utah_1,corr
-25,,26042,Male,Utah_1,corr
-25,,26042,Male,Utah_1,corr
-22,right handed,26043,Male,Utah_1,corr
-22,,26043,Male,Utah_1,corr
-22,,26043,Male,Utah_1,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
-39,right handed,26017,Male,Utah_2,corr
+18,left handed,26018,Male,Utah,corr
+18,,26018,Male,Utah,corr
+18,,26018,Male,Utah,corr
+18,right handed,26019,Male,Utah,corr
+18,,26019,Male,Utah,corr
+18,,26019,Male,Utah,corr
+16,right handed,26020,Male,Utah,corr
+16,,26020,Male,Utah,corr
+16,,26020,Male,Utah,corr
+13,right handed,26021,Male,Utah,corr
+13,,26021,Male,Utah,corr
+13,,26021,Male,Utah,corr
+15,right handed,26022,Male,Utah,corr
+15,,26022,Male,Utah,corr
+15,,26022,Male,Utah,corr
+23,right handed,26023,Male,Utah,corr
+23,,26023,Male,Utah,corr
+23,,26023,Male,Utah,corr
+27,right handed,26024,Male,Utah,corr
+27,,26024,Male,Utah,corr
+27,,26024,Male,Utah,corr
+26,right handed,26025,Male,Utah,corr
+26,,26025,Male,Utah,corr
+26,,26025,Male,Utah,corr
+27,right handed,26026,Male,Utah,corr
+27,,26026,Male,Utah,corr
+27,,26026,Male,Utah,corr
+12,right handed,26027,Male,Utah,corr
+12,,26027,Male,Utah,corr
+12,,26027,Male,Utah,corr
+10,right handed,26028,Male,Utah,corr
+10,,26028,Male,Utah,corr
+10,,26028,Male,Utah,corr
+21,right handed,26029,Male,Utah,corr
+21,,26029,Male,Utah,corr
+21,,26029,Male,Utah,corr
+12,right handed,26030,Male,Utah,corr
+12,,26030,Male,Utah,corr
+12,,26030,Male,Utah,corr
+8,right handed,26031,Male,Utah,corr
+8,,26031,Male,Utah,corr
+8,,26031,Male,Utah,corr
+31,right handed,26032,Male,Utah,corr
+31,,26032,Male,Utah,corr
+31,,26032,Male,Utah,corr
+26,right handed,26033,Male,Utah,corr
+26,,26033,Male,Utah,corr
+26,,26033,Male,Utah,corr
+14,right handed,26034,Male,Utah,corr
+14,,26034,Male,Utah,corr
+14,,26034,Male,Utah,corr
+24,right handed,26035,Male,Utah,corr
+24,,26035,Male,Utah,corr
+24,,26035,Male,Utah,corr
+9,right handed,26036,Male,Utah,corr
+9,,26036,Male,Utah,corr
+9,,26036,Male,Utah,corr
+34,right handed,26037,Male,Utah,corr
+34,,26037,Male,Utah,corr
+34,,26037,Male,Utah,corr
+19,right handed,26038,Male,Utah,corr
+19,,26038,Male,Utah,corr
+19,,26038,Male,Utah,corr
+39,,26039,Male,Utah,corr
+39,,26039,Male,Utah,corr
+39,,26039,Male,Utah,corr
+28,right handed,26040,Male,Utah,corr
+28,,26040,Male,Utah,corr
+28,,26040,Male,Utah,corr
+9,right handed,26041,Male,Utah,corr
+9,,26041,Male,Utah,corr
+9,,26041,Male,Utah,corr
+25,right handed,26042,Male,Utah,corr
+25,,26042,Male,Utah,corr
+25,,26042,Male,Utah,corr
+22,right handed,26043,Male,Utah,corr
+22,,26043,Male,Utah,corr
+22,,26043,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
+39,right handed,26017,Male,Utah,corr
 NoPhenotypicData,,25982,,XHCUMS,corr
 62,,25983,Male,XHCUMS,corr
 62,,25983,Male,XHCUMS,corr
