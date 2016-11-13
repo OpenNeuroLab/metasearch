@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:6pac/SlickGrid.git
+	branch = master
+	commit = e42414dc34b45ac045e6a40d5ce77792d2c7b3a2
+	parent = 39a7820f75d7499b2469ac5afb01dc78a6577f92
+	cmdver = 0.3.0
