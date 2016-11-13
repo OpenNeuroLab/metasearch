@@ -1,81 +1,71 @@
-<!doctype html>
-<title>MetaSearch</title>
+<html>
+<head>
+    <title>OpenNeuroLab: MetaSearch</title>
 
-<!-- SlickGrid -->
-<link rel="stylesheet" href="lib/slickgrid/slick.grid.css" type="text/css"/>
-<link rel="stylesheet" href="lib/slickgrid/jquery-ui-1.8.16.custom.css" type="text/css"/>
-<link rel="stylesheet" href="lib/slickgrid/examples.css" type="text/css"/>
-<link rel="stylesheet" href="lib/slickgrid/slick.pager.css" type="text/css"/>
-<script src="lib/slickgrid/jquery-1.7.min.js"></script>
-<script src="lib/slickgrid/jquery.event.drag-2.0.min.js"></script>
-<script src="lib/slickgrid/slick.core.js"></script>
-<script src="lib/slickgrid/slick.grid.js"></script>
-<script src="lib/slickgrid/slick.pager.js"></script>
-<script src="lib/slickgrid/slick.dataview.js"></script>
-<!-- End SlickGrid -->
+    <!-- SlickGrid -->
+    <link rel="stylesheet" href="lib/slickgrid/slick.grid.css" type="text/css"/>
+    <link rel="stylesheet" href="lib/slickgrid/jquery-ui-1.8.16.custom.css" type="text/css"/>
+    <link rel="stylesheet" href="lib/slickgrid/examples.css" type="text/css"/>
+    <link rel="stylesheet" href="lib/slickgrid/slick.pager.css" type="text/css"/>
+    <script src="lib/slickgrid/jquery-1.7.min.js"></script>
+    <script src="lib/slickgrid/jquery.event.drag-2.0.min.js"></script>
+    <script src="lib/slickgrid/slick.core.js"></script>
+    <script src="lib/slickgrid/slick.grid.js"></script>
+    <script src="lib/slickgrid/slick.pager.js"></script>
+    <script src="lib/slickgrid/slick.dataview.js"></script>
+    <!-- End SlickGrid -->
 
-<link rel="stylesheet" type="text/css" href="d3.parcoords.css">
-<link rel="stylesheet" type="text/css" href="style.css">
-<style>
-    body, html {
-        margin: 0;
-        height: 100%;
-        width: 100%;
-        overflow: hidden;
-        font-size: 12px;
-    }
+    <script src="lib/d3.min.js"></script>
+    <script src="lib/divgrid.js"></script>
 
-    #grid, #pager {
-        position: fixed;
-        width: 100%;
-    }
+    <link rel="stylesheet" type="text/css" href="d3.parcoords.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="d3.parcoords.js"></script>
+</head>
+<body>
+<div id="desc" style="width:100%;">
+     <div id="title"><span class="large">MetaSearch</span></div>
+      <footer>A metadeta filter from OpenNeuroLab</footer>
+     <button id="keep-data">Keep</button>
+     <button id="exclude-data">Exclude</button>
+     <button id="reset-data">Reset</button>
+</div>
 
-    #grid {
-        bottom: 0;
-        height: 300px;
-    }
 
-    #pager {
-        bottom: 306px;
-        height: 20px;
-    }
 
-    .slick-row:hover {
-        font-weight: bold;
-        color: #069;
-    }
-</style>
-<script src="lib/d3.min.js"></script>
-<script src="d3.parcoords.js"></script>
-<script src="lib/divgrid.js"></script>
-<div id="example" class="parcoords" style="height:240px;"></div>
+<div id="filter" class="parcoords" style="width:100%;height:480px"></div>
 <div id="grid"></div>
 <div id="pager"></div>
+
+
+
 <script id="brushing">
-    var parcoords = d3.parcoords()("#example")
-            .alpha(0.4)
-            .mode("queue") // progressive rendering
-            .height(d3.max([document.body.clientHeight - 326, 220]))
-            .margin({
-                top: 36,
-                left: 0,
-                right: 0,
-                bottom: 16
-            });
+    var parcoords;
+    var dataset;
 
     // load csv file and create the chart
     d3.csv('data/phenotype.csv', function (data) {
+        dataset = data;
+
         // slickgrid needs each data element to have an id
         data.forEach(function (d, i) {
             d.id = d.id || i;
         });
-
-        parcoords
+        parcoords = d3.parcoords()("#filter")
                 .data(data)
+                .alpha(0.4)
+                .mode("queue") // progressive rendering
+                .rate(5)
                 .hideAxis(["participant_id", "id"])
                 .render()
                 .reorderable()
                 .brushMode("1D-axes");
+
+        change_color("age");
+
+        parcoords.svg
+                 .selectAll(".dimension")
+                 .on("click", change_color);
 
         // setting up grid
         var column_keys = d3.keys(data[0]);
@@ -167,4 +157,70 @@
         }
 
     });
+
+       // Remove all but selected from the dataset
+      d3.select("#keep-data")
+        .on("click", function() {
+          new_data = parcoords.brushed();
+          if (new_data.length == 0) {
+            alert("Please do not select all the data when keeping/excluding");
+            return false;
+          }
+          callUpdate(new_data);
+        });
+
+      // Exclude selected from the dataset
+      d3.select("#exclude-data")
+        .on("click", function() {
+          new_data = _.difference(dataset, parcoords.brushed());
+          if (new_data.length == 0) {
+            alert("Please do not select all the data when keeping/excluding");
+            return false;
+          }
+          callUpdate(new_data);
+        });
+
+
+      d3.select("#reset-data")
+         .on("click", function() {
+               callUpdate(dataset);
+         });
+
+
+    var color_scale = d3.scale.linear()
+                        .domain([-2,-0.5,0.5,2])
+                        .range(["#DE5E60", "steelblue", "steelblue", "#98df8a"])
+                        .interpolate(d3.interpolateLab);
+
+    function change_color(dimension) {
+      parcoords.svg.selectAll(".dimension")
+        .style("font-weight", "normal")
+        .filter(function(d) { return d == dimension; })
+        .style("font-weight", "bold")
+
+      parcoords.color(zcolor(parcoords.data(), dimension)).render()
+    }
+
+    function zcolor(col, dimension) {
+      var z = zscore(_(col).pluck(dimension).map(parseFloat));
+      return function(d) { return color_scale(z(d[dimension]))}
+    };
+
+    function zscore(col) {
+      var n = col.length,
+      mean = _(col).mean(),
+      sigma = _(col).stdDeviation();
+
+      return function(d) {
+        return (d-mean)/sigma;
+      };
+    };
+
+    function callUpdate(data) {
+             parcoords.data(data).brush().render().updateAxes();
+
+    }
 </script>
+
+</body>
+</html>

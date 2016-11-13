@@ -28,5 +28,5 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  background-color: white;
+  background-color: rgba(38,41,46,1);
 }
