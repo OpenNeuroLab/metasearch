@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:syntagmatic/parallel-coordinates.git
+	branch = gh-pages
+	commit = 7cab577711db964b6adef87b80beda7866539248
+	parent = b3d1abc8671861e7d15720e344b768fe66e035d0
+	cmdver = 0.3.0
