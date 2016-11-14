@@ -53,6 +53,22 @@ text {
    height: 30vh;
 }
 
+#onl-header {
+   width: 100vw;
+   height: 10vh;
+   overflow: hidden;
+}
+
+#onl-icon {
+    height: 10vh;
+    width: 10vh;
+    float: left;
+}
+
+#onl-metatitle {
+    float: left;
+}
+
 #title {
   font-size: 24px;
   font-weight: 100;
@@ -66,14 +82,9 @@ footer {
   color: #777;
 }
 
-#desc {
-      float: left;
-      }
-
-#buttons {
+#onl-buttons {
       float: right;
-      align: center;
-      }
+}
 
 button {
     background: none repeat scroll 0 0 #3C3F45;
