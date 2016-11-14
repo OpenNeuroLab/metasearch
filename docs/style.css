@@ -75,7 +75,6 @@ footer {
       align: center;
       }
 
-
 button {
     background: none repeat scroll 0 0 #3C3F45;
     color: #a3a3a3;
@@ -117,4 +116,8 @@ button:hover {
 
 .slick-cell {
   color: white;
+}
+
+.ui-widget-content a {
+    color: #fff;
 }

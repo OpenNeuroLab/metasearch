@@ -49,7 +49,7 @@
     var dataset;
 
     // load csv file and create the chart
-    d3.csv('data/phenotype.csv', function (data) {
+    d3.csv('data/phenotype_mri.csv', function (data) {
 
         // slickgrid needs each data element to have an id
         data.forEach(function (d, i) {
@@ -62,7 +62,7 @@
                 .alpha(0.4)
                 .mode("queue") // progressive rendering
                 .rate(5)
-                .hideAxis(["participant_id", "id"])
+                .hideAxis(["participant_id", "id", 'MRIs'])
                 .render()
                 .reorderable()
                 .brushMode("1D-axes")
@@ -76,12 +76,30 @@
 
         // setting up grid
         var column_keys = d3.keys(data[0]);
+        var linkformatter = function(row, cell, value, columnDef, dataContext) {
+            if (value == ''){
+                   return '';
+             }else{
+               var docno = value ? value : "";
+               return '<a target="_blank" href="http://brainbox.pasteur.fr/mri/?url=' + docno + '">Link</a>';
+         }
+         };
         var columns = column_keys.map(function (key, i) {
-            return {
-                id: key,
-                name: key,
-                field: key,
-                sortable: true
+            if (key == 'MRIs'){
+                return {
+                    id: key,
+                    name: key,
+                    field: key,
+                    sortable: true,
+                    formatter: linkformatter
+                }
+            } else{
+                return {
+                    id: key,
+                    name: key,
+                    field: key,
+                    sortable: true
+                }
             }
         });
 
