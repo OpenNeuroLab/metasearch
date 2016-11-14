@@ -55,14 +55,15 @@ text {
 
 #onl-header {
    width: 100vw;
-   height: 10vh;
+   height: 50px;
    overflow: hidden;
 }
 
 #onl-icon {
-    height: 10vh;
-    width: 10vh;
+    height: 50px;
+    width: 50px;
     float: left;
+    margin-right: 10px;
 }
 
 #onl-metatitle {

@@ -81,6 +81,7 @@
 
         // setting up grid
         var column_keys = d3.keys(data[0]);
+        column_keys = ['project', 'site_id', 'diagnosis', 'sex', 'age', 'MRIs']
         var linkformatter = function(row, cell, value, columnDef, dataContext) {
             if (value == ''){
                    return '';
