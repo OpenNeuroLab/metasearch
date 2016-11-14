@@ -11,6 +11,9 @@ text {
   fill: white;
 }
 
+.parcoords {
+  background-color: #26292e;
+}
 
 .group:after {
   content: "";
@@ -27,18 +30,27 @@ text {
    height: 50vh;
 }
 
-#grid {
-   width: 100vw;
-   height: 40vh;
-}
-
 #pager {
    position: relative;
    float: left;
-   width: 100vw;
-   height: 40vh;
+   width: 95vw;
+   height: 30px;
    color: white;
-   background: black;
+}
+
+.slick-pager {
+   border: 0px solid gray;
+   background: #26292e;
+}
+
+.ui-state-default .ui-icon {
+	background-image: url("lib/slickgrid/css/smoothness/images/ui-icons_222222_256x240.png");
+}
+
+#grid {
+   position: relative;
+   width: 95vw;
+   height: 30vh;
 }
 
 #title {
@@ -85,3 +97,24 @@ button:hover {
     color: #FFFFFF;
 }
 
+
+.slick-headerrow {
+  background: #26292E;
+}
+
+.slick-row.ui-state-active {
+  background: #46494E;
+}
+
+.slick-row {
+  background: #26292E;
+}
+
+.slick-row.selected {
+  z-index: 10;
+  background: #DFE8F6;
+}
+
+.slick-cell {
+  color: white;
+}
