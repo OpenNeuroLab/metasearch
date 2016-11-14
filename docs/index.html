@@ -3,29 +3,34 @@
     <title>OpenNeuroLab: MetaSearch</title>
 
     <!-- SlickGrid -->
+    <link rel="stylesheet" href="lib/slickgrid/css/smoothness/jquery-ui-1.11.3.custom.css" type="text/css"/>
+
     <link rel="stylesheet" href="lib/slickgrid/slick.grid.css" type="text/css"/>
-    <link rel="stylesheet" href="lib/slickgrid/jquery-ui-1.8.16.custom.css" type="text/css"/>
-    <link rel="stylesheet" href="lib/slickgrid/examples.css" type="text/css"/>
-    <link rel="stylesheet" href="lib/slickgrid/slick.pager.css" type="text/css"/>
-    <script src="lib/slickgrid/jquery-1.7.min.js"></script>
-    <script src="lib/slickgrid/jquery.event.drag-2.0.min.js"></script>
+    <link rel="stylesheet" href="lib/slickgrid/controls/slick.pager.css" type="text/css"/>
+
+    <script src="lib/slickgrid/lib/jquery-3.1.0.js"></script>
+    <script src="lib/slickgrid/lib/jquery.event.drag-2.3.0.js"></script>
+    <script src="lib/underscore.js"></script>
+    <script src="lib/underscore.math.js"></script>
+
     <script src="lib/slickgrid/slick.core.js"></script>
     <script src="lib/slickgrid/slick.grid.js"></script>
-    <script src="lib/slickgrid/slick.pager.js"></script>
+    <script src="lib/slickgrid/controls/slick.pager.js"></script>
     <script src="lib/slickgrid/slick.dataview.js"></script>
     <!-- End SlickGrid -->
 
     <script src="lib/d3.min.js"></script>
-    <script src="lib/divgrid.js"></script>
 
     <link rel="stylesheet" type="text/css" href="d3.parcoords.css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script src="d3.parcoords.js"></script>
 </head>
 <body>
-<div id="desc" style="width:100%;">
+<div id="desc">
      <div id="title"><span class="large">MetaSearch</span></div>
-      <footer>A metadeta filter from OpenNeuroLab</footer>
+     <footer>A metadeta filter from OpenNeuroLab</footer>
+</div>
+<div id="buttons">
      <button id="keep-data">Keep</button>
      <button id="exclude-data">Exclude</button>
      <button id="reset-data">Reset</button>
@@ -33,9 +38,9 @@
 
 
 
-<div id="filter" class="parcoords" style="width:100%;height:480px"></div>
-<div id="grid"></div>
+<div id="filter" class="parcoords"></div>
 <div id="pager"></div>
+<div id="grid"></div>
 
 
 
@@ -45,12 +50,13 @@
 
     // load csv file and create the chart
     d3.csv('data/phenotype.csv', function (data) {
-        dataset = data;
 
         // slickgrid needs each data element to have an id
         data.forEach(function (d, i) {
             d.id = d.id || i;
         });
+        dataset = data;
+
         parcoords = d3.parcoords()("#filter")
                 .data(data)
                 .alpha(0.4)
@@ -59,7 +65,8 @@
                 .hideAxis(["participant_id", "id"])
                 .render()
                 .reorderable()
-                .brushMode("1D-axes");
+                .brushMode("1D-axes")
+                .autoscale();
 
         change_color("age");
 
@@ -207,12 +214,19 @@
     };
 
     function zscore(col) {
+      var col2 = _.reject(col, _.isNaN);
       var n = col.length,
-      mean = _(col).mean(),
-      sigma = _(col).stdDeviation();
+      mean = _(col2).mean(),
+      sigma = _(col2).stdDeviation();
 
-      return function(d) {
-        return (d-mean)/sigma;
+      if (col2.length > 2){
+          return function(d) {
+            return (d-mean)/sigma;
+          };
+      } else{
+          return function(d) {
+            return 0;
+          };
       };
     };
 

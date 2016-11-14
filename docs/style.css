@@ -12,7 +12,6 @@ text {
 }
 
 
-
 .group:after {
   content: "";
   display: table;
@@ -24,9 +23,23 @@ text {
 #filter {
    position: relative;
    float: left;
-   top: 20px;
+   width: 100vw;
+   height: 50vh;
 }
 
+#grid {
+   width: 100vw;
+   height: 40vh;
+}
+
+#pager {
+   position: relative;
+   float: left;
+   width: 100vw;
+   height: 40vh;
+   color: white;
+   background: black;
+}
 
 #title {
   font-size: 24px;
@@ -42,10 +55,14 @@ footer {
 }
 
 #desc {
-      position: relative;
-      z-index:-999;
-      /*left: 380px;*/
+      float: left;
       }
+
+#buttons {
+      float: right;
+      align: center;
+      }
+
 
 button {
     background: none repeat scroll 0 0 #3C3F45;
@@ -68,12 +85,3 @@ button:hover {
     color: #FFFFFF;
 }
 
-
-/* data table styles */
-#grid { height: 400px; color:white; clear: both; position:relative; top: 60px; left: 15px }
-.row, .header { clear: left; font-size: 14px; line-height: 18px; height: 20px; margin: 5px; width:1120px }
-.row:hover {text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;}
-.row:nth-child(odd) { background: rgba(0,0,0,0.05); }
-.header { font-weight: bold; }
-.cell { float: left; overflow: hidden; white-space: nowrap; width: 120px; height: 22px; }
-.col-0 { width: 280px; }
