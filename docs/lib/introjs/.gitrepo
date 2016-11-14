@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:usablica/intro.js.git
+	branch = master
+	commit = c57c06185b663aa24734740c56e16e742976b2ee
+	parent = ce5d9fc458934d58f436b10f7f6ce3aa194dc007
+	cmdver = 0.3.0
