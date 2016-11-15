@@ -85,6 +85,7 @@ footer {
 
 #onl-buttons {
       float: right;
+      margin-right: 5vw;
 }
 
 button {
@@ -92,7 +93,7 @@ button {
     color: #a3a3a3;
     cursor: pointer;
     display: inline-block;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     margin-top: 0px;
     padding: 5px 40px;
