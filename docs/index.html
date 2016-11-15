@@ -30,7 +30,7 @@
 <body>
 <div id="onl-header">
     <div id="onl-icon">
-        <img src="logo.jpg" width="50px"/>
+        <img src="logo.gif" width="50px"/>
     </div>
     <div id="onl-metatitle">
       <div id="title"><span class="large">MetaSearch</span></div>
@@ -90,7 +90,7 @@
                    return '';
              }else{
                var docno = value ? value : "";
-               return '<a target="_blank" href="http://brainbox.pasteur.fr/mri/?url=' + docno + '">Link</a>';
+               return '<a target="_blank" href="http://brainbox.pasteur.fr/mri/?url=' + docno + '">BrainBox</a>';
          }
          };
         var columns = column_keys.map(function (key, i) {
@@ -308,7 +308,7 @@
                 element: '#grid',
                 intro: 'This grid shows the selected data in tabular form. ' +
                 'Each column can be sorted by clicking on the header. The ' +
-                'Link cell under MRI will open the MRI using BrainBox when ' +
+                'BrainBox link under the MRI column will open the MRI using BrainBox when ' +
                 'available. Hovering on any row shows the corresponding data ' +
                 'on the parallel coordinate display as a line.',
                 position: 'top'

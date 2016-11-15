@@ -28,6 +28,8 @@ text {
    float: left;
    width: 100vw;
    height: 50vh;
+   margin-top: 5px;
+   margin-bottom: 5px;
 }
 
 #pager {
@@ -120,6 +122,10 @@ button:hover {
 
 .slick-row {
   background: #26292E;
+}
+
+.slick-row:hover{
+    background: none repeat scroll 0 0 #555;
 }
 
 .slick-row.selected {
