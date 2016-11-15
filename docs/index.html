@@ -24,17 +24,20 @@
     <link rel="stylesheet" type="text/css" href="lib/parcoords/d3.parcoords.css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script src="lib/parcoords/d3.parcoords.js"></script>
+    <link rel="stylesheet" type="text/css" href="lib/introjs/introjs.css" />
+    <script src="lib/introjs/intro.js"></script>
 </head>
 <body>
 <div id="onl-header">
     <div id="onl-icon">
-        <img src="logo.jpg" width="50px"/>
+        <img src="logo.gif" width="50px"/>
     </div>
     <div id="onl-metatitle">
       <div id="title"><span class="large">MetaSearch</span></div>
-      <footer>A metadeta filter from OpenNeuroLab</footer>
+      <footer>A metadata filter from OpenNeuroLab</footer>
     </div>
     <div id="onl-buttons">
+        <button id="tutorial" onclick="startIntro();">Tutorial</button>
         <button id="keep-data">Keep</button>
         <button id="exclude-data">Exclude</button>
         <button id="reset-data">Reset</button>
@@ -66,7 +69,7 @@
                 .data(data)
                 .alpha(0.4)
                 .mode("queue") // progressive rendering
-                .rate(5)
+                .rate(30)
                 .hideAxis(["participant_id", "id", 'MRIs'])
                 .render()
                 .reorderable()
@@ -81,13 +84,13 @@
 
         // setting up grid
         var column_keys = d3.keys(data[0]);
-        column_keys = ['project', 'site_id', 'diagnosis', 'sex', 'age', 'MRIs']
+        column_keys = ['project', 'site_id', 'participant_id', 'diagnosis', 'sex', 'age', 'MRIs']
         var linkformatter = function(row, cell, value, columnDef, dataContext) {
             if (value == ''){
                    return '';
              }else{
                var docno = value ? value : "";
-               return '<a target="_blank" href="http://brainbox.pasteur.fr/mri/?url=' + docno + '">Link</a>';
+               return '<a target="_blank" href="http://brainbox.pasteur.fr/mri/?url=' + docno + '">BrainBox</a>';
          }
          };
         var columns = column_keys.map(function (key, i) {
@@ -200,7 +203,7 @@
       // Exclude selected from the dataset
       d3.select("#exclude-data")
         .on("click", function() {
-          new_data = _.difference(dataset, parcoords.brushed());
+          new_data = _.difference(parcoords.data(), parcoords.brushed());
           if (new_data.length == 0) {
             alert("Please do not select all the data when keeping/excluding");
             return false;
@@ -253,8 +256,80 @@
 
     function callUpdate(data) {
              parcoords.data(data).render().updateAxes();
-
+             change_color('age');
     }
+
+    function startIntro(){
+        var intro = introJs();
+          intro.setOptions({
+            steps: [
+              {
+                intro: "This tutorial will help you use metasearch. A search " +
+                "tool intended to help you find MRI data shared publicly on " +
+                "Web. It is provided by the Open Neuroimaging Laboratory " +
+                "project as a companion to the <a target='_blank' " +
+                "style='text-decoration: none; color: red;' " +
+                "href='http://brainbox.pasteur.fr'>BrainBox</a> project. " +
+                "If you have MRI data to publish, please visit: " +
+                "<a target='_blank' " +
+                "style='text-decoration: none; color: red;' " +
+                "href='https://github.com/OpenNeuroLab/metasearch/issues/new'>" +
+                "MetaSearch on Github</a> and post " +
+                "an issue."
+              },
+              {
+                element: "#filter",
+                intro: "You can interactively filter your data using this " +
+                "interactive parallel coordinate plot. You can drag along a " +
+                "column to brush or select elements. Clicking anywhere " +
+                "outside the selected area on the axis will reset the " +
+                "selection. Clicking on a column header will color the data " +
+                "by z-score if the data are numeric.",
+                position: 'bottom'
+              },
+              {
+                element: '#keep-data',
+                intro: "After you have created a selection, this button helps" +
+                " reduce the data you are manipulating to just the selection",
+                position: 'bottom'
+              },
+              {
+                element: '#exclude-data',
+                intro: "This button is the reverse of keep and removes the " +
+                "selection from dataset and draws the remaining data",
+                position: 'bottom'
+              },
+              {
+                element: '#reset-data',
+                intro: 'This button resets the data to the original dataset.',
+                position: 'bottom'
+              },
+              {
+                element: '#grid',
+                intro: 'This grid shows the selected data in tabular form. ' +
+                'Each column can be sorted by clicking on the header. The ' +
+                'BrainBox link under the MRI column will open the MRI using BrainBox when ' +
+                'available. Hovering on any row shows the corresponding data ' +
+                'on the parallel coordinate display as a line.',
+                position: 'top'
+              },
+              {
+                element: '#pager',
+                intro: 'This displays the total number of data rows and ' +
+                'allows paginating the display using the button on the right.',
+                position: 'top'
+              },
+              {
+                element: '#tutorial',
+                intro: 'That\'s it for now. Please provide feedback using ' +
+                '<a target="_blank" style="text-decoration: none; color: red;" ' +
+                'href="https://neurostars.org">Neurostars!</a>',
+                position: 'bottom'
+              }
+            ]
+          });
+          intro.start();
+      }
 </script>
 
 </body>
