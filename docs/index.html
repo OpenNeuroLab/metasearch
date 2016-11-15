@@ -24,6 +24,8 @@
     <link rel="stylesheet" type="text/css" href="lib/parcoords/d3.parcoords.css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script src="lib/parcoords/d3.parcoords.js"></script>
+    <link rel="stylesheet" type="text/css" href="lib/introjs/introjs.css" />
+    <script src="lib/introjs/intro.js"></script>
 </head>
 <body>
 <div id="onl-header">
@@ -35,6 +37,7 @@
       <footer>A metadata filter from OpenNeuroLab</footer>
     </div>
     <div id="onl-buttons">
+        <button id="tutorial" onclick="startIntro();">Tutorial</button>
         <button id="keep-data">Keep</button>
         <button id="exclude-data">Exclude</button>
         <button id="reset-data">Reset</button>
@@ -255,6 +258,77 @@
              parcoords.data(data).render().updateAxes();
 
     }
+
+      function startIntro(){
+        var intro = introJs();
+          intro.setOptions({
+            steps: [
+              {
+                intro: "This tutorial will help you use metasearch. A search " +
+                "tool intended to help you find MRI data shared publicly on " +
+                "Web. It is provided by the Open Neuroimaging Laboratory " +
+                "project as a companion to the <a target='_blank' " +
+                "style='text-decoration: none; color: red;' " +
+                "href='http://brainbox.pasteur.fr'>BrainBox</a> project. " +
+                "If you have MRI data to publish, please visit: " +
+                "<a target='_blank' " +
+                "style='text-decoration: none; color: red;' " +
+                "href='https://github.com/OpenNeuroLab/metasearch/issues/new'>" +
+                "MetaSearch on Github</a> and post " +
+                "an issue."
+              },
+              {
+                element: "#filter",
+                intro: "You can interactively filter your data using this " +
+                "interactive parallel coordinate plot. You can drag along a " +
+                "column to brush or select elements. Clicking anywhere " +
+                "outside the selected area on the axis will reset the " +
+                "selection. Clicking on a column header will color the data " +
+                "by z-score if the data are numeric.",
+                position: 'bottom'
+              },
+              {
+                element: '#keep-data',
+                intro: "After you have created a selection, this button helps" +
+                " reduce the data you are manipulating to just the selection",
+                position: 'bottom'
+              },
+              {
+                element: '#exclude-data',
+                intro: "This button is the reverse of keep and removes the " +
+                "selection from dataset and draws the remaining data",
+                position: 'bottom'
+              },
+              {
+                element: '#reset-data',
+                intro: 'This button resets the data to the original dataset.',
+                position: 'bottom'
+              },
+              {
+                element: '#grid',
+                intro: 'This grid shows the selected data in tabular form. ' +
+                'Each column can be sorted by clicking on the header. The ' +
+                'Link cell under MRI will open the MRI using BrainBox when ' +
+                'available. Hovering on any row shows the corresponding data ' +
+                'on the parallel coordinate display as a line.',
+                position: 'top'
+              },
+              {
+                element: '#pager',
+                intro: 'This displays the total number of data rows and ' +
+                'allows paginating the display using the button on the right.',
+                position: 'top'
+              },
+              {
+                element: '#tutorial',
+                intro: 'That\'s it for now. Please provide feedback using ' +
+                '<a target="_blank" href="https://neurostars.org">Neurostars</a>',
+                position: 'bottom'
+              }
+            ]
+          });
+          intro.start();
+      }
 </script>
 
 </body>

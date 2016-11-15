@@ -133,3 +133,8 @@ button:hover {
 .ui-widget-content a {
     color: #fff;
 }
+
+.introjs-tooltip {
+  width: 40vw;
+  color: #26292E;
+}
