@@ -69,7 +69,7 @@
                 .data(data)
                 .alpha(0.4)
                 .mode("queue") // progressive rendering
-                .rate(5)
+                .rate(30)
                 .hideAxis(["participant_id", "id", 'MRIs'])
                 .render()
                 .reorderable()
@@ -203,7 +203,7 @@
       // Exclude selected from the dataset
       d3.select("#exclude-data")
         .on("click", function() {
-          new_data = _.difference(dataset, parcoords.brushed());
+          new_data = _.difference(parcoords.data(), parcoords.brushed());
           if (new_data.length == 0) {
             alert("Please do not select all the data when keeping/excluding");
             return false;
@@ -256,10 +256,10 @@
 
     function callUpdate(data) {
              parcoords.data(data).render().updateAxes();
-
+             change_color('age');
     }
 
-      function startIntro(){
+    function startIntro(){
         var intro = introJs();
           intro.setOptions({
             steps: [
