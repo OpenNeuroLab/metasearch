@@ -25,11 +25,8 @@ text {
 
 #filter {
    position: relative;
-   float: left;
    width: 100vw;
    height: 50vh;
-   margin-top: 5px;
-   margin-bottom: 5px;
 }
 
 #pager {
@@ -90,12 +87,12 @@ footer {
       margin-right: 5vw;
 }
 
-#post-data {
+#post-data, #github {
     display: inline-block;
     font-size: 16px;
     font-weight: 500;
     margin-top: 0px;
-    padding: 0px 10px;
+    padding: 0px 5px;
     text-align: center;
     transition: background 0.1s linear 0s, color 0.1s linear 0s;
     vertical-align: middle;
@@ -103,7 +100,7 @@ footer {
     border: 0;
 }
 
-#post-data:hover {
+#post-data:hover, #github:hover {
     background: none repeat scroll 0 0 #DE5E60;
     color: #FFFFFF;
 }
