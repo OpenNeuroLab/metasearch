@@ -3,6 +3,11 @@
     "element": "participant_id",
     "type": "identifier"
   },
+  "diagnosis": {
+    "element": "diagnosis",
+    "type": "static",
+    "value": "control"
+  },
   "SITE": {
     "element": "site_id",
     "type": "category",
