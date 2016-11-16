@@ -1,4 +1,9 @@
 {
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "indi"
+  },
   "Match_ID": {
     "element": "participant_id",
     "type": "identifier"

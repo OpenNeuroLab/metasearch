@@ -1,4 +1,9 @@
 {
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "abide_initiative"
+  },
   "SUB_ID":
   {
     "element": "participant_id",

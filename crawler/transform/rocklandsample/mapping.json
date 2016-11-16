@@ -1,4 +1,9 @@
 {
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "rocklandsample"
+  },
   "Subject ID": {
     "element": "participant_id",
     "type": "identifier"

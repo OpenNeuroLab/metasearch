@@ -1,4 +1,9 @@
 {
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "acpi"
+  },
   "ID":
   {
     "element": "participant_id",

@@ -1,4 +1,9 @@
 {
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "hbnss"
+  },
   "SubID": {
     "element": "participant_id",
     "type": "identifier"

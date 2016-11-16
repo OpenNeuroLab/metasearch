@@ -1,4 +1,9 @@
 {
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "adhd200"
+  },
   "ScanDir ID":
   {
     "element": "participant_id",
