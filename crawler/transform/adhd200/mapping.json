@@ -4,6 +4,11 @@
     "element": "participant_id",
     "type": "identifier"
   },
+  "ID":
+  {
+    "element": "participant_id",
+    "type": "identifier"
+  },
   "Site":
   {
     "element": "site_id",
