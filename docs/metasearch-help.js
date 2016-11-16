@@ -5,7 +5,7 @@
               {
                 intro: "This tutorial will help you use metasearch. A search " +
                 "tool intended to help you find MRI data shared publicly on " +
-                "Web. It is provided by the Open Neuroimaging Laboratory " +
+                "the Web. It is provided by the Open Neuroimaging Laboratory " +
                 "project as a companion to the <a target='_blank' " +
                 "style='text-decoration: none; color: red;' " +
                 "href='http://brainbox.pasteur.fr'>BrainBox</a> project. " +
@@ -19,24 +19,25 @@
               {
                 element: "#filter",
                 intro: "You can interactively filter your data using this " +
-                "interactive parallel coordinate plot. You can drag along a " +
+                "interactive parallel coordinates plot. You can drag along a " +
                 "column to brush or select elements. Clicking anywhere " +
-                "outside the selected area on the axis will reset the " +
+                "outside the selected area on the column will reset the " +
                 "selection. Clicking on a column header will color the data " +
                 "by z-score if the data are numeric. You can also reorder " +
-                "columns by dragging a column heading left or right.",
+                "columns by dragging a column header left or right.",
                 position: 'bottom'
               },
               {
                 element: '#keep-data',
                 intro: "After you have created a selection, this button helps" +
-                " reduce the data you are manipulating to just the selection",
+                " reduce the data you are manipulating to just the selection.",
                 position: 'bottom'
               },
               {
                 element: '#exclude-data',
                 intro: "This button is the reverse of keep and removes the " +
-                "selection from dataset and draws the remaining data",
+                "selection from dataset and draws the remaining data. You can" +
+                "repeat this process to remove different sets of data at a time.",
                 position: 'bottom'
               },
               {
