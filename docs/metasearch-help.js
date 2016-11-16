@@ -3,18 +3,18 @@
           intro.setOptions({
             steps: [
               {
-                intro: "This tutorial will help you use metasearch. A search " +
+                intro: "This tutorial will help you use metasearch, a search " +
                 "tool intended to help you find MRI data shared publicly on " +
                 "the Web. It is provided by the Open Neuroimaging Laboratory " +
                 "project as a companion to the <a target='_blank' " +
                 "style='text-decoration: none; color: red;' " +
-                "href='http://brainbox.pasteur.fr'>BrainBox</a> project. " +
-                "If you have MRI data to publish, please visit: " +
+                "href='http://brainbox.pasteur.fr'>BrainBox</a>, a brain " +
+                "curation and annotation tool. " +
+                "If you want to see your data on MetaSearch, please " +
                 "<a target='_blank' " +
                 "style='text-decoration: none; color: red;' " +
                 "href='https://github.com/OpenNeuroLab/metasearch/issues/new'>" +
-                "MetaSearch on Github</a> and post " +
-                "an issue."
+                "let us know</a>"
               },
               {
                 element: "#filter",
