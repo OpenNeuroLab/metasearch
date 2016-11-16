@@ -57,8 +57,8 @@ text {
 
 #onl-header {
    width: 100vw;
-   height: 50px;
-   overflow: hidden;
+   /*height: 50px;*/
+   overflow: auto;
 }
 
 #onl-icon {
@@ -90,6 +90,24 @@ footer {
       margin-right: 5vw;
 }
 
+#post-data {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 0px;
+    padding: 0px 10px;
+    text-align: center;
+    transition: background 0.1s linear 0s, color 0.1s linear 0s;
+    vertical-align: middle;
+    width: auto;
+    border: 0;
+}
+
+#post-data:hover {
+    background: none repeat scroll 0 0 #DE5E60;
+    color: #FFFFFF;
+}
+
 button {
     background: none repeat scroll 0 0 #3C3F45;
     color: #a3a3a3;
@@ -98,7 +116,7 @@ button {
     font-size: 16px;
     font-weight: 500;
     margin-top: 0px;
-    padding: 5px 40px;
+    padding: 5px 10px;
     text-align: center;
     transition: background 0.1s linear 0s, color 0.1s linear 0s;
     vertical-align: middle;
