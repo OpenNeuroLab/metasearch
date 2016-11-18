@@ -1,0 +1,43 @@
+{
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "example_project"
+  },
+  "ID": {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "Site": {
+    "element": "site_id",
+    "type": "category",
+    "1": "Peking",
+    "2": "BU",
+    "3": "WashU"
+  },
+  "DX": {
+    "element": "diagnosis",
+    "type": "category",
+    "0": "control",
+    "1": "adhd"
+    "-9999": null
+  },
+  "Age": {
+    "element": "age",
+    "type": "number"
+  },
+  "Gender": {
+    "element": "sex",
+    "type": "category",
+    "1": "Male",
+    "0": "Female"
+  },
+  "Handedness": {
+    "element": "handedness",
+    "type": "category",
+    "1": "right handed",
+    "0": "left handed",
+    "2": "ambidextrous",
+    "-9999": null
+  }
+}
