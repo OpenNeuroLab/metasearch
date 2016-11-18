@@ -1,10 +1,9 @@
 body {
     background-color: #26292E;
     font-family: 'droid_sans', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: normal;
-    line-height: 28px;
-    width:1024px;
+    width: 100vw;
 }
 
 text {
@@ -13,6 +12,10 @@ text {
 
 .parcoords {
   background-color: #26292e;
+}
+
+.axis text.label {
+   font-size: 16px;
 }
 
 .group:after {
@@ -24,16 +27,22 @@ text {
 /* Document styling */
 
 #filter {
-   position: relative;
-   width: 100vw;
+   width: 95vw;
    height: 50vh;
+   overflow: hidden;
+   overflow-y: scroll;
+}
+
+#grid-container {
+   position: relative;
+   width: 95vw;
+   height: 50vh;
+   overflow: hidden;
+   overflow-y: scroll;
 }
 
 #pager {
-   position: relative;
-   float: left;
-   width: 95vw;
-   height: 30px;
+   height: 5vh;
    color: white;
 }
 
@@ -48,21 +57,33 @@ text {
 
 #grid {
    position: relative;
-   width: 95vw;
    height: 30vh;
+   width: 100%;
+   color: white;
+   bottom: 0;
+}
+
+.rsh {
+    height: 1vh;
+    background-color: grey;
+}
+
+#container {
+    position: relative;
+    height: 95vh;
+    margin-top: 2vh;
 }
 
 #onl-header {
    width: 100vw;
-   /*height: 50px;*/
    overflow: auto;
 }
 
 #onl-icon {
-    height: 50px;
-    width: 50px;
+    height: 5vh;
+    width: 5vh;
     float: left;
-    margin-right: 10px;
+    margin-right: 1vh;
 }
 
 #onl-metatitle {
@@ -70,15 +91,16 @@ text {
 }
 
 #title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 100;
   color: white;
 }
 #title div.large, #title span.large {
-  font-size: 36px;
+  font-size: 28px;
 }
 
 footer {
+  font-size: 16px;
   color: #777;
 }
 

@@ -27,7 +27,7 @@ d3.csv('data/phenotype_mri.csv', function (data) {
     .alpha(0.1)
     .mode("queue") // progressive rendering
     .rate(50)
-    .margin({ top: 20, left: 0, bottom: 20, right: 0 })
+    .margin({ top: 30, left: 0, bottom: 20, right: 0 })
     .hideAxis(["participant_id", "id", 'MRIs'])
     .dimensions(dimensionObj)
     .render()
@@ -40,6 +40,8 @@ d3.csv('data/phenotype_mri.csv', function (data) {
     parcoords.svg
     .selectAll(".dimension")
     .on("click", change_color);
+
+    parcoords.svg.selectAll('text').each(function (d, i) { var elt = d3.select(this); if (elt.attr("class") == "label") { this.setAttribute("y", -10) }; } );
 
     // setting up grid
     var column_keys = d3.keys(data[0]);
@@ -187,6 +189,7 @@ d3.select("#post-data")
     data = _.reject(data, function (x) {
         return (x.MRI == "no") ? true : false;
     });
+    //var keys = d3.keys(data[0]);
     var keys = ['MRIs', 'participant_id'];
     var rows = data.map(function(row) {
         return keys.map(function(k) { return row[k]; })
@@ -270,3 +273,20 @@ function sorterDateIso(a, b) {
         return sortdir * (x === y ? 0 : (x > y ? 1 : -1));
     }
 }
+
+$('.rsh').draggable({
+    axis: 'y'
+    ,containment: 'parent'
+    ,helper: 'clone'
+    , start: function(event, ui) {
+        $(this).attr('start_offset',$(this).offset().top);
+        $(this).attr('start_next_height',$(this).next().height());
+    }
+    ,drag: function (event, ui) {
+        var prev_element=$(this).prev();
+        var next_element=$(this).next();
+        var y_difference=$(this).attr('start_offset')-ui.offset.top;
+        prev_element.height(ui.offset.top-prev_element.offset().top);
+        next_element.height(parseInt($(this).attr('start_next_height'))+y_difference);
+    }
+});

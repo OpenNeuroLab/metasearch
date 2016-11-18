@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="lib/slickgrid/controls/slick.pager.css" type="text/css"/>
 
     <script src="lib/slickgrid/lib/jquery-3.1.0.js"></script>
+    <script src="lib/slickgrid/lib/jquery-ui-1.11.3.js"></script>
     <script src="lib/slickgrid/lib/jquery.event.drag-2.3.0.js"></script>
     <script src="lib/underscore.js"></script>
     <script src="lib/underscore.math.js"></script>
@@ -30,7 +31,7 @@
 <body>
 <div id="onl-header">
     <div id="onl-icon">
-        <img src="logo.gif" width="50px"/>
+        <img src="logo.gif" height="100%"/>
     </div>
     <div id="onl-metatitle">
       <div id="title"><span class="large">MetaSearch</span></div>
@@ -48,9 +49,14 @@
     </div>
 </div>
 
-<div id="filter" class="parcoords"></div>
-<div id="pager"></div>
-<div id="grid"></div>
+<div id="container">
+    <div id="filter" class="parcoords"></div>
+    <div class="rsh"></div>
+    <div id="grid-container">
+        <div id="pager"></div>
+        <div id="grid"></div>
+    </div>
+</div>
 
 <script id="brushing" src="metasearch.js"></script>
 <script id="brushing" src="metasearch-help.js"></script>
