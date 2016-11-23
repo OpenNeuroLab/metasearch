@@ -4,6 +4,11 @@
     "type": "static",
     "value": "rocklandsample"
   },
+  "site_id": {
+    "element": "site_id",
+    "type": "static",
+    "value": "nki"
+  },
   "Subject ID": {
     "element": "participant_id",
     "type": "identifier"
