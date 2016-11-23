@@ -1,0 +1,670 @@
+age,diagnosis,full iq,handedness,participant_id,performance iq,project,session_id,sex,site_id,species,verbal iq
+16.92,,120.0,right handed,26001,104.0,adhd200,1,Male,BU,homo-sapiens,133.0
+15.68,,107.0,right handed,26002,106.0,adhd200,1,Male,BU,homo-sapiens,106.0
+14.99,,125.0,right handed,26004,123.0,adhd200,1,Female,BU,homo-sapiens,119.0
+15.16,,126.0,right handed,26005,131.0,adhd200,1,Female,BU,homo-sapiens,116.0
+16.91,,97.0,left handed,26009,81.0,adhd200,1,Male,BU,homo-sapiens,113.0
+16.21,,102.0,right handed,26014,102.0,adhd200,1,Female,BU,homo-sapiens,101.0
+15.2,,113.0,right handed,26015,98.0,adhd200,1,Female,BU,homo-sapiens,127.0
+16.07,,109.0,right handed,26016,96.0,adhd200,1,Male,BU,homo-sapiens,120.0
+14.56,,89.0,right handed,26017,87.0,adhd200,1,Female,BU,homo-sapiens,95.0
+17.83,,109.0,right handed,26022,111.0,adhd200,1,Male,BU,homo-sapiens,105.0
+17.77,,85.0,right handed,26024,83.0,adhd200,1,Female,BU,homo-sapiens,89.0
+11.28,,106.0,right handed,26027,103.0,adhd200,1,Female,BU,homo-sapiens,108.0
+14.51,,123.0,right handed,26030,119.0,adhd200,1,Female,BU,homo-sapiens,121.0
+14.19,,124.0,right handed,26039,117.0,adhd200,1,Female,BU,homo-sapiens,125.0
+13.67,,102.0,right handed,26040,93.0,adhd200,1,Female,BU,homo-sapiens,111.0
+13.68,,128.0,right handed,26041,120.0,adhd200,1,Female,BU,homo-sapiens,129.0
+13.82,,109.0,right handed,26042,110.0,adhd200,1,Female,BU,homo-sapiens,106.0
+11.6,,129.0,right handed,26043,127.0,adhd200,1,Female,BU,homo-sapiens,125.0
+9.32,,107.0,right handed,26044,93.0,adhd200,1,Female,BU,homo-sapiens,119.0
+14.67,,111.0,right handed,26045,109.0,adhd200,1,Male,BU,homo-sapiens,109.0
+8.5,,121.0,right handed,26050,116.0,adhd200,1,Female,BU,homo-sapiens,121.0
+17.87,,112.0,right handed,26052,109.0,adhd200,1,Female,BU,homo-sapiens,111.0
+15.79,,120.0,right handed,26053,111.0,adhd200,1,Male,BU,homo-sapiens,123.0
+12.02,,125.0,right handed,26054,109.0,adhd200,1,Female,BU,homo-sapiens,136.0
+17.74,,116.0,right handed,26055,119.0,adhd200,1,Male,BU,homo-sapiens,109.0
+12.0,,114.0,right handed,26057,110.0,adhd200,1,Male,BU,homo-sapiens,114.0
+10.73,control,122.0,right handed,2371032,119.0,adhd200,1,Female,KKI,homo-sapiens,121.0
+12.99,adhd-combined,106.0,right handed,2026113,108.0,adhd200,1,Female,KKI,homo-sapiens,122.0
+8.12,control,89.0,right handed,3434578,98.0,adhd200,1,Female,KKI,homo-sapiens,85.0
+10.81,control,97.0,right handed,8628223,86.0,adhd200,1,Female,KKI,homo-sapiens,85.0
+12.65,adhd-combined,89.0,right handed,1623716,88.0,adhd200,1,Female,KKI,homo-sapiens,89.0
+12.87,control,108.0,right handed,1594156,104.0,adhd200,1,Male,KKI,homo-sapiens,124.0
+9.97,control,106.0,right handed,2930625,127.0,adhd200,1,Male,KKI,homo-sapiens,91.0
+11.65,adhd-inattentive,88.0,right handed,3154996,98.0,adhd200,1,Male,KKI,homo-sapiens,93.0
+11.95,adhd-combined,99.0,right handed,3160561,108.0,adhd200,1,Male,KKI,homo-sapiens,93.0
+10.5,adhd-inattentive,94.0,right handed,4275075,100.0,adhd200,1,Female,KKI,homo-sapiens,93.0
+12.66,control,100.0,right handed,2917777,104.0,adhd200,1,Male,KKI,homo-sapiens,95.0
+8.87,control,120.0,right handed,2558999,108.0,adhd200,1,Male,KKI,homo-sapiens,130.0
+11.09,control,85.0,right handed,2740232,102.0,adhd200,1,Male,KKI,homo-sapiens,99.0
+12.36,control,110.0,right handed,1018959,100.0,adhd200,1,Female,KKI,homo-sapiens,121.0
+8.33,control,106.0,right handed,2572285,119.0,adhd200,1,Male,KKI,homo-sapiens,96.0
+8.67,control,115.0,left handed,1962503,110.0,adhd200,1,Female,KKI,homo-sapiens,102.0
+10.09,control,105.0,right handed,1842819,92.0,adhd200,1,Male,KKI,homo-sapiens,110.0
+10.36,adhd-combined,126.0,right handed,1873761,108.0,adhd200,1,Female,KKI,homo-sapiens,138.0
+9.3,control,102.0,right handed,3103809,92.0,adhd200,1,Male,KKI,homo-sapiens,104.0
+12.77,control,98.0,right handed,3699991,102.0,adhd200,1,Male,KKI,homo-sapiens,104.0
+9.64,control,120.0,left handed,1535233,96.0,adhd200,1,Male,KKI,homo-sapiens,136.0
+9.75,control,111.0,right handed,4154182,123.0,adhd200,1,Female,KKI,homo-sapiens,106.0
+8.72,adhd-combined,108.0,right handed,6453038,106.0,adhd200,1,Female,KKI,homo-sapiens,106.0
+11.73,control,117.0,right handed,3486975,121.0,adhd200,1,Female,KKI,homo-sapiens,108.0
+9.79,control,109.0,right handed,3912996,110.0,adhd200,1,Female,KKI,homo-sapiens,108.0
+8.02,control,108.0,left handed,1686265,119.0,adhd200,1,Male,KKI,homo-sapiens,112.0
+10.35,adhd-combined,102.0,right handed,2014113,106.0,adhd200,1,Male,KKI,homo-sapiens,108.0
+11.04,adhd-inattentive,112.0,right handed,1996183,123.0,adhd200,1,Male,KKI,homo-sapiens,116.0
+9.73,control,112.0,right handed,7129258,108.0,adhd200,1,Male,KKI,homo-sapiens,110.0
+10.84,control,124.0,right handed,1779922,137.0,adhd200,1,Male,KKI,homo-sapiens,116.0
+9.97,adhd-hyperactive,113.0,right handed,3310328,123.0,adhd200,1,Male,KKI,homo-sapiens,110.0
+10.09,control,96.0,right handed,2618929,100.0,adhd200,1,Male,KKI,homo-sapiens,104.0
+10.6,control,115.0,left handed,1652369,106.0,adhd200,1,Female,KKI,homo-sapiens,112.0
+12.43,control,101.0,right handed,4104523,98.0,adhd200,1,Male,KKI,homo-sapiens,112.0
+8.62,control,121.0,right handed,8083695,125.0,adhd200,1,Male,KKI,homo-sapiens,112.0
+10.69,control,104.0,right handed,6346605,110.0,adhd200,1,Male,KKI,homo-sapiens,112.0
+10.3,control,109.0,right handed,9922944,110.0,adhd200,1,Male,KKI,homo-sapiens,112.0
+10.44,control,98.0,right handed,1638334,104.0,adhd200,1,Female,KKI,homo-sapiens,87.0
+10.78,control,105.0,right handed,1692275,119.0,adhd200,1,Female,KKI,homo-sapiens,108.0
+10.38,control,95.0,right handed,2641332,92.0,adhd200,1,Female,KKI,homo-sapiens,114.0
+8.34,control,107.0,right handed,8263351,106.0,adhd200,1,Male,KKI,homo-sapiens,114.0
+11.84,control,134.0,right handed,3884955,123.0,adhd200,1,Male,KKI,homo-sapiens,119.0
+8.92,control,119.0,right handed,2344857,108.0,adhd200,1,Female,KKI,homo-sapiens,119.0
+9.62,control,111.0,right handed,2822304,98.0,adhd200,1,Female,KKI,homo-sapiens,119.0
+9.75,control,114.0,right handed,8658218,115.0,adhd200,1,Male,KKI,homo-sapiens,119.0
+10.15,adhd-inattentive,119.0,left handed,3119327,125.0,adhd200,1,Male,KKI,homo-sapiens,119.0
+11.89,adhd-combined,86.0,right handed,2299519,79.0,adhd200,1,Male,KKI,homo-sapiens,110.0
+10.55,control,132.0,right handed,3813783,131.0,adhd200,1,Female,KKI,homo-sapiens,121.0
+12.47,control,119.0,right handed,2640795,108.0,adhd200,1,Male,KKI,homo-sapiens,136.0
+11.02,control,115.0,right handed,4601682,108.0,adhd200,1,Female,KKI,homo-sapiens,121.0
+9.12,control,109.0,right handed,3972472,94.0,adhd200,1,Female,KKI,homo-sapiens,121.0
+11.66,control,114.0,right handed,2018106,110.0,adhd200,1,Male,KKI,homo-sapiens,108.0
+9.62,control,115.0,left handed,2104012,123.0,adhd200,1,Male,KKI,homo-sapiens,116.0
+10.82,control,98.0,right handed,5216908,79.0,adhd200,1,Male,KKI,homo-sapiens,124.0
+12.98,adhd-inattentive,103.0,right handed,1019436,115.0,adhd200,1,Male,KKI,homo-sapiens,99.0
+11.51,control,116.0,right handed,8432725,102.0,adhd200,1,Female,KKI,homo-sapiens,126.0
+9.12,control,122.0,right handed,1043241,108.0,adhd200,1,Male,KKI,homo-sapiens,124.0
+9.02,control,120.0,right handed,2554127,121.0,adhd200,1,Male,KKI,homo-sapiens,138.0
+11.67,control,119.0,right handed,3713230,106.0,adhd200,1,Female,KKI,homo-sapiens,132.0
+10.64,control,124.0,right handed,3902469,112.0,adhd200,1,Male,KKI,homo-sapiens,132.0
+10.12,control,131.0,right handed,3972956,127.0,adhd200,1,Male,KKI,homo-sapiens,134.0
+10.9,control,117.0,right handed,7415617,106.0,adhd200,1,Male,KKI,homo-sapiens,134.0
+8.1,adhd-combined,134.0,right handed,3519022,129.0,adhd200,1,Female,KKI,homo-sapiens,134.0
+9.67,control,120.0,right handed,1266183,106.0,adhd200,1,Female,KKI,homo-sapiens,128.0
+8.91,control,109.0,right handed,1846346,106.0,adhd200,1,Female,KKI,homo-sapiens,100.0
+9.24,control,122.0,right handed,2768273,112.0,adhd200,1,Female,KKI,homo-sapiens,140.0
+8.19,adhd-combined,126.0,right handed,3917422,119.0,adhd200,1,Male,KKI,homo-sapiens,142.0
+8.99,adhd-combined,121.0,right handed,4362730,106.0,adhd200,1,Female,KKI,homo-sapiens,146.0
+8.8,adhd-combined,94.0,right handed,8337695,112.0,adhd200,1,Male,KKI,homo-sapiens,93.0
+9.08,adhd-combined,89.0,left handed,3611827,106.0,adhd200,1,Male,KKI,homo-sapiens,95.0
+8.45,adhd-combined,122.0,right handed,1541812,135.0,adhd200,1,Female,KKI,homo-sapiens,106.0
+9.58,control,99.0,right handed,2601925,106.0,adhd200,1,Male,KKI,homo-sapiens,100.0
+11.22,control,108.0,right handed,7774305,92.0,adhd200,1,Female,KKI,homo-sapiens,104.0
+8.46,control,119.0,right handed,2138826,106.0,adhd200,1,Female,KKI,homo-sapiens,124.0
+9.52,adhd-combined,122.0,right handed,3170319,125.0,adhd200,1,Female,KKI,homo-sapiens,112.0
+11.17,control,99.0,right handed,1988015,108.0,adhd200,1,Male,KKI,homo-sapiens,100.0
+9.39,control,116.0,ambidextrous,1735881,102.0,adhd200,1,Female,KKI,homo-sapiens,114.0
+9.43,adhd-combined,88.0,right handed,2081148,98.0,adhd200,1,Female,KKI,homo-sapiens,81.0
+8.56,control,113.0,right handed,2360428,102.0,adhd200,1,Male,KKI,homo-sapiens,119.0
+11.91,control,126.0,right handed,2903997,121.0,adhd200,1,Female,KKI,homo-sapiens,121.0
+11.1,control,109.0,right handed,2703289,117.0,adhd200,1,Male,KKI,homo-sapiens,124.0
+9.06,adhd-combined,90.0,right handed,1577042,90.0,adhd200,1,Male,KKI,homo-sapiens,100.0
+8.98,control,116.0,right handed,2621228,110.0,adhd200,1,Female,KKI,homo-sapiens,112.0
+7.29,control,109.0,,1000804,103.0,adhd200,1,Male,NYU,homo-sapiens,112.0
+8.29,adhd-inattentive,123.0,,1023964,125.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+8.78,adhd-combined,129.0,,1057962,121.0,adhd200,1,Male,NYU,homo-sapiens,131.0
+8.04,adhd-combined,116.0,,1099481,120.0,adhd200,1,Female,NYU,homo-sapiens,109.0
+12.44,control,124.0,,1127915,126.0,adhd200,1,Female,NYU,homo-sapiens,117.0
+12.79,adhd-combined,129.0,,1187766,134.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+9.57,adhd-inattentive,118.0,,1208795,109.0,adhd200,1,Female,NYU,homo-sapiens,122.0
+8.61,adhd-combined,107.0,,1283494,106.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+8.59,control,122.0,,1320247,108.0,adhd200,1,Male,NYU,homo-sapiens,131.0
+10.76,control,138.0,,1359325,135.0,adhd200,1,Male,NYU,homo-sapiens,131.0
+11.92,control,111.0,right handed,1435954,119.0,adhd200,1,Male,NYU,homo-sapiens,102.0
+13.32,adhd-inattentive,99.0,,1471736,91.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+8.56,adhd-combined,125.0,,1497055,119.0,adhd200,1,Male,NYU,homo-sapiens,126.0
+10.12,adhd-inattentive,108.0,,1511464,104.0,adhd200,1,Male,NYU,homo-sapiens,110.0
+10.06,adhd-combined,125.0,,1517240,117.0,adhd200,1,Male,NYU,homo-sapiens,125.0
+8.91,control,125.0,,1567356,128.0,adhd200,1,Female,NYU,homo-sapiens,117.0
+7.68,control,97.0,,1700637,100.0,adhd200,1,Female,NYU,homo-sapiens,93.0
+11.24,control,130.0,,1737393,128.0,adhd200,1,Male,NYU,homo-sapiens,126.0
+10.26,adhd-inattentive,119.0,,1740607,128.0,adhd200,1,Female,NYU,homo-sapiens,108.0
+11.18,adhd-combined,107.0,,1780174,118.0,adhd200,1,Male,NYU,homo-sapiens,96.0
+12.99,control,105.0,,1854959,96.0,adhd200,1,Female,NYU,homo-sapiens,112.0
+7.17,control,90.0,,1875084,94.0,adhd200,1,Female,NYU,homo-sapiens,85.0
+8.91,control,100.0,,1884448,109.0,adhd200,1,Male,NYU,homo-sapiens,91.0
+7.55,adhd-combined,125.0,,1918630,129.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+8.45,control,114.0,,1934623,112.0,adhd200,1,Female,NYU,homo-sapiens,111.0
+7.26,adhd-combined,115.0,,1992284,106.0,adhd200,1,Male,NYU,homo-sapiens,120.0
+11.43,control,127.0,right handed,1995121,119.0,adhd200,1,Male,NYU,homo-sapiens,130.0
+13.56,adhd-combined,131.0,,2030383,114.0,adhd200,1,Male,NYU,homo-sapiens,141.0
+8.11,adhd-combined,102.0,,2054438,103.0,adhd200,1,Male,NYU,homo-sapiens,101.0
+10.41,adhd-combined,109.0,,2107638,106.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+9.23,control,118.0,,2136051,106.0,adhd200,1,Male,NYU,homo-sapiens,127.0
+9.17,adhd-combined,95.0,,2230510,93.0,adhd200,1,Male,NYU,homo-sapiens,98.0
+12.07,adhd-combined,98.0,,2260910,88.0,adhd200,1,Male,NYU,homo-sapiens,108.0
+11.06,adhd-inattentive,105.0,,2297413,94.0,adhd200,1,Male,NYU,homo-sapiens,114.0
+11.53,adhd-combined,111.0,,2306976,104.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+11.61,adhd-combined,116.0,,2497695,123.0,adhd200,1,Male,NYU,homo-sapiens,107.0
+13.49,adhd-combined,84.0,right handed,2570769,82.0,adhd200,1,Male,NYU,homo-sapiens,88.0
+10.78,adhd-combined,107.0,right handed,2682736,107.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+10.21,control,94.0,,2730704,83.0,adhd200,1,Female,NYU,homo-sapiens,107.0
+11.42,control,127.0,,2735617,126.0,adhd200,1,Male,NYU,homo-sapiens,122.0
+8.53,adhd-combined,114.0,,2741068,107.0,adhd200,1,Male,NYU,homo-sapiens,118.0
+8.38,adhd-inattentive,109.0,,2773205,120.0,adhd200,1,Female,NYU,homo-sapiens,98.0
+10.69,adhd-inattentive,134.0,,2821683,137.0,adhd200,1,Male,NYU,homo-sapiens,123.0
+9.17,adhd-inattentive,124.0,,2854839,126.0,adhd200,1,Female,NYU,homo-sapiens,116.0
+12.24,control,109.0,,2907383,105.0,adhd200,1,Female,NYU,homo-sapiens,111.0
+11.28,adhd-combined,97.0,right handed,2950672,95.0,adhd200,1,Male,NYU,homo-sapiens,99.0
+12.28,adhd-inattentive,107.0,,2983819,103.0,adhd200,1,Female,NYU,homo-sapiens,108.0
+8.3,control,118.0,,2991307,117.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+12.62,adhd-inattentive,132.0,,2996531,119.0,adhd200,1,Male,NYU,homo-sapiens,137.0
+11.56,control,103.0,,3011311,91.0,adhd200,1,Female,NYU,homo-sapiens,115.0
+11.91,control,121.0,right handed,3163200,117.0,adhd200,1,Male,NYU,homo-sapiens,120.0
+8.49,adhd-combined,99.0,,3174224,88.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+8.61,adhd-combined,117.0,,3235580,107.0,adhd200,1,Female,NYU,homo-sapiens,123.0
+8.56,control,99.0,,3243657,99.0,adhd200,1,Female,NYU,homo-sapiens,100.0
+10.21,adhd-inattentive,100.0,,3349205,97.0,adhd200,1,Female,NYU,homo-sapiens,104.0
+12.59,control,124.0,,3349423,120.0,adhd200,1,Male,NYU,homo-sapiens,121.0
+10.36,adhd-combined,102.0,,3433846,97.0,adhd200,1,Male,NYU,homo-sapiens,107.0
+9.26,adhd-inattentive,128.0,right handed,3441455,116.0,adhd200,1,Male,NYU,homo-sapiens,135.0
+7.86,adhd-combined,128.0,,3457975,126.0,adhd200,1,Female,NYU,homo-sapiens,123.0
+7.67,control,124.0,,3518345,126.0,adhd200,1,Female,NYU,homo-sapiens,119.0
+8.05,adhd-combined,107.0,right handed,3542588,94.0,adhd200,1,Female,NYU,homo-sapiens,98.0
+9.24,adhd-combined,88.0,,3601861,82.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+7.49,adhd-combined,103.0,,3619797,100.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+13.25,control,100.0,,3650634,101.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+9.38,adhd-combined,106.0,,3653737,104.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+12.45,control,98.0,,3662296,104.0,adhd200,1,Female,NYU,homo-sapiens,90.0
+11.97,adhd-combined,102.0,right handed,3679455,89.0,adhd200,1,Male,NYU,homo-sapiens,114.0
+8.19,control,110.0,,3845761,102.0,adhd200,1,Male,NYU,homo-sapiens,117.0
+9.27,control,116.0,,3999344,98.0,adhd200,1,Female,NYU,homo-sapiens,134.0
+11.8,adhd-inattentive,95.0,,4060823,107.0,adhd200,1,Male,NYU,homo-sapiens,85.0
+10.19,control,115.0,,4079254,106.0,adhd200,1,Male,NYU,homo-sapiens,119.0
+7.63,control,111.0,,4084645,108.0,adhd200,1,Female,NYU,homo-sapiens,110.0
+9.32,adhd-combined,95.0,,4095229,92.0,adhd200,1,Male,NYU,homo-sapiens,99.0
+10.81,adhd-combined,108.0,,4116166,93.0,adhd200,1,Female,NYU,homo-sapiens,122.0
+9.23,adhd-combined,119.0,,4154672,117.0,adhd200,1,Male,NYU,homo-sapiens,118.0
+10.69,control,80.0,,4164316,72.0,adhd200,1,Male,NYU,homo-sapiens,92.0
+13.28,adhd-combined,109.0,,4187857,111.0,adhd200,1,Male,NYU,homo-sapiens,105.0
+7.91,control,109.0,,4562206,104.0,adhd200,1,Female,NYU,homo-sapiens,112.0
+13.22,control,104.0,,4827048,99.0,adhd200,1,Female,NYU,homo-sapiens,108.0
+10.16,adhd-combined,115.0,,5164727,109.0,adhd200,1,Female,NYU,homo-sapiens,117.0
+7.24,adhd-combined,94.0,,5971050,88.0,adhd200,1,Male,NYU,homo-sapiens,101.0
+11.56,control,80.0,,6206397,79.0,adhd200,1,Female,NYU,homo-sapiens,85.0
+8.1,control,101.0,,6568351,99.0,adhd200,1,Female,NYU,homo-sapiens,102.0
+11.33,adhd-inattentive,109.0,,8009688,116.0,adhd200,1,Female,NYU,homo-sapiens,101.0
+11.79,control,102.0,,8415034,95.0,adhd200,1,Female,NYU,homo-sapiens,108.0
+12.25,control,123.0,,8692452,127.0,adhd200,1,Male,NYU,homo-sapiens,120.0
+9.92,adhd-combined,101.0,,8697774,106.0,adhd200,1,Male,NYU,homo-sapiens,97.0
+8.8,control,106.0,,8834383,103.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+10.7,adhd-combined,134.0,right handed,8915162,124.0,adhd200,1,Male,NYU,homo-sapiens,136.0
+10.92,adhd-combined,95.0,right handed,9326955,96.0,adhd200,1,Male,NYU,homo-sapiens,95.0
+8.26,control,134.0,,9578663,117.0,adhd200,1,Female,NYU,homo-sapiens,143.0
+10.74,control,113.0,,9750701,121.0,adhd200,1,Male,NYU,homo-sapiens,103.0
+9.98,adhd-inattentive,132.0,,9907452,127.0,adhd200,1,Male,NYU,homo-sapiens,130.0
+11.17,adhd-inattentive,99.0,,10001,91.0,adhd200,1,Female,NYU,homo-sapiens,106.0
+9.29,control,100.0,,10003,93.0,adhd200,1,Female,NYU,homo-sapiens,107.0
+13.75,control,,,10004,,adhd200,1,Female,NYU,homo-sapiens,
+11.92,adhd-hyperactive,108.0,,10005,118.0,adhd200,1,Male,NYU,homo-sapiens,98.0
+8.7,adhd-combined,80.0,,10016,78.0,adhd200,1,Male,NYU,homo-sapiens,87.0
+12.1,control,107.0,,10009,99.0,adhd200,1,Male,NYU,homo-sapiens,112.0
+11.32,control,142.0,,10010,133.0,adhd200,1,Male,NYU,homo-sapiens,141.0
+12.41,adhd-combined,100.0,,10012,97.0,adhd200,1,Female,NYU,homo-sapiens,102.0
+11.54,adhd-combined,94.0,,10018,100.0,adhd200,1,Male,NYU,homo-sapiens,89.0
+8.37,adhd-combined,95.0,,10020,86.0,adhd200,1,Female,NYU,homo-sapiens,105.0
+12.54,control,109.0,,10021,105.0,adhd200,1,Female,NYU,homo-sapiens,112.0
+12.12,adhd-combined,105.0,,10022,100.0,adhd200,1,Male,NYU,homo-sapiens,108.0
+13.42,control,105.0,,10023,105.0,adhd200,1,Male,NYU,homo-sapiens,104.0
+9.42,adhd-inattentive,92.0,right handed,10028,87.0,adhd200,1,Male,NYU,homo-sapiens,99.0
+12.41,adhd-inattentive,103.0,,10030,105.0,adhd200,1,Male,NYU,homo-sapiens,100.0
+12.79,control,140.0,,10038,129.0,adhd200,1,Female,NYU,homo-sapiens,142.0
+10.86,control,106.0,,10034,111.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+11.87,control,85.0,,10031,77.0,adhd200,1,Female,NYU,homo-sapiens,97.0
+11.1,adhd-combined,89.0,right handed,10032,91.0,adhd200,1,Male,NYU,homo-sapiens,91.0
+8.95,adhd-inattentive,109.0,,10035,106.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+10.9,adhd-combined,91.0,,10037,85.0,adhd200,1,Male,NYU,homo-sapiens,100.0
+13.28,control,87.0,,10039,86.0,adhd200,1,Male,NYU,homo-sapiens,93.0
+10.65,adhd-combined,108.0,,10042,115.0,adhd200,1,Male,NYU,homo-sapiens,100.0
+9.81,adhd-combined,108.0,,10044,119.0,adhd200,1,,NYU,homo-sapiens,98.0
+17.43,adhd-combined,109.0,right handed,10050,97.0,adhd200,1,Male,NYU,homo-sapiens,119.0
+15.4,adhd-inattentive,107.0,,10051,102.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+16.31,control,81.0,right handed,10052,83.0,adhd200,1,Male,NYU,homo-sapiens,83.0
+15.28,control,101.0,,10053,103.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+15.63,adhd-inattentive,,,10056,,adhd200,1,Male,NYU,homo-sapiens,
+17.7,control,102.0,,10057,92.0,adhd200,1,Male,NYU,homo-sapiens,111.0
+14.2,control,109.0,,10058,96.0,adhd200,1,Male,NYU,homo-sapiens,121.0
+17.89,control,128.0,right handed,10059,124.0,adhd200,1,Female,NYU,homo-sapiens,127.0
+17.83,control,,,10054,,adhd200,1,Male,NYU,homo-sapiens,
+10.86,control,91.0,left handed,10055,88.0,adhd200,1,Male,NYU,homo-sapiens,97.0
+14.95,adhd-combined,118.0,,10048,111.0,adhd200,1,Male,NYU,homo-sapiens,120.0
+8.75,adhd-combined,99.0,,10060,104.0,adhd200,1,Male,NYU,homo-sapiens,93.0
+12.72,adhd-combined,122.0,,10047,131.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+11.41,adhd-inattentive,101.0,right handed,10061,103.0,adhd200,1,Male,NYU,homo-sapiens,99.0
+16.14,adhd-inattentive,122.0,right handed,10062,107.0,adhd200,1,Male,NYU,homo-sapiens,132.0
+15.91,control,105.0,,10063,99.0,adhd200,1,Female,NYU,homo-sapiens,109.0
+15.9,adhd-combined,101.0,,10064,107.0,adhd200,1,Male,NYU,homo-sapiens,95.0
+14.19,control,88.0,,10065,89.0,adhd200,1,Female,NYU,homo-sapiens,91.0
+13.9,control,116.0,,10066,106.0,adhd200,1,Female,NYU,homo-sapiens,122.0
+13.1,adhd-inattentive,115.0,,10067,118.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+13.3,control,,,10068,,adhd200,1,Male,NYU,homo-sapiens,
+16.93,control,124.0,,10069,120.0,adhd200,1,Male,NYU,homo-sapiens,120.0
+7.77,adhd-inattentive,94.0,right handed,10119,88.0,adhd200,1,Male,NYU,homo-sapiens,101.0
+16.08,adhd-combined,115.0,,10109,105.0,adhd200,1,Female,NYU,homo-sapiens,122.0
+16.08,control,99.0,,10110,97.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+7.74,control,98.0,,10111,88.0,adhd200,1,Male,NYU,homo-sapiens,108.0
+9.75,control,124.0,,10046,109.0,adhd200,1,Male,NYU,homo-sapiens,133.0
+14.79,control,112.0,,10112,106.0,adhd200,1,Male,NYU,homo-sapiens,116.0
+17.37,adhd-inattentive,102.0,,10107,99.0,adhd200,1,Male,NYU,homo-sapiens,104.0
+14.81,adhd-combined,120.0,,10019,119.0,adhd200,1,Male,NYU,homo-sapiens,116.0
+8.03,control,86.0,,10077,77.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+8.19,adhd-combined,121.0,,10078,125.0,adhd200,1,Male,NYU,homo-sapiens,113.0
+15.27,control,104.0,,10079,110.0,adhd200,1,Male,NYU,homo-sapiens,96.0
+17.86,control,106.0,,10080,103.0,adhd200,1,Female,NYU,homo-sapiens,106.0
+14.48,control,111.0,,10008,106.0,adhd200,1,Female,NYU,homo-sapiens,113.0
+7.55,control,99.0,,10014,98.0,adhd200,1,Female,NYU,homo-sapiens,99.0
+14.87,control,107.0,,10089,106.0,adhd200,1,Female,NYU,homo-sapiens,107.0
+16.32,adhd-combined,94.0,right handed,10090,93.0,adhd200,1,Male,NYU,homo-sapiens,96.0
+8.93,adhd-combined,83.0,right handed,10091,93.0,adhd200,1,Male,NYU,homo-sapiens,77.0
+17.3,control,109.0,,10092,104.0,adhd200,1,Male,NYU,homo-sapiens,113.0
+12.49,control,126.0,,10045,137.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+15.21,control,,,10093,,adhd200,1,Female,NYU,homo-sapiens,
+15.21,control,,,10094,,adhd200,1,Female,NYU,homo-sapiens,
+14.39,adhd-combined,81.0,,10095,84.0,adhd200,1,Male,NYU,homo-sapiens,81.0
+14.94,adhd-inattentive,113.0,,10096,104.0,adhd200,1,Male,NYU,homo-sapiens,119.0
+14.38,control,123.0,,10097,120.0,adhd200,1,Female,NYU,homo-sapiens,119.0
+7.6,adhd-combined,100.0,,10098,98.0,adhd200,1,Male,NYU,homo-sapiens,101.0
+9.96,control,110.0,,10099,99.0,adhd200,1,Female,NYU,homo-sapiens,120.0
+16.88,control,125.0,,10100,123.0,adhd200,1,Male,NYU,homo-sapiens,121.0
+14.2,adhd-combined,92.0,,10101,79.0,adhd200,1,Male,NYU,homo-sapiens,107.0
+16.55,control,91.0,,10102,96.0,adhd200,1,Male,NYU,homo-sapiens,88.0
+17.15,adhd-inattentive,115.0,,10108,115.0,adhd200,1,Female,NYU,homo-sapiens,116.0
+13.24,adhd-inattentive,75.0,,10002,89.0,adhd200,1,Female,NYU,homo-sapiens,65.0
+9.16,adhd-inattentive,106.0,,10011,107.0,adhd200,1,Female,NYU,homo-sapiens,102.0
+14.91,control,113.0,,10113,110.0,adhd200,1,Female,NYU,homo-sapiens,111.0
+16.73,control,,,10114,,adhd200,1,Male,NYU,homo-sapiens,
+15.32,adhd-inattentive,93.0,,10115,89.0,adhd200,1,Male,NYU,homo-sapiens,98.0
+11.18,control,101.0,,10006,87.0,adhd200,1,Female,NYU,homo-sapiens,117.0
+7.43,adhd-inattentive,99.0,,10105,103.0,adhd200,1,Female,NYU,homo-sapiens,95.0
+8.26,control,112.0,,10024,107.0,adhd200,1,Male,NYU,homo-sapiens,114.0
+11.21,adhd-inattentive,129.0,,10015,133.0,adhd200,1,Male,NYU,homo-sapiens,119.0
+11.82,adhd-inattentive,99.0,,10106,91.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+16.77,adhd-inattentive,114.0,,10116,109.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+9.35,control,99.0,,10117,103.0,adhd200,1,Male,NYU,homo-sapiens,95.0
+13.33,adhd-combined,84.0,right handed,10118,83.0,adhd200,1,Male,NYU,homo-sapiens,89.0
+17.09,control,,,10120,,adhd200,1,Female,NYU,homo-sapiens,
+11.73,adhd-combined,131.0,,10026,123.0,adhd200,1,Male,NYU,homo-sapiens,132.0
+14.18,control,117.0,,10121,124.0,adhd200,1,Female,NYU,homo-sapiens,108.0
+16.28,control,125.0,,10122,120.0,adhd200,1,Male,NYU,homo-sapiens,122.0
+16.13,control,109.0,,10123,106.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+11.4,control,142.0,,10082,133.0,adhd200,1,Male,NYU,homo-sapiens,141.0
+8.06,adhd-combined,88.0,,10074,88.0,adhd200,1,Male,NYU,homo-sapiens,92.0
+11.09,adhd-inattentive,73.0,,10075,72.0,adhd200,1,Male,NYU,homo-sapiens,77.0
+15.95,control,113.0,,10076,106.0,adhd200,1,Female,NYU,homo-sapiens,118.0
+9.59,adhd-combined,106.0,,10103,104.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+15.81,adhd-inattentive,,,10081,,adhd200,1,Female,NYU,homo-sapiens,
+14.42,control,132.0,,10083,124.0,adhd200,1,Female,NYU,homo-sapiens,132.0
+17.96,control,108.0,,10084,102.0,adhd200,1,Female,NYU,homo-sapiens,113.0
+11.37,adhd-combined,78.0,,10085,79.0,adhd200,1,Female,NYU,homo-sapiens,82.0
+9.45,control,84.0,,10036,86.0,adhd200,1,Female,NYU,homo-sapiens,86.0
+15.83,adhd-combined,102.0,,10086,93.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+8.28,adhd-combined,96.0,,10027,92.0,adhd200,1,Male,NYU,homo-sapiens,100.0
+17.61,adhd-inattentive,95.0,,10087,108.0,adhd200,1,Male,NYU,homo-sapiens,82.0
+8.75,adhd-combined,99.0,,10025,88.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+13.09,adhd-combined,127.0,,10029,121.0,adhd200,1,Female,NYU,homo-sapiens,126.0
+12.38,adhd-combined,94.0,,10017,90.0,adhd200,1,Male,NYU,homo-sapiens,98.0
+7.35,adhd-combined,106.0,,10049,96.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+10.52,control,105.0,,10070,97.0,adhd200,1,Male,NYU,homo-sapiens,111.0
+14.09,adhd-inattentive,83.0,,10071,88.0,adhd200,1,Male,NYU,homo-sapiens,80.0
+10.97,adhd-inattentive,100.0,,10033,97.0,adhd200,1,Male,NYU,homo-sapiens,104.0
+7.25,adhd-combined,109.0,,10072,107.0,adhd200,1,Male,NYU,homo-sapiens,108.0
+14.46,adhd-combined,82.0,,10073,79.0,adhd200,1,Male,NYU,homo-sapiens,88.0
+13.35,adhd-inattentive,123.0,,10104,114.0,adhd200,1,Male,NYU,homo-sapiens,127.0
+14.66,control,126.0,,10088,132.0,adhd200,1,Male,NYU,homo-sapiens,115.0
+9.94,adhd-combined,133.0,,10040,117.0,adhd200,1,Male,NYU,homo-sapiens,141.0
+14.06,control,115.0,,10124,119.0,adhd200,1,Female,NYU,homo-sapiens,109.0
+9.22,adhd-hyperactive,105.0,,10041,99.0,adhd200,1,Male,NYU,homo-sapiens,109.0
+7.19,control,129.0,,10125,131.0,adhd200,1,Male,NYU,homo-sapiens,120.0
+11.41,adhd-inattentive,95.0,,10007,93.0,adhd200,1,Female,NYU,homo-sapiens,95.0
+9.7,adhd-combined,88.0,,10126,96.0,adhd200,1,Male,NYU,homo-sapiens,83.0
+8.14,adhd-combined,130.0,,10127,121.0,adhd200,1,Male,NYU,homo-sapiens,132.0
+9.53,control,127.0,,10128,136.0,adhd200,1,Male,NYU,homo-sapiens,112.0
+8.39,adhd-inattentive,,,10129,,adhd200,1,Female,NYU,homo-sapiens,
+9.55,adhd-combined,97.0,,10013,88.0,adhd200,1,Male,NYU,homo-sapiens,106.0
+8.16,control,112.0,,10043,99.0,adhd200,1,Female,NYU,homo-sapiens,125.0
+11.0,adhd-combined,110.0,right handed,1084283,,adhd200,1,Male,OHSU,homo-sapiens,
+9.42,control,106.0,right handed,1084884,,adhd200,1,Female,OHSU,homo-sapiens,
+8.5,adhd-combined,116.0,right handed,1108916,,adhd200,1,Male,OHSU,homo-sapiens,
+9.17,adhd-inattentive,90.0,right handed,1206380,,adhd200,1,Male,OHSU,homo-sapiens,
+7.42,adhd-combined,98.0,right handed,1340333,,adhd200,1,Female,OHSU,homo-sapiens,
+8.0,control,134.0,right handed,1386056,,adhd200,1,Male,OHSU,homo-sapiens,
+9.17,adhd-combined,112.0,right handed,1411223,,adhd200,1,Male,OHSU,homo-sapiens,
+8.67,control,98.0,right handed,1418396,,adhd200,1,Male,OHSU,homo-sapiens,
+8.75,control,118.0,right handed,1421489,,adhd200,1,Male,OHSU,homo-sapiens,
+11.92,control,116.0,right handed,1481430,,adhd200,1,Male,OHSU,homo-sapiens,
+8.58,control,120.0,right handed,1502229,,adhd200,1,Female,OHSU,homo-sapiens,
+8.58,adhd-combined,136.0,right handed,1536593,,adhd200,1,Female,OHSU,homo-sapiens,
+11.17,control,126.0,right handed,1548937,,adhd200,1,Male,OHSU,homo-sapiens,
+9.83,adhd-inattentive,126.0,right handed,1552181,,adhd200,1,Female,OHSU,homo-sapiens,
+11.0,control,92.0,right handed,1647968,,adhd200,1,Female,OHSU,homo-sapiens,
+9.0,control,144.0,right handed,1664335,,adhd200,1,Female,OHSU,homo-sapiens,
+10.33,control,130.0,right handed,1679142,,adhd200,1,Male,OHSU,homo-sapiens,
+8.75,control,104.0,right handed,1696588,,adhd200,1,Female,OHSU,homo-sapiens,
+8.75,adhd-combined,100.0,right handed,1743472,,adhd200,1,Male,OHSU,homo-sapiens,
+8.42,adhd-combined,110.0,right handed,2054310,,adhd200,1,Male,OHSU,homo-sapiens,
+7.33,control,108.0,right handed,2054998,,adhd200,1,Female,OHSU,homo-sapiens,
+8.25,adhd-combined,132.0,right handed,2071989,,adhd200,1,Male,OHSU,homo-sapiens,
+9.33,control,128.0,right handed,2124248,,adhd200,1,Female,OHSU,homo-sapiens,
+9.33,control,124.0,right handed,2155356,,adhd200,1,Female,OHSU,homo-sapiens,
+10.33,control,110.0,right handed,2232376,,adhd200,1,Female,OHSU,homo-sapiens,
+9.17,control,104.0,right handed,2232413,,adhd200,1,Male,OHSU,homo-sapiens,
+7.42,adhd-combined,120.0,right handed,2288903,,adhd200,1,Male,OHSU,homo-sapiens,
+8.0,adhd-combined,90.0,right handed,2292940,,adhd200,1,Male,OHSU,homo-sapiens,
+7.67,control,128.0,right handed,2409220,,adhd200,1,Male,OHSU,homo-sapiens,
+8.58,adhd-inattentive,112.0,right handed,2415970,,adhd200,1,Male,OHSU,homo-sapiens,
+7.92,control,120.0,right handed,2426523,,adhd200,1,Female,OHSU,homo-sapiens,
+8.08,control,137.0,right handed,2427434,,adhd200,1,Female,OHSU,homo-sapiens,
+7.5,adhd-combined,86.0,right handed,2455205,,adhd200,1,Male,OHSU,homo-sapiens,
+8.42,adhd-combined,116.0,right handed,2535204,,adhd200,1,Male,OHSU,homo-sapiens,
+7.92,adhd-inattentive,98.0,right handed,2559559,,adhd200,1,Male,OHSU,homo-sapiens,
+8.67,adhd-combined,98.0,right handed,2561174,,adhd200,1,Male,OHSU,homo-sapiens,
+7.67,adhd-combined,102.0,right handed,2571197,,adhd200,1,Male,OHSU,homo-sapiens,
+9.5,control,112.0,right handed,2578455,,adhd200,1,Female,OHSU,homo-sapiens,
+8.92,adhd-combined,90.0,right handed,2620872,,adhd200,1,Male,OHSU,homo-sapiens,
+9.0,adhd-inattentive,112.0,right handed,2790141,,adhd200,1,Female,OHSU,homo-sapiens,
+7.67,adhd-inattentive,102.0,right handed,2845989,,adhd200,1,Female,OHSU,homo-sapiens,
+7.5,control,120.0,right handed,2920716,,adhd200,1,Male,OHSU,homo-sapiens,
+9.58,adhd-hyperactive,124.0,right handed,2929195,,adhd200,1,Male,OHSU,homo-sapiens,
+8.5,control,124.0,right handed,2947936,,adhd200,1,Male,OHSU,homo-sapiens,
+9.08,control,100.0,right handed,2959809,,adhd200,1,Female,OHSU,homo-sapiens,
+11.58,control,110.0,right handed,3048401,,adhd200,1,Female,OHSU,homo-sapiens,
+11.75,control,100.0,right handed,3051944,,adhd200,1,Male,OHSU,homo-sapiens,
+9.17,adhd-combined,114.0,right handed,3052540,,adhd200,1,Male,OHSU,homo-sapiens,
+8.5,control,136.0,right handed,3162671,,adhd200,1,Male,OHSU,homo-sapiens,
+8.25,control,122.0,right handed,3206978,,adhd200,1,Female,OHSU,homo-sapiens,
+8.67,control,134.0,right handed,3212875,,adhd200,1,Female,OHSU,homo-sapiens,
+7.17,control,116.0,right handed,3244985,,adhd200,1,Male,OHSU,homo-sapiens,
+8.08,adhd-hyperactive,104.0,right handed,3286474,,adhd200,1,Female,OHSU,homo-sapiens,
+9.0,control,120.0,right handed,3302025,,adhd200,1,Male,OHSU,homo-sapiens,
+8.5,adhd-combined,108.0,right handed,3358877,,adhd200,1,Female,OHSU,homo-sapiens,
+8.08,adhd-combined,108.0,right handed,3466651,,adhd200,1,Male,OHSU,homo-sapiens,
+8.5,adhd-combined,104.0,right handed,3470141,,adhd200,1,Male,OHSU,homo-sapiens,
+7.83,adhd-combined,126.0,right handed,3560456,,adhd200,1,Female,OHSU,homo-sapiens,
+7.67,adhd-inattentive,86.0,right handed,3652932,,adhd200,1,Male,OHSU,homo-sapiens,
+8.75,adhd-inattentive,96.0,right handed,3677724,,adhd200,1,Male,OHSU,homo-sapiens,
+8.83,adhd-inattentive,120.0,right handed,3684229,,adhd200,1,Female,OHSU,homo-sapiens,
+7.83,control,104.0,right handed,3812101,,adhd200,1,Female,OHSU,homo-sapiens,
+8.08,control,132.0,right handed,3848511,,adhd200,1,Female,OHSU,homo-sapiens,
+8.67,control,126.0,right handed,3869075,,adhd200,1,Male,OHSU,homo-sapiens,
+8.25,control,112.0,right handed,3899622,,adhd200,1,Female,OHSU,homo-sapiens,
+9.08,adhd-combined,126.0,right handed,4016887,,adhd200,1,Male,OHSU,homo-sapiens,
+8.58,control,132.0,right handed,4046678,,adhd200,1,Female,OHSU,homo-sapiens,
+9.25,adhd-inattentive,106.0,right handed,4072305,,adhd200,1,Female,OHSU,homo-sapiens,
+7.33,control,108.0,right handed,4103874,,adhd200,1,Female,OHSU,homo-sapiens,
+8.25,control,114.0,right handed,4219416,,adhd200,1,Female,OHSU,homo-sapiens,
+8.42,control,116.0,right handed,4529116,,adhd200,1,Female,OHSU,homo-sapiens,
+11.33,adhd-inattentive,114.0,right handed,5302451,,adhd200,1,Male,OHSU,homo-sapiens,
+7.58,control,140.0,right handed,6592761,,adhd200,1,Male,OHSU,homo-sapiens,
+11.83,adhd-combined,132.0,right handed,6953386,,adhd200,1,Male,OHSU,homo-sapiens,
+9.0,adhd-combined,108.0,right handed,7333005,,adhd200,1,Male,OHSU,homo-sapiens,
+9.25,control,118.0,right handed,8064456,,adhd200,1,Female,OHSU,homo-sapiens,
+8.33,control,104.0,right handed,8218392,,adhd200,1,Male,OHSU,homo-sapiens,
+10.33,adhd-inattentive,82.0,right handed,8720244,,adhd200,1,Female,OHSU,homo-sapiens,
+8.17,control,126.0,right handed,9499804,,adhd200,1,Male,OHSU,homo-sapiens,
+10.42,adhd-combined,104.0,right handed,23000,,adhd200,1,Female,OHSU,homo-sapiens,
+9.33,control,96.0,right handed,23001,,adhd200,1,Male,OHSU,homo-sapiens,
+10.67,adhd-combined,136.0,right handed,23002,,adhd200,1,Male,OHSU,homo-sapiens,
+7.67,adhd-hyperactive,126.0,right handed,23003,,adhd200,1,Male,OHSU,homo-sapiens,
+9.33,adhd-combined,103.8,right handed,23004,,adhd200,1,Male,OHSU,homo-sapiens,
+11.75,control,104.0,right handed,23005,,adhd200,1,Male,OHSU,homo-sapiens,
+9.25,control,114.0,right handed,23006,,adhd200,1,Female,OHSU,homo-sapiens,
+11.08,adhd-inattentive,112.0,right handed,23007,,adhd200,1,Male,OHSU,homo-sapiens,
+9.17,control,112.0,right handed,23008,,adhd200,1,Male,OHSU,homo-sapiens,
+7.67,control,118.0,right handed,23010,,adhd200,1,Female,OHSU,homo-sapiens,
+8.92,control,104.0,right handed,23011,,adhd200,1,Male,OHSU,homo-sapiens,
+11.33,adhd-combined,120.0,right handed,23012,,adhd200,1,Female,OHSU,homo-sapiens,
+10.58,control,94.0,right handed,23013,,adhd200,1,Male,OHSU,homo-sapiens,
+10.25,control,143.7,right handed,23016,,adhd200,1,Female,OHSU,homo-sapiens,
+12.5,control,112.0,right handed,23017,,adhd200,1,Female,OHSU,homo-sapiens,
+9.5,control,100.0,right handed,23018,,adhd200,1,Female,OHSU,homo-sapiens,
+8.08,control,132.0,right handed,23019,,adhd200,1,Female,OHSU,homo-sapiens,
+11.0,control,122.0,right handed,23020,,adhd200,1,Male,OHSU,homo-sapiens,
+9.58,control,98.0,right handed,23024,,adhd200,1,Female,OHSU,homo-sapiens,
+8.33,control,98.0,right handed,23025,,adhd200,1,Female,OHSU,homo-sapiens,
+8.33,control,106.0,right handed,23026,,adhd200,1,Female,OHSU,homo-sapiens,
+11.58,control,100.0,right handed,23027,,adhd200,1,Male,OHSU,homo-sapiens,
+9.92,control,117.1,right handed,23028,,adhd200,1,Female,OHSU,homo-sapiens,
+8.5,control,120.0,right handed,23030,,adhd200,1,Male,OHSU,homo-sapiens,
+11.92,control,126.0,right handed,23031,,adhd200,1,Male,OHSU,homo-sapiens,
+8.5,control,120.0,right handed,23033,,adhd200,1,Female,OHSU,homo-sapiens,
+9.75,control,105.7,right handed,23035,,adhd200,1,Male,OHSU,homo-sapiens,
+9.75,control,128.0,right handed,23036,,adhd200,1,Female,OHSU,homo-sapiens,
+9.42,control,108.0,right handed,23037,,adhd200,1,Male,OHSU,homo-sapiens,
+9.33,control,124.0,right handed,23038,,adhd200,1,Male,OHSU,homo-sapiens,
+11.17,control,114.0,right handed,23039,,adhd200,1,Male,OHSU,homo-sapiens,
+7.5,control,126.0,right handed,23040,,adhd200,1,Female,OHSU,homo-sapiens,
+9.92,control,128.5,right handed,23041,,adhd200,1,Female,OHSU,homo-sapiens,
+8.08,control,98.0,right handed,23042,,adhd200,1,Female,OHSU,homo-sapiens,
+13.92,control,135.0,right handed,1056121,136.0,adhd200,1,Male,Peking,homo-sapiens,126.0
+14.83,control,133.0,right handed,1113498,135.0,adhd200,1,Female,Peking,homo-sapiens,125.0
+12.33,adhd-combined,113.0,right handed,1133221,108.0,adhd200,1,Male,Peking,homo-sapiens,116.0
+11.33,control,87.0,right handed,1139030,86.0,adhd200,1,Female,Peking,homo-sapiens,90.0
+13.92,adhd-inattentive,109.0,right handed,1186237,103.0,adhd200,1,Male,Peking,homo-sapiens,112.0
+9.5,adhd-combined,97.0,right handed,1240299,100.0,adhd200,1,Male,Peking,homo-sapiens,95.0
+9.92,control,117.0,right handed,1258069,117.0,adhd200,1,Female,Peking,homo-sapiens,113.0
+10.58,adhd-inattentive,108.0,right handed,1282248,86.0,adhd200,1,Male,Peking,homo-sapiens,125.0
+8.58,control,120.0,right handed,1302449,108.0,adhd200,1,Female,Peking,homo-sapiens,126.0
+9.83,control,124.0,right handed,1391181,118.0,adhd200,1,Female,Peking,homo-sapiens,125.0
+11.92,control,126.0,right handed,1408093,104.0,adhd200,1,Male,Peking,homo-sapiens,140.0
+11.58,control,128.0,right handed,1469171,114.0,adhd200,1,Female,Peking,homo-sapiens,134.0
+10.92,adhd-inattentive,88.0,right handed,1561488,97.0,adhd200,1,Female,Peking,homo-sapiens,83.0
+9.67,control,113.0,right handed,1686092,112.0,adhd200,1,Female,Peking,homo-sapiens,112.0
+11.75,control,128.0,right handed,1689948,117.0,adhd200,1,Female,Peking,homo-sapiens,132.0
+9.33,adhd-inattentive,123.0,right handed,1791543,108.0,adhd200,1,Female,Peking,homo-sapiens,130.0
+10.08,control,103.0,right handed,1805037,104.0,adhd200,1,Female,Peking,homo-sapiens,101.0
+9.75,control,109.0,right handed,1875711,106.0,adhd200,1,Female,Peking,homo-sapiens,109.0
+13.58,control,117.0,right handed,1879542,108.0,adhd200,1,Male,Peking,homo-sapiens,121.0
+10.33,control,128.0,right handed,1912810,118.0,adhd200,1,Female,Peking,homo-sapiens,130.0
+9.42,adhd-inattentive,81.0,right handed,1947991,85.0,adhd200,1,Male,Peking,homo-sapiens,82.0
+12.17,control,113.0,right handed,2081754,91.0,adhd200,1,Female,Peking,homo-sapiens,130.0
+9.92,control,125.0,right handed,2106109,115.0,adhd200,1,Female,Peking,homo-sapiens,129.0
+11.67,control,115.0,right handed,2123983,108.0,adhd200,1,Female,Peking,homo-sapiens,119.0
+9.83,adhd-combined,108.0,right handed,2174595,114.0,adhd200,1,Male,Peking,homo-sapiens,101.0
+10.33,adhd-inattentive,100.0,right handed,2196753,103.0,adhd200,1,Male,Peking,homo-sapiens,97.0
+11.83,control,117.0,right handed,2240562,115.0,adhd200,1,Female,Peking,homo-sapiens,115.0
+12.0,control,113.0,right handed,2249443,111.0,adhd200,1,Female,Peking,homo-sapiens,113.0
+11.25,control,128.0,right handed,2266806,123.0,adhd200,1,Male,Peking,homo-sapiens,128.0
+12.08,adhd-combined,90.0,right handed,2367157,89.0,adhd200,1,Male,Peking,homo-sapiens,92.0
+13.08,control,133.0,right handed,2408774,129.0,adhd200,1,Female,Peking,homo-sapiens,130.0
+14.08,control,117.0,right handed,2427408,101.0,adhd200,1,Female,Peking,homo-sapiens,128.0
+13.33,control,118.0,left handed,2535087,118.0,adhd200,1,Male,Peking,homo-sapiens,115.0
+8.92,control,111.0,right handed,2538839,100.0,adhd200,1,Female,Peking,homo-sapiens,119.0
+12.58,adhd-inattentive,87.0,right handed,2697768,80.0,adhd200,1,Female,Peking,homo-sapiens,96.0
+11.5,control,124.0,right handed,2703336,120.0,adhd200,1,Female,Peking,homo-sapiens,123.0
+10.0,control,101.0,right handed,2714224,100.0,adhd200,1,Female,Peking,homo-sapiens,101.0
+10.42,control,141.0,right handed,2833684,135.0,adhd200,1,Male,Peking,homo-sapiens,138.0
+9.17,adhd-inattentive,99.0,right handed,2897046,83.0,adhd200,1,Female,Peking,homo-sapiens,113.0
+13.83,adhd-inattentive,128.0,right handed,2910270,120.0,adhd200,1,Male,Peking,homo-sapiens,130.0
+14.0,control,108.0,right handed,3004580,97.0,adhd200,1,Male,Peking,homo-sapiens,116.0
+11.5,control,125.0,right handed,3086074,124.0,adhd200,1,Male,Peking,homo-sapiens,121.0
+12.17,control,118.0,right handed,3212536,114.0,adhd200,1,Male,Peking,homo-sapiens,119.0
+10.42,control,115.0,right handed,3233028,115.0,adhd200,1,Female,Peking,homo-sapiens,112.0
+9.25,control,128.0,right handed,3239413,104.0,adhd200,1,Female,Peking,homo-sapiens,142.0
+9.75,control,141.0,right handed,3262042,139.0,adhd200,1,Female,Peking,homo-sapiens,134.0
+12.08,control,122.0,right handed,3269608,114.0,adhd200,1,Male,Peking,homo-sapiens,125.0
+8.58,control,109.0,right handed,3306863,114.0,adhd200,1,Female,Peking,homo-sapiens,104.0
+10.33,adhd-inattentive,83.0,right handed,3390312,54.0,adhd200,1,Male,Peking,homo-sapiens,112.0
+10.75,control,131.0,right handed,3554582,132.0,adhd200,1,Female,Peking,homo-sapiens,125.0
+9.92,control,131.0,right handed,3587000,136.0,adhd200,1,Female,Peking,homo-sapiens,121.0
+10.0,control,109.0,right handed,3593327,86.0,adhd200,1,Male,Peking,homo-sapiens,126.0
+8.42,control,117.0,right handed,3672854,95.0,adhd200,1,Female,Peking,homo-sapiens,133.0
+10.42,control,86.0,right handed,3707771,82.0,adhd200,1,Male,Peking,homo-sapiens,92.0
+10.42,control,107.0,right handed,3732101,94.0,adhd200,1,Female,Peking,homo-sapiens,117.0
+10.83,control,108.0,right handed,3739175,111.0,adhd200,1,Female,Peking,homo-sapiens,104.0
+9.08,control,112.0,right handed,3809753,111.0,adhd200,1,Female,Peking,homo-sapiens,116.0
+11.92,control,120.0,right handed,3889095,108.0,adhd200,1,Male,Peking,homo-sapiens,126.0
+13.42,control,119.0,right handed,3967265,118.0,adhd200,1,Female,Peking,homo-sapiens,116.0
+11.0,adhd-combined,110.0,right handed,3976121,94.0,adhd200,1,Male,Peking,homo-sapiens,123.0
+9.67,adhd-combined,87.0,right handed,3983607,103.0,adhd200,1,Male,Peking,homo-sapiens,76.0
+9.25,adhd-inattentive,98.0,right handed,4028266,91.0,adhd200,1,Male,Peking,homo-sapiens,105.0
+9.92,control,143.0,right handed,4053836,132.0,adhd200,1,Female,Peking,homo-sapiens,144.0
+12.17,adhd-inattentive,98.0,right handed,4091983,94.0,adhd200,1,Female,Peking,homo-sapiens,101.0
+10.5,adhd-combined,106.0,right handed,4095748,101.0,adhd200,1,Male,Peking,homo-sapiens,109.0
+12.0,control,106.0,right handed,4256491,112.0,adhd200,1,Female,Peking,homo-sapiens,99.0
+14.58,adhd-inattentive,99.0,right handed,4334113,101.0,adhd200,1,Male,Peking,homo-sapiens,97.0
+9.67,control,102.0,right handed,4383707,103.0,adhd200,1,Female,Peking,homo-sapiens,101.0
+9.58,control,120.0,right handed,4475709,114.0,adhd200,1,Female,Peking,homo-sapiens,121.0
+9.58,control,137.0,right handed,4921428,126.0,adhd200,1,Male,Peking,homo-sapiens,140.0
+15.92,adhd-inattentive,86.0,right handed,5150328,85.0,adhd200,1,Female,Peking,homo-sapiens,90.0
+9.0,adhd-inattentive,81.0,right handed,5193577,80.0,adhd200,1,Female,Peking,homo-sapiens,86.0
+11.92,control,123.0,right handed,5600820,120.0,adhd200,1,Female,Peking,homo-sapiens,121.0
+9.92,control,117.0,right handed,6187322,124.0,adhd200,1,Female,Peking,homo-sapiens,107.0
+11.42,control,132.0,right handed,7093319,127.0,adhd200,1,Male,Peking,homo-sapiens,130.0
+13.92,control,85.0,right handed,7135128,71.0,adhd200,1,Female,Peking,homo-sapiens,100.0
+17.33,adhd-inattentive,105.0,right handed,7390867,104.0,adhd200,1,Male,Peking,homo-sapiens,105.0
+13.75,control,81.0,right handed,8328877,77.0,adhd200,1,Female,Peking,homo-sapiens,88.0
+14.25,control,100.0,right handed,8838009,111.0,adhd200,1,Female,Peking,homo-sapiens,91.0
+11.58,control,119.0,right handed,9093997,111.0,adhd200,1,Female,Peking,homo-sapiens,123.0
+9.25,adhd-inattentive,93.0,right handed,9210521,89.0,adhd200,1,Male,Peking,homo-sapiens,97.0
+11.83,control,128.0,right handed,9221927,120.0,adhd200,1,Male,Peking,homo-sapiens,129.0
+12.75,control,130.0,right handed,9783279,126.0,adhd200,1,Female,Peking,homo-sapiens,128.0
+11.33,control,135.0,right handed,9887336,135.0,adhd200,1,Male,Peking,homo-sapiens,128.0
+9.25,control,117.0,right handed,9890726,103.0,adhd200,1,Female,Peking,homo-sapiens,125.0
+14.92,adhd-inattentive,107.0,right handed,1038415,103.0,adhd200,1,Male,Peking,homo-sapiens,109.0
+12.33,adhd-inattentive,110.0,right handed,1201251,103.0,adhd200,1,Male,Peking,homo-sapiens,115.0
+8.58,control,106.0,right handed,1245758,88.0,adhd200,1,Female,Peking,homo-sapiens,121.0
+8.08,control,114.0,right handed,1253411,106.0,adhd200,1,Male,Peking,homo-sapiens,119.0
+9.92,control,102.0,right handed,1419103,76.0,adhd200,1,Female,Peking,homo-sapiens,124.0
+9.75,control,144.0,right handed,1517058,138.0,adhd200,1,Male,Peking,homo-sapiens,141.0
+8.83,control,118.0,right handed,1581470,123.0,adhd200,1,Male,Peking,homo-sapiens,111.0
+8.92,adhd-inattentive,116.0,right handed,1784368,89.0,adhd200,1,Male,Peking,homo-sapiens,136.0
+11.67,control,131.0,right handed,1849382,114.0,adhd200,1,Male,Peking,homo-sapiens,140.0
+8.83,control,114.0,right handed,1854691,108.0,adhd200,1,Female,Peking,homo-sapiens,117.0
+9.08,adhd-inattentive,98.0,right handed,1883688,83.0,adhd200,1,Female,Peking,homo-sapiens,112.0
+11.92,control,121.0,right handed,1951511,111.0,adhd200,1,Female,Peking,homo-sapiens,126.0
+11.92,control,140.0,right handed,1985430,124.0,adhd200,1,Female,Peking,homo-sapiens,146.0
+10.33,adhd-combined,109.0,right handed,2024999,98.0,adhd200,1,Male,Peking,homo-sapiens,117.0
+13.75,control,108.0,right handed,2051479,104.0,adhd200,1,Female,Peking,homo-sapiens,109.0
+15.17,control,109.0,right handed,2101067,98.0,adhd200,1,Female,Peking,homo-sapiens,117.0
+9.5,control,111.0,right handed,2275786,108.0,adhd200,1,Male,Peking,homo-sapiens,112.0
+10.17,control,117.0,right handed,2342030,120.0,adhd200,1,Female,Peking,homo-sapiens,111.0
+9.58,adhd-inattentive,102.0,right handed,2380326,100.0,adhd200,1,Female,Peking,homo-sapiens,103.0
+10.0,adhd-inattentive,113.0,right handed,2380967,115.0,adhd200,1,Male,Peking,homo-sapiens,109.0
+9.75,control,101.0,right handed,2411995,94.0,adhd200,1,Male,Peking,homo-sapiens,107.0
+8.92,control,84.0,right handed,2443191,71.0,adhd200,1,Male,Peking,homo-sapiens,99.0
+13.75,control,109.0,right handed,2488729,103.0,adhd200,1,Female,Peking,homo-sapiens,113.0
+8.83,adhd-inattentive,82.0,right handed,2505328,85.0,adhd200,1,Female,Peking,homo-sapiens,83.0
+8.33,control,128.0,right handed,2511886,115.0,adhd200,1,Male,Peking,homo-sapiens,133.0
+8.92,control,124.0,right handed,2528407,100.0,adhd200,1,Male,Peking,homo-sapiens,141.0
+10.0,control,128.0,right handed,2591713,115.0,adhd200,1,Male,Peking,homo-sapiens,134.0
+14.0,adhd-combined,98.0,right handed,2599965,94.0,adhd200,1,Male,Peking,homo-sapiens,101.0
+13.0,adhd-inattentive,97.0,right handed,2628237,106.0,adhd200,1,Female,Peking,homo-sapiens,90.0
+8.5,control,116.0,right handed,2872641,120.0,adhd200,1,Female,Peking,homo-sapiens,109.0
+11.92,control,120.0,right handed,3107623,114.0,adhd200,1,Female,Peking,homo-sapiens,121.0
+8.75,adhd-combined,109.0,right handed,3124419,85.0,adhd200,1,Male,Peking,homo-sapiens,128.0
+11.0,adhd-inattentive,108.0,right handed,3169448,111.0,adhd200,1,Male,Peking,homo-sapiens,104.0
+9.33,adhd-combined,111.0,right handed,3313497,109.0,adhd200,1,Male,Peking,homo-sapiens,111.0
+10.67,control,120.0,right handed,3320367,109.0,adhd200,1,Male,Peking,homo-sapiens,126.0
+8.33,control,114.0,right handed,3348989,97.0,adhd200,1,Female,Peking,homo-sapiens,126.0
+9.83,adhd-combined,131.0,right handed,3378296,112.0,adhd200,1,Male,Peking,homo-sapiens,141.0
+13.33,adhd-inattentive,99.0,right handed,3407871,98.0,adhd200,1,Male,Peking,homo-sapiens,100.0
+13.17,adhd-inattentive,109.0,right handed,3504058,100.0,adhd200,1,Male,Peking,homo-sapiens,115.0
+9.83,adhd-combined,142.0,right handed,3520880,135.0,adhd200,1,Male,Peking,homo-sapiens,140.0
+12.58,adhd-hyperactive,107.0,right handed,3559087,104.0,adhd200,1,Male,Peking,homo-sapiens,108.0
+8.58,control,118.0,right handed,3605062,100.0,adhd200,1,Female,Peking,homo-sapiens,130.0
+8.33,adhd-inattentive,109.0,right handed,3767334,104.0,adhd200,1,Male,Peking,homo-sapiens,112.0
+12.92,adhd-combined,108.0,right handed,3834703,101.0,adhd200,1,Male,Peking,homo-sapiens,112.0
+9.17,control,121.0,,4125514,100.0,adhd200,1,Male,Peking,homo-sapiens,136.0
+11.5,control,134.0,right handed,6550938,112.0,adhd200,1,Male,Peking,homo-sapiens,146.0
+12.42,adhd-combined,86.0,right handed,7591533,76.0,adhd200,1,Male,Peking,homo-sapiens,97.0
+9.17,control,113.0,right handed,7947495,111.0,adhd200,1,Female,Peking,homo-sapiens,113.0
+12.67,adhd-inattentive,102.0,right handed,8463326,94.0,adhd200,1,Female,Peking,homo-sapiens,108.0
+12.5,adhd-inattentive,128.0,right handed,9190596,114.0,adhd200,1,Male,Peking,homo-sapiens,134.0
+9.5,adhd-combined,113.0,right handed,9744150,104.0,adhd200,1,Male,Peking,homo-sapiens,117.0
+17.01,control,116.0,right handed,16058,129.0,adhd200,1,Female,PITT,homo-sapiens,109.0
+14.99,control,117.0,right handed,16046,129.0,adhd200,1,Female,PITT,homo-sapiens,116.0
+17.16,control,113.0,right handed,16060,119.0,adhd200,1,Male,PITT,homo-sapiens,122.0
+15.56,control,103.0,right handed,16048,102.0,adhd200,1,Male,PITT,homo-sapiens,109.0
+13.11,control,88.0,right handed,16029,99.0,adhd200,1,Male,PITT,homo-sapiens,99.0
+20.45,control,115.0,right handed,16089,125.0,adhd200,1,Female,PITT,homo-sapiens,108.0
+10.49,control,104.0,right handed,16004,105.0,adhd200,1,Male,PITT,homo-sapiens,95.0
+18.72,control,124.0,right handed,16078,119.0,adhd200,1,Male,PITT,homo-sapiens,110.0
+18.48,control,128.0,right handed,16073,126.0,adhd200,1,Male,PITT,homo-sapiens,119.0
+18.93,control,95.0,right handed,16086,102.0,adhd200,1,Male,PITT,homo-sapiens,108.0
+18.43,control,123.0,right handed,16072,103.0,adhd200,1,Male,PITT,homo-sapiens,125.0
+19.66,control,120.0,right handed,16088,118.0,adhd200,1,Female,PITT,homo-sapiens,117.0
+11.41,control,109.0,right handed,16012,118.0,adhd200,1,Male,PITT,homo-sapiens,105.0
+18.52,control,105.0,right handed,16075,99.0,adhd200,1,Female,PITT,homo-sapiens,108.0
+14.82,control,88.0,right handed,16041,107.0,adhd200,1,Female,PITT,homo-sapiens,80.0
+18.8,control,121.0,right handed,16080,,adhd200,1,Female,PITT,homo-sapiens,
+18.96,control,113.0,right handed,16087,,adhd200,1,Male,PITT,homo-sapiens,
+12.65,control,117.0,right handed,16024,109.0,adhd200,1,Female,PITT,homo-sapiens,103.0
+14.85,control,107.0,right handed,16043,115.0,adhd200,1,Female,PITT,homo-sapiens,105.0
+10.76,control,78.0,right handed,16006,,adhd200,1,Male,PITT,homo-sapiens,
+18.9,control,118.0,right handed,16084,118.0,adhd200,1,Male,PITT,homo-sapiens,110.0
+18.85,control,118.0,right handed,16082,,adhd200,1,Female,PITT,homo-sapiens,
+13.87,control,109.0,right handed,16034,114.0,adhd200,1,Female,PITT,homo-sapiens,105.0
+11.71,control,108.0,right handed,16016,119.0,adhd200,1,Male,PITT,homo-sapiens,113.0
+10.57,control,128.0,right handed,16005,127.0,adhd200,1,Female,PITT,homo-sapiens,141.0
+10.11,control,106.0,right handed,16001,131.0,adhd200,1,Male,PITT,homo-sapiens,88.0
+11.75,control,111.0,right handed,16017,,adhd200,1,Female,PITT,homo-sapiens,
+12.88,control,109.0,right handed,16026,93.0,adhd200,1,Male,PITT,homo-sapiens,112.0
+14.15,control,117.0,right handed,16037,129.0,adhd200,1,Male,PITT,homo-sapiens,109.0
+15.92,control,120.0,right handed,16053,116.0,adhd200,1,Male,PITT,homo-sapiens,126.0
+15.78,control,108.0,right handed,16050,,adhd200,1,Male,PITT,homo-sapiens,
+14.57,control,110.0,right handed,16039,100.0,adhd200,1,Male,PITT,homo-sapiens,116.0
+11.53,control,113.0,right handed,16013,126.0,adhd200,1,Male,PITT,homo-sapiens,88.0
+17.91,control,96.0,left handed,16067,,adhd200,1,Female,PITT,homo-sapiens,
+13.53,control,124.0,right handed,16031,116.0,adhd200,1,Male,PITT,homo-sapiens,122.0
+13.97,control,107.0,right handed,16036,92.0,adhd200,1,Male,PITT,homo-sapiens,116.0
+12.47,control,102.0,right handed,16022,114.0,adhd200,1,Female,PITT,homo-sapiens,98.0
+14.85,control,82.0,right handed,16044,81.0,adhd200,1,Male,PITT,homo-sapiens,88.0
+17.46,control,101.0,right handed,16063,111.0,adhd200,1,Male,PITT,homo-sapiens,100.0
+14.24,control,91.0,right handed,16038,107.0,adhd200,1,Male,PITT,homo-sapiens,98.0
+18.31,control,92.0,right handed,16070,,adhd200,1,Female,PITT,homo-sapiens,
+17.23,control,90.0,right handed,16061,,adhd200,1,Male,PITT,homo-sapiens,
+14.84,control,109.0,right handed,16042,115.0,adhd200,1,Female,PITT,homo-sapiens,107.0
+16.16,control,113.0,right handed,16055,109.0,adhd200,1,Male,PITT,homo-sapiens,105.0
+15.69,control,102.0,right handed,16049,96.0,adhd200,1,Female,PITT,homo-sapiens,112.0
+17.13,control,102.0,right handed,16059,119.0,adhd200,1,Female,PITT,homo-sapiens,102.0
+14.89,control,118.0,right handed,16045,116.0,adhd200,1,Female,PITT,homo-sapiens,105.0
+11.24,control,123.0,right handed,16010,131.0,adhd200,1,Male,PITT,homo-sapiens,118.0
+15.15,control,111.0,right handed,16047,109.0,adhd200,1,Female,PITT,homo-sapiens,108.0
+18.6,control,125.0,right handed,16076,,adhd200,1,Female,PITT,homo-sapiens,
+18.14,control,118.0,right handed,16069,118.0,adhd200,1,Female,PITT,homo-sapiens,119.0
+17.86,control,107.0,right handed,16066,105.0,adhd200,1,Female,PITT,homo-sapiens,106.0
+17.44,control,112.0,right handed,16062,,adhd200,1,Female,PITT,homo-sapiens,
+18.72,control,113.0,right handed,16077,,adhd200,1,Female,PITT,homo-sapiens,
+15.91,control,106.0,right handed,16052,116.0,adhd200,1,Male,PITT,homo-sapiens,110.0
+17.49,control,109.0,right handed,16064,,adhd200,1,Male,PITT,homo-sapiens,
+12.91,control,123.0,right handed,16027,,adhd200,1,Male,PITT,homo-sapiens,
+11.12,control,109.0,right handed,16009,109.0,adhd200,1,Male,PITT,homo-sapiens,112.0
+16.28,control,102.0,right handed,16056,,adhd200,1,Female,PITT,homo-sapiens,
+17.96,control,131.0,right handed,16068,,adhd200,1,Female,PITT,homo-sapiens,
+12.12,control,118.0,right handed,16018,103.0,adhd200,1,Female,PITT,homo-sapiens,115.0
+18.49,control,118.0,right handed,16074,,adhd200,1,Female,PITT,homo-sapiens,
+18.9,control,113.0,right handed,16085,,adhd200,1,Female,PITT,homo-sapiens,
+18.33,control,111.0,right handed,16071,,adhd200,1,Female,PITT,homo-sapiens,
+11.03,control,130.0,right handed,16008,,adhd200,1,Male,PITT,homo-sapiens,
+12.71,control,99.0,right handed,16025,,adhd200,1,Male,PITT,homo-sapiens,
+13.68,control,99.0,right handed,16033,,adhd200,1,Male,PITT,homo-sapiens,
+13.03,control,111.0,right handed,16028,,adhd200,1,Male,PITT,homo-sapiens,
+10.93,control,108.0,right handed,16007,,adhd200,1,Female,PITT,homo-sapiens,
+13.44,control,96.0,right handed,16030,,adhd200,1,Male,PITT,homo-sapiens,
+12.41,control,133.0,right handed,16021,,adhd200,1,Male,PITT,homo-sapiens,
+18.86,control,133.0,right handed,16083,,adhd200,1,Male,PITT,homo-sapiens,
+12.35,control,131.0,right handed,16020,,adhd200,1,Female,PITT,homo-sapiens,
+11.69,control,103.0,right handed,16014,,adhd200,1,Male,PITT,homo-sapiens,
+18.74,control,119.0,left handed,16079,,adhd200,1,Male,PITT,homo-sapiens,
+15.88,control,99.0,right handed,16051,,adhd200,1,Female,PITT,homo-sapiens,
+14.63,control,108.0,right handed,16040,117.0,adhd200,1,Female,PITT,homo-sapiens,108.0
+12.23,control,89.0,right handed,16019,,adhd200,1,Female,PITT,homo-sapiens,
+17.84,control,108.0,right handed,16065,,adhd200,1,Female,PITT,homo-sapiens,
+18.81,control,103.0,right handed,16081,,adhd200,1,Male,PITT,homo-sapiens,
+13.65,control,105.0,left handed,16032,,adhd200,1,Female,PITT,homo-sapiens,
+10.46,control,114.0,right handed,16003,,adhd200,1,Male,PITT,homo-sapiens,
+11.28,control,105.0,right handed,16011,,adhd200,1,Female,PITT,homo-sapiens,
+16.74,control,90.0,right handed,16057,,adhd200,1,Female,PITT,homo-sapiens,
+11.7,control,108.0,right handed,16015,,adhd200,1,Male,PITT,homo-sapiens,
+13.94,control,113.0,right handed,16035,,adhd200,1,Male,PITT,homo-sapiens,
+12.51,control,107.0,left handed,16023,105.0,adhd200,1,Female,PITT,homo-sapiens,113.0
+16.05,control,105.0,right handed,16054,,adhd200,1,Male,PITT,homo-sapiens,
+10.16,control,120.0,right handed,16002,,adhd200,1,Female,PITT,homo-sapiens,
