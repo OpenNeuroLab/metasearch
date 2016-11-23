@@ -4,6 +4,11 @@
     "type": "static",
     "value": "hbnss"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "site_id": {
     "element": "site_id",
     "type": "static",

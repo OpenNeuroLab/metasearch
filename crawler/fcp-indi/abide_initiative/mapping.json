@@ -4,6 +4,11 @@
     "type": "static",
     "value": "abide_initiative"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "SUB_ID":
   {
     "element": "participant_id",

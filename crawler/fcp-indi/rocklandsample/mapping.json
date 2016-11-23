@@ -9,6 +9,11 @@
     "type": "static",
     "value": "nki"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "Subject ID": {
     "element": "participant_id",
     "type": "identifier"

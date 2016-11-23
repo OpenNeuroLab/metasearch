@@ -4,6 +4,11 @@
     "type": "static",
     "value": "corr"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "SUBID": {
     "element": "participant_id",
     "type": "identifier"

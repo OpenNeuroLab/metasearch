@@ -4,6 +4,11 @@
     "type": "static",
     "value": "acpi"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "ID":
   {
     "element": "participant_id",

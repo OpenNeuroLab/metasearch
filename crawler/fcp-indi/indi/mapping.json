@@ -9,6 +9,11 @@
     "type": "static",
     "value": "swu"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "Match_ID": {
     "element": "participant_id",
     "type": "identifier"

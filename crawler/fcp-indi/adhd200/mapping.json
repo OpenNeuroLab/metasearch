@@ -4,6 +4,11 @@
     "type": "static",
     "value": "adhd200"
   },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
   "ScanDir ID":
   {
     "element": "participant_id",
