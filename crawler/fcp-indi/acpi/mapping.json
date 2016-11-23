@@ -17,7 +17,7 @@
   "SESSION": {
     "element": "session_id",
     "type": "category",
-    "value": "1"
+    "1": "1"
   },
   "DATASET":
   {
