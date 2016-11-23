@@ -14,6 +14,11 @@
     "type": "static",
     "value": "cmi"
   },
+  "session_id": {
+    "element": "session_id",
+    "type": "static",
+    "value": "1"
+  },
   "SubID": {
     "element": "participant_id",
     "type": "identifier"

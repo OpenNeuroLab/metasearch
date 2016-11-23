@@ -14,6 +14,18 @@
     "type": "static",
     "value": "homo-sapiens"
   },
+  "session_id": {
+    "element": "session_id",
+    "type": "static",
+    "value": "1"
+  },
+  "Session": {
+    "element": "session_id",
+    "type": "category",
+    "1": "1",
+    "2": "2",
+    "3": "3"
+  },
   "Match_ID": {
     "element": "participant_id",
     "type": "identifier"

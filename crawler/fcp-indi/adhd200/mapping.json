@@ -9,6 +9,11 @@
     "type": "static",
     "value": "homo-sapiens"
   },
+  "session_id": {
+    "element": "session_id",
+    "type": "static",
+    "value": "1"
+  },
   "ScanDir ID":
   {
     "element": "participant_id",

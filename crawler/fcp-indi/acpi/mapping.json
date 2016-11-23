@@ -14,6 +14,11 @@
     "element": "participant_id",
     "type": "identifier"
   },
+  "SESSION": {
+    "element": "session_id",
+    "type": "category",
+    "value": "1"
+  },
   "DATASET":
   {
     "element": "site_id",
