@@ -27,7 +27,7 @@
   "Site":
   {
     "element": "site_id",
-    "type": "category",
+    "type": "str",
     "1": "Peking",
     "2": "BU",
     "3": "KKI",
@@ -40,7 +40,7 @@
   "DX":
   {
     "element": "diagnosis",
-    "type": "category",
+    "type": "str",
     "0": "control",
     "1": "adhd-combined",
     "2": "adhd-hyperactive",
@@ -54,12 +54,12 @@
   "Age":
   {
     "element": "age",
-    "type": "number"
+    "type": "float"
   },
   "Gender":
   {
     "element": "sex",
-    "type": "category",
+    "type": "str",
     "1": "Male",
     "0": "Female",
     "1.0": "Male",
@@ -68,7 +68,7 @@
   "Handedness":
   {
     "element": "handedness",
-    "type": "category",
+    "type": "str",
     "1": "right handed",
     "0": "left handed",
     "2": "ambidextrous",
@@ -80,7 +80,7 @@
   "Full4 IQ":
   {
     "element": "full iq",
-    "type": "number",
+    "type": "float",
     "-9999": null,
     "-9999.0": null,
     "-999.0": null
@@ -88,7 +88,7 @@
   "Verbal IQ":
   {
     "element": "verbal iq",
-    "type": "number",
+    "type": "float",
     "-9999": null,
     "-9999.0": null,
     "-999.0": null
@@ -96,7 +96,7 @@
   "Performance IQ":
   {
     "element": "performance iq",
-    "type": "number",
+    "type": "float",
     "-9999": null,
     "-9999.0": null,
     "-999.0": null

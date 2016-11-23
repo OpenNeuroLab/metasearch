@@ -22,7 +22,7 @@
   "SITE_ID":
   {
     "element": "site_id",
-    "type": "category",
+    "type": "str",
     "PITT": "PITT",
     "OHSU": "OHSU",
     "SDSU": "SDSU",
@@ -47,14 +47,14 @@
   "DX_GROUP":
   {
     "element": "diagnosis",
-    "type": "category",
+    "type": "str",
     "1": "autism",
     "2": "control"
   },
   "DSM_IV_TR":
   {
     "element": "dsm_iv_tr",
-    "type": "category",
+    "type": "str",
     "0": "control",
     "1": "autism",
     "2": "aspergers",
@@ -65,19 +65,19 @@
   "AGE_AT_SCAN":
   {
     "element": "age",
-    "type": "number"
+    "type": "float"
   },
   "SEX":
   {
     "element": "sex",
-    "type": "category",
+    "type": "str",
     "1": "Male",
     "2": "Female"
   },
   "HANDEDNESS_CATEGORY":
   {
     "element": "handedness",
-    "type": "category",
+    "type": "str",
     "R": "right handed",
     "L": "left handed",
     "Ambi": "ambidextrous",
@@ -88,7 +88,7 @@
   "FIQ":
   {
     "element": "full iq",
-    "type": "number",
+    "type": "float",
     "-9999": null,
     "-9999.0": null,
     "-999.0": null
@@ -96,7 +96,7 @@
   "VIQ":
   {
     "element": "verbal iq",
-    "type": "number",
+    "type": "float",
     "-9999": null,
     "-9999.0": null,
     "-999.0": null
@@ -104,7 +104,7 @@
   "PIQ":
   {
     "element": "performance iq",
-    "type": "number",
+    "type": "float",
     "-9999": null,
     "-9999.0": null,
     "-999.0": null

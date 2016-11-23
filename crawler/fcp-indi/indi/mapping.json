@@ -21,7 +21,7 @@
   },
   "Session": {
     "element": "session_id",
-    "type": "category",
+    "type": "str",
     "1": "1",
     "2": "2",
     "3": "3"
@@ -33,12 +33,12 @@
   "age_at_Scan1":
   {
     "element": "age",
-    "type": "number"
+    "type": "float"
   },
   "Sex":
   {
     "element": "sex",
-    "type": "category",
+    "type": "str",
     "male": "Male",
     "female": "Female"
   },
@@ -49,7 +49,7 @@
   "sex":
   {
     "element": "sex",
-    "type": "category",
+    "type": "str",
     "M": "Male",
     "F": "Female"
   }

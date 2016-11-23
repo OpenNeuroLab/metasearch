@@ -26,20 +26,20 @@
   "Age":
   {
     "element": "age",
-    "type": "number",
+    "type": "float",
     "999.0": null,
     "999": null
   },
   "Sex":
   {
     "element": "sex",
-    "type": "category",
+    "type": "str",
     "M": "Male",
     "F": "Female"
   },
   "Dominant Hand": {
     "element": "handedness",
-    "type": "category",
+    "type": "str",
     "Left": "left handed",
     "Right": "right handed"
   }

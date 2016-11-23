@@ -20,7 +20,7 @@
   },
   "SITE": {
     "element": "site_id",
-    "type": "category",
+    "type": "str",
     "BMB_1": "BMB",
     "BNU_1": "BNU",
     "BNU_2": "BNU",
@@ -58,7 +58,7 @@
   },
   "SESSION": {
     "element": "session_id",
-    "type": "category",
+    "type": "str",
     "Baseline": "1",
     "Retest_1": "2",
     "Retest_2": "3",
@@ -111,13 +111,13 @@
   "AGE_AT_SCAN_1":
   {
     "element": "age",
-    "type": "number",
+    "type": "float",
     "#": null
   },
   "SEX":
   {
     "element": "sex",
-    "type": "category",
+    "type": "str",
     "2": "Male",
     "1": "Female",
     "2.0": "Male",
@@ -127,7 +127,7 @@
   "HANDEDNESS":
   {
     "element": "handedness",
-    "type": "category",
+    "type": "str",
     "R": "right handed",
     "L": "left handed",
     "#": null
