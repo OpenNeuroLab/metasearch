@@ -1,4 +1,4 @@
-project,session_id,participant_id,age,diagnosis,dsm_iv_tr,full iq,handedness,performance iq,sex,site_id,species,verbal iq,t1_url,session_count,MRI
+project,session_id,participant_id,age,diagnosis,dsm_iv_tr,full iq,handedness,performance iq,sex,site_id,species,verbal iq,MRIs,session_count,MRI
 abide_initiative,1,50002,16.77,autism,autism,103.0,ambidextrous,89.0,Male,PITT,homo-sapiens,116.0,https://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/freesurfer/5.1/Pitt_0050002/mri/T1.mgz,1.0,yes
 abide_initiative,1,50003,24.45,autism,autism,124.0,right handed,115.0,Male,PITT,homo-sapiens,128.0,https://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/freesurfer/5.1/Pitt_0050003/mri/T1.mgz,1.0,yes
 abide_initiative,1,50004,19.09,autism,autism,113.0,right handed,117.0,Male,PITT,homo-sapiens,108.0,https://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/freesurfer/5.1/Pitt_0050004/mri/T1.mgz,1.0,yes
