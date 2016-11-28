@@ -1,0 +1,619 @@
+age,diagnosis,education,ethnicity,marital_status,occupation,participant_id,project,session_id,sex,site_id,species
+,control,"o-levels, GCSEs, or CSEs",,cohabiting,retired,1,ixi,1,Male,IXI,homo-sapiens
+35.8001368925,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,2,ixi,1,Female,IXI,homo-sapiens
+38.7816563997,control,university or polytechnic degree,white,married,go out to full time employment,12,ixi,1,Male,IXI,homo-sapiens
+46.7104722793,control,university or polytechnic degree,white,married,go out to full time employment,13,ixi,1,Male,IXI,homo-sapiens
+34.2368240931,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,14,ixi,1,Female,IXI,homo-sapiens
+24.2847364819,control,university or polytechnic degree,,single,unemployed,15,ixi,1,Male,IXI,homo-sapiens
+55.1676933607,control,university or polytechnic degree,white,married,go out to full time employment,16,ixi,1,Male,IXI,homo-sapiens
+29.0924024641,control,university or polytechnic degree,white,cohabiting,go out to full time employment,17,ixi,1,Female,IXI,homo-sapiens
+58.6584531143,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,19,ixi,1,Male,IXI,homo-sapiens
+39.4661190965,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,20,ixi,1,Male,IXI,homo-sapiens
+21.5660506502,control,a-levels,white,single,study at college or university,21,ixi,1,Female,IXI,homo-sapiens
+30.6721423682,control,university or polytechnic degree,white,single,go out to part time employment (<25hrs),22,ixi,1,Male,IXI,homo-sapiens
+33.0787132101,control,university or polytechnic degree,white,married,go out to full time employment,23,ixi,1,Female,IXI,homo-sapiens
+37.697467488,control,university or polytechnic degree,asian or asian british,divorced or separated,go out to part time employment (<25hrs),24,ixi,1,Female,IXI,homo-sapiens
+29.7796030116,control,university or polytechnic degree,white,single,go out to full time employment,25,ixi,1,Female,IXI,homo-sapiens
+34.4777549624,control,university or polytechnic degree,white,single,go out to full time employment,26,ixi,1,Female,IXI,homo-sapiens
+30.417522245,control,university or polytechnic degree,white,single,go out to full time employment,27,ixi,1,Male,IXI,homo-sapiens
+74.0260095825,control,a-levels,white,married,retired,28,ixi,1,Male,IXI,homo-sapiens
+59.2224503765,control,university or polytechnic degree,black or black british,widowed,go out to full time employment,29,ixi,1,Female,IXI,homo-sapiens
+31.4606433949,control,university or polytechnic degree,white,cohabiting,go out to full time employment,30,ixi,1,Male,IXI,homo-sapiens
+31.1348391513,control,university or polytechnic degree,asian or asian british,single,go out to full time employment,31,ixi,1,Male,IXI,homo-sapiens
+24.7638603696,control,university or polytechnic degree,white,single,study at college or university,33,ixi,1,Male,IXI,homo-sapiens
+24.3422313484,control,university or polytechnic degree,white,single,study at college or university,34,ixi,1,Female,IXI,homo-sapiens
+37.144421629,control,,white,,,35,ixi,1,Female,IXI,homo-sapiens
+23.537303217,control,a-levels,white,single,study at college or university,36,ixi,1,Male,IXI,homo-sapiens
+37.2101300479,control,university or polytechnic degree,white,cohabiting,study at college or university,37,ixi,1,Female,IXI,homo-sapiens
+21.3826146475,control,a-levels,white,single,study at college or university,38,ixi,1,Male,IXI,homo-sapiens
+23.3483915127,control,university or polytechnic degree,white,single,study at college or university,39,ixi,1,Male,IXI,homo-sapiens
+44.0930869268,control,university or polytechnic degree,white,cohabiting,go out to part time employment (<25hrs),40,ixi,1,Female,IXI,homo-sapiens
+27.3894592745,control,university or polytechnic degree,white,single,go out to full time employment,41,ixi,1,Male,IXI,homo-sapiens
+27.8220396988,control,university or polytechnic degree,white,single,go out to full time employment,42,ixi,1,Female,IXI,homo-sapiens
+22.6475017112,control,university or polytechnic degree,white,single,study at college or university,43,ixi,1,Female,IXI,homo-sapiens
+44.8514715948,control,university or polytechnic degree,white,cohabiting,study at college or university,44,ixi,1,Female,IXI,homo-sapiens
+40.0355920602,control,university or polytechnic degree,white,single,go out to part time employment (<25hrs),45,ixi,1,Female,IXI,homo-sapiens
+37.7330595483,control,university or polytechnic degree,white,cohabiting,go out to full time employment,46,ixi,1,Female,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,go out to full time employment,47,ixi,1,Female,IXI,homo-sapiens
+50.6502395619,control,university or polytechnic degree,white,married,go out to full time employment,48,ixi,1,Male,IXI,homo-sapiens
+31.8548939083,control,university or polytechnic degree,white,single,go out to full time employment,49,ixi,1,Male,IXI,homo-sapiens
+63.1868583162,control,university or polytechnic degree,white,divorced or separated,go out to part time employment (<25hrs),50,ixi,1,Male,IXI,homo-sapiens
+25.7412731006,control,university or polytechnic degree,white,cohabiting,go out to full time employment,51,ixi,1,Female,IXI,homo-sapiens
+33.7631759069,control,further education e.g. city & guilds / NVQs,white,cohabiting,go out to full time employment,52,ixi,1,Female,IXI,homo-sapiens
+53.3059548255,control,university or polytechnic degree,white,married,go out to full time employment,53,ixi,1,Male,IXI,homo-sapiens
+41.7522245038,control,university or polytechnic degree,white,single,go out to full time employment,54,ixi,1,Female,IXI,homo-sapiens
+49.4045174538,control,university or polytechnic degree,white,married,go out to full time employment,55,ixi,1,Female,IXI,homo-sapiens
+25.9383983573,control,university or polytechnic degree,white,single,study at college or university,56,ixi,1,Male,IXI,homo-sapiens
+28.1587953457,control,university or polytechnic degree,white,single,go out to full time employment,57,ixi,1,Female,IXI,homo-sapiens
+29.2785763176,control,university or polytechnic degree,white,single,study at college or university,58,ixi,1,Male,IXI,homo-sapiens
+34.1382614648,control,university or polytechnic degree,white,married,go out to full time employment,59,ixi,1,Male,IXI,homo-sapiens
+30.6995208761,control,university or polytechnic degree,white,married,go out to full time employment,60,ixi,1,Male,IXI,homo-sapiens
+59.0034223135,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,61,ixi,1,Female,IXI,homo-sapiens
+36.2162902122,control,university or polytechnic degree,white,married,go out to full time employment,62,ixi,1,Male,IXI,homo-sapiens
+41.1225188227,control,a-levels,white,single,go out to full time employment,63,ixi,1,Male,IXI,homo-sapiens
+20.0711841205,control,a-levels,white,single,go out to part time employment (<25hrs),64,ixi,1,Male,IXI,homo-sapiens
+23.7152635181,control,university or polytechnic degree,white,single,go out to full time employment,65,ixi,1,Female,IXI,homo-sapiens
+46.1683778234,control,university or polytechnic degree,white,married,go out to full time employment,66,ixi,1,Female,IXI,homo-sapiens
+24.6899383984,control,university or polytechnic degree,white,single,study at college or university,67,ixi,1,Male,IXI,homo-sapiens
+24.5694729637,control,university or polytechnic degree,white,single,study at college or university,68,ixi,1,Female,IXI,homo-sapiens
+26.2724161533,control,university or polytechnic degree,white,single,go out to full time employment,69,ixi,1,Female,IXI,homo-sapiens
+20.6981519507,control,a-levels,white,single,study at college or university,70,ixi,1,Female,IXI,homo-sapiens
+37.0020533881,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,71,ixi,1,Female,IXI,homo-sapiens
+68.6023271732,control,further education e.g. city & guilds / NVQs,other,married,retired,72,ixi,1,Male,IXI,homo-sapiens
+46.3655030801,control,a-levels,asian or asian british,married,go out to full time employment,73,ixi,1,Female,IXI,homo-sapiens
+22.5325119781,control,,,,,74,ixi,1,Female,IXI,homo-sapiens
+35.9917864476,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,75,ixi,1,Female,IXI,homo-sapiens
+55.8275154004,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,76,ixi,1,Male,IXI,homo-sapiens
+36.4791238877,control,university or polytechnic degree,white,single,go out to full time employment,77,ixi,1,Female,IXI,homo-sapiens
+28.5065023956,control,university or polytechnic degree,white,single,go out to full time employment,78,ixi,1,Female,IXI,homo-sapiens
+52.5338809035,control,further education e.g. city & guilds / NVQs,asian or asian british,divorced or separated,go out to full time employment,79,ixi,1,Female,IXI,homo-sapiens
+21.1991786448,control,university or polytechnic degree,asian or asian british,single,study at college or university,80,ixi,1,Female,IXI,homo-sapiens
+30.893908282,control,university or polytechnic degree,white,married,go out to full time employment,83,ixi,1,Male,IXI,homo-sapiens
+38.2340862423,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,84,ixi,1,Female,IXI,homo-sapiens
+31.8494182067,control,university or polytechnic degree,other,single,go out to full time employment,85,ixi,1,Female,IXI,homo-sapiens
+30.0698151951,control,university or polytechnic degree,white,single,go out to full time employment,86,ixi,1,Male,IXI,homo-sapiens
+25.6618754278,control,university or polytechnic degree,white,cohabiting,go out to full time employment,87,ixi,1,Female,IXI,homo-sapiens
+49.4045174538,control,university or polytechnic degree,white,cohabiting,study at college or university,89,ixi,1,Female,IXI,homo-sapiens
+41.8206707734,control,university or polytechnic degree,asian or asian british,single,study at college or university,90,ixi,1,Male,IXI,homo-sapiens
+28.6132785763,control,university or polytechnic degree,white,cohabiting,study at college or university,91,ixi,1,Male,IXI,homo-sapiens
+33.2402464066,control,further education e.g. city & guilds / NVQs,black or black british,married,go out to full time employment,92,ixi,1,Male,IXI,homo-sapiens
+26.8774811773,control,university or polytechnic degree,white,single,study at college or university,93,ixi,1,Male,IXI,homo-sapiens
+24.8542094456,control,university or polytechnic degree,asian or asian british,married,study at college or university,94,ixi,1,Male,IXI,homo-sapiens
+24.8952772074,control,university or polytechnic degree,white,single,study at college or university,95,ixi,1,Female,IXI,homo-sapiens
+26.9240246407,control,university or polytechnic degree,white,married,go out to full time employment,96,ixi,1,Male,IXI,homo-sapiens
+35.022587269,control,university or polytechnic degree,white,married,go out to full time employment,97,ixi,1,Female,IXI,homo-sapiens
+29.7303216975,control,university or polytechnic degree,white,single,go out to full time employment,98,ixi,1,Male,IXI,homo-sapiens
+51.7535934292,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,99,ixi,1,Male,IXI,homo-sapiens
+41.5112936345,control,"o-levels, GCSEs, or CSEs",white,married,full-time housework,100,ixi,1,Female,IXI,homo-sapiens
+45.7741273101,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,101,ixi,1,Male,IXI,homo-sapiens
+24.6214921287,control,university or polytechnic degree,white,single,study at college or university,102,ixi,1,Female,IXI,homo-sapiens
+31.8083504449,control,university or polytechnic degree,white,single,go out to full time employment,103,ixi,1,Male,IXI,homo-sapiens
+26.984257358,control,university or polytechnic degree,other,married,go out to full time employment,104,ixi,1,Male,IXI,homo-sapiens
+38.9021218344,control,further education e.g. city & guilds / NVQs,white,cohabiting,go out to full time employment,105,ixi,1,Male,IXI,homo-sapiens
+36.6707734428,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,106,ixi,1,Male,IXI,homo-sapiens
+31.8959616701,control,university or polytechnic degree,white,single,go out to full time employment,107,ixi,1,Female,IXI,homo-sapiens
+43.1622176591,control,university or polytechnic degree,white,single,go out to full time employment,108,ixi,1,Male,IXI,homo-sapiens
+36.4681724846,control,university or polytechnic degree,chinese,married,unemployed,109,ixi,1,Female,IXI,homo-sapiens
+37.7659137577,control,university or polytechnic degree,chinese,married,go out to full time employment,110,ixi,1,Male,IXI,homo-sapiens
+25.1854893908,control,university or polytechnic degree,asian or asian british,single,study at college or university,111,ixi,1,Male,IXI,homo-sapiens
+23.6988364134,control,university or polytechnic degree,chinese,single,study at college or university,112,ixi,1,Male,IXI,homo-sapiens
+32.3613963039,control,university or polytechnic degree,,single,go out to full time employment,113,ixi,1,Female,IXI,homo-sapiens
+65.4099931554,control,university or polytechnic degree,chinese,married,retired,114,ixi,1,Female,IXI,homo-sapiens
+72.1314168378,control,university or polytechnic degree,chinese,married,retired,115,ixi,1,Male,IXI,homo-sapiens
+23.8466803559,control,university or polytechnic degree,chinese,single,study at college or university,116,ixi,1,Male,IXI,homo-sapiens
+25.9274469541,control,university or polytechnic degree,chinese,single,study at college or university,118,ixi,1,Female,IXI,homo-sapiens
+32.1697467488,control,university or polytechnic degree,white,cohabiting,go out to full time employment,119,ixi,1,Female,IXI,homo-sapiens
+53.6700889802,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,120,ixi,1,Female,IXI,homo-sapiens
+35.0718685832,control,university or polytechnic degree,white,single,study at college or university,121,ixi,1,Male,IXI,homo-sapiens
+22.9733059548,control,university or polytechnic degree,white,single,study at college or university,122,ixi,1,Female,IXI,homo-sapiens
+46.5790554415,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),123,ixi,1,Female,IXI,homo-sapiens
+57.2210814511,control,further education e.g. city & guilds / NVQs,,married,go out to full time employment,126,ixi,1,Male,IXI,homo-sapiens
+29.4976043806,control,university or polytechnic degree,white,cohabiting,go out to full time employment,127,ixi,1,Female,IXI,homo-sapiens
+27.3264887064,control,university or polytechnic degree,white,single,study at college or university,128,ixi,1,Female,IXI,homo-sapiens
+23.0390143737,control,university or polytechnic degree,white,single,study at college or university,129,ixi,1,Male,IXI,homo-sapiens
+38.7734428474,control,further education e.g. city & guilds / NVQs,asian or asian british,married,go out to full time employment,130,ixi,1,Male,IXI,homo-sapiens
+45.2292950034,control,"o-levels, GCSEs, or CSEs",white,married,go out to part time employment (<25hrs),131,ixi,1,Female,IXI,homo-sapiens
+58.7159479808,control,university or polytechnic degree,white,single,go out to full time employment,132,ixi,1,Male,IXI,homo-sapiens
+47.3538672142,control,university or polytechnic degree,white,single,unemployed,134,ixi,1,Male,IXI,homo-sapiens
+29.0047912389,control,university or polytechnic degree,asian or asian british,single,go out to full time employment,135,ixi,1,Male,IXI,homo-sapiens
+35.8056125941,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,136,ixi,1,Male,IXI,homo-sapiens
+41.2292950034,control,university or polytechnic degree,white,single,go out to full time employment,137,ixi,1,Male,IXI,homo-sapiens
+33.1389459274,control,university or polytechnic degree,chinese,married,go out to part time employment (<25hrs),138,ixi,1,Female,IXI,homo-sapiens
+32.9363449692,control,university or polytechnic degree,white,single,go out to full time employment,139,ixi,1,Male,IXI,homo-sapiens
+27.8357289528,control,,,,,140,ixi,1,Female,IXI,homo-sapiens
+46.006844627,control,further education e.g. city & guilds / NVQs,white,cohabiting,go out to full time employment,141,ixi,1,Female,IXI,homo-sapiens
+48.2546201232,control,university or polytechnic degree,chinese,married,go out to full time employment,142,ixi,1,Female,IXI,homo-sapiens
+31.9561943874,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,143,ixi,1,Female,IXI,homo-sapiens
+29.3579739904,control,university or polytechnic degree,white,single,study at college or university,144,ixi,1,Female,IXI,homo-sapiens
+49.3853524983,control,further education e.g. city & guilds / NVQs,asian or asian british,divorced or separated,go out to full time employment,145,ixi,1,Male,IXI,homo-sapiens
+33.5934291581,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,146,ixi,1,Male,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,go out to full time employment,147,ixi,1,Female,IXI,homo-sapiens
+40.5557837098,control,a-levels,white,single,study at college or university,148,ixi,1,Female,IXI,homo-sapiens
+,control,,,,,149,ixi,1,Male,IXI,homo-sapiens
+27.0143737166,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,150,ixi,1,Female,IXI,homo-sapiens
+45.3880903491,control,university or polytechnic degree,asian or asian british,married,unemployed,151,ixi,1,Male,IXI,homo-sapiens
+22.431211499,control,university or polytechnic degree,asian or asian british,single,study at college or university,153,ixi,1,Male,IXI,homo-sapiens
+24.3422313484,control,further education e.g. city & guilds / NVQs,white,single,study at college or university,154,ixi,1,Female,IXI,homo-sapiens
+59.3812457221,control,no qualifications,white,divorced or separated,retired,156,ixi,1,Female,IXI,homo-sapiens
+54.4257357974,control,university or polytechnic degree,white,married,go out to full time employment,157,ixi,1,Female,IXI,homo-sapiens
+75.6331279945,control,"o-levels, GCSEs, or CSEs",white,widowed,retired,158,ixi,1,Female,IXI,homo-sapiens
+24.1423682409,control,university or polytechnic degree,white,single,go out to full time employment,159,ixi,1,Female,IXI,homo-sapiens
+39.3976728268,control,university or polytechnic degree,white,single,go out to full time employment,160,ixi,1,Female,IXI,homo-sapiens
+65.1143052704,control,no qualifications,white,married,go out to full time employment,161,ixi,1,Female,IXI,homo-sapiens
+50.5242984257,control,university or polytechnic degree,white,married,go out to full time employment,162,ixi,1,Male,IXI,homo-sapiens
+48.052019165,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,163,ixi,1,Male,IXI,homo-sapiens
+64.4681724846,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),164,ixi,1,Male,IXI,homo-sapiens
+24.3750855578,control,university or polytechnic degree,white,cohabiting,go out to full time employment,165,ixi,1,Male,IXI,homo-sapiens
+41.2019164956,control,university or polytechnic degree,white,cohabiting,go out to full time employment,166,ixi,1,Female,IXI,homo-sapiens
+67.5345653662,control,university or polytechnic degree,white,widowed,retired,167,ixi,1,Female,IXI,homo-sapiens
+43.8247775496,control,university or polytechnic degree,white,married,go out to full time employment,168,ixi,1,Male,IXI,homo-sapiens
+58.7679671458,control,no qualifications,white,divorced or separated,go out to full time employment,169,ixi,1,Female,IXI,homo-sapiens
+31.5920602327,control,university or polytechnic degree,white,married,go out to full time employment,170,ixi,1,Female,IXI,homo-sapiens
+74.9897330595,control,university or polytechnic degree,white,married,retired,172,ixi,1,Male,IXI,homo-sapiens
+29.5742642026,control,university or polytechnic degree,white,married,go out to full time employment,173,ixi,1,Female,IXI,homo-sapiens
+63.0965092402,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,retired,174,ixi,1,Female,IXI,homo-sapiens
+72.2655715264,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,retired,175,ixi,1,Male,IXI,homo-sapiens
+24.8542094456,control,university or polytechnic degree,white,single,go out to full time employment,176,ixi,1,Male,IXI,homo-sapiens
+34.288843258,control,university or polytechnic degree,white,single,go out to full time employment,177,ixi,1,Male,IXI,homo-sapiens
+25.4072553046,control,university or polytechnic degree,white,single,go out to full time employment,178,ixi,1,Male,IXI,homo-sapiens
+30.1437371663,control,university or polytechnic degree,white,cohabiting,go out to full time employment,179,ixi,1,Male,IXI,homo-sapiens
+42.1519507187,control,university or polytechnic degree,white,single,go out to full time employment,180,ixi,1,Female,IXI,homo-sapiens
+45.697467488,control,university or polytechnic degree,white,cohabiting,go out to full time employment,181,ixi,1,Male,IXI,homo-sapiens
+60.9746748802,control,no qualifications,white,single,go out to full time employment,182,ixi,1,Male,IXI,homo-sapiens
+30.1765913758,control,university or polytechnic degree,white,single,go out to full time employment,183,ixi,1,Male,IXI,homo-sapiens
+30.1190965092,control,university or polytechnic degree,white,married,go out to full time employment,184,ixi,1,Male,IXI,homo-sapiens
+83.4579055441,control,university or polytechnic degree,white,married,retired,185,ixi,1,Male,IXI,homo-sapiens
+61.1526351814,control,university or polytechnic degree,white,married,go out to full time employment,186,ixi,1,Female,IXI,homo-sapiens
+44.0246406571,control,"o-levels, GCSEs, or CSEs",white,single,go out to full time employment,188,ixi,1,Female,IXI,homo-sapiens
+41.7193702943,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,189,ixi,1,Female,IXI,homo-sapiens
+,control,,,,,190,ixi,1,Male,IXI,homo-sapiens
+44.205338809,control,university or polytechnic degree,white,single,go out to full time employment,191,ixi,1,Male,IXI,homo-sapiens
+38.9377138946,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,192,ixi,1,Male,IXI,homo-sapiens
+55.2388774812,control,"o-levels, GCSEs, or CSEs",white,widowed,go out to full time employment,193,ixi,1,Female,IXI,homo-sapiens
+48.3312799452,control,further education e.g. city & guilds / NVQs,white,cohabiting,go out to full time employment,194,ixi,1,Female,IXI,homo-sapiens
+37.8288843258,control,university or polytechnic degree,white,single,go out to full time employment,195,ixi,1,Male,IXI,homo-sapiens
+29.1143052704,control,university or polytechnic degree,white,single,go out to full time employment,196,ixi,1,Female,IXI,homo-sapiens
+60.462696783,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),197,ixi,1,Female,IXI,homo-sapiens
+45.2566735113,control,,,,,198,ixi,1,Male,IXI,homo-sapiens
+63.6632443532,control,university or polytechnic degree,asian or asian british,married,retired,199,ixi,1,Male,IXI,homo-sapiens
+49.9192334018,control,university or polytechnic degree,black or black british,single,go out to full time employment,200,ixi,1,Female,IXI,homo-sapiens
+22.4147843943,control,no qualifications,black or black british,single,study at college or university,201,ixi,1,Female,IXI,homo-sapiens
+20.167008898,control,university or polytechnic degree,asian or asian british,single,study at college or university,202,ixi,1,Male,IXI,homo-sapiens
+74.636550308,control,no qualifications,white,married,retired,204,ixi,1,Female,IXI,homo-sapiens
+45.3798767967,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,205,ixi,1,Male,IXI,homo-sapiens
+50.0232717317,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,206,ixi,1,Female,IXI,homo-sapiens
+40.3613963039,control,university or polytechnic degree,white,single,go out to full time employment,207,ixi,1,Female,IXI,homo-sapiens
+33.9958932238,control,university or polytechnic degree,white,cohabiting,go out to full time employment,208,ixi,1,Male,IXI,homo-sapiens
+32.643394935,control,further education e.g. city & guilds / NVQs,black or black british,married,unemployed,209,ixi,1,Male,IXI,homo-sapiens
+69.325119781,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),210,ixi,1,Male,IXI,homo-sapiens
+55.1184120465,control,a-levels,,single,go out to full time employment,211,ixi,1,Male,IXI,homo-sapiens
+59.1293634497,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,212,ixi,1,Male,IXI,homo-sapiens
+54.6639288159,control,"o-levels, GCSEs, or CSEs",white,married,other,213,ixi,1,Female,IXI,homo-sapiens
+24.3121149897,control,university or polytechnic degree,white,single,study at college or university,214,ixi,1,Female,IXI,homo-sapiens
+,control,a-levels,white,single,study at college or university,215,ixi,1,Male,IXI,homo-sapiens
+73.015742642,control,further education e.g. city & guilds / NVQs,white,married,retired,216,ixi,1,Male,IXI,homo-sapiens
+57.2101300479,control,"o-levels, GCSEs, or CSEs",white,divorced or separated,other,217,ixi,1,Female,IXI,homo-sapiens
+35.4058863792,control,university or polytechnic degree,white,single,study at college or university,218,ixi,1,Female,IXI,homo-sapiens
+53.0814510609,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,219,ixi,1,Female,IXI,homo-sapiens
+58.0725530459,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,219,ixi,1,Female,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,go out to full time employment,220,ixi,1,Female,IXI,homo-sapiens
+48.5475701574,control,university or polytechnic degree,asian or asian british,divorced or separated,go out to full time employment,221,ixi,1,Male,IXI,homo-sapiens
+36.0602327173,control,university or polytechnic degree,white,single,go out to full time employment,222,ixi,1,Female,IXI,homo-sapiens
+63.2470910335,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),223,ixi,1,Male,IXI,homo-sapiens
+36.9199178645,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,224,ixi,1,Female,IXI,homo-sapiens
+47.0143737166,control,university or polytechnic degree,white,married,go out to full time employment,225,ixi,1,Female,IXI,homo-sapiens
+41.9028062971,control,university or polytechnic degree,white,married,go out to full time employment,226,ixi,1,Female,IXI,homo-sapiens
+67.0554414784,control,no qualifications,chinese,married,retired,227,ixi,1,Female,IXI,homo-sapiens
+72.3504449008,control,no qualifications,white,widowed,retired,229,ixi,1,Female,IXI,homo-sapiens
+21.1526351814,control,a-levels,white,single,go out to full time employment,230,ixi,1,Female,IXI,homo-sapiens
+58.9924709103,control,,white,,,231,ixi,1,Female,IXI,homo-sapiens
+28.810403833,control,university or polytechnic degree,white,cohabiting,go out to full time employment,232,ixi,1,Female,IXI,homo-sapiens
+26.7542778919,control,university or polytechnic degree,black or black british,single,go out to full time employment,233,ixi,1,Female,IXI,homo-sapiens
+33.1334702259,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,234,ixi,1,Male,IXI,homo-sapiens
+25.7138945927,control,university or polytechnic degree,other,married,go out to full time employment,236,ixi,1,Male,IXI,homo-sapiens
+78.2039698836,control,university or polytechnic degree,white,widowed,retired,237,ixi,1,Female,IXI,homo-sapiens
+78.2039698836,control,,,,,237,ixi,1,Female,IXI,homo-sapiens
+27.7262149213,control,university or polytechnic degree,white,single,go out to full time employment,238,ixi,1,Female,IXI,homo-sapiens
+62.9596167009,control,university or polytechnic degree,white,divorced or separated,retired,239,ixi,1,Female,IXI,homo-sapiens
+39.0362765229,control,university or polytechnic degree,white,married,go out to full time employment,240,ixi,1,Male,IXI,homo-sapiens
+30.006844627,control,,,,,241,ixi,1,Male,IXI,homo-sapiens
+31.370294319,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,242,ixi,1,Male,IXI,homo-sapiens
+49.0431211499,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),244,ixi,1,Female,IXI,homo-sapiens
+42.2203969884,control,university or polytechnic degree,white,cohabiting,go out to full time employment,246,ixi,1,Female,IXI,homo-sapiens
+29.8179329227,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,247,ixi,1,Male,IXI,homo-sapiens
+44.8761122519,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,248,ixi,1,Female,IXI,homo-sapiens
+68.2683093771,control,university or polytechnic degree,asian or asian british,married,retired,249,ixi,1,Male,IXI,homo-sapiens
+72.8843258042,control,university or polytechnic degree,white,divorced or separated,retired,250,ixi,1,Female,IXI,homo-sapiens
+80.1697467488,control,no qualifications,white,widowed,retired,251,ixi,1,Female,IXI,homo-sapiens
+80.1697467488,control,,,,,251,ixi,1,Female,IXI,homo-sapiens
+70.559890486,control,"o-levels, GCSEs, or CSEs",,widowed,go out to part time employment (<25hrs),252,ixi,1,Female,IXI,homo-sapiens
+24.0027378508,control,university or polytechnic degree,white,single,go out to full time employment,253,ixi,1,Female,IXI,homo-sapiens
+25.582477755,control,university or polytechnic degree,white,single,study at college or university,254,ixi,1,Female,IXI,homo-sapiens
+57.7029431896,control,further education e.g. city & guilds / NVQs,asian or asian british,divorced or separated,go out to part time employment (<25hrs),255,ixi,1,Female,IXI,homo-sapiens
+27.3839835729,control,university or polytechnic degree,,single,study at college or university,256,ixi,1,Male,IXI,homo-sapiens
+69.5468856947,control,further education e.g. city & guilds / NVQs,asian or asian british,single,retired,257,ixi,1,Male,IXI,homo-sapiens
+22.5708418891,control,university or polytechnic degree,white,single,study at college or university,258,ixi,1,Female,IXI,homo-sapiens
+59.7837097878,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,go out to part time employment (<25hrs),259,ixi,1,Female,IXI,homo-sapiens
+60.9062286105,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,260,ixi,1,Male,IXI,homo-sapiens
+34.2067077344,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,261,ixi,1,Male,IXI,homo-sapiens
+20.9281314168,control,a-levels,chinese,single,study at college or university,262,ixi,1,Female,IXI,homo-sapiens
+25.2128678987,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,263,ixi,1,Female,IXI,homo-sapiens
+44.8815879535,control,further education e.g. city & guilds / NVQs,black or black british,single,unemployed,264,ixi,1,Female,IXI,homo-sapiens
+27.3812457221,control,university or polytechnic degree,asian or asian british,divorced or separated,go out to full time employment,265,ixi,1,Female,IXI,homo-sapiens
+61.0650239562,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,266,ixi,1,Female,IXI,homo-sapiens
+35.446954141,control,university or polytechnic degree,black or black british,cohabiting,study at college or university,267,ixi,1,Male,IXI,homo-sapiens
+44.9199178645,control,university or polytechnic degree,white,cohabiting,go out to part time employment (<25hrs),268,ixi,1,Female,IXI,homo-sapiens
+26.5790554415,control,university or polytechnic degree,white,single,go out to full time employment,269,ixi,1,Female,IXI,homo-sapiens
+61.015742642,control,university or polytechnic degree,white,widowed,retired,270,ixi,1,Female,IXI,homo-sapiens
+73.5386721424,control,further education e.g. city & guilds / NVQs,black or black british,widowed,retired,274,ixi,1,Female,IXI,homo-sapiens
+24.1752224504,control,university or polytechnic degree,white,single,go out to full time employment,275,ixi,1,Male,IXI,homo-sapiens
+20.9089664613,control,a-levels,asian or asian british,single,study at college or university,276,ixi,1,Male,IXI,homo-sapiens
+61.3360711841,control,university or polytechnic degree,black or black british,single,retired,277,ixi,1,Female,IXI,homo-sapiens
+20.2135523614,control,a-levels,chinese,single,study at college or university,278,ixi,1,Male,IXI,homo-sapiens
+51.8822724162,control,university or polytechnic degree,white,married,go out to full time employment,279,ixi,1,Male,IXI,homo-sapiens
+42.507871321,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,280,ixi,1,Female,IXI,homo-sapiens
+,control,,,,,281,ixi,1,Female,IXI,homo-sapiens
+40.0082135524,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,282,ixi,1,Male,IXI,homo-sapiens
+,control,no qualifications,white,single,retired,283,ixi,1,Male,IXI,homo-sapiens
+63.0444900753,control,"o-levels, GCSEs, or CSEs",white,divorced or separated,go out to full time employment,284,ixi,1,Female,IXI,homo-sapiens
+40.8131416838,control,university or polytechnic degree,white,single,go out to full time employment,285,ixi,1,Male,IXI,homo-sapiens
+54.2778918549,control,university or polytechnic degree,white,married,go out to full time employment,286,ixi,1,Male,IXI,homo-sapiens
+44.9911019849,control,a-levels,asian or asian british,married,go out to full time employment,287,ixi,1,Female,IXI,homo-sapiens
+78.5845311431,control,university or polytechnic degree,white,married,go out to full time employment,288,ixi,1,Female,IXI,homo-sapiens
+60.8405201916,control,university or polytechnic degree,white,married,go out to full time employment,289,ixi,1,Male,IXI,homo-sapiens
+45.7522245038,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),290,ixi,1,Female,IXI,homo-sapiens
+30.688569473,control,university or polytechnic degree,white,single,go out to full time employment,291,ixi,1,Female,IXI,homo-sapiens
+23.7316906229,control,university or polytechnic degree,,single,go out to full time employment,292,ixi,1,Female,IXI,homo-sapiens
+26.5215605749,control,university or polytechnic degree,white,single,go out to full time employment,293,ixi,1,Female,IXI,homo-sapiens
+27.0828199863,control,university or polytechnic degree,other,single,study at college or university,294,ixi,1,Female,IXI,homo-sapiens
+50.9021218344,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,go out to full time employment,295,ixi,1,Female,IXI,homo-sapiens
+63.9726214921,control,further education e.g. city & guilds / NVQs,white,widowed,other,296,ixi,1,Female,IXI,homo-sapiens
+51.2908966461,control,university or polytechnic degree,white,married,go out to full time employment,297,ixi,1,Male,IXI,homo-sapiens
+43.4606433949,control,a-levels,white,married,go out to part time employment (<25hrs),298,ixi,1,Female,IXI,homo-sapiens
+53.4072553046,control,university or polytechnic degree,other,single,go out to full time employment,299,ixi,1,Female,IXI,homo-sapiens
+38.2778918549,control,university or polytechnic degree,white,married,go out to full time employment,300,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,asian or asian british,married,go out to part time employment (<25hrs),301,ixi,1,Female,IXI,homo-sapiens
+59.5099247091,control,university or polytechnic degree,asian or asian british,married,work for pay at home,302,ixi,1,Male,IXI,homo-sapiens
+25.4647501711,control,university or polytechnic degree,,single,go out to full time employment,303,ixi,1,Male,IXI,homo-sapiens
+46.5900068446,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,304,ixi,1,Female,IXI,homo-sapiens
+62.5051334702,control,"o-levels, GCSEs, or CSEs",white,single,retired,305,ixi,1,Female,IXI,homo-sapiens
+30.1820670773,control,university or polytechnic degree,asian or asian british,single,go out to full time employment,306,ixi,1,Female,IXI,homo-sapiens
+33.0047912389,control,university or polytechnic degree,white,single,go out to full time employment,307,ixi,1,Male,IXI,homo-sapiens
+41.2046543463,control,university or polytechnic degree,white,cohabiting,go out to full time employment,308,ixi,1,Male,IXI,homo-sapiens
+33.9219712526,control,"o-levels, GCSEs, or CSEs",white,single,other,309,ixi,1,Male,IXI,homo-sapiens
+62.0177960301,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,310,ixi,1,Female,IXI,homo-sapiens
+61.5879534565,control,university or polytechnic degree,white,single,go out to full time employment,311,ixi,1,Male,IXI,homo-sapiens
+59.1485284052,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),312,ixi,1,Female,IXI,homo-sapiens
+65.8535249829,control,university or polytechnic degree,white,cohabiting,retired,313,ixi,1,Male,IXI,homo-sapiens
+45.8590006845,control,university or polytechnic degree,white,cohabiting,go out to part time employment (<25hrs),314,ixi,1,Male,IXI,homo-sapiens
+25.4510609172,control,a-levels,white,cohabiting,study at college or university,315,ixi,1,Female,IXI,homo-sapiens
+56.93908282,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,316,ixi,1,Male,IXI,homo-sapiens
+67.794661191,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),317,ixi,1,Male,IXI,homo-sapiens
+54.4859685147,control,university or polytechnic degree,white,single,go out to full time employment,318,ixi,1,Female,IXI,homo-sapiens
+59.4715947981,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,319,ixi,1,Male,IXI,homo-sapiens
+29.7385352498,control,university or polytechnic degree,white,single,go out to full time employment,320,ixi,1,Female,IXI,homo-sapiens
+54.7433264887,control,university or polytechnic degree,white,married,go out to full time employment,321,ixi,1,Female,IXI,homo-sapiens
+28.476386037,control,,white,,,322,ixi,1,Female,IXI,homo-sapiens
+60.0793976728,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),324,ixi,1,Male,IXI,homo-sapiens
+52.6652977413,control,,,,,325,ixi,1,Female,IXI,homo-sapiens
+67.7399041752,control,no qualifications,white,married,full-time housework,326,ixi,1,Female,IXI,homo-sapiens
+73.5633127995,control,"o-levels, GCSEs, or CSEs",white,married,retired,327,ixi,1,Male,IXI,homo-sapiens
+61.7850787132,control,a-levels,white,married,retired,328,ixi,1,Female,IXI,homo-sapiens
+62.083504449,control,,,,,328,ixi,1,Male,IXI,homo-sapiens
+55.6550308008,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,go out to full time employment,329,ixi,1,Male,IXI,homo-sapiens
+44.4818617385,control,university or polytechnic degree,chinese,married,go out to full time employment,330,ixi,1,Male,IXI,homo-sapiens
+23.4880219028,control,,asian or asian british,,,331,ixi,1,Male,IXI,homo-sapiens
+42.3709787817,control,a-levels,white,cohabiting,go out to full time employment,332,ixi,1,Female,IXI,homo-sapiens
+69.2895277207,control,university or polytechnic degree,white,married,retired,334,ixi,1,Female,IXI,homo-sapiens
+69.2758384668,control,university or polytechnic degree,white,married,retired,335,ixi,1,Male,IXI,homo-sapiens
+67.7727583847,control,university or polytechnic degree,white,single,retired,336,ixi,1,Male,IXI,homo-sapiens
+61.4866529774,control,further education e.g. city & guilds / NVQs,other,married,go out to part time employment (<25hrs),338,ixi,1,Female,IXI,homo-sapiens
+,control,,white,married,retired,341,ixi,1,Male,IXI,homo-sapiens
+48.6789869952,control,,,,,342,ixi,1,Male,IXI,homo-sapiens
+62.0944558522,control,"o-levels, GCSEs, or CSEs",white,cohabiting,go out to full time employment,344,ixi,1,Male,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,retired,346,ixi,1,Female,IXI,homo-sapiens
+38.5872689938,control,,,,,348,ixi,1,Female,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,retired,349,ixi,1,Female,IXI,homo-sapiens
+62.6803559206,control,,,,,350,ixi,1,Male,IXI,homo-sapiens
+56.9199178645,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,351,ixi,1,Female,IXI,homo-sapiens
+,control,no qualifications,white,widowed,retired,352,ixi,1,Female,IXI,homo-sapiens
+52.6899383984,control,university or polytechnic degree,white,cohabiting,go out to full time employment,353,ixi,1,Female,IXI,homo-sapiens
+45.6153319644,control,no qualifications,white,single,other,354,ixi,1,Male,IXI,homo-sapiens
+64.1040383299,control,a-levels,white,married,retired,356,ixi,1,Female,IXI,homo-sapiens
+63.5400410678,control,further education e.g. city & guilds / NVQs,white,married,retired,357,ixi,1,Female,IXI,homo-sapiens
+62.0616016427,control,no qualifications,white,married,retired,358,ixi,1,Female,IXI,homo-sapiens
+62.0616016427,control,no qualifications,white,divorced or separated,retired,359,ixi,1,Female,IXI,homo-sapiens
+54.1930184805,control,further education e.g. city & guilds / NVQs,white,cohabiting,unemployed,360,ixi,1,Female,IXI,homo-sapiens
+54.1930184805,control,,,,,360,ixi,1,Female,IXI,homo-sapiens
+54.1930184805,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,361,ixi,1,Female,IXI,homo-sapiens
+41.0951403149,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,362,ixi,1,Female,IXI,homo-sapiens
+60.9199178645,control,university or polytechnic degree,other,widowed,full-time housework,363,ixi,1,Female,IXI,homo-sapiens
+67.1622176591,control,no qualifications,white,single,retired,364,ixi,1,Female,IXI,homo-sapiens
+66.5270362765,control,no qualifications,white,divorced or separated,retired,365,ixi,1,Female,IXI,homo-sapiens
+,control,,,,,366,ixi,1,Female,IXI,homo-sapiens
+54.2149212868,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,367,ixi,1,Female,IXI,homo-sapiens
+54.2149212868,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),368,ixi,1,Female,IXI,homo-sapiens
+60.5968514716,control,"o-levels, GCSEs, or CSEs",white,married,other,369,ixi,1,Female,IXI,homo-sapiens
+60.5968514716,control,university or polytechnic degree,white,single,other,370,ixi,1,Female,IXI,homo-sapiens
+26.3983572895,control,university or polytechnic degree,white,cohabiting,go out to full time employment,371,ixi,1,Female,IXI,homo-sapiens
+29.2566735113,control,a-levels,white,married,go out to full time employment,372,ixi,1,Male,IXI,homo-sapiens
+58.7926078029,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,go out to part time employment (<25hrs),373,ixi,1,Female,IXI,homo-sapiens
+,control,,black or black british,,,374,ixi,1,Male,IXI,homo-sapiens
+41.0595482546,control,,,,,375,ixi,1,Female,IXI,homo-sapiens
+72.5941136208,control,university or polytechnic degree,white,married,retired,376,ixi,1,Female,IXI,homo-sapiens
+72.5941136208,control,further education e.g. city & guilds / NVQs,white,single,retired,377,ixi,1,Female,IXI,homo-sapiens
+38.8391512663,control,further education e.g. city & guilds / NVQs,,divorced or separated,go out to full time employment,378,ixi,1,Female,IXI,homo-sapiens
+66.9075975359,control,a-levels,white,married,retired,379,ixi,1,Female,IXI,homo-sapiens
+66.9075975359,control,"o-levels, GCSEs, or CSEs",white,married,retired,380,ixi,1,Female,IXI,homo-sapiens
+59.6714579055,control,further education e.g. city & guilds / NVQs,white,cohabiting,go out to full time employment,381,ixi,1,Female,IXI,homo-sapiens
+65.9082819986,control,"o-levels, GCSEs, or CSEs",white,married,retired,382,ixi,1,Female,IXI,homo-sapiens
+74.0123203285,control,no qualifications,white,married,retired,383,ixi,1,Female,IXI,homo-sapiens
+74.0123203285,control,no qualifications,white,widowed,retired,384,ixi,1,Female,IXI,homo-sapiens
+64.6461327858,control,"o-levels, GCSEs, or CSEs",white,widowed,retired,385,ixi,1,Female,IXI,homo-sapiens
+52.3011635866,control,university or polytechnic degree,white,divorced or separated,go out to full time employment,386,ixi,1,Female,IXI,homo-sapiens
+46.431211499,control,"o-levels, GCSEs, or CSEs",white,cohabiting,other,387,ixi,1,Female,IXI,homo-sapiens
+33.3497604381,control,university or polytechnic degree,chinese,married,go out to full time employment,388,ixi,1,Male,IXI,homo-sapiens
+58.3682409309,control,no qualifications,white,widowed,go out to full time employment,389,ixi,1,Female,IXI,homo-sapiens
+41.8891170431,control,further education e.g. city & guilds / NVQs,white,single,study at college or university,390,ixi,1,Female,IXI,homo-sapiens
+52.5311430527,control,further education e.g. city & guilds / NVQs,white,single,retired,391,ixi,1,Male,IXI,homo-sapiens
+62.4558521561,control,further education e.g. city & guilds / NVQs,white,married,retired,392,ixi,1,Female,IXI,homo-sapiens
+62.4558521561,control,,,,,392,ixi,1,Female,IXI,homo-sapiens
+60.1013004791,control,further education e.g. city & guilds / NVQs,white,married,work for pay at home,393,ixi,1,Female,IXI,homo-sapiens
+53.749486653,control,university or polytechnic degree,white,married,go out to full time employment,394,ixi,1,Male,IXI,homo-sapiens
+45.0321697467,control,university or polytechnic degree,white,single,go out to full time employment,395,ixi,1,Male,IXI,homo-sapiens
+53.5660506502,control,university or polytechnic degree,white,divorced or separated,go out to part time employment (<25hrs),396,ixi,1,Female,IXI,homo-sapiens
+51.6577686516,control,,white,married,full-time housework,397,ixi,1,Female,IXI,homo-sapiens
+51.6577686516,control,,white,married,go out to part time employment (<25hrs),398,ixi,1,Female,IXI,homo-sapiens
+73.5441478439,control,a-levels,white,married,retired,399,ixi,1,Female,IXI,homo-sapiens
+55.5811088296,control,no qualifications,white,married,go out to part time employment (<25hrs),400,ixi,1,Female,IXI,homo-sapiens
+55.5811088296,control,no qualifications,white,married,go out to full time employment,401,ixi,1,Female,IXI,homo-sapiens
+53.5359342916,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),402,ixi,1,Female,IXI,homo-sapiens
+53.5359342916,control,"o-levels, GCSEs, or CSEs",white,married,go out to part time employment (<25hrs),403,ixi,1,Female,IXI,homo-sapiens
+62.7378507871,control,university or polytechnic degree,asian or asian british,divorced or separated,go out to full time employment,404,ixi,1,Male,IXI,homo-sapiens
+58.5681040383,control,further education e.g. city & guilds / NVQs,white,cohabiting,go out to part time employment (<25hrs),405,ixi,1,Female,IXI,homo-sapiens
+58.2833675565,control,further education e.g. city & guilds / NVQs,white,married,full-time housework,406,ixi,1,Female,IXI,homo-sapiens
+58.2806297057,control,further education e.g. city & guilds / NVQs,white,widowed,retired,407,ixi,1,Female,IXI,homo-sapiens
+52.128678987,control,further education e.g. city & guilds / NVQs,white,single,go out to part time employment (<25hrs),408,ixi,1,Female,IXI,homo-sapiens
+70.9514031485,control,no qualifications,white,single,retired,409,ixi,1,Female,IXI,homo-sapiens
+53.4127310062,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,410,ixi,1,Female,IXI,homo-sapiens
+53.4127310062,control,a-levels,white,divorced or separated,go out to full time employment,411,ixi,1,Female,IXI,homo-sapiens
+58.5681040383,control,further education e.g. city & guilds / NVQs,white,married,full-time housework,412,ixi,1,Female,IXI,homo-sapiens
+59.8357289528,control,a-levels,white,divorced or separated,go out to full time employment,413,ixi,1,Female,IXI,homo-sapiens
+59.742642026,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,414,ixi,1,Female,IXI,homo-sapiens
+72.3258042437,control,further education e.g. city & guilds / NVQs,white,married,retired,415,ixi,1,Female,IXI,homo-sapiens
+72.1451060917,control,university or polytechnic degree,white,widowed,retired,416,ixi,1,Female,IXI,homo-sapiens
+72.1451060917,control,,,,,416,ixi,1,Female,IXI,homo-sapiens
+59.8822724162,control,no qualifications,white,single,go out to full time employment,417,ixi,1,Male,IXI,homo-sapiens
+59.742642026,control,"o-levels, GCSEs, or CSEs",white,married,go out to part time employment (<25hrs),418,ixi,1,Female,IXI,homo-sapiens
+73.18275154,control,university or polytechnic degree,white,married,retired,419,ixi,1,Female,IXI,homo-sapiens
+73.18275154,control,further education e.g. city & guilds / NVQs,white,married,retired,420,ixi,1,Female,IXI,homo-sapiens
+37.0978781656,control,university or polytechnic degree,white,single,go out to part time employment (<25hrs),422,ixi,1,Male,IXI,homo-sapiens
+39.022587269,control,university or polytechnic degree,white,single,other,423,ixi,1,Male,IXI,homo-sapiens
+46.2970568104,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,424,ixi,1,Male,IXI,homo-sapiens
+19.9808350445,control,university or polytechnic degree,white,single,study at college or university,425,ixi,1,Female,IXI,homo-sapiens
+23.1101984942,control,university or polytechnic degree,white,single,study at college or university,426,ixi,1,Female,IXI,homo-sapiens
+34.2833675565,control,university or polytechnic degree,white,cohabiting,work for pay at home,427,ixi,1,Male,IXI,homo-sapiens
+55.5400410678,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,428,ixi,1,Female,IXI,homo-sapiens
+55.5400410678,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),429,ixi,1,Female,IXI,homo-sapiens
+72.0054757016,control,university or polytechnic degree,white,divorced or separated,retired,430,ixi,1,Female,IXI,homo-sapiens
+58.7816563997,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),431,ixi,1,Female,IXI,homo-sapiens
+57.7385352498,control,university or polytechnic degree,white,married,go out to full time employment,432,ixi,1,Male,IXI,homo-sapiens
+73.9000684463,control,university or polytechnic degree,white,married,retired,433,ixi,1,Female,IXI,homo-sapiens
+67.241615332,control,university or polytechnic degree,white,single,retired,434,ixi,1,Female,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,widowed,retired,435,ixi,1,Male,IXI,homo-sapiens
+28.34770705,control,no qualifications,white,single,go out to full time employment,436,ixi,1,Male,IXI,homo-sapiens
+55.5975359343,control,no qualifications,white,married,go out to full time employment,437,ixi,1,Female,IXI,homo-sapiens
+63.6769336071,control,further education e.g. city & guilds / NVQs,asian or asian british,married,retired,438,ixi,1,Male,IXI,homo-sapiens
+43.9178644764,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,439,ixi,1,Female,IXI,homo-sapiens
+48.1013004791,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,440,ixi,1,Male,IXI,homo-sapiens
+48.1013004791,control,university or polytechnic degree,white,single,go out to full time employment,441,ixi,1,Female,IXI,homo-sapiens
+61.3661875428,control,university or polytechnic degree,white,married,retired,442,ixi,1,Male,IXI,homo-sapiens
+69.1334702259,control,further education e.g. city & guilds / NVQs,white,married,other,443,ixi,1,Male,IXI,homo-sapiens
+58.3764544832,control,university or polytechnic degree,white,married,retired,444,ixi,1,Female,IXI,homo-sapiens
+60.0273785079,control,university or polytechnic degree,white,married,retired,445,ixi,1,Male,IXI,homo-sapiens
+60.1095140315,control,further education e.g. city & guilds / NVQs,white,divorced or separated,retired,446,ixi,1,Female,IXI,homo-sapiens
+72.8268309377,control,university or polytechnic degree,white,widowed,retired,447,ixi,1,Female,IXI,homo-sapiens
+79.4140999316,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to part time employment (<25hrs),448,ixi,1,Male,IXI,homo-sapiens
+46.8966461328,control,no qualifications,white,married,go out to full time employment,449,ixi,1,Male,IXI,homo-sapiens
+68.5092402464,control,university or polytechnic degree,asian or asian british,divorced or separated,retired,450,ixi,1,Male,IXI,homo-sapiens
+41.1307323751,control,university or polytechnic degree,white,single,go out to full time employment,451,ixi,1,Female,IXI,homo-sapiens
+63.4031485284,control,university or polytechnic degree,white,married,go out to full time employment,452,ixi,1,Female,IXI,homo-sapiens
+63.4168377823,control,"o-levels, GCSEs, or CSEs",white,married,work for pay at home,453,ixi,1,Male,IXI,homo-sapiens
+32.5776865161,control,university or polytechnic degree,white,single,work for pay at home,454,ixi,1,Male,IXI,homo-sapiens
+68.4818617385,control,university or polytechnic degree,white,married,retired,455,ixi,1,Female,IXI,homo-sapiens
+70.2477754962,control,"o-levels, GCSEs, or CSEs",white,cohabiting,go out to part time employment (<25hrs),456,ixi,1,Female,IXI,homo-sapiens
+70.7104722793,control,further education e.g. city & guilds / NVQs,white,married,retired,458,ixi,1,Male,IXI,homo-sapiens
+62.4257357974,control,further education e.g. city & guilds / NVQs,white,married,retired,459,ixi,1,Female,IXI,homo-sapiens
+60.8952772074,control,further education e.g. city & guilds / NVQs,other,married,retired,460,ixi,1,Female,IXI,homo-sapiens
+60.8952772074,control,further education e.g. city & guilds / NVQs,white,married,retired,461,ixi,1,Female,IXI,homo-sapiens
+75.0773442847,control,a-levels,white,widowed,retired,462,ixi,1,Female,IXI,homo-sapiens
+70.1437371663,control,a-levels,white,single,retired,463,ixi,1,Female,IXI,homo-sapiens
+86.3189596167,control,university or polytechnic degree,white,widowed,retired,464,ixi,1,Female,IXI,homo-sapiens
+69.2813141684,control,"o-levels, GCSEs, or CSEs",white,widowed,retired,465,ixi,1,Male,IXI,homo-sapiens
+66.9486652977,control,no qualifications,white,divorced or separated,retired,467,ixi,1,Female,IXI,homo-sapiens
+67.6988364134,control,university or polytechnic degree,white,married,retired,468,ixi,1,Male,IXI,homo-sapiens
+32.8377823409,control,university or polytechnic degree,white,cohabiting,go out to full time employment,469,ixi,1,Male,IXI,homo-sapiens
+35.9835728953,control,university or polytechnic degree,white,single,go out to full time employment,470,ixi,1,Male,IXI,homo-sapiens
+68.1341546886,control,further education e.g. city & guilds / NVQs,white,married,retired,473,ixi,1,Male,IXI,homo-sapiens
+34.0123203285,control,university or polytechnic degree,white,single,go out to full time employment,474,ixi,1,Female,IXI,homo-sapiens
+32.7036276523,control,a-levels,white,cohabiting,go out to full time employment,475,ixi,1,Female,IXI,homo-sapiens
+78.3572895277,control,further education e.g. city & guilds / NVQs,white,widowed,retired,476,ixi,1,Female,IXI,homo-sapiens
+46.4257357974,control,university or polytechnic degree,white,married,go out to full time employment,477,ixi,1,Female,IXI,homo-sapiens
+49.015742642,control,university or polytechnic degree,white,married,go out to full time employment,478,ixi,1,Male,IXI,homo-sapiens
+60.0164271047,control,no qualifications,white,married,go out to full time employment,479,ixi,1,Female,IXI,homo-sapiens
+60.0164271047,control,no qualifications,white,divorced or separated,retired,480,ixi,1,Female,IXI,homo-sapiens
+65.3305954825,control,no qualifications,black or black british,married,go out to part time employment (<25hrs),481,ixi,1,Male,IXI,homo-sapiens
+72.090349076,control,university or polytechnic degree,white,single,retired,482,ixi,1,Female,IXI,homo-sapiens
+63.3921971253,control,university or polytechnic degree,white,married,retired,483,ixi,1,Female,IXI,homo-sapiens
+66.3737166324,control,further education e.g. city & guilds / NVQs,white,married,retired,484,ixi,1,Male,IXI,homo-sapiens
+68.8514715948,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),485,ixi,1,Female,IXI,homo-sapiens
+63.8357289528,control,university or polytechnic degree,white,married,work for pay at home,486,ixi,1,Female,IXI,homo-sapiens
+63.8357289528,control,,,,,486,ixi,1,Female,IXI,homo-sapiens
+66.2751540041,control,university or polytechnic degree,white,married,retired,487,ixi,1,Male,IXI,homo-sapiens
+69.067761807,control,further education e.g. city & guilds / NVQs,white,married,retired,488,ixi,1,Female,IXI,homo-sapiens
+69.067761807,control,university or polytechnic degree,white,married,retired,489,ixi,1,Female,IXI,homo-sapiens
+70.1409993155,control,no qualifications,white,cohabiting,retired,490,ixi,1,Female,IXI,homo-sapiens
+75.9726214921,control,university or polytechnic degree,white,widowed,retired,491,ixi,1,Female,IXI,homo-sapiens
+69.2895277207,control,university or polytechnic degree,white,single,retired,492,ixi,1,Female,IXI,homo-sapiens
+67.7672826831,control,no qualifications,white,married,retired,493,ixi,1,Male,IXI,homo-sapiens
+67.7672826831,control,,,,,493,ixi,1,Male,IXI,homo-sapiens
+66.3326488706,control,a-levels,white,divorced or separated,retired,494,ixi,1,Male,IXI,homo-sapiens
+60.8678986995,control,university or polytechnic degree,white,divorced or separated,retired,495,ixi,1,Female,IXI,homo-sapiens
+62.803559206,control,a-levels,white,single,retired,496,ixi,1,Female,IXI,homo-sapiens
+72.3066392882,control,no qualifications,white,married,retired,497,ixi,1,Male,IXI,homo-sapiens
+76.7802874743,control,university or polytechnic degree,white,widowed,retired,498,ixi,1,Female,IXI,homo-sapiens
+76.7802874743,control,,,,,498,ixi,1,Female,IXI,homo-sapiens
+82.1875427789,control,university or polytechnic degree,white,widowed,retired,499,ixi,1,Male,IXI,homo-sapiens
+82.1875427789,control,,,,,499,ixi,1,Male,IXI,homo-sapiens
+63.1813826146,control,a-levels,white,married,retired,500,ixi,1,Male,IXI,homo-sapiens
+67.112936345,control,further education e.g. city & guilds / NVQs,white,married,retired,501,ixi,1,Female,IXI,homo-sapiens
+63.8767967146,control,university or polytechnic degree,white,married,retired,502,ixi,1,Female,IXI,homo-sapiens
+65.0951403149,control,university or polytechnic degree,white,married,retired,503,ixi,1,Male,IXI,homo-sapiens
+68.1505817933,control,university or polytechnic degree,white,divorced or separated,retired,504,ixi,1,Male,IXI,homo-sapiens
+62.2450376454,control,no qualifications,white,divorced or separated,go out to part time employment (<25hrs),505,ixi,1,Female,IXI,homo-sapiens
+69.6892539357,control,"o-levels, GCSEs, or CSEs",white,married,retired,506,ixi,1,Female,IXI,homo-sapiens
+71.6632443532,control,no qualifications,white,married,retired,507,ixi,1,Male,IXI,homo-sapiens
+60.9308692676,control,"o-levels, GCSEs, or CSEs",white,widowed,retired,508,ixi,1,Female,IXI,homo-sapiens
+32.424366872,control,university or polytechnic degree,white,single,go out to full time employment,510,ixi,1,Female,IXI,homo-sapiens
+64.5776865161,control,"o-levels, GCSEs, or CSEs",asian or asian british,single,retired,511,ixi,1,Female,IXI,homo-sapiens
+64.7501711157,control,university or polytechnic degree,white,married,retired,512,ixi,1,Male,IXI,homo-sapiens
+64.7501711157,control,,,,,512,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,widowed,retired,513,ixi,1,Female,IXI,homo-sapiens
+,control,,,,,513,ixi,1,Female,IXI,homo-sapiens
+62.0889801506,control,further education e.g. city & guilds / NVQs,white,single,go out to part time employment (<25hrs),515,ixi,1,Female,IXI,homo-sapiens
+60.4106776181,control,"o-levels, GCSEs, or CSEs",white,divorced or separated,go out to full time employment,516,ixi,1,Female,IXI,homo-sapiens
+36.1642710472,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,517,ixi,1,Male,IXI,homo-sapiens
+75.8275154004,control,no qualifications,white,married,retired,518,ixi,1,Female,IXI,homo-sapiens
+57.5058179329,control,further education e.g. city & guilds / NVQs,white,divorced or separated,go out to full time employment,519,ixi,1,Male,IXI,homo-sapiens
+70.8364134155,control,no qualifications,white,widowed,retired,521,ixi,1,Female,IXI,homo-sapiens
+28.9336071184,control,university or polytechnic degree,white,cohabiting,go out to full time employment,522,ixi,1,Female,IXI,homo-sapiens
+63.4195756331,control,university or polytechnic degree,white,married,retired,523,ixi,1,Female,IXI,homo-sapiens
+63.4195756331,control,,,,,523,ixi,1,Female,IXI,homo-sapiens
+33.5167693361,control,university or polytechnic degree,white,single,go out to full time employment,524,ixi,1,Female,IXI,homo-sapiens
+41.5195071869,control,university or polytechnic degree,white,married,go out to full time employment,525,ixi,1,Male,IXI,homo-sapiens
+54.6091718001,control,no qualifications,black or black british,single,go out to full time employment,526,ixi,1,Female,IXI,homo-sapiens
+53.3278576318,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,527,ixi,1,Male,IXI,homo-sapiens
+40.5284052019,control,university or polytechnic degree,white,cohabiting,go out to full time employment,528,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,married,retired,529,ixi,1,Female,IXI,homo-sapiens
+75.9370294319,control,university or polytechnic degree,white,married,retired,531,ixi,1,Male,IXI,homo-sapiens
+75.9370294319,control,,,,,531,ixi,1,Male,IXI,homo-sapiens
+36.553045859,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,532,ixi,1,Male,IXI,homo-sapiens
+73.6043805613,control,further education e.g. city & guilds / NVQs,white,married,retired,533,ixi,1,Male,IXI,homo-sapiens
+73.6043805613,control,,,,,533,ixi,1,Male,IXI,homo-sapiens
+69.6098562628,control,no qualifications,white,married,go out to part time employment (<25hrs),534,ixi,1,Male,IXI,homo-sapiens
+69.6098562628,control,,,,,534,ixi,1,Male,IXI,homo-sapiens
+65.2594113621,control,"o-levels, GCSEs, or CSEs",white,divorced or separated,retired,535,ixi,1,Female,IXI,homo-sapiens
+65.2594113621,control,,,,,535,ixi,1,Female,IXI,homo-sapiens
+58.8309377139,control,university or polytechnic degree,white,widowed,go out to full time employment,536,ixi,1,Female,IXI,homo-sapiens
+58.8309377139,control,,,,,536,ixi,1,Female,IXI,homo-sapiens
+67.4551676934,control,university or polytechnic degree,white,married,retired,537,ixi,1,Female,IXI,homo-sapiens
+81.9411362081,control,university or polytechnic degree,white,single,retired,538,ixi,1,Female,IXI,homo-sapiens
+78.0725530459,control,further education e.g. city & guilds / NVQs,white,married,retired,539,ixi,1,Male,IXI,homo-sapiens
+78.0725530459,control,,,,,539,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,married,go out to part time employment (<25hrs),540,ixi,1,Female,IXI,homo-sapiens
+36.4216290212,control,university or polytechnic degree,white,single,go out to full time employment,541,ixi,1,Female,IXI,homo-sapiens
+44.3832991102,control,university or polytechnic degree,white,single,go out to full time employment,542,ixi,1,Female,IXI,homo-sapiens
+70.5188227242,control,university or polytechnic degree,white,married,go out to full time employment,543,ixi,1,Male,IXI,homo-sapiens
+58.0424366872,control,"o-levels, GCSEs, or CSEs",white,single,go out to part time employment (<25hrs),544,ixi,1,Female,IXI,homo-sapiens
+60.0739219713,control,university or polytechnic degree,white,married,go out to part time employment (<25hrs),546,ixi,1,Female,IXI,homo-sapiens
+33.8316221766,control,university or polytechnic degree,,cohabiting,go out to full time employment,547,ixi,1,Male,IXI,homo-sapiens
+66.3299110198,control,university or polytechnic degree,white,married,retired,548,ixi,1,Female,IXI,homo-sapiens
+25.0184804928,control,university or polytechnic degree,white,single,go out to full time employment,549,ixi,1,Female,IXI,homo-sapiens
+25.0184804928,control,,,,,549,ixi,1,Female,IXI,homo-sapiens
+59.9069130732,control,,,,,550,ixi,1,Female,IXI,homo-sapiens
+70.5023956194,control,university or polytechnic degree,white,widowed,retired,551,ixi,1,Female,IXI,homo-sapiens
+70.5023956194,control,,,,,551,ixi,1,Female,IXI,homo-sapiens
+64.6625598905,control,no qualifications,white,widowed,retired,552,ixi,1,Female,IXI,homo-sapiens
+64.6625598905,control,,,,,552,ixi,1,Female,IXI,homo-sapiens
+28.2436687201,control,university or polytechnic degree,,cohabiting,go out to full time employment,553,ixi,1,Male,IXI,homo-sapiens
+70.1054072553,control,further education e.g. city & guilds / NVQs,white,married,retired,554,ixi,1,Male,IXI,homo-sapiens
+70.1054072553,control,,,,,554,ixi,1,Male,IXI,homo-sapiens
+65.6673511294,control,no qualifications,white,single,retired,555,ixi,1,Female,IXI,homo-sapiens
+55.6358658453,control,"o-levels, GCSEs, or CSEs",white,single,unemployed,556,ixi,1,Male,IXI,homo-sapiens
+66.8583162218,control,university or polytechnic degree,white,widowed,other,558,ixi,1,Female,IXI,homo-sapiens
+67.819301848,control,university or polytechnic degree,asian or asian british,single,retired,559,ixi,1,Female,IXI,homo-sapiens
+63.8685831622,control,a-levels,white,single,retired,560,ixi,1,Male,IXI,homo-sapiens
+63.8685831622,control,,,,,560,ixi,1,Male,IXI,homo-sapiens
+31.5783709788,control,university or polytechnic degree,white,single,go out to full time employment,561,ixi,1,Female,IXI,homo-sapiens
+42.7898699521,control,university or polytechnic degree,white,divorced or separated,work for pay at home,562,ixi,1,Female,IXI,homo-sapiens
+28.372347707,control,university or polytechnic degree,asian or asian british,single,go out to full time employment,563,ixi,1,Female,IXI,homo-sapiens
+63.8165639973,control,no qualifications,white,cohabiting,retired,565,ixi,1,Male,IXI,homo-sapiens
+42.970568104,control,"o-levels, GCSEs, or CSEs",white,married,go out to full time employment,566,ixi,1,Female,IXI,homo-sapiens
+28.5612594114,control,university or polytechnic degree,white,cohabiting,go out to full time employment,567,ixi,1,Female,IXI,homo-sapiens
+33.6865160849,control,"o-levels, GCSEs, or CSEs",white,single,go out to full time employment,568,ixi,1,Female,IXI,homo-sapiens
+56.9637234771,control,university or polytechnic degree,white,single,go out to full time employment,569,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,single,retired,570,ixi,1,Female,IXI,homo-sapiens
+38.8856947296,control,university or polytechnic degree,white,married,go out to full time employment,571,ixi,1,Female,IXI,homo-sapiens
+41.9493497604,control,university or polytechnic degree,,divorced or separated,go out to full time employment,572,ixi,1,Female,IXI,homo-sapiens
+35.4551676934,control,university or polytechnic degree,white,cohabiting,full-time housework,573,ixi,1,Female,IXI,homo-sapiens
+50.5735797399,control,"o-levels, GCSEs, or CSEs",white,single,unemployed,574,ixi,1,Female,IXI,homo-sapiens
+57.7549623546,control,further education e.g. city & guilds / NVQs,black or black british,cohabiting,go out to full time employment,575,ixi,1,Female,IXI,homo-sapiens
+67.3319644079,control,further education e.g. city & guilds / NVQs,white,divorced or separated,retired,576,ixi,1,Female,IXI,homo-sapiens
+64.1861738535,control,no qualifications,white,married,go out to full time employment,577,ixi,1,Female,IXI,homo-sapiens
+57.864476386,control,university or polytechnic degree,white,married,go out to full time employment,578,ixi,1,Male,IXI,homo-sapiens
+41.2156057495,control,university or polytechnic degree,white,married,go out to full time employment,579,ixi,1,Male,IXI,homo-sapiens
+24.3148528405,control,university or polytechnic degree,white,cohabiting,study at college or university,580,ixi,1,Male,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,go out to full time employment,581,ixi,1,Male,IXI,homo-sapiens
+29.7713894593,control,university or polytechnic degree,white,married,go out to full time employment,582,ixi,1,Male,IXI,homo-sapiens
+41.3278576318,control,university or polytechnic degree,white,cohabiting,go out to full time employment,584,ixi,1,Male,IXI,homo-sapiens
+28.1204654346,control,university or polytechnic degree,white,single,go out to full time employment,585,ixi,1,Male,IXI,homo-sapiens
+34.3655030801,control,university or polytechnic degree,white,cohabiting,go out to full time employment,586,ixi,1,Male,IXI,homo-sapiens
+33.5934291581,control,university or polytechnic degree,white,cohabiting,go out to full time employment,587,ixi,1,Male,IXI,homo-sapiens
+45.2950034223,control,further education e.g. city & guilds / NVQs,white,single,go out to full time employment,588,ixi,1,Male,IXI,homo-sapiens
+59.8932238193,control,a-levels,white,married,retired,591,ixi,1,Female,IXI,homo-sapiens
+48.0793976728,control,university or polytechnic degree,white,married,go out to full time employment,592,ixi,1,Male,IXI,homo-sapiens
+55.2197125257,control,further education e.g. city & guilds / NVQs,white,single,other,593,ixi,1,Female,IXI,homo-sapiens
+61.9958932238,control,university or polytechnic degree,white,single,retired,594,ixi,1,Male,IXI,homo-sapiens
+49.5961670089,control,university or polytechnic degree,white,married,work for pay at home,595,ixi,1,Female,IXI,homo-sapiens
+29.6646132786,control,university or polytechnic degree,asian or asian british,single,go out to full time employment,596,ixi,1,Male,IXI,homo-sapiens
+43.0773442847,control,"o-levels, GCSEs, or CSEs",white,single,go out to full time employment,597,ixi,1,Female,IXI,homo-sapiens
+52.887063655,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,598,ixi,1,Male,IXI,homo-sapiens
+39.3839835729,control,"o-levels, GCSEs, or CSEs",white,divorced or separated,go out to full time employment,599,ixi,1,Male,IXI,homo-sapiens
+38.9596167009,control,university or polytechnic degree,white,single,go out to full time employment,600,ixi,1,Male,IXI,homo-sapiens
+35.5154004107,control,university or polytechnic degree,white,single,go out to full time employment,601,ixi,1,Male,IXI,homo-sapiens
+66.0150581793,control,"o-levels, GCSEs, or CSEs",white,single,go out to part time employment (<25hrs),603,ixi,1,Female,IXI,homo-sapiens
+,control,university or polytechnic degree,white,widowed,retired,604,ixi,1,Male,IXI,homo-sapiens
+70.3326488706,control,"o-levels, GCSEs, or CSEs",white,divorced or separated,retired,605,ixi,1,Female,IXI,homo-sapiens
+60.5393566051,control,university or polytechnic degree,white,single,other,606,ixi,1,Male,IXI,homo-sapiens
+83.8110882957,control,no qualifications,white,widowed,retired,607,ixi,1,Male,IXI,homo-sapiens
+52.4982888433,control,university or polytechnic degree,,divorced or separated,go out to part time employment (<25hrs),608,ixi,1,Male,IXI,homo-sapiens
+28.9965776865,control,university or polytechnic degree,white,single,go out to full time employment,609,ixi,1,Male,IXI,homo-sapiens
+56.6762491444,control,further education e.g. city & guilds / NVQs,white,married,retired,610,ixi,1,Male,IXI,homo-sapiens
+28.8706365503,control,"o-levels, GCSEs, or CSEs",white,single,go out to full time employment,611,ixi,1,Male,IXI,homo-sapiens
+33.916495551,control,university or polytechnic degree,white,single,go out to full time employment,612,ixi,1,Male,IXI,homo-sapiens
+25.5852156057,control,university or polytechnic degree,white,cohabiting,go out to full time employment,613,ixi,1,Male,IXI,homo-sapiens
+26.9295003422,control,university or polytechnic degree,white,cohabiting,go out to full time employment,614,ixi,1,Female,IXI,homo-sapiens
+55.0882956879,control,a-levels,white,married,go out to full time employment,616,ixi,1,Male,IXI,homo-sapiens
+39.1759069131,control,a-levels,white,married,go out to full time employment,617,ixi,1,Male,IXI,homo-sapiens
+37.9493497604,control,a-levels,white,cohabiting,go out to full time employment,618,ixi,1,Male,IXI,homo-sapiens
+24.8761122519,control,"o-levels, GCSEs, or CSEs",white,cohabiting,study at college or university,619,ixi,1,Male,IXI,homo-sapiens
+31.6167008898,control,university or polytechnic degree,asian or asian british,married,go out to full time employment,621,ixi,1,Male,IXI,homo-sapiens
+59.6851471595,control,university or polytechnic degree,white,married,work for pay at home,622,ixi,1,Male,IXI,homo-sapiens
+,control,university or polytechnic degree,white,single,go out to full time employment,623,ixi,1,Male,IXI,homo-sapiens
+,control,no qualifications,white,single,unemployed,624,ixi,1,Male,IXI,homo-sapiens
+47.0691307324,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,625,ixi,1,Male,IXI,homo-sapiens
+64.2683093771,control,further education e.g. city & guilds / NVQs,black or black british,single,go out to part time employment (<25hrs),626,ixi,1,Male,IXI,homo-sapiens
+68.4845995893,control,no qualifications,white,single,retired,627,ixi,1,Male,IXI,homo-sapiens
+65.9575633128,control,"o-levels, GCSEs, or CSEs",white,married,retired,628,ixi,1,Male,IXI,homo-sapiens
+59.2635181383,control,further education e.g. city & guilds / NVQs,white,widowed,go out to full time employment,629,ixi,1,Male,IXI,homo-sapiens
+54.6858316222,control,university or polytechnic degree,white,single,go out to full time employment,630,ixi,1,Male,IXI,homo-sapiens
+41.3004791239,control,a-levels,white,cohabiting,go out to full time employment,631,ixi,1,Male,IXI,homo-sapiens
+56.4380561259,control,further education e.g. city & guilds / NVQs,asian or asian british,married,go out to part time employment (<25hrs),632,ixi,1,Male,IXI,homo-sapiens
+36.7063655031,control,university or polytechnic degree,,single,go out to full time employment,633,ixi,1,Male,IXI,homo-sapiens
+34.0561259411,control,university or polytechnic degree,white,single,go out to full time employment,634,ixi,1,Male,IXI,homo-sapiens
+25.53045859,control,university or polytechnic degree,white,single,go out to full time employment,635,ixi,1,Male,IXI,homo-sapiens
+43.1567419576,control,university or polytechnic degree,white,single,go out to full time employment,636,ixi,1,Male,IXI,homo-sapiens
+86.1984941821,control,university or polytechnic degree,white,widowed,retired,639,ixi,1,Male,IXI,homo-sapiens
+80.8021902806,control,no qualifications,white,married,retired,640,ixi,1,Male,IXI,homo-sapiens
+68.1232032854,control,university or polytechnic degree,white,widowed,retired,641,ixi,1,Male,IXI,homo-sapiens
+57.067761807,control,university or polytechnic degree,white,married,go out to full time employment,642,ixi,1,Male,IXI,homo-sapiens
+56.8733744011,control,"o-levels, GCSEs, or CSEs",white,married,unemployed,644,ixi,1,Male,IXI,homo-sapiens
+71.2060232717,control,a-levels,other,widowed,retired,646,ixi,1,Female,IXI,homo-sapiens
+47.7234770705,control,further education e.g. city & guilds / NVQs,white,single,unemployed,648,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,650,ixi,1,Male,IXI,homo-sapiens
+50.3956194387,control,"o-levels, GCSEs, or CSEs",asian or asian british,married,other,651,ixi,1,Male,IXI,homo-sapiens
+42.9897330595,control,university or polytechnic degree,white,single,go out to full time employment,652,ixi,1,Male,IXI,homo-sapiens
+46.2203969884,control,university or polytechnic degree,white,cohabiting,go out to full time employment,653,ixi,1,Male,IXI,homo-sapiens
+,control,no qualifications,white,single,go out to full time employment,655,ixi,1,Male,IXI,homo-sapiens
+,control,further education e.g. city & guilds / NVQs,white,married,go out to full time employment,660,ixi,1,Male,IXI,homo-sapiens
+41.7412731006,control,a-levels,white,divorced or separated,go out to full time employment,662,ixi,1,Male,IXI,homo-sapiens
