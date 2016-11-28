@@ -11,16 +11,20 @@ d3.csv('data/phenotype_mri.csv', function (data) {
     });
     dataset = data;
 
-    dimensionObj = {"project": {"index": 1},
-    "site_id": {"index": 2},
-    "sex": {"index": 3},
-    "diagnosis": {"index": 4},
-    "age": {"index": 5},
-    "handedness": {"index": 6},
-    "full iq": {"index": 7},
-    "performance iq": {"index": 8},
-    "verbal iq": {"index": 9},
-    "MRI": {"index": 0}}
+    dimensionObj = {
+        "MRI": {"index": 0},
+        "project": {"index": 1},
+        "site_id": {"index": 2},
+        "sex": {"index": 3},
+        "diagnosis": {"index": 4},
+        "age": {"index": 5},
+        "handedness": {"index": 6},
+        "full_iq": {"index": 7},
+        "performance_iq": {"index": 8},
+        "verbal_iq": {"index": 9},
+        "species": {"index": 10},
+        "session_count": {"index": 11}
+    };
 
     parcoords = d3.parcoords()("#filter")
     .data(data)
@@ -46,7 +50,7 @@ d3.csv('data/phenotype_mri.csv', function (data) {
     // setting up grid
     var column_keys = d3.keys(data[0]);
     column_keys = ['project', 'site_id', 'participant_id', 'diagnosis',
-    'sex', 'age', 'MRIs']
+    'sex', 'age', 'MRIs'];
     var linkformatter = function(row, cell, value, columnDef, dataContext) {
         if (value == ''){
             return '';
