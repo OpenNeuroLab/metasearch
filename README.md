@@ -26,6 +26,15 @@ example, you could select participants that are female between the ages
 of 20 to 30 with a Verbal IQ between 100 and 120.
 
 Demo: http://openneu.ro/metasearch/
+
+## Datasets and Licenses
+Please refer to and follow the data licenses and use agreements listed
+on the homepage of each of the datasets in the table below.
+
+|Project Link to License|
+|-----------------------|
+|[Brain Genomics Superstruct Project][gsp]|
+|[IXI – Information eXtraction from Images][ixi]| 
  
  [fcp-indi]: http://fcon_1000.projects.nitrc.org
  [extract]: https://github.com/OpenNeuroLab/metasearch/blob/master/crawler/extract/Extract.ipynb
@@ -34,5 +43,7 @@ Demo: http://openneu.ro/metasearch/
  [pcoord]: http://syntagmatic.github.io/parallel-coordinates
  [d3]: https://d3js.org/
  [slick]: https://github.com/mleibman/SlickGrid/wiki
+ [gsp]: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/25833
+ [ixi]: http://brain-development.org/ixi-dataset/
  
  
