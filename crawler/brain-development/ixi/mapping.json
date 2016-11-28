@@ -1,0 +1,89 @@
+{
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "ixi"
+  },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
+  "session_id": {
+    "element": "session_id",
+    "type": "static",
+    "value": "1"
+  },
+  "IXI_ID":
+  {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "SITE_ID":
+  {
+    "element": "site_id",
+    "type": "static",
+    "value": "IXI"
+  },
+  "DX_GROUP":
+  {
+    "element": "diagnosis",
+    "type": "static",
+    "value": "control",
+  },
+  "AGE":
+  {
+    "element": "age",
+    "type": "float"
+  },
+  "SEX_ID (1=m, 2=f)":
+  {
+    "element": "sex",
+    "type": "str",
+    "1": "Male",
+    "2": "Female"
+  },
+  "ETHNIC_ID":
+  {
+    "element": "ethnicity",
+    "type": "str",
+    "1": "white",
+    "4": "black or black british",
+    "3": "asian or asian british",
+    "5": "chinese",
+    "6": "other"
+  },
+  "MARITAL_ID": {
+    "element": "marital_status",
+    "type": "str",
+    "1": "single",
+    "2": "married",
+    "4": "divorced or separated",
+    "3": "cohabiting",
+    "5": "widowed"
+  },
+  "OCCUPATION_ID":
+  {
+    "element": "occupation",
+    "type": "str",
+    "1": "go out to full time employment",
+    "2": "go out to part time employment (<25hrs)",
+    "3": "study at college or university",
+    "4": "full-time housework",
+    "5": "retired",
+    "6": "unemployed",
+    "7": "work for pay at home",
+    "8": "other"
+  }
+  ,
+  "QUALIFICATION_ID":
+  {
+    "element": "education",
+    "type": "str",
+    "1": "no qualifications",
+    "2": "o-levels, GCSEs, or CSEs",
+    "3": "a-levels",
+    "4": "further education e.g. city & guilds / NVQs",
+    "5": "university or polytechnic degree"
+  }
+}
