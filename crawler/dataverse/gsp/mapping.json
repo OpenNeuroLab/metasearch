@@ -1,0 +1,54 @@
+{
+  "project": {
+    "element": "project",
+    "type": "static",
+    "value": "gsp"
+  },
+  "species": {
+    "element": "species",
+    "type": "static",
+    "value": "homo-sapiens"
+  },
+  "session_id": {
+    "element": "session_id",
+    "type": "static",
+    "value": "1"
+  },
+  "Subject_ID":
+  {
+    "element": "participant_id",
+    "type": "identifier"
+  },
+  "site_id":
+  {
+    "element": "site_id",
+    "type": "static",
+    "value": "harvard"
+  },
+  "diagnosis":
+  {
+    "element": "diagnosis",
+    "type": "static",
+    "value": "control"
+  },
+  "Age_Bin":
+  {
+    "element": "age",
+    "type": "float"
+  },
+  "Sex":
+  {
+    "element": "sex",
+    "type": "str",
+    "M": "Male",
+    "F": "Female"
+  },
+  "Hand":
+  {
+    "element": "handedness",
+    "type": "str",
+    "RHT": "right handed",
+    "LFT": "left handed",
+    "AMB": "ambidextrous"
+  }
+}
