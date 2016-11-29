@@ -424,14 +424,14 @@ age,diagnosis,dsm_iv_tr,full iq,handedness,participant_id,performance iq,project
 21.4018,autism,autism,109.0,,50514,119.0,abide_initiative,1,Male,USM,homo-sapiens,99.0
 15.8522,autism,autism,94.0,,50515,106.0,abide_initiative,1,Male,USM,homo-sapiens,71.0
 17.1143,autism,autism,107.0,,50516,104.0,abide_initiative,1,Male,USM,homo-sapiens,108.0
-16.501,autism,autism,109.0,,50517,107.0,abide_initiative,1,Male,USM,homo-sapiens,108.0
+16.500999999999998,autism,autism,109.0,,50517,107.0,abide_initiative,1,Male,USM,homo-sapiens,108.0
 18.6585,autism,autism,77.0,,50518,75.0,abide_initiative,1,Male,USM,homo-sapiens,83.0
 16.3778,autism,autism,83.0,,50519,90.0,abide_initiative,1,Male,USM,homo-sapiens,78.0
 17.6728,autism,autism,76.0,,50520,101.0,abide_initiative,1,Male,USM,homo-sapiens,55.0
 18.4175,autism,autism,80.0,,50521,99.0,abide_initiative,1,Male,USM,homo-sapiens,69.0
 14.7515,autism,autism,100.0,,50522,108.0,abide_initiative,1,Male,USM,homo-sapiens,93.0
 17.3251,autism,autism,115.0,,50523,109.0,abide_initiative,1,Male,USM,homo-sapiens,118.0
-12.334,autism,autism,83.0,,50524,93.0,abide_initiative,1,Male,USM,homo-sapiens,76.0
+12.334000000000001,autism,autism,83.0,,50524,93.0,abide_initiative,1,Male,USM,homo-sapiens,76.0
 32.8487,autism,autism,106.0,,50525,128.0,abide_initiative,1,Male,USM,homo-sapiens,87.0
 50.2231,autism,autism,123.0,,50526,121.0,abide_initiative,1,Male,USM,homo-sapiens,118.0
 18.4148,autism,pdd-nos,93.0,,50527,105.0,abide_initiative,1,Male,USM,homo-sapiens,84.0
@@ -643,7 +643,7 @@ age,diagnosis,dsm_iv_tr,full iq,handedness,participant_id,performance iq,project
 8.5,autism,autism,89.0,right handed,50825,,abide_initiative,1,Male,KKI,homo-sapiens,
 10.57,autism,aspergers,114.0,right handed,50826,,abide_initiative,1,Male,KKI,homo-sapiens,
 8.74,autism,autism,134.0,,50952,120.0,abide_initiative,1,Female,NYU,homo-sapiens,139.0
-11.764,autism,autism,132.0,,50953,117.0,abide_initiative,1,Female,NYU,homo-sapiens,139.0
+11.764000000000001,autism,autism,132.0,,50953,117.0,abide_initiative,1,Female,NYU,homo-sapiens,139.0
 14.75,autism,autism,78.0,,50954,80.0,abide_initiative,1,Female,NYU,homo-sapiens,79.0
 12.64,autism,autism,93.0,,50955,91.0,abide_initiative,1,Female,NYU,homo-sapiens,96.0
 14.06,autism,autism,115.0,,50956,110.0,abide_initiative,1,Female,NYU,homo-sapiens,115.0
@@ -784,7 +784,7 @@ age,diagnosis,dsm_iv_tr,full iq,handedness,participant_id,performance iq,project
 13.72,control,control,87.0,,51099,86.0,abide_initiative,1,Male,NYU,homo-sapiens,93.0
 14.36,control,control,91.0,,51100,83.0,abide_initiative,1,Male,NYU,homo-sapiens,102.0
 14.425,control,control,104.0,,51101,92.0,abide_initiative,1,Male,NYU,homo-sapiens,116.0
-14.653,control,control,110.0,,51102,100.0,abide_initiative,1,Male,NYU,homo-sapiens,119.0
+14.652999999999999,control,control,110.0,,51102,100.0,abide_initiative,1,Male,NYU,homo-sapiens,119.0
 14.66,control,control,126.0,,51103,132.0,abide_initiative,1,Male,NYU,homo-sapiens,115.0
 15.27,control,control,104.0,,51104,110.0,abide_initiative,1,Male,NYU,homo-sapiens,96.0
 15.284,control,control,83.0,,51105,89.0,abide_initiative,1,Male,NYU,homo-sapiens,80.0
@@ -794,12 +794,12 @@ age,diagnosis,dsm_iv_tr,full iq,handedness,participant_id,performance iq,project
 16.13,control,control,109.0,,51109,106.0,abide_initiative,1,Male,NYU,homo-sapiens,109.0
 16.28,control,control,125.0,,51110,120.0,abide_initiative,1,Male,NYU,homo-sapiens,122.0
 16.55,control,control,113.0,,51111,109.0,abide_initiative,1,Male,NYU,homo-sapiens,114.0
-19.228,control,control,129.0,,51112,125.0,abide_initiative,1,Male,NYU,homo-sapiens,127.0
+19.227999999999998,control,control,129.0,,51112,125.0,abide_initiative,1,Male,NYU,homo-sapiens,127.0
 22.38,control,control,109.0,,51113,103.0,abide_initiative,1,Male,NYU,homo-sapiens,113.0
 22.48,control,control,123.0,,51114,118.0,abide_initiative,1,Male,NYU,homo-sapiens,122.0
 22.76,control,control,119.0,,51115,106.0,abide_initiative,1,Male,NYU,homo-sapiens,129.0
 25.34,control,control,115.0,,51116,118.0,abide_initiative,1,Male,NYU,homo-sapiens,109.0
-28.203,control,control,103.0,,51117,102.0,abide_initiative,1,Male,NYU,homo-sapiens,104.0
+28.203000000000003,control,control,103.0,,51117,102.0,abide_initiative,1,Male,NYU,homo-sapiens,104.0
 29.02,control,control,122.0,,51118,124.0,abide_initiative,1,Male,NYU,homo-sapiens,115.0
 30.724,control,control,123.0,,51119,111.0,abide_initiative,1,Male,NYU,homo-sapiens,128.0
 10.19,control,control,115.0,,51120,106.0,abide_initiative,1,Male,NYU,homo-sapiens,119.0
@@ -872,7 +872,7 @@ age,diagnosis,dsm_iv_tr,full iq,handedness,participant_id,performance iq,project
 10.2218,control,,124.0,right handed,51192,112.0,abide_initiative,1,Female,Stanford,homo-sapiens,130.0
 9.5202,control,,122.0,right handed,51193,107.0,abide_initiative,1,Male,Stanford,homo-sapiens,132.0
 12.3477,control,,118.0,right handed,51194,129.0,abide_initiative,1,Male,Stanford,homo-sapiens,106.0
-11.178,control,,110.0,right handed,51195,103.0,abide_initiative,1,Male,Stanford,homo-sapiens,115.0
+11.177999999999999,control,,110.0,right handed,51195,103.0,abide_initiative,1,Male,Stanford,homo-sapiens,115.0
 11.8816,control,,117.0,right handed,51196,101.0,abide_initiative,1,Male,Stanford,homo-sapiens,131.0
 12.4298,control,,113.0,right handed,51197,106.0,abide_initiative,1,Male,Stanford,homo-sapiens,118.0
 12.2546,control,,114.0,ambidextrous,51198,115.0,abide_initiative,1,Male,Stanford,homo-sapiens,109.0

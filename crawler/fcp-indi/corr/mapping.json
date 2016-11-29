@@ -130,6 +130,10 @@
     "type": "str",
     "R": "right handed",
     "L": "left handed",
+    "Right": "right handed",
+    "Left": "left handed",
+    "A": "ambidextrous",
+    "Amb": "ambidextrous",
     "#": null
   }
 }

@@ -20,19 +20,20 @@ d3.csv('data/phenotype_mri.csv', function (data) {
         "age": {"index": 5},
         "handedness": {"index": 6},
         "full_iq": {"index": 7},
-        "performance_iq": {"index": 8},
-        "verbal_iq": {"index": 9},
-        "species": {"index": 10},
-        "session_count": {"index": 11}
+        //"performance_iq": {"index": 8},
+        //"verbal_iq": {"index": 9},
+        "species": {"index": 11},
+        "session_count": {"index": 10}
     };
 
     parcoords = d3.parcoords()("#filter")
     .data(data)
     .alpha(0.1)
     .mode("queue") // progressive rendering
-    .rate(50)
+    .rate(30)
     .margin({ top: 30, left: 0, bottom: 20, right: 0 })
-    .hideAxis(["participant_id", "id", 'MRIs'])
+    .hideAxis(["participant_id", "id", 'MRIs',
+               'performance_iq', 'verbal_iq'])
     .dimensions(dimensionObj)
     .render()
     .reorderable()

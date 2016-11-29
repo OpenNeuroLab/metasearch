@@ -175,7 +175,7 @@ Match_ID	Sex	age_at_Scan1	anat	func	DTI	Scan_Time	Session
 30798	male	20	1	1	1	'01-Jul-2012'	1
 25853	female	19	1	1	1	'03-Jul-2012'	1
 25854	female	20	1	1	1	'01-Jul-2012'	1
-25855	male¡¡	19	1	1	1	'03-Jul-2012'	1
+25855	male	19	1	1	1	'03-Jul-2012'	1
 25856	male	21	1	1	1	'03-Jul-2012'	1
 25857	female	20	1	1	1	'02-Jul-2012'	1
 30799	male	21	1	1	1	'02-Jul-2012'	1
@@ -189,7 +189,7 @@ Match_ID	Sex	age_at_Scan1	anat	func	DTI	Scan_Time	Session
 25861	female	19	1	1	1	'01-Jul-2012'	1
 25862	female	20	1	1	1	'01-Jul-2012'	1
 25863	female	20	1	1	1	'03-Jul-2012'	1
-30804	male¡¡	24	1	1	1	'02-Jul-2012'	1
+30804	male	24	1	1	1	'02-Jul-2012'	1
 30805	female	23	1	1	1	'04-Jul-2012'	1
 30806	male	21	1	1	1	'02-Jul-2012'	1
 30807	male	21	1	1	1	'02-Jul-2012'	1

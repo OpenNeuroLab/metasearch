@@ -2157,8 +2157,8 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 22.0,control,right handed,3313349,corr,2,Female,NKI,homo-sapiens
 36.0,control,right handed,9630905,corr,1,Female,NKI,homo-sapiens
 36.0,control,right handed,9630905,corr,2,Female,NKI,homo-sapiens
-27.0,control,,2842950,corr,1,Female,NKI,homo-sapiens
-27.0,control,,2842950,corr,2,Female,NKI,homo-sapiens
+27.0,control,ambidextrous,2842950,corr,1,Female,NKI,homo-sapiens
+27.0,control,ambidextrous,2842950,corr,2,Female,NKI,homo-sapiens
 30.0,control,right handed,2799329,corr,1,Female,NKI,homo-sapiens
 30.0,control,right handed,2799329,corr,2,Female,NKI,homo-sapiens
 31.0,control,left handed,8735778,corr,1,Female,NKI,homo-sapiens
@@ -2169,8 +2169,8 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 22.0,control,right handed,7055197,corr,2,Female,NKI,homo-sapiens
 27.0,control,right handed,1427581,corr,1,Female,NKI,homo-sapiens
 27.0,control,right handed,1427581,corr,2,Female,NKI,homo-sapiens
-48.0,control,,3201815,corr,1,Female,NKI,homo-sapiens
-48.0,control,,3201815,corr,2,Female,NKI,homo-sapiens
+48.0,control,ambidextrous,3201815,corr,1,Female,NKI,homo-sapiens
+48.0,control,ambidextrous,3201815,corr,2,Female,NKI,homo-sapiens
 21.0,control,right handed,1961098,corr,1,Female,NKI,homo-sapiens
 21.0,control,right handed,1961098,corr,2,Female,NKI,homo-sapiens
 32.0,control,right handed,21006,corr,1,Female,NKI,homo-sapiens
@@ -3485,7 +3485,7 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 ,control,,26015,corr,2,,UM,homo-sapiens
 ,control,,26015,corr,3,,UM,homo-sapiens
 ,control,,26015,corr,4,,UM,homo-sapiens
-57.0,control,,26016,corr,1,Female,UM,homo-sapiens
+57.0,control,ambidextrous,26016,corr,1,Female,UM,homo-sapiens
 ,control,,26016,corr,2,,UM,homo-sapiens
 ,control,,26016,corr,3,,UM,homo-sapiens
 ,control,,26016,corr,4,,UM,homo-sapiens
@@ -3653,7 +3653,7 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 ,control,,26160,corr,2,,UM,homo-sapiens
 ,control,,26160,corr,3,,UM,homo-sapiens
 ,control,,26160,corr,4,,UM,homo-sapiens
-61.0,control,,26161,corr,1,Male,UM,homo-sapiens
+61.0,control,ambidextrous,26161,corr,1,Male,UM,homo-sapiens
 ,control,,26161,corr,2,,UM,homo-sapiens
 ,control,,26161,corr,3,,UM,homo-sapiens
 ,control,,26161,corr,4,,UM,homo-sapiens
@@ -4000,79 +4000,79 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 16.8,control,right handed,25332,corr,2,Female,UPSM,homo-sapiens
 15.3,control,right handed,25333,corr,1,Male,UPSM,homo-sapiens
 15.3,control,right handed,25333,corr,2,Male,UPSM,homo-sapiens
-22.0,control,,27259,corr,1,Male,UWM,homo-sapiens
+22.0,control,right handed,27259,corr,1,Male,UWM,homo-sapiens
 ,control,,27259,corr,2,,UWM,homo-sapiens
 ,control,,27259,corr,3,,UWM,homo-sapiens
-30.0,control,,27260,corr,1,Female,UWM,homo-sapiens
+30.0,control,ambidextrous,27260,corr,1,Female,UWM,homo-sapiens
 ,control,,27260,corr,2,,UWM,homo-sapiens
 ,control,,27260,corr,3,,UWM,homo-sapiens
-25.0,control,,27261,corr,1,Female,UWM,homo-sapiens
+25.0,control,right handed,27261,corr,1,Female,UWM,homo-sapiens
 ,control,,27261,corr,2,,UWM,homo-sapiens
 ,control,,27261,corr,3,,UWM,homo-sapiens
-23.0,control,,27262,corr,1,Male,UWM,homo-sapiens
+23.0,control,right handed,27262,corr,1,Male,UWM,homo-sapiens
 ,control,,27262,corr,2,,UWM,homo-sapiens
 ,control,,27262,corr,3,,UWM,homo-sapiens
-27.0,control,,27263,corr,1,Female,UWM,homo-sapiens
+27.0,control,right handed,27263,corr,1,Female,UWM,homo-sapiens
 ,control,,27263,corr,2,,UWM,homo-sapiens
 ,control,,27263,corr,3,,UWM,homo-sapiens
-22.0,control,,27264,corr,1,Male,UWM,homo-sapiens
+22.0,control,right handed,27264,corr,1,Male,UWM,homo-sapiens
 ,control,,27264,corr,2,,UWM,homo-sapiens
 ,control,,27264,corr,3,,UWM,homo-sapiens
-23.0,control,,27265,corr,1,Male,UWM,homo-sapiens
+23.0,control,right handed,27265,corr,1,Male,UWM,homo-sapiens
 ,control,,27265,corr,2,,UWM,homo-sapiens
 ,control,,27265,corr,3,,UWM,homo-sapiens
-29.0,control,,27266,corr,1,Female,UWM,homo-sapiens
+29.0,control,right handed,27266,corr,1,Female,UWM,homo-sapiens
 ,control,,27266,corr,2,,UWM,homo-sapiens
 ,control,,27266,corr,3,,UWM,homo-sapiens
-21.0,control,,27267,corr,1,Female,UWM,homo-sapiens
+21.0,control,right handed,27267,corr,1,Female,UWM,homo-sapiens
 ,control,,27267,corr,2,,UWM,homo-sapiens
 ,control,,27267,corr,3,,UWM,homo-sapiens
-24.0,control,,27268,corr,1,Male,UWM,homo-sapiens
+24.0,control,right handed,27268,corr,1,Male,UWM,homo-sapiens
 ,control,,27268,corr,2,,UWM,homo-sapiens
 ,control,,27268,corr,3,,UWM,homo-sapiens
-23.0,control,,27269,corr,1,Female,UWM,homo-sapiens
+23.0,control,left handed,27269,corr,1,Female,UWM,homo-sapiens
 ,control,,27269,corr,2,,UWM,homo-sapiens
 ,control,,27269,corr,3,,UWM,homo-sapiens
-31.0,control,,27270,corr,1,Female,UWM,homo-sapiens
+31.0,control,right handed,27270,corr,1,Female,UWM,homo-sapiens
 ,control,,27270,corr,2,,UWM,homo-sapiens
 ,control,,27270,corr,3,,UWM,homo-sapiens
-29.0,control,,27271,corr,1,Female,UWM,homo-sapiens
+29.0,control,right handed,27271,corr,1,Female,UWM,homo-sapiens
 ,control,,27271,corr,2,,UWM,homo-sapiens
 ,control,,27271,corr,3,,UWM,homo-sapiens
-25.0,control,,27272,corr,1,Male,UWM,homo-sapiens
+25.0,control,right handed,27272,corr,1,Male,UWM,homo-sapiens
 ,control,,27272,corr,2,,UWM,homo-sapiens
 ,control,,27272,corr,3,,UWM,homo-sapiens
-24.0,control,,27273,corr,1,Female,UWM,homo-sapiens
+24.0,control,ambidextrous,27273,corr,1,Female,UWM,homo-sapiens
 ,control,,27273,corr,2,,UWM,homo-sapiens
 ,control,,27273,corr,3,,UWM,homo-sapiens
-22.0,control,,27274,corr,1,Male,UWM,homo-sapiens
+22.0,control,ambidextrous,27274,corr,1,Male,UWM,homo-sapiens
 ,control,,27274,corr,2,,UWM,homo-sapiens
 ,control,,27274,corr,3,,UWM,homo-sapiens
-29.0,control,,27275,corr,1,Male,UWM,homo-sapiens
+29.0,control,right handed,27275,corr,1,Male,UWM,homo-sapiens
 ,control,,27275,corr,2,,UWM,homo-sapiens
 ,control,,27275,corr,3,,UWM,homo-sapiens
-25.0,control,,27276,corr,1,Male,UWM,homo-sapiens
+25.0,control,right handed,27276,corr,1,Male,UWM,homo-sapiens
 ,control,,27276,corr,2,,UWM,homo-sapiens
 ,control,,27276,corr,3,,UWM,homo-sapiens
-21.0,control,,27277,corr,1,Female,UWM,homo-sapiens
+21.0,control,right handed,27277,corr,1,Female,UWM,homo-sapiens
 ,control,,27277,corr,2,,UWM,homo-sapiens
 ,control,,27277,corr,3,,UWM,homo-sapiens
-32.0,control,,27278,corr,1,Male,UWM,homo-sapiens
+32.0,control,right handed,27278,corr,1,Male,UWM,homo-sapiens
 ,control,,27278,corr,2,,UWM,homo-sapiens
 ,control,,27278,corr,3,,UWM,homo-sapiens
-24.0,control,,27279,corr,1,Male,UWM,homo-sapiens
+24.0,control,right handed,27279,corr,1,Male,UWM,homo-sapiens
 ,control,,27279,corr,2,,UWM,homo-sapiens
 ,control,,27279,corr,3,,UWM,homo-sapiens
-22.0,control,,27280,corr,1,Male,UWM,homo-sapiens
+22.0,control,right handed,27280,corr,1,Male,UWM,homo-sapiens
 ,control,,27280,corr,2,,UWM,homo-sapiens
 ,control,,27280,corr,3,,UWM,homo-sapiens
-24.0,control,,27281,corr,1,Male,UWM,homo-sapiens
+24.0,control,right handed,27281,corr,1,Male,UWM,homo-sapiens
 ,control,,27281,corr,2,,UWM,homo-sapiens
 ,control,,27281,corr,3,,UWM,homo-sapiens
-24.0,control,,27282,corr,1,Male,UWM,homo-sapiens
+24.0,control,right handed,27282,corr,1,Male,UWM,homo-sapiens
 ,control,,27282,corr,2,,UWM,homo-sapiens
 ,control,,27282,corr,3,,UWM,homo-sapiens
-23.0,control,,27283,corr,1,Female,UWM,homo-sapiens
+23.0,control,right handed,27283,corr,1,Female,UWM,homo-sapiens
 ,control,,27283,corr,2,,UWM,homo-sapiens
 ,control,,27283,corr,3,,UWM,homo-sapiens
 18.0,control,left handed,26018,corr,1,Male,Utah,homo-sapiens
@@ -4138,7 +4138,7 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 19.0,control,right handed,26038,corr,1,Male,Utah,homo-sapiens
 19.0,control,,26038,corr,2,Male,Utah,homo-sapiens
 19.0,control,,26038,corr,3,Male,Utah,homo-sapiens
-39.0,control,,26039,corr,1,Male,Utah,homo-sapiens
+39.0,control,ambidextrous,26039,corr,1,Male,Utah,homo-sapiens
 39.0,control,,26039,corr,2,Male,Utah,homo-sapiens
 39.0,control,,26039,corr,3,Male,Utah,homo-sapiens
 28.0,control,right handed,26040,corr,1,Male,Utah,homo-sapiens
@@ -4163,7 +4163,7 @@ age,diagnosis,handedness,participant_id,project,session_id,sex,site_id,species
 39.0,control,right handed,26017,corr,8,Male,Utah,homo-sapiens
 39.0,control,right handed,26017,corr,9,Male,Utah,homo-sapiens
 39.0,control,right handed,26017,corr,10,Male,Utah,homo-sapiens
-,control,,25982,corr,,,XHCUMS,homo-sapiens
+,control,,25982,corr,1,,XHCUMS,homo-sapiens
 62.0,control,,25983,corr,1,Male,XHCUMS,homo-sapiens
 62.0,control,,25983,corr,2,Male,XHCUMS,homo-sapiens
 62.0,control,,25983,corr,3,Male,XHCUMS,homo-sapiens
