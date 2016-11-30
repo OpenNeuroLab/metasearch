@@ -221,9 +221,11 @@ d3.select("#post-data")
         return keys.map(function(k) { return row[k]; })
     });
     //var csv = d3.csv.format([keys].concat(rows)).replace(/\n/g,"<br/>\n");
-    var csv = d3.csv.format(rows).replace(/\n/g,"<br/>\n");
+    var csv = d3.csv.format(rows) //.replace(/\n/g,"<br/>\n");
     var styles = "<style>body { font-family: sans-serif; font-size: 12px; }</style>";
-    window.open("text/csv").document.write(styles + csv);
+    // window.open("text/csv").document.write(styles + csv);
+    $('#csv').text(csv);
+    $('#csvmodal').show();
 });
 
 var color_scale = d3.scale.linear()
