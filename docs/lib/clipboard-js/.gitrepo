@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:zenorocha/clipboard.js.git
+	branch = master
+	commit = 8ad16a2c6cae573eb1f36114317ccaf3f130ae1f
+	parent = cf039d41f8bbbb2227e9f511cb8482ee5eb0fae1
+	cmdver = 0.3.0
