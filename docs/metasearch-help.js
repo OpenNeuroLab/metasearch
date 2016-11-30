@@ -3,6 +3,7 @@ function startIntro(){
     intro.setOptions({
         steps: [
             {
+                element: "#tutorial",
                 intro: "This tutorial will help you use metasearch, a search " +
                 "tool intended to help you find MRI data shared publicly on " +
                 "the Web. It is provided by the Open Neuroimaging Laboratory " +
@@ -14,23 +15,28 @@ function startIntro(){
                 "<a target='_blank' " +
                 "style='text-decoration: none; color: red;' " +
                 "href='https://github.com/OpenNeuroLab/metasearch/issues/new'>" +
-                "let us know</a>"
+                "let us know.</a> You can restart this tutorial anytime by " +
+                " clicking on this ?.",
+                position: "left"
             },
             {
                 element: "#filter",
-                intro: "You can interactively filter your data using this " +
-                "interactive parallel coordinates plot. You can drag along a " +
+                intro: "You can search for data using this " +
+                "interactive plot. You can drag, up or down, along a vertical axis of each" +
                 "column to brush or select elements. Clicking anywhere " +
-                "outside the selected area on the column will reset the " +
+                "on the axis outside the selected area on the column will reset the " +
                 "selection. Clicking on a column header will color the data " +
-                "by z-score if the data are numeric. You can also reorder " +
-                "columns by dragging a column header left or right.",
+                "by z-score if the data are numeric, or by category. " +
+                "You can select data separately on each axis. You can also reorder " +
+                "columns by dragging a column header left or right. You cannot " +
+                "select by clicking on a text label next to a column. " +
+                "Go ahead an try selecting all the data between 40 and 60 years.",
                 position: 'bottom'
             },
             {
                 element: '#keep-data',
-                intro: "After you have created a selection, this button helps" +
-                " reduce the data you are manipulating to just the selection.",
+                intro: "After you have selected some data, this button helps" +
+                " reduce the data you are manipulating to the selected subset.",
                 position: 'bottom'
             },
             {
@@ -87,3 +93,20 @@ function startIntro(){
     });
     intro.start();
 }
+
+// add a flag when we're done
+introJs().oncomplete(function() {
+  localStorage.setItem('doneTour', 'yeah!');
+})
+
+// add a flag when we exit
+introJs().onexit(function() {
+   localStorage.setItem('doneTour', 'yeah!');
+});
+
+// and check for it when deciding whether to start.
+window.addEventListener('load', function() {
+  var doneTour = localStorage.getItem('doneTour') === 'yeah!';
+  if (doneTour) return;
+  startIntro();
+})
