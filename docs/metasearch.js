@@ -1,6 +1,8 @@
 var parcoords;
 var dataset;
 var dataView;
+var sortcol;
+var sortdir;
 
 // load csv file and create the chart
 d3.csv('data/phenotype_mri.csv', function (data) {
@@ -61,20 +63,27 @@ d3.csv('data/phenotype_mri.csv', function (data) {
         }
     };
     var columns = column_keys.map(function (key, i) {
+        var sorter = sorterStringCompare;
+        if (key == 'age'){
+            sorter = sorterNumeric;
+        }
+
         if (key == 'MRIs'){
             return {
                 id: key,
                 name: key,
                 field: key,
                 sortable: true,
-                formatter: linkformatter
+                formatter: linkformatter,
+                sorter: sorter
             }
         } else{
             return {
                 id: key,
                 name: key,
                 field: key,
-                sortable: true
+                sortable: true,
+                sorter: sorter
             }
         }
     });
@@ -102,8 +111,8 @@ d3.csv('data/phenotype_mri.csv', function (data) {
     });
 
     // column sorting
-    var sortcol = column_keys[0];
-    var sortdir = 1;
+    sortcol = column_keys[0];
+    sortdir = 1;
 
     function comparer(a, b) {
         var x = a[sortcol], y = b[sortcol];
@@ -112,10 +121,22 @@ d3.csv('data/phenotype_mri.csv', function (data) {
 
     // click header to sort grid column
     grid.onSort.subscribe(function (e, args) {
-        sortdir = args.sortAsc ? 1 : -1;
-        sortcol = args.sortCol.field;
+        var cols = [args];
 
-        dataView.sort(comparer, args.sortAsc);
+        dataView.sort(function (dataRow1, dataRow2) {
+        for (var i = 0, l = cols.length; i < l; i++) {
+            sortdir = cols[i].sortAsc ? 1 : -1;
+            sortcol = cols[i].sortCol.field;
+
+            var result = cols[i].sortCol.sorter(dataRow1, dataRow2); // sorter property from column definition comes in play here
+            if (result != 0) {
+              return result;
+            }
+          }
+          return 0;
+        });
+        args.grid.invalidateAllRows();
+        args.grid.render();
     });
 
     // highlight row in chart
@@ -220,14 +241,22 @@ function change_color(dimension) {
 }
 
 function zcolor(col, dimension) {
-    var z = zscore(_(col).pluck(dimension).map(parseFloat));
-    return function(d) { return color_scale(z(d[dimension]))}
+    var val = _(col).pluck(dimension)
+    var unique_values = _(val).unique();
+    if (unique_values.length < 10) {
+       color = d3.scale.category10()
+                       .domain(unique_values);
+       return function(d) { return color(d[dimension]); }
+    } else {
+       z = zscore(val.map(parseFloat));
+       return function(d) { return color_scale(z(d[dimension]))}
+    };
 };
 
 function zscore(col) {
     var col2 = _.reject(col, _.isNaN);
-    var n = col.length,
-    mean = _(col2).mean(),
+    var n = col.length;
+    mean = _(col2).mean();
     sigma = _(col2).stdDeviation();
 
     if (col2.length > 2){
