@@ -14,7 +14,7 @@ Remove any unnecessary section
 
 ### Actual behavior
 
-### How to replicate the before
+### How to replicate the behavior
 
 ## Contribute some data
 
