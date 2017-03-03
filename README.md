@@ -40,9 +40,9 @@ on the homepage of each of the datasets in the table below.
 |adhd200 | [The ADHD-200 Sample][adhd200] | [Creative Commons Attribution NonCommercial][cc-nc] |
 |indi | [Southwest University Longitudinal Imaging Multimodal (SLIM) Brain Data Repository][indi] | [Creative Commons Attribution NonCommercial][cc-nc] |
 |ixi | [IXI – Information eXtraction from Images][ixi] | [Creative Commons Attribution][cc-sa] |
-|acpi | [Addiction Connectome Preprocessed Initiative (ACPI)][acpi] | [Creative Commons Attribution][cc-sa] |
+|acpi | [Addiction Connectome Preprocessed Initiative (ACPI)][acpi] | [Creative Commons Attribution NonCommercial][cc-nc] |
 |tumordetect | Currently only shared on MetaSearch |  |
-|hbnss | [Healthy Brain Network Serial Scanning Initiative][hbnss]| |
+|hbnss | [Healthy Brain Network Serial Scanning Initiative][hbnss]| [Creative Commons Attribution NonCommercial][cc-nc] |
  
  [fcp-indi]: http://fcon_1000.protjects.nitrc.org
  [extract]: https://github.com/OpenNeuroLab/metasearch/blob/master/crawler/fcp-indi/fcp-indi-extractor.ipynb
