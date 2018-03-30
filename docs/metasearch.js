@@ -220,7 +220,7 @@ d3.select("#post-data")
     var rows = data.map(function(row) {
         return keys.map(function(k) { return row[k]; })
     });
-    var csv = d3.csv.format([keys].concat(rows)).replace(/\n/g,"<br/>\n");
+    var csv = d3.csv.format([keys].concat(rows)) //.replace(/\n/g,"<br/>\n");
     //var csv = d3.csv.format(rows) //.replace(/\n/g,"<br/>\n");
     var styles = "<style>body { font-family: sans-serif; font-size: 12px; }</style>";
     // window.open("text/csv").document.write(styles + csv);
