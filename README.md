@@ -25,7 +25,7 @@ phenotypic information and then link out to imaging measures. For
 example, you could select participants that are female between the ages 
 of 20 to 30 with a Verbal IQ between 100 and 120.
 
-Demo: http://openneu.ro/metasearch/
+Demo: https://openneurolab.github.io/metasearch
 
 ## Datasets and Licenses
 Please refer to and follow the data licenses and use agreements listed
